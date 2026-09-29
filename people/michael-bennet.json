@@ -1,0 +1,44 @@
+{
+  "id": "michael-bennet",
+  "name": "Michael Bennet",
+  "office": "U.S. Senator from Colorado",
+  "office_type": "us_senator",
+  "state": "CO",
+  "party": "D",
+  "committees": [
+    "Senate Intelligence"
+  ],
+  "stance": "Wants a new Federal Digital Commission that pre-certifies frontier models and can pause release of models posing catastrophic risk for up to six months.",
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Released the AI Regulator Act proposal with Sen. Welch, giving a Federal Digital Commission pre-clearance of frontier models, six-month pauses on catastrophic-risk releases, and fines up to 15% of global revenue.",
+      "target": null,
+      "joint": "ai-regulator-act",
+      "source": "https://www.bennet.senate.gov/2026/09/23/bennet-welch-release-proposal-to-establish-new-federal-agency-to-prevent-catastrophic-ai-risk-regulate-big-tech/",
+      "outlet": "Office of Sen. Bennet"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The challenge posed by a new technology and a new industry able to profoundly transform our economy and society is one we have faced before.",
+      "target": null,
+      "joint": "ai-regulator-act",
+      "source": "https://www.bennet.senate.gov/2026/09/23/bennet-welch-release-proposal-to-establish-new-federal-agency-to-prevent-catastrophic-ai-risk-regulate-big-tech/",
+      "outlet": "Office of Sen. Bennet"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Michael_Bennet_Official_Photo.jpg/250px-Michael_Bennet_Official_Photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Michael_Bennet_Official_Photo.jpg",
+    "license": "Public domain",
+    "artist": "US Senate"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

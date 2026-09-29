@@ -1,0 +1,74 @@
+{
+  "id": "maria-cantwell",
+  "name": "Maria Cantwell",
+  "office": "U.S. Senator from Washington",
+  "office_type": "us_senator",
+  "state": "WA",
+  "party": "D",
+  "committees": [
+    "Senate Commerce, Science, and Transportation (ranking member)"
+  ],
+  "stance": "Wants federal agencies and national labs, not companies, to test the most powerful frontier models, and opposes preemption of state AI laws without strong federal guardrails.",
+  "statements": [
+    {
+      "date": "2025-07-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The Senate came together tonight to say that we can't just run over good state consumer protection laws.",
+      "target": null,
+      "joint": "moratorium-strike-amendment-2025",
+      "source": "https://www.commerce.senate.gov/press/dem/release/senate-strikes-ai-moratorium-from-budget-reconciliation-bill-in-overwhelming-99-1-vote-2025-7/",
+      "outlet": "Senate Commerce Committee (Democrats)"
+    },
+    {
+      "date": "2025-12-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This executive order's overly broad preemption threatens states with lawsuits and funding cuts for protecting their residents from AI-powered frauds, scams, and deepfakes—leaving American consumers without any protection.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.commerce.senate.gov/press/dem/release/ranking-member-cantwell-statement-on-trump-ai-executive-order/",
+      "outlet": "Senate Commerce Committee (Democrats)"
+    },
+    {
+      "date": "2026-07-30",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "At a Commerce hearing, argued that the national laboratories and federal cybersecurity and biodefense experts must lead testing of advanced AI models rather than industry self-certification.",
+      "target": "Congress and federal agencies",
+      "joint": null,
+      "source": "https://www.commerce.senate.gov/press/dem/release/cantwell-says-its-essential-for-federal-agencies-to-lead-testing-of-frontier-ai-models-to-ensure-safety-protect-national-security/",
+      "outlet": "Senate Commerce Committee (Democrats)"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We are hearing that artificial superintelligence is coming.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.commerce.senate.gov/press/dem/release/ranking-member-cantwell-floor-speech-on-ai-risks-and-the-need-for-strong-federal-guardrails/",
+      "outlet": "Senate Commerce Committee (Democrats)"
+    },
+    {
+      "date": "2026-09-11",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Pressed in Commerce negotiations for mandatory testing of frontier models by federal experts, against the Cruz-Klobuchar-Thune draft that lets companies test their own models.",
+      "target": null,
+      "joint": "thune-klobuchar-cruz-frontier-bill-2026",
+      "source": "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/",
+      "outlet": "Nextgov/FCW"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Maria_Cantwell%2C_official_portrait%2C_110th_Congress.jpg/250px-Maria_Cantwell%2C_official_portrait%2C_110th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Maria_Cantwell,_official_portrait,_110th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

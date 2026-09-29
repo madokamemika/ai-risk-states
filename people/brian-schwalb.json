@@ -1,0 +1,42 @@
+{
+  "id": "brian-schwalb",
+  "name": "Brian Schwalb",
+  "office": "Attorney General of the District of Columbia",
+  "office_type": "state_ag",
+  "state": "DC",
+  "party": "D",
+  "committees": [],
+  "stance": "Signed multistate letters opposing preemption and urging federal frontier-AI safety rules.",
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed the 26-attorney-general letter urging Congress to immediately establish federal regulation and safety protocols for frontier AI (mandatory safety testing oversight, incident investigations, international coordination against harmful superintelligence) without preempting state law.",
+      "target": "Congressional leadership (Johnson, Thune, Jeffries, Schumer)",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "outlet": "California Attorney General (letter PDF)"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined the bipartisan 36-attorney-general NAAG letter urging Congress to reject a federal moratorium preempting state AI laws.",
+      "target": "Congressional leadership",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-36-state-attorneys-general-opposes-federal-ban-on-state-ai-laws/",
+      "outlet": "National Association of Attorneys General"
+    }
+  ],
+  "photo": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Brian_L._Schwalb_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brian_L._Schwalb_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "District of Columbia Government"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

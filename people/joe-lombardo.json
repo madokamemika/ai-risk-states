@@ -1,0 +1,32 @@
+{
+  "id": "joe-lombardo",
+  "name": "Joe Lombardo",
+  "office": "Governor of Nevada",
+  "office_type": "governor",
+  "state": "NV",
+  "party": "R",
+  "committees": [],
+  "stance": "Has signed targeted AI laws (mental-health chatbots, deepfakes); no frontier-risk position found.",
+  "statements": [
+    {
+      "date": "2025-06-05",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed AB 406, barring AI systems from providing professional mental or behavioral health care.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.wsgr.com/en/insights/nevada-passes-law-limiting-ai-use-for-mental-and-behavioral-healthcare.html",
+      "outlet": "Wilson Sonsini"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Jonathan_Carrington_receives_certificate_from_Joseph_Lombardo_%28cropped%29.jpg/250px-Jonathan_Carrington_receives_certificate_from_Joseph_Lombardo_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jonathan_Carrington_receives_certificate_from_Joseph_Lombardo_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "U.S. Air Force photo/Maj. Jessica D'Ambrosio"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

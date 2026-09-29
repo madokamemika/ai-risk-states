@@ -1,0 +1,159 @@
+{
+  "code": "FL",
+  "xrisk": "acted",
+  "summary": "Florida's attorney general is the first state official to go to court over frontier-model risk: his 2026-09-28 motion asks a state court to bar OpenAI from developing new models without independent third-party safety approval, citing loss-of-control incidents. The governor's AI Bill of Rights (child-safety, disclosure) passed the Senate but was blocked by a House speaker who defers to federal preemption.",
+  "items": [
+    {
+      "date": "2026-09-28",
+      "type": "lawsuit",
+      "title": "State of Florida v. OpenAI — motion for temporary injunction",
+      "status": "filed",
+      "text": "Asks the Tenth Judicial Circuit to bar OpenAI from developing new models without independent third-party safety approval and to block minors from ChatGPT.",
+      "source": "https://www.washingtontimes.com/news/2026/sep/28/florida-attorney-general-seeks-temporary-injunction-openai-ai-safety/",
+      "people": [
+        "james-uthmeier"
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "type": "lawsuit",
+      "title": "State of Florida v. OpenAI and Sam Altman (Highlands County)",
+      "status": "filed",
+      "text": "83-page complaint alleging deceptive trade practices, negligence, fraudulent misrepresentation and public nuisance over ChatGPT harms, seeking to hold Altman personally liable.",
+      "source": "https://www.nbcnews.com/tech/tech-news/florida-sues-openai-sam-altman-saying-put-profit-safety-rcna347602",
+      "people": [
+        "james-uthmeier"
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "type": "statement",
+      "title": "Criminal investigation of OpenAI over the FSU shooting",
+      "status": "filed",
+      "text": "The attorney general turned a civil inquiry into a criminal investigation and subpoenaed OpenAI's threat-handling and law-enforcement policies.",
+      "source": "https://www.cfpublic.org/2026-04-22/uthmeier-expands-openai-probe-over-fsu-shooting-now-criminal",
+      "people": [
+        "james-uthmeier"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "type": "statement",
+      "title": "Proposed legislation on corporate criminal liability for chatbots",
+      "status": "introduced",
+      "text": "The attorney general proposed a law making AI companies criminally liable when their systems participate in crimes, with fines, victim compensation and court-ordered oversight.",
+      "source": "https://www.news4jax.com/news/local/2026/09/08/florida-ag-pushes-to-hold-ai-chatbot-companies-accountable-for-crimes/",
+      "people": [
+        "james-uthmeier"
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "type": "bill",
+      "title": "SB 482 — Artificial Intelligence Bill of Rights",
+      "status": "failed",
+      "text": "Passed the Senate 35-2 but the House refused to take it up in the regular session or the spring special session.",
+      "source": "https://www.cfpublic.org/politics/2026-03-05/senate-approves-house-obstructed-ai-bill-of-rights",
+      "people": [
+        "tom-leek",
+        "ron-desantis",
+        "daniel-perez"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Florida's governor wanted state AI rules the federal government would not write; his own House passed only the data-center half, and counties are pausing projects themselves.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Ron DeSantis proposed an \"Artificial Intelligence Bill of Rights\" and a data-center bill in December 2025. The Senate passed the bill of rights (SB 482, including parental consent for minors on companion chatbots), but the House blocked it, saying AI rules belong at the federal level. The data-center bill, SB 484, was the only part to survive; DeSantis signed it on May 7, 2026. It requires AI data centers to pay for their own utility costs rather than shift them to customers. DeSantis has opposed federal preemption of state AI laws.",
+        "sources": [
+          {
+            "url": "https://www.flgov.com/eog/news/press/2025/governor-ron-desantis-announces-proposal-citizen-bill-rights-artificial",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://floridaphoenix.com/2026/05/07/florida-has-a-new-law-regulating-ai-data-centers/",
+            "outlet": "Florida Phoenix"
+          },
+          {
+            "url": "https://www.wlrn.org/government-politics/2026-05-07/desantis-receives-bills-on-ai-data-centers-free-cuba-bills",
+            "outlet": "WLRN"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "At least 16 Florida cities and counties had adopted or were considering data-center moratoriums by August 2026. Palm Beach County advanced a one-year moratorium and rejected Project Tango, a $2.6 billion data center planned for Loxahatchee. A 15-million-square-foot hyperscale proposal in St. Lucie County (Project Jarvis) was withdrawn in February 2026. Citrus and Lake counties moved to pause data centers, Hillsborough voted unanimously to draft a moratorium, and Orange County planned one in September 2026.",
+        "sources": [
+          {
+            "url": "https://therealdeal.com/miami/2026/08/06/ai-driven-data-center-boom-hits-local-opposition-in-florida/",
+            "outlet": "The Real Deal"
+          },
+          {
+            "url": "https://floridapolitics.com/archives/811637-hillsborough-county-moves-toward-moratorium-on-ai-data-centers/",
+            "outlet": "Florida Politics"
+          },
+          {
+            "url": "https://www.wusf.org/politics-issues/2026-09-16/orange-county-plans-a-moratorium-on-ai-data-centers",
+            "outlet": "WUSF"
+          },
+          {
+            "url": "https://www.cfpublic.org/2026-06-25/lake-county-commission-plans-temporary-ban-on-data-centers",
+            "outlet": "Central Florida Public Media"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The University of Florida launched the fourth generation of its HiPerGator supercomputer in October 2025, a $33 million NVIDIA DGX B200 system with 504 Blackwell GPUs, which UF calls the fastest university-owned supercomputer in the country. UF built a campus-wide AI curriculum around the machine.",
+        "sources": [
+          {
+            "url": "https://www.alligator.org/article/2025/10/hipergator-40-launch",
+            "outlet": "The Independent Florida Alligator"
+          },
+          {
+            "url": "https://www.cnn.com/2026/09/02/tech/university-of-florida-ai-curriculum-nvidia",
+            "outlet": "CNN"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Rep. Byron Donalds, described as the Republican frontrunner for governor, said in 2026 that he disagrees with President Trump on federal preemption of state AI laws, and wants states able to regulate AI use of a person's name, image and likeness and to expand parental controls. Sen. Rick Scott has sponsored the ASK Act (first filed May 2023), which would require parental consent before minors use products with AI features.",
+        "sources": [
+          {
+            "url": "https://thehill.com/policy/technology/5906305-florida-republicans-regulate-ai/",
+            "outlet": "The Hill"
+          },
+          {
+            "url": "https://www.congress.gov/bill/118th-congress/senate-bill/1626/text",
+            "outlet": "Congress.gov"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "In April 2026 the Fort Meade City Commission in Polk County unanimously approved a development agreement for a $2.6 billion, 4.4-million-square-foot hyperscale data center by Stonebridge on a 1,300-acre former phosphate mine, with about $140 million in county tax breaks over 10 years and power from Duke Energy. Water use was capped at a claimed 50,000 gallons a day, pending a separate water-district permit. In May 2026 Gov. Ron DeSantis signed SB 484, the Florida Hyperscale Data Center Act, which sets a permitting framework for data centers using 50 MW or more.",
+        "sources": [
+          {
+            "url": "https://www.fox13news.com/news/fort-meade-data-center-project-community-opposition",
+            "outlet": "FOX 13 Tampa Bay"
+          },
+          {
+            "url": "https://www.wusf.org/environment/2026-04-08/fort-meade-is-one-step-closer-to-building-floridas-first-hysperscale-ai-data-center",
+            "outlet": "WUSF"
+          },
+          {
+            "url": "https://dcmap.us/states/florida/",
+            "outlet": "dcmap.us"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

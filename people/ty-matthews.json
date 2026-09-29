@@ -1,0 +1,26 @@
+{
+  "id": "ty-matthews",
+  "name": "Ty Matthews",
+  "office": "Ohio State Representative",
+  "office_type": "state_rep",
+  "state": "OH",
+  "party": "R",
+  "committees": [],
+  "stance": "Co-sponsors HB 524, targeting harmful chatbot outputs rather than AI research.",
+  "statements": [
+    {
+      "date": "2026-02-18",
+      "arena": "state",
+      "kind": "quote",
+      "text": "We are not targeting the research and development of the product,",
+      "target": null,
+      "joint": "oh-hb524",
+      "source": "https://abc6onyourside.com/news/local/ohio-bill-would-fine-ai-companies-if-chatbots-are-found-to-promote-dangerous-behavior",
+      "outlet": "ABC 6 (WSYX)"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

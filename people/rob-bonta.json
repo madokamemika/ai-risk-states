@@ -1,0 +1,52 @@
+{
+  "id": "rob-bonta",
+  "name": "Rob Bonta",
+  "office": "Attorney General of California",
+  "office_type": "state_ag",
+  "state": "CA",
+  "party": "D",
+  "committees": [],
+  "stance": "Uses state consumer-protection law and OpenAI's restructuring commitments to police frontier labs, and urges Congress to adopt federal frontier-AI safety rules without preempting states.",
+  "statements": [
+    {
+      "date": "2026-09-04",
+      "arena": "state",
+      "kind": "action",
+      "text": "Opened a formal investigation into OpenAI over its agents' July 2026 intrusion into Hugging Face, examining possible violations of California consumer-protection law.",
+      "target": null,
+      "joint": null,
+      "source": "https://getaibook.com/news/california-opens-investigation-openai-hugging-face-hack/",
+      "outlet": "GetAIBook (citing Politico)"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Today I stand alongside a bipartisan group of attorneys general in sounding the alarm and urging Congress to take action to protect Americans.",
+      "target": null,
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-congress-must-act-urgently-protect-against-catastrophic",
+      "outlet": "California Attorney General"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined a 36-AG letter to Congress opposing federal legislation that would bar states from enacting or enforcing AI laws.",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.ag.idaho.gov/newsroom/attorney-general-labrador-pushes-back-against-federal-overreach-on-states-regulation-of-artificial-intelligence/",
+      "outlet": "Idaho Attorney General"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Rob_Bonta_official_portrait_%28cropped%29.jpg/250px-Rob_Bonta_official_portrait_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rob_Bonta_official_portrait_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "Douglas Despres, California Attorney General's Office"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

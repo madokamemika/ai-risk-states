@@ -1,0 +1,46 @@
+{
+  "id": "jonathan-skrmetti",
+  "name": "Jonathan Skrmetti",
+  "office": "Attorney General of Tennessee",
+  "office_type": "state_ag",
+  "state": "TN",
+  "party": "R",
+  "committees": [],
+  "stance": "Opposes a federal moratorium on state AI laws and presses AI companies on child safety.",
+  "statements": [
+    {
+      "date": "2025-05-16",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led the 40-AG letter asking Congress to reject the 10-year moratorium on state AI enforcement.",
+      "target": "Congress",
+      "joint": "ag-letter-moratorium-may-2025",
+      "source": "https://ago.vermont.gov/blog/2025/05/16/attorney-general-clark-leads-bipartisan-letter-congress-opposing-budget-amendment-prohibiting-states",
+      "outlet": "Vermont Attorney General"
+    },
+    {
+      "date": "2025-08-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI tools can radically reshape our world for the better, but they can also present threats to kids that are more immediate, more personal, and more dangerous than any prior technology.",
+      "target": "AI companies",
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.tn.gov/attorneygeneral/news/2025/8/25/pr25-43.html",
+      "outlet": "Tennessee Attorney General"
+    },
+    {
+      "date": "2025-08-25",
+      "arena": "state",
+      "kind": "action",
+      "text": "Led the bipartisan 44-AG letter to AI companies saying they must prioritize child safety.",
+      "target": null,
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-state-attorneys-general-issues-letter-to-ai-industry-leaders-on-child-safety/",
+      "outlet": "NAAG"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

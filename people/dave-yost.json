@@ -1,0 +1,42 @@
+{
+  "id": "dave-yost",
+  "name": "Dave Yost",
+  "office": "Attorney General of Ohio",
+  "office_type": "state_ag",
+  "state": "OH",
+  "party": "R",
+  "committees": [],
+  "stance": "Has joined bipartisan AG letters against federal preemption of state AI laws and on chatbot harms to children.",
+  "statements": [
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined the bipartisan 36-AG letter urging Congress to reject a ban on state AI laws.",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.michigan.gov/ag/news/press-releases/2025/11/26/ag-nessel-pushes-back-on-potential-state-ai-law-ban",
+      "outlet": "Michigan Department of Attorney General"
+    },
+    {
+      "date": "2025-08-25",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Joined the 44-AG letter warning AI companies to stop chatbot harms to children.",
+      "target": "AI companies",
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-44-states-in-demanding-companies-end-predatory-ai-interactions-with-kids",
+      "outlet": "Office of the Illinois Attorney General"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Dave_Yost_AG_%28cropped%29.jpg/250px-Dave_Yost_AG_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dave_Yost_AG_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "TheRealLamar"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

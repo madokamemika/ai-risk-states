@@ -1,0 +1,116 @@
+{
+  "code": "HI",
+  "xrisk": "direct",
+  "summary": "Hawaii's 2026 laws cover AI companion safety and deepfakes (adjacent); AG Anne Lopez signed the September 2026 letter urging federal frontier-AI regulation and led AGs opposing the KIDS Act's preemption of state AI-chatbot laws.",
+  "items": [
+    {
+      "date": "2026-05-27",
+      "type": "letter",
+      "title": "AG coalition opposing KIDS Act (H.R. 7757) preemption",
+      "status": "filed",
+      "text": "43 AGs led by Lopez opposed a federal bill that would preempt state laws on online harms to minors, including AI chatbots.",
+      "source": "https://governor.hawaii.gov/newsroom/2026-29-attorney-general-lopez-leads-coalition-opposing-kids-act-supports-stronger-online-protections-for-children/",
+      "people": [
+        "anne-lopez"
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "type": "law",
+      "title": "SB 3001 — Artificial Intelligence Disclosure and Safety Act (Act 248)",
+      "status": "signed",
+      "text": "Imposes disclosure, crisis-response and minor-protection duties on AI companion operators.",
+      "source": "https://www.bigislandvideonews.com/2026/07/14/new-laws-on-artificial-intelligence-enacted-in-hawai%CA%BBi/",
+      "people": [
+        "josh-green",
+        "trish-la-chica"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI",
+      "status": "filed",
+      "text": "Lopez signed the multistate letter.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "anne-lopez"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Hawaii has no hyperscale AI buildout; its AI story is consumer-protection law at home and AI safety bills from its senior senator.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "In July 2026 Gov. Josh Green signed two AI laws. HB 2137 (Act 247) allows damages of up to $25,000 per item for unauthorized realistic AI imitations of a person. SB 3001 (Act 248) requires AI companion operators to tell users they are talking to AI and to encourage breaks during long conversations.",
+        "sources": [
+          {
+            "url": "https://www.hawaiipublicradio.org/local-news/2026-07-15/green-approves-bills-that-cracks-down-on-artificial-intelligence",
+            "outlet": "Hawaii Public Radio"
+          },
+          {
+            "url": "https://www.bigislandvideonews.com/2026/07/14/new-laws-on-artificial-intelligence-enacted-in-hawai%CA%BBi/",
+            "outlet": "Big Island Video News"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "With more than $12 million from the NIH, the University of Hawaii Cancer Center and John A. Burns School of Medicine are converting a room at the Cancer Center into Hawaii's first AI data center, to analyze health data from Pacific populations (June 2026). A July 2026 UH study found rising heat and humidity threaten cheaper cooling methods for AI data centers.",
+        "sources": [
+          {
+            "url": "https://www.staradvertiser.com/2026/06/21/hawaii-news/new-uh-ai-data-center-aims-to-improve-healthcare-throughout-pacific-region/",
+            "outlet": "Honolulu Star-Advertiser"
+          },
+          {
+            "url": "https://www.hawaii.edu/news/2026/07/13/ai-data-center-cooling/",
+            "outlet": "University of Hawaii"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Brian Schatz (D) introduced the bipartisan AI Labeling Act of 2026 with Sens. John Curtis and Mark Warner in July 2026. With Warner he also introduced the Artificial Intelligence Risk Management and Security Act of 2026, which would create a permanent AI Safety Board in the Commerce Department to set safety and security standards for the most advanced AI systems.",
+        "sources": [
+          {
+            "url": "https://mauinow.com/2026/07/01/schatz-introduces-ai-generated-content-transparency-bill/",
+            "outlet": "Maui Now"
+          },
+          {
+            "url": "https://www.schatz.senate.gov/news/press-releases/schatz-warner-to-take-to-senate-floor-to-demand-passage-of-new-ai-security-legislation",
+            "outlet": "Sen. Schatz"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Hawaii has no large AI data center. A tracker lists 20 facilities totalling about 28.5 MW, the largest a 15 MW Smartronix site on Maui and the 6 MW AlohaNAP in Kapolei, which has a 1.5 MW expansion under construction. In June 2026 the University of Hawaii announced renovation of its Cancer Center data center for an NIH-funded Medical AI Core.",
+        "sources": [
+          {
+            "url": "https://dcmap.us/states/hawaii/",
+            "outlet": "dcmap.us"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "On Hawaii Island, Council member Heather Kimball's Bill 170 would separate industrial-scale data centers from ordinary data processing facilities in the zoning code, closing the route by which they could be built on industrial land. The council's Policy Committee advanced it 8-0 in July 2026; testifiers cited water and power use. In September 2026 action was deferred for planning commission review in October, with recommendations due November 4.",
+        "sources": [
+          {
+            "url": "https://www.westhawaiitoday.com/2026/07/08/hawaii-news/legislation-targets-data-centers-in-hawaii-county/",
+            "outlet": "West Hawaii Today"
+          },
+          {
+            "url": "https://www.staradvertiser.com/2026/09/09/hawaii-news/hawaii-county-proposal-to-ban-ai-data-centers-deferred-until-october/",
+            "outlet": "Honolulu Star-Advertiser"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

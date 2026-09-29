@@ -1,0 +1,108 @@
+{
+  "code": "NE",
+  "xrisk": "direct",
+  "summary": "Nebraska enacted the Conversational AI Safety Act (LB 525, April 2026) on chatbot disclosure and minors; AG Hilgers joined the August 2026 15-state OpenAI Hugging Face demand, its only frontier-risk activity.",
+  "items": [
+    {
+      "date": "2026-04-14",
+      "type": "law",
+      "title": "LB 525 — Conversational AI Safety Act",
+      "status": "signed",
+      "text": "Requires AI disclosure, minor safeguards and self-harm referral; operative July 1, 2027.",
+      "source": "https://regulations.ai/regulations/RAI-US-NE-LB52500-2026",
+      "people": [
+        "jim-pillen"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "type": "letter",
+      "title": "15-state AG letter to OpenAI on Hugging Face intrusion",
+      "status": "filed",
+      "text": "Nebraska joined and published the letter.",
+      "source": "https://ago.nebraska.gov/news/ag-hilgers-joins-letter-open-ai-ceo-regarding-cyber-security-risks",
+      "people": [
+        "mike-hilgers"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Nebraska's governor cut data centers off from state incentives after $519 million in tax exemptions, as county moratoriums spread.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "On April 17, 2026 Gov. Jim Pillen signed LB 1185, the Conversational AI Safety Act, which requires chatbot safety protocols. On July 21, 2026 he signed Executive Order 26-17, which stops new data-center approvals under the ImagiNE Act incentive programme and sets up a water and energy task force. Pillen said it was \"not a moratorium.\"",
+        "sources": [
+          {
+            "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-may8-2026",
+            "outlet": "Transparency Coalition"
+          },
+          {
+            "url": "https://governor.nebraska.gov/gov-pillen-signs-executive-order-data-centers",
+            "outlet": "Governor's office"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Data centers received $519 million in property-tax exemptions on $15 billion of exempted personal property from January 2021 to June 2026. Google runs a data center in Lincoln, and a separate Google proposal in southeast Nebraska could use more than three times Lincoln's peak summer electricity.",
+        "sources": [
+          {
+            "url": "https://www.1011now.com/2026/07/20/nebraska-data-centers-have-received-519m-property-tax-exemptions-since-2021/",
+            "outlet": "KOLN 10/11"
+          },
+          {
+            "url": "https://grist.org/energy/nebraskans-are-taking-a-hard-look-at-data-centers/",
+            "outlet": "Grist"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "By early July 2026, 11 Nebraska counties had data-center moratoriums and four more were considering them; Otoe County suspended permits for up to a year and Gage County's planning commission recommended an 18-month pause.",
+        "sources": [
+          {
+            "url": "https://www.kwit.org/podcast/spm-news/2026-07-03/growing-number-of-county-moratoriums-on-data-centers-in-nebraska-iowa",
+            "outlet": "Siouxland Public Media"
+          },
+          {
+            "url": "https://grist.org/energy/nebraskans-are-taking-a-hard-look-at-data-centers/",
+            "outlet": "Grist"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "In September 2026 Rep. Mike Flood pointed to the House-passed Ratepayer Protection Act to keep data-center power costs off ratepayers, said towns such as Kearney should decide on projects themselves, and said he wanted a \"fact-finding mission\" before any AI-safety legislation.",
+        "sources": [
+          {
+            "url": "https://nebraskapublicmedia.org/en/news/news-articles/district-1-candidates-flood-and-backemeyer-debate-agriculture-iran-ai-and-more/",
+            "outlet": "Nebraska Public Media"
+          },
+          {
+            "url": "https://www.wowt.com/2026/09/18/nebraska-lawmaker-uno-professor-weigh-ai-safety-concerns/",
+            "outlet": "WOWT"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "In February 2026 the University of Nebraska system launched a system-wide Artificial Intelligence Institute, co-directed by UNL professors Santosh Pitla (biological systems engineering) and Adrian Wisnicki (English). It uses a hub-and-spoke model across campuses, covering health care, agriculture, rural and urban development, business and national security, with initial support from Google and the Nebraska Research Initiative. Regents' ratification was expected in June 2026. The institute follows a faculty-led NU AI Task Force.",
+        "sources": [
+          {
+            "url": "https://nebraska.edu/news-and-events/news/2026/02/university-of-nebraska-launches-ai-institute",
+            "outlet": "University of Nebraska"
+          },
+          {
+            "url": "https://www.unmc.edu/newsroom/2026/02/09/nu-launches-ai-institute-as-system-wide-initiative/",
+            "outlet": "UNMC"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

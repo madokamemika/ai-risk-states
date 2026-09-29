@@ -1,0 +1,62 @@
+{
+  "id": "kwame-raoul",
+  "name": "Kwame Raoul",
+  "office": "Attorney General of Illinois",
+  "office_type": "state_ag",
+  "state": "IL",
+  "party": "D",
+  "committees": [],
+  "stance": "Presses AI companies on child safety through multistate AG action.",
+  "statements": [
+    {
+      "date": "2025-08-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led the 44-AG NAAG letter warning AI companies they will answer for harms to children.",
+      "target": "AI companies",
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-state-attorneys-general-issues-letter-to-ai-industry-leaders-on-child-safety/",
+      "outlet": "NAAG"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Now more than ever, we need to cautiously adapt to a world with artificial intelligence, which is why it must be immediately regulated through legislation that protects our country's infrastructure and national security.",
+      "target": "Congress",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://www.einpresswire.com/article/945018460/attorney-general-raoul-calls-on-congress-to-protect-americans-with-comprehensive-framework-for-ai-development",
+      "outlet": "EIN Presswire (Illinois AG release)"
+    },
+    {
+      "date": "2025-08-25",
+      "arena": "state",
+      "kind": "quote",
+      "text": "Children are not guinea pigs. I urge AI developers to prioritize the safety of children in Illinois and across the country when using their applications.",
+      "target": "AI companies",
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-44-states-in-demanding-companies-end-predatory-ai-interactions-with-kids",
+      "outlet": "Office of the Illinois Attorney General"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined a bipartisan 36-AG letter urging Congress not to insert a ban on state AI laws into the NDAA.",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.michigan.gov/ag/news/press-releases/2025/11/26/ag-nessel-pushes-back-on-potential-state-ai-law-ban",
+      "outlet": "Michigan Department of Attorney General"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Kwame_Raoul_RFCG_%28adjust3%29.jpg/250px-Kwame_Raoul_RFCG_%28adjust3%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kwame_Raoul_RFCG_(adjust3).jpg",
+    "license": "CC BY 2.0",
+    "artist": "Erin Klee from Illinois, United States"
+  }
+}

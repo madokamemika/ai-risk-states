@@ -1,0 +1,26 @@
+{
+  "id": "daniel-didech",
+  "name": "Daniel Didech",
+  "office": "Illinois State Representative",
+  "office_type": "state_rep",
+  "state": "IL",
+  "party": "D",
+  "committees": [],
+  "stance": "House sponsor of SB 315; argues frontier-AI harms such as cyberattacks are already real and need safeguards.",
+  "statements": [
+    {
+      "date": "2026-07-06",
+      "arena": "state",
+      "kind": "quote",
+      "text": "We have already seen the first AI-inspired mass shooting. We have already seen AI systems utilized to attack a municipal water and drainage utility,",
+      "target": null,
+      "joint": "il-sb315",
+      "source": "https://capitolnewsillinois.com/news/pritzker-signs-landmark-ai-regulation-bill-that-aims-to-mitigate-risks/",
+      "outlet": "Capitol News Illinois"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

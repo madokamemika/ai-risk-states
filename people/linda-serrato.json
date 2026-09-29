@@ -1,0 +1,26 @@
+{
+  "id": "linda-serrato",
+  "name": "Linda Serrato",
+  "office": "New Mexico State Representative",
+  "office_type": "state_rep",
+  "state": "NM",
+  "party": "D",
+  "committees": [],
+  "stance": "Co-proposed New Mexico's Artificial Intelligence Accountability Act on generative AI and deepfakes (adjacent, not frontier risk).",
+  "statements": [
+    {
+      "date": "2026-01",
+      "arena": "state",
+      "kind": "action",
+      "text": "Co-proposed the Artificial Intelligence Accountability Act with AG Torrez.",
+      "target": null,
+      "joint": "nm-ai-accountability-act-2026",
+      "source": "https://www.dailylobo.com/article/2026/01/nm-ag-announces-legislation-to-protect-victims-of-ai-deepfakes",
+      "outlet": "Daily Lobo"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

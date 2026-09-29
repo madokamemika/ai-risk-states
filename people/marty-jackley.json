@@ -1,0 +1,32 @@
+{
+  "id": "marty-jackley",
+  "name": "Marty Jackley",
+  "office": "Attorney General of South Dakota",
+  "office_type": "state_ag",
+  "state": "SD",
+  "party": "R",
+  "committees": [],
+  "stance": "Has joined multistate pressure on AI companies over chatbot harms to children.",
+  "statements": [
+    {
+      "date": "2025-08-25",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Joined the 44-AG letter warning AI companies to stop chatbot harms to children.",
+      "target": "AI companies",
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-44-states-in-demanding-companies-end-predatory-ai-interactions-with-kids",
+      "outlet": "Office of the Illinois Attorney General"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/US_District_Attorney_Marty_Jackley.png/250px-US_District_Attorney_Marty_Jackley.png",
+    "page": "https://commons.wikimedia.org/wiki/File:US_District_Attorney_Marty_Jackley.png",
+    "license": "Public domain",
+    "artist": "US District of South Dakota"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

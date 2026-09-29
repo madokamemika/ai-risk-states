@@ -1,0 +1,134 @@
+{
+  "code": "VA",
+  "summary": "Gov. Youngkin vetoed the high-risk AI (algorithmic discrimination) bill HB 2094 in 2025, and most 2026 AI bills were tabled amid federal pressure. Gov. Spanberger created an AI task force (EO 22) and in Sept 2026 urged Congress to set federal AI guardrails; AG Jay Jones co-signed the state-AG frontier-AI letter.",
+  "xrisk": "direct",
+  "items": [
+    {
+      "date": "2025-03-24",
+      "type": "veto",
+      "title": "HB 2094 — High-Risk Artificial Intelligence Developer and Deployer Act",
+      "status": "vetoed",
+      "text": "Youngkin vetoed the algorithmic-discrimination bill, saying it would stifle innovation.",
+      "source": "https://technical.ly/civic-news/virginia-ai-bill-veto-youngkin-maldonado/",
+      "people": [
+        "michelle-maldonado"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "type": "executive_order",
+      "title": "Executive Order 22 — AI Task Force and data center accountability",
+      "status": "signed",
+      "text": "Creates an AI Task Force on privacy, workforce displacement and cybersecurity.",
+      "source": "https://www.whsv.com/2026/09/18/spanberger-signs-executive-order-taking-data-centers-ai/",
+      "people": [
+        "abigail-spanberger"
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "type": "letter",
+      "title": "Spanberger letter to congressional leaders on AI guardrails",
+      "status": "filed",
+      "text": "Urged Congress to establish national AI guardrails rather than leave oversight to states or companies.",
+      "source": "https://statescoop.com/virginia-gov-spanberger-urges-congress-to-establish-federal-ai-guardrails/",
+      "people": [
+        "abigail-spanberger"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI safety",
+      "status": "filed",
+      "text": "The Virginia attorney general signed the letter urging Congress to adopt federal frontier-AI safety rules and to bar preemption of state AI laws.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "jay-jones"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Virginia hosts the world's largest data-center cluster, and its new governor is moving to end automatic approvals as voter support drops.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Abigail Spanberger signed a law in June 2026 shielding ratepayers from data-center grid costs. On September 18, 2026 she signed Executive Order 22, creating an AI Task Force, and proposed a framework for the 2027 session that ends by-right approval for data centers over 25 MW, bans nondisclosure agreements and raises water, noise and emissions standards.",
+        "sources": [
+          {
+            "url": "https://www.governor.virginia.gov/newsroom/news-releases/2026/june-releases/name-1120477-en.html",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://www.fredericksburgfreepress.com/2026/09/19/gov-abigail-spanberger-announces-data-center-accountability-act/",
+            "outlet": "Fredericksburg Free Press"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Loudoun County has more than 130 operating data centers, with about 4 GW of installed IT capacity in 2025 and 2-3 GW more in development. They supply roughly 38-40% of county tax revenue.",
+        "sources": [
+          {
+            "url": "https://www.lsars.com/data-centers/loudoun-county",
+            "outlet": "Loudoun Sotheby's / LSARS"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "The Court of Appeals voided the 2,100-acre Prince William Digital Gateway rezoning (up to 37 data centers next to Manassas National Battlefield) on March 31, 2026; QTS then withdrew its appeals. In July 2026 Prince William supervisors rejected the Dulles Cloud South proposal. Polling found Virginia voter support for new data centers fell from 69% to 35%.",
+        "sources": [
+          {
+            "url": "https://virginiabusiness.com/prince-william-digital-gateway-data-center-project-officially-dies/",
+            "outlet": "Virginia Business"
+          },
+          {
+            "url": "https://virginiamercury.com/2026/04/08/va-court-of-appeals-stops-major-data-center-development-in-prince-william-county/",
+            "outlet": "Virginia Mercury"
+          },
+          {
+            "url": "https://virginiamercury.com/2026/07/09/after-digital-gateway-project-fails-prince-william-supervisors-reject-dulles-cloud-south-data-center-proposal/",
+            "outlet": "Virginia Mercury"
+          },
+          {
+            "url": "https://www.tomshardware.com/tech-industry/virginia-voter-support-for-new-data-centers-collapses-to-35-percent",
+            "outlet": "Tom's Hardware"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Virginia Tech received a $20 million NSF grant in August 2026 for an AI-enabled cloud semiconductor lab, and its researchers joined three Department of Energy Genesis Mission AI projects in July 2026.",
+        "sources": [
+          {
+            "url": "https://news.vt.edu/articles/2026/08/NSF-grant-semiconductor-lab.html",
+            "outlet": "Virginia Tech"
+          },
+          {
+            "url": "https://news.vt.edu/articles/2026/07/research-genesis-mission.html",
+            "outlet": "Virginia Tech"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Mark Warner introduced six AI bills on July 21, 2026, including the Data Center Tax Accountability and Disclosure Act, tying bonus depreciation to energy and water disclosure. Rep. Eugene Vindman cosponsored a bill to repeal data-center tax breaks and voted for the Ratepayer Protection Act, which passed the House 417-3.",
+        "sources": [
+          {
+            "url": "https://www.arlnow.com/2026/07/22/sen-warner-targets-data-centers-energy-usage-economic-impacts-of-ai-in-new-bills/",
+            "outlet": "ARLnow"
+          },
+          {
+            "url": "https://www.fredericksburgfreepress.com/2026/09/19/gov-abigail-spanberger-announces-data-center-accountability-act/",
+            "outlet": "Fredericksburg Free Press"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

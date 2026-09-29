@@ -1,0 +1,55 @@
+{
+  "id": "marsha-blackburn",
+  "name": "Marsha Blackburn",
+  "office": "U.S. Senator from Tennessee",
+  "office_type": "us_senator",
+  "state": "TN",
+  "party": "R",
+  "committees": [
+    "Senate Commerce, Science, and Transportation",
+    "Senate Judiciary"
+  ],
+  "stance": "Opposed a blanket moratorium on state AI laws, and wants one federal AI rulebook centred on children, creators and communities that preempts some state laws while letting states go further in others.",
+  "statements": [
+    {
+      "date": "2025-07-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While I appreciate Chairman Cruz's efforts to find acceptable language that allows states to protect their citizens from the abuses of AI, the current language is not acceptable to those who need these protections the most.",
+      "target": null,
+      "joint": "moratorium-strike-amendment-2025",
+      "source": "https://www.nextgov.com/artificial-intelligence/2025/07/senate-overwhelmingly-passes-amendment-removing-state-ai-moratorium/406448/",
+      "outlet": "Nextgov/FCW"
+    },
+    {
+      "date": "2026-03",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Released the TRUMP AMERICA AI Act, a roughly 300-page discussion draft that would require developers to assess risks from advanced AI systems and report safety protocols to DHS, with partial preemption of state AI laws.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.insideglobaltech.com/2026/03/26/white-house-blackburn-introduce-visions-of-comprehensive-federal-ai-policy/",
+      "outlet": "Inside Global Tech (Covington)"
+    },
+    {
+      "date": "2026-04-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "President Trump's AI framework rightfully calls on Congress to create one rulebook for AI that protects children, safeguards American communities, supports creators, prevents censorship, enables innovation, and develops an AI-ready workforce.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.blackburn.senate.gov/2026/4/ai/what-they-are-saying-blackburn-announces-growing-momentum-for-trump-america-ai-act",
+      "outlet": "Office of Sen. Blackburn"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Sen._Marsha_Blackburn_%28R-TN%29_official_headshot_-_116th_Congress_%28cropped%29.jpg/250px-Sen._Marsha_Blackburn_%28R-TN%29_official_headshot_-_116th_Congress_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sen._Marsha_Blackburn_(R-TN)_official_headshot_-_116th_Congress_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "United States Senate Photographic Studio"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

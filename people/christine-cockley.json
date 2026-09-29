@@ -1,0 +1,32 @@
+{
+  "id": "christine-cockley",
+  "name": "Christine Cockley",
+  "office": "Ohio State Representative",
+  "office_type": "state_rep",
+  "state": "OH",
+  "party": "D",
+  "committees": [],
+  "stance": "Co-sponsors HB 524 to fine AI companies whose chatbots encourage self-harm or violence.",
+  "statements": [
+    {
+      "date": "2026-02-18",
+      "arena": "state",
+      "kind": "quote",
+      "text": "The legislation would ensure that tech companies are actively consistent in training their language models not to encourage or support suicidal ideation or violent thoughts,",
+      "target": null,
+      "joint": "oh-hb524",
+      "source": "https://abc6onyourside.com/news/local/ohio-bill-would-fine-ai-companies-if-chatbots-are-found-to-promote-dangerous-behavior",
+      "outlet": "ABC 6 (WSYX)"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/ChristineCockleyApril2024.jpg/250px-ChristineCockleyApril2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ChristineCockleyApril2024.jpg",
+    "license": "CC0",
+    "artist": "Dillguy9"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

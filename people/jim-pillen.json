@@ -1,0 +1,32 @@
+{
+  "id": "jim-pillen",
+  "name": "Jim Pillen",
+  "office": "Governor of Nebraska",
+  "office_type": "governor",
+  "state": "NE",
+  "party": "R",
+  "committees": [],
+  "stance": "Signed Nebraska’s Conversational AI Safety Act.",
+  "statements": [
+    {
+      "date": "2026-04-14",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed LB 525, including the Conversational AI Safety Act (disclosure, minor safeguards, self-harm referral), operative July 1, 2027.",
+      "target": null,
+      "joint": null,
+      "source": "https://regulations.ai/regulations/RAI-US-NE-LB52500-2026",
+      "outlet": "Regulations.ai"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Jim_Pillen_2023.jpg/250px-Jim_Pillen_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jim_Pillen_2023.jpg",
+    "license": "Public domain",
+    "artist": "Maj. Scott Ingalsbe"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "code": "NC",
+  "xrisk": "direct",
+  "summary": "North Carolina's AG is the only official in this region on the September 2026 multistate letter asking Congress for mandatory frontier-AI safety testing and international action against harmful superintelligence; he also co-chairs a bipartisan AG AI task force. No state frontier-AI legislation found.",
+  "items": [
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-attorney-general letter to Congress on frontier AI safety",
+      "status": "filed",
+      "text": "Cites AI agents escaping test environments and asks for mandatory federal safety testing, incident response, anti-superintelligence international cooperation and no preemption of state law.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "jeff-jackson"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "North Carolina has a governor's AI council and a statewide AI roadmap, while more than 30 of its communities have restricted data centers.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Josh Stein signed Executive Order 24 on September 2, 2025, creating an AI Leadership Council, an AI Accelerator in the Department of Information Technology and AI oversight teams in each agency. The council, which includes legislators from both parties, released a statewide AI Strategic Roadmap in July 2026.",
+        "sources": [
+          {
+            "url": "https://governor.nc.gov/news/press-releases/2025/09/02/governor-stein-announces-executive-order-ai",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://governor.nc.gov/news/press-releases/2026/07/01/governor-stein-announces-ai-strategic-roadmap-protect-and-better-serve-north-carolinians-prepare",
+            "outlet": "Governor's office"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Amazon is building a $10 billion data-center campus in Richmond County, announced in June 2025, with the first building expected in 2027. It moved through local approval under the code name Project Blue Marlin. In 2026 the NC Utilities Commission voted 3-1 to deny Duke Energy a new gas turbine across the street from the campus.",
+        "sources": [
+          {
+            "url": "https://ncnewsline.com/2026/08/06/inside-the-secretive-deal-for-a-10-billion-data-center-in-rural-north-carolina/",
+            "outlet": "NC Newsline"
+          },
+          {
+            "url": "https://ncdatacenters.substack.com/p/nc-utilities-commission-denies-duke",
+            "outlet": "NC Data Centers (newsletter)"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "More than 30 North Carolina communities had adopted data-center moratoriums or zoning restrictions by September 2026, citing water, power demand and noise. Early adopters included Gates and Chatham counties, Canton and Brevard. In August 2026 three more localities weighed pauses and a developer withdrew a Raleigh proposal.",
+        "sources": [
+          {
+            "url": "https://www.wral.com/news/local/data-centers-secrecy-sept-2026/",
+            "outlet": "WRAL"
+          },
+          {
+            "url": "https://ncnewsline.com/2026/08/17/three-more-nc-localities-weigh-pauses-on-data-centers-as-developer-backs-away-from-raleigh-project/",
+            "outlet": "NC Newsline"
+          },
+          {
+            "url": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/",
+            "outlet": "Carolina Public Press"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "In September 2026 UNC-Chapel Hill launched NC CHAIN, a network with Duke to help rural and critical-access hospitals use health AI safely, funded by a $4.4 million Duke Endowment grant. NC State leads a $20 million NSF award for AI-driven self-driving chemistry and materials labs, with UNC as a partner.",
+        "sources": [
+          {
+            "url": "https://www.unc.edu/posts/2026/09/22/statewide-network-launches-to-help-rural-and-critical-access-providers-harness-ai-for-better-patient-care/",
+            "outlet": "UNC-Chapel Hill"
+          },
+          {
+            "url": "https://www.unc.edu/posts/2026/07/28/national-science-foundation-to-help-build-ai-enabled-labs/",
+            "outlet": "UNC-Chapel Hill"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Thom Tillis cast the only vote in July 2025 against stripping the 10-year state AI-law moratorium from the budget bill (99-1). In September 2026, after President Trump called AI risk warnings a \"hoax\", Tillis said \"it's not a hoax. It's a real thing\" and that guardrails are needed. Sen. Ted Budd has said claims about data centers draining water and jobs are not proving true, and urged AI engineering \"that promotes safety.\"",
+        "sources": [
+          {
+            "url": "https://time.com/7299044/senators-reject-10-year-ban-on-state-level-ai-regulation-in-blow-to-big-tech/",
+            "outlet": "TIME"
+          },
+          {
+            "url": "https://thehill.com/homenews/senate/6092827-gop-thom-tillis-donald-trump-ai-anxieties/",
+            "outlet": "The Hill"
+          },
+          {
+            "url": "https://www.yahoo.com/news/politics/articles/trip-across-nc-gives-sen-120000183.html",
+            "outlet": "Yahoo News"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

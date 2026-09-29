@@ -1,0 +1,42 @@
+{
+  "id": "howard-lutnick",
+  "name": "Howard Lutnick",
+  "office": "Secretary of Commerce",
+  "office_type": "federal_exec",
+  "state": null,
+  "party": "R",
+  "committees": [],
+  "stance": "Recast the AI Safety Institute as CAISI, focused on national-security testing of frontier models rather than broad safety regulation.",
+  "statements": [
+    {
+      "date": "2025-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "For far too long, censorship and regulations have been used under the guise of national security. Innovators will no longer be limited by these standards.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/trump-administration-rebrands-ai-safety-institute-aisi-caisi/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2026-05-05",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Commerce's CAISI signed pre-deployment evaluation agreements with Google DeepMind, Microsoft and xAI to test frontier models for cyber, bio and chemical national-security risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.cio.com/article/4168122/us-government-agency-to-safety-test-frontier-ai-models-before-release.html",
+      "outlet": "CIO"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Howard_Lutnick_2025.jpg/250px-Howard_Lutnick_2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Howard_Lutnick_2025.jpg",
+    "license": "Public domain",
+    "artist": "Daniel Torok"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

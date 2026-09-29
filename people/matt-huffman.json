@@ -1,0 +1,34 @@
+{
+  "id": "matt-huffman",
+  "name": "Matt Huffman",
+  "office": "Speaker of the Ohio House of Representatives",
+  "office_type": "state_rep",
+  "state": "OH",
+  "party": "R",
+  "committees": [
+    "Ohio House (Speaker)"
+  ],
+  "stance": "Supports child-protection AI bills but is wary of broader rules on what AI companies may do.",
+  "statements": [
+    {
+      "date": "2026-02-24",
+      "arena": "state",
+      "kind": "quote",
+      "text": "Trying to say what it is a particular company can and can't do regarding artificial intelligence, it's a little bit different animal and certainly beyond the scope of simple protection of your citizens and including children",
+      "target": null,
+      "joint": null,
+      "source": "https://spectrumnews1.com/oh/columbus/news/2026/02/24/despite-federal-pushback-ohio-lawmakers-seek-to-regulate-ai",
+      "outlet": "Spectrum News 1"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Matt_Huffman.jpg/250px-Matt_Huffman.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Matt_Huffman.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Brian Timmermeister from Lima,OH, USA"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

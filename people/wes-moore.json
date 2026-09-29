@@ -1,0 +1,42 @@
+{
+  "id": "wes-moore",
+  "name": "Wes Moore",
+  "office": "Governor of Maryland",
+  "office_type": "governor",
+  "state": "MD",
+  "party": "D",
+  "committees": [],
+  "stance": "Plans to ask the 2027 General Assembly for an AI framework that includes regulations for frontier AI companies alongside child-safety and algorithmic-accountability rules.",
+  "statements": [
+    {
+      "date": "2026-09-22",
+      "arena": "state",
+      "kind": "action",
+      "text": "Unveiled a state AI framework that includes developing regulations for frontier AI companies, to be pursued in the January 2027 session.",
+      "target": null,
+      "joint": null,
+      "source": "https://mocoshow.com/2026/09/22/governor-moore-announces-new-ai-framework-for-maryland/",
+      "outlet": "The MoCo Show"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "state",
+      "kind": "quote",
+      "text": "AI shouldn't be able to quietly decide who gets a loan, or housing, or healthcare or a government benefit without accountability and a human in the loop",
+      "target": null,
+      "joint": null,
+      "source": "https://wtop.com/maryland/2026/09/marylands-moore-outlines-new-ai-strategy/",
+      "outlet": "WTOP"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Wes_Moore_credit_Amunankhra_House_Ltd.jpg/250px-Wes_Moore_credit_Amunankhra_House_Ltd.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wes_Moore_credit_Amunankhra_House_Ltd.jpg",
+    "license": "CC BY 3.0",
+    "artist": "Amunankhra House Ltd."
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

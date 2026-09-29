@@ -1,0 +1,126 @@
+{
+  "code": "OH",
+  "xrisk": "adjacent",
+  "summary": "Ohio has no AI regulation in force; pending bills include an AI personhood ban (HB 469), chatbot self-harm penalties (HB 524) and an AI-CSAM/watermark bill (SB 163, passed Senate May 2026). None address frontier or catastrophic risk.",
+  "items": [
+    {
+      "date": "2025-09-23",
+      "type": "bill",
+      "title": "HB 469 — declares AI nonsentient, bars AI legal personhood",
+      "status": "pending",
+      "text": "Would bar AI from personhood, property ownership or marriage and assign liability for AI harms to users or developers.",
+      "source": "https://ohiohouse.gov/legislation/136/hb469",
+      "people": [
+        "thaddeus-claggett"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "type": "bill",
+      "title": "HB 524 — penalties for chatbots promoting self-harm",
+      "status": "pending",
+      "text": "Would let the AG seek up to $50,000 per violation when AI models encourage self-harm or violence.",
+      "source": "https://abc6onyourside.com/news/local/ohio-bill-would-fine-ai-companies-if-chatbots-are-found-to-promote-dangerous-behavior",
+      "people": [
+        "christine-cockley",
+        "ty-matthews"
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "type": "bill",
+      "title": "SB 163 — AI child sexual abuse material and watermarks",
+      "status": "pending",
+      "text": "Passed the Senate unanimously; would criminalize AI-generated sexual imagery of minors and require watermarks.",
+      "source": "https://www.cleveland19.com/2026/05/22/ohio-senate-passes-bill-protecting-minors-ai-deepfakes/",
+      "people": []
+    }
+  ],
+  "profile": {
+    "headline": "Ohio hosts Meta's first gigawatt AI cluster, and its governor has paused data-center tax breaks while activists try to ban big data centers in the constitution.",
+    "sections": [
+      {
+        "topic": "compute",
+        "text": "Meta's Prometheus cluster in New Albany is planned to reach 1 GW in 2026, with on-site gas plants and nuclear supply deals with Vistra, Oklo and TerraPower. Data-center companies reported $27.2 billion of capital investment in Ohio in 2025.",
+        "sources": [
+          {
+            "url": "https://www.nbc4i.com/news/local-news/new-albany/meet-prometheus-worlds-highest-capacity-data-center-slated-to-open-in-ohio-in-2026/",
+            "outlet": "NBC4"
+          },
+          {
+            "url": "https://abc6onyourside.com/news/local/meta-lines-up-supply-of-nuclear-power-to-energize-ai-data-centers-including-new-albany-prometheus-supercluster",
+            "outlet": "ABC6"
+          },
+          {
+            "url": "https://www.dailysignal.com/2026/05/29/tax-exemption-pause-data-centers/",
+            "outlet": "The Daily Signal"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "On May 27, 2026 Gov. Mike DeWine told the Ohio Tax Credit Authority to stop taking new data-center tax-exemption requests while a legislative committee studies the industry. Conserve Ohio's proposed constitutional amendment to ban data centers drawing more than 25 MW cleared initial review in April 2026; with about 70,000 of 413,000 needed signatures, it will aim for the 2027 ballot instead of 2026.",
+        "sources": [
+          {
+            "url": "https://www.news5cleveland.com/news/politics/ohio-politics/dewine-halts-new-sales-tax-breaks-for-data-centers",
+            "outlet": "News 5 Cleveland"
+          },
+          {
+            "url": "https://thehill.com/homenews/state-watch/5900974-data-center-tax-exemption-ohio-mike-dewine/",
+            "outlet": "The Hill"
+          },
+          {
+            "url": "https://ohiocapitaljournal.com/2026/06/19/ohio-proposed-constitutional-amendment-to-ban-data-centers-will-not-be-on-this-years-ballot/",
+            "outlet": "Ohio Capital Journal"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Ohio State University's AI Fluency initiative, announced June 2025, puts AI instruction into the required first-year curriculum for every undergraduate starting with the class of 2029.",
+        "sources": [
+          {
+            "url": "https://news.osu.edu/ohio-state-launches-bold-ai-fluency-initiative-to-redefine-learning-and-innovation/",
+            "outlet": "Ohio State News"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Jon Husted sponsors the Ratepayer Protection Act, which requires large electricity users such as data centers to pay the full incremental cost of the infrastructure that serves them. The House passed it 417-3 on September 16, 2026; a Senate Democrat blocked Husted's unanimous-consent request on September 17.",
+        "sources": [
+          {
+            "url": "https://www.husted.senate.gov/media/press-releases/husted-bill-to-protect-americans-from-footing-the-bill-for-new-data-centers-blocked-from-passage/",
+            "outlet": "Sen. Jon Husted"
+          }
+        ]
+      },
+      {
+        "topic": "state_push",
+        "text": "The 2025 state budget, House Bill 96, signed by Gov. Mike DeWine, required every K-12 district to adopt an AI-use policy by July 1, 2026, after the Department of Education and Workforce issued a model policy (released January 2026). In his 2026 State of the State address DeWine asked lawmakers to ban AI-generated child sexual abuse material and hold companies liable when their AI encourages self-harm. In September 2026 he said he would not urge his successor to pursue state AI regulation: \"this really needs to come from the federal government.\"",
+        "sources": [
+          {
+            "url": "https://education.ohio.gov/Media/Ed-Connection/Aug-20-2025/Ohio-updates-requirements-for-artificial-intellige",
+            "outlet": "Ohio Department of Education and Workforce"
+          },
+          {
+            "url": "https://getcoai.com/news/ohio-requires-all-k-12-schools-to-create-ai-policies-by-2026/",
+            "outlet": "CO/AI"
+          },
+          {
+            "url": "https://governor.ohio.gov/wps/portal/gov/governor/media/news-and-media/governor-dewine-delivers-2026-state-of-the-state-address",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://www.daytondailynews.com/local/dewine-ai-regulation-has-to-come-from-the-federal-government-not-states/article_4493bd0b-5a82-5a69-b1e9-76b042d87202.html",
+            "outlet": "Dayton Daily News"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

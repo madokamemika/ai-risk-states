@@ -1,0 +1,32 @@
+{
+  "id": "henry-mcmaster",
+  "name": "Henry McMaster",
+  "office": "Governor of South Carolina",
+  "office_type": "governor",
+  "state": "SC",
+  "party": "R",
+  "committees": [],
+  "stance": "Joined governors opposing a federal moratorium on state AI laws; no frontier-risk action found.",
+  "statements": [
+    {
+      "date": "2025-06-27",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed the 17-governor letter asking Congress to drop the state AI-law moratorium.",
+      "target": "Congress (Thune, Johnson)",
+      "joint": "gop-governors-ai-moratorium-letter-2025",
+      "source": "https://governor.arkansas.gov/news_post/sanders-leads-republican-governors-to-call-on-congress-to-remove-ai-regulatory-moratorium-from-one-big-beautiful-bill/",
+      "outlet": "Office of the Governor of Arkansas"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/SC_Governor_Henry_McMaster_2019_%28cropped%29.jpg/250px-SC_Governor_Henry_McMaster_2019_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SC_Governor_Henry_McMaster_2019_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "Staff Sgt. Jerry Boffen, U.S. Army National Guard"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

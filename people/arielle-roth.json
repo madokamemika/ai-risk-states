@@ -1,0 +1,32 @@
+{
+  "id": "arielle-roth",
+  "name": "Arielle Roth",
+  "office": "Administrator, National Telecommunications and Information Administration",
+  "office_type": "federal_exec",
+  "state": null,
+  "party": "R",
+  "committees": [],
+  "stance": "Responsible for the BEAD non-deployment policy notice that EO 14365 ties to state AI laws; has not committed to an outcome.",
+  "statements": [
+    {
+      "date": "2026-06-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I'm not going to prejudge outcomes before we've completed our review.",
+      "target": null,
+      "joint": "eo-14365-state-ai-laws",
+      "source": "https://rollcall.com/2026/06/30/billions-in-rural-broadband-funds-still-on-hold/",
+      "outlet": "Roll Call"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/CES_2026_-_Arielle_Roth_03_%28cropped%29.jpg/250px-CES_2026_-_Arielle_Roth_03_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CES_2026_-_Arielle_Roth_03_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Xuthoria"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

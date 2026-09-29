@@ -1,0 +1,32 @@
+{
+  "id": "saddam-salim",
+  "name": "Saddam Azlan Salim",
+  "office": "Virginia State Senator",
+  "office_type": "state_senator",
+  "state": "VA",
+  "party": "D",
+  "committees": [],
+  "stance": "Sponsor of AI disclosure legislation who says federal pressure is chilling state AI bills.",
+  "statements": [
+    {
+      "date": "2026-02-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Concerns are real. I think it's not the concern with AI itself. It's the concern that we have a federal government who does not want us to do anything",
+      "target": null,
+      "joint": null,
+      "source": "https://www.vpm.org/generalassembly/2026-02-23/virginia-ai-bills-hayes-maldonado-salim-trump-spanberger",
+      "outlet": "VPM"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/SaddamSalim2023.jpg/250px-SaddamSalim2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SaddamSalim2023.jpg",
+    "license": "CC0",
+    "artist": "Lime10001"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

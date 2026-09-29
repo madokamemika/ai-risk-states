@@ -1,0 +1,42 @@
+{
+  "id": "tim-griffin",
+  "name": "Tim Griffin",
+  "office": "Attorney General of Arkansas",
+  "office_type": "state_ag",
+  "state": "AR",
+  "party": "R",
+  "committees": [],
+  "stance": "Pursues AI harms to minors through consumer-protection litigation and joined the multistate AG child-safety letter; no frontier-risk action found.",
+  "statements": [
+    {
+      "date": "2025-08-25",
+      "arena": "state",
+      "kind": "action",
+      "text": "Arkansas joined the 44-AG letter warning AI companies over chatbot harms to children.",
+      "target": null,
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-state-attorneys-general-issues-letter-to-ai-industry-leaders-on-child-safety/",
+      "outlet": "NAAG"
+    },
+    {
+      "date": "2026-01",
+      "arena": "state",
+      "kind": "action",
+      "text": "Named Deputy General Counsel Kevin B. Lee as the office's Senior Advisor for AI, covering public safety and consumer protection.",
+      "target": null,
+      "joint": null,
+      "source": "https://arkansasag.gov/news-release/attorney-general-griffin-creates-new-role-of-senior-advisor-of-ai-for-deputy-general-counsel-kevin-b-lee/",
+      "outlet": "Arkansas Attorney General"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Rep_Tim_Griffin_Official_Photo.jpg/250px-Rep_Tim_Griffin_Official_Photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep_Tim_Griffin_Official_Photo.jpg",
+    "license": "Public domain",
+    "artist": "US Government"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

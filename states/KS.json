@@ -1,0 +1,120 @@
+{
+  "code": "KS",
+  "xrisk": "direct",
+  "summary": "Kansas has no frontier-AI law; AG Kobach backs chatbot restrictions (SB 405) and joined the August 2026 15-state OpenAI Hugging Face demand, while also joining the 2025 AG letter against a federal ban on state AI laws.",
+  "items": [
+    {
+      "date": "2026-02",
+      "type": "bill",
+      "title": "SB 405 — AI chatbot restrictions",
+      "status": "introduced",
+      "text": "Would bar chatbots from forming emotional relationships, encouraging suicide or offering mental health care.",
+      "source": "https://kansasreflector.com/2026/02/10/bill-targets-emotional-sometimes-dangerous-interactions-between-kansans-and-artificial-intelligence/",
+      "people": [
+        "kris-kobach"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "type": "letter",
+      "title": "15-state AG letter to OpenAI on Hugging Face intrusion",
+      "status": "filed",
+      "text": "Kansas joined the Iowa-led letter.",
+      "source": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "people": [
+        "kris-kobach"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Kansas gave hyperscale data centers a sales-tax break in 2025, and towns around Kansas City are now pushing back.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "In April 2025 the Kansas Legislature passed a sales-tax break to attract hyperscale data centers. In 2026 Gov. Laura Kelly signed HB 2183, which updates child-exploitation law to cover AI-generated images.",
+        "sources": [
+          {
+            "url": "https://kansasreflector.com/2025/04/15/kansas-legislature-slips-under-the-wire-a-sales-tax-break-to-incentivize-hyperscale-data-centers/",
+            "outlet": "Kansas Reflector"
+          },
+          {
+            "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-may8-2026",
+            "outlet": "Transparency Coalition"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Lawrence unanimously approved a two-year moratorium on large data centers on July 14, 2026. In August 2026 about 100 residents opposed Project Bluestem, a roughly 1,000-acre data center near Tonganoxie in Leavenworth County. In September 2026 the Kansas WEALTH Coalition called for a moratorium until guardrails are in place.",
+        "sources": [
+          {
+            "url": "https://lawrencekstimes.com/2026/07/14/lawrencecitycomm-oks-2yr-moratorium/",
+            "outlet": "The Lawrence Times"
+          },
+          {
+            "url": "https://www.kcur.org/housing-development-section/2026-09-02/data-center-backlash-missouri-kansas",
+            "outlet": "KCUR"
+          },
+          {
+            "url": "https://www.sentineltimes.com/articles/featured-stories/the-kansas-wealth-coalition-calls-for-a-data-center-moratorium-until-significant-guardrails-are-put-in-place/",
+            "outlet": "Galena Sentinel-Times"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "In July 2026 Sen. Roger Marshall said \"Preemption is just impossible right now\" about federal AI rules, backed county data-center moratoriums and opposed tax breaks for them, citing electricity costs.",
+        "sources": [
+          {
+            "url": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-ai-will-not-replace-us-it-will-assist-us/",
+            "outlet": "Sen. Roger Marshall"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "In January 2026 Nebius announced a $6.6 billion AI data-center campus of about 400 acres in Independence, planned at 800 MW, with a new privately financed power plant at the former Blue Valley site (250 MW by 2027, 1,100 MW by December 2029). Construction was set to start in summer 2026, with first buildings in 2028. In De Soto, the city council approved Beale Infrastructure's campus of about $3.1 billion in August 2025; by July 2026 the plan had grown to 2.9 million square feet.",
+        "sources": [
+          {
+            "url": "https://www.govtech.com/artificial-intelligence/6-6b-data-center-a-major-investment-in-independence-kan",
+            "outlet": "GovTech"
+          },
+          {
+            "url": "https://www.datacenterdynamics.com/en/news/de-soto-kansas-approves-700m-data-center/",
+            "outlet": "DatacenterDynamics"
+          },
+          {
+            "url": "https://johnsoncountypost.com/2026/07/07/beale-de-soto-data-center-update-290529/",
+            "outlet": "Johnson County Post"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "In May 2026 Kansas State University awarded $894,022 across six AI projects, including a crop digital-twin engine for agricultural AI and a neurosymbolic framework for autonomous sprayers. K-State has proposed a Master of Science in AI Systems and Applications to start in spring 2027. The University of Kansas runs an AI Taskforce and an Enhanced Artificial Intelligence Center for Human-Focused Research at its medical center.",
+        "sources": [
+          {
+            "url": "https://www.k-state.edu/news/articles/2026/05/one-kstate-fund-drives-artificial-intelligence-research.html",
+            "outlet": "Kansas State University"
+          },
+          {
+            "url": "https://kansasregents.gov/resources/KSU_MS_AI_Systems_Applications_Final.pdf",
+            "outlet": "Kansas Board of Regents"
+          },
+          {
+            "url": "https://ai.ku.edu/ai-taskforce-overview",
+            "outlet": "University of Kansas"
+          },
+          {
+            "url": "https://www.kumc.edu/research/enhanced-artificial-intelligence-center-for-human-focused-research.html",
+            "outlet": "KU Medical Center"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

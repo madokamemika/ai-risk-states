@@ -1,0 +1,42 @@
+{
+  "id": "michael-kratsios",
+  "name": "Michael Kratsios",
+  "office": "Director, White House Office of Science and Technology Policy",
+  "office_type": "federal_exec",
+  "state": null,
+  "party": "R",
+  "committees": [],
+  "stance": "Wants Congress to pass one national AI framework that preempts state AI-development laws, paired with child-safety and ratepayer provisions.",
+  "statements": [
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need one national policy — not a 50-state patchwork of laws.",
+      "target": "Congress",
+      "joint": "wh-national-ai-legislative-framework-2026",
+      "source": "https://www.foxnews.com/politics/white-house-unveils-its-first-federal-ai-framework-pushes-congress-act-this-year",
+      "outlet": "Fox News"
+    },
+    {
+      "date": "2026-03-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We believe that we can't have preemption without other stuff attached to it, and it has to be a give and take with both.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.nextgov.com/artificial-intelligence/2026/03/white-house-official-advocates-give-and-take-state-ai-preemption/412407/",
+      "outlet": "Nextgov"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Michael_Kratsios_%28cropped%29.jpg/250px-Michael_Kratsios_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Michael_Kratsios_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "Shealeah Craighead"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

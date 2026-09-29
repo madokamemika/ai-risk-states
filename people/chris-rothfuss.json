@@ -1,0 +1,42 @@
+{
+  "id": "chris-rothfuss",
+  "name": "Chris Rothfuss",
+  "office": "Wyoming State Senator",
+  "office_type": "state_senator",
+  "state": "WY",
+  "party": "D",
+  "committees": [],
+  "stance": "Supports state rules requiring human review of consequential AI decisions and opposed the federal moratorium.",
+  "statements": [
+    {
+      "date": "2025-07-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I'm relieved to see at least one deeply problematic provision removed from an otherwise deeply flawed bill.",
+      "target": null,
+      "joint": null,
+      "source": "https://cowboystatedaily.com/2025/07/01/wyoming-legislators-cheer-removal-of-ban-on-states-regulating-ai-from-budget-bill/",
+      "outlet": "Cowboy State Daily"
+    },
+    {
+      "date": "2026-07-16",
+      "arena": "state",
+      "kind": "action",
+      "text": "Backed a draft bill in the Select Committee on Blockchain, Financial Technology and Digital Innovation Technology barring AI from making consequential government decisions without human approval.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.wyomingpublicmedia.org/politics-government/2026-07-16/lawmakers-debate-how-to-regulate-government-use-of-ai",
+      "outlet": "Wyoming Public Media"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Rothfuss_for_Senate.jpg/250px-Rothfuss_for_Senate.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rothfuss_for_Senate.jpg",
+    "license": "CC BY 3.0",
+    "artist": "Rothfuss"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

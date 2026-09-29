@@ -1,0 +1,127 @@
+{
+  "code": "MA",
+  "summary": "The Senate passed a Transparency in Frontier AI Act (Sen. Barry Finegold) inside its economic development bill in July 2026, with catastrophic-risk frameworks and independent audits; it is in conference with the House. Gov. Healey has asked for stronger frontier provisions and federal guardrails.",
+  "xrisk": "direct",
+  "items": [
+    {
+      "date": "2026-07",
+      "type": "bill",
+      "title": "Transparency in Frontier Artificial Intelligence Act (Senate economic development bill, S.3228 §164)",
+      "status": "pending",
+      "text": "Requires large frontier developers to adopt catastrophic-risk frameworks, undergo independent third-party audits every four months and face AG enforcement; awaiting House-Senate conference.",
+      "source": "https://malegislature.gov/PressRoom/Detail?pressReleaseId=1453",
+      "people": [
+        "barry-finegold"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "type": "statement",
+      "title": "Healey asks conference committee to strengthen frontier-AI section",
+      "status": "pending",
+      "text": "Healey sought independent evaluation and lower harm thresholds for frontier-model reporting.",
+      "source": "https://www.newbedfordguide.com/massachusetts-gov-healey-lawmakers-put-ai-guardrails-place-crisis-forces-hand/2026/09/18",
+      "people": [
+        "maura-healey"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI safety",
+      "status": "filed",
+      "text": "The Massachusetts attorney general signed the letter urging Congress to adopt federal frontier-AI safety rules and to bar preemption of state AI laws.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "andrea-campbell"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Massachusetts is funding shared AI computing for its universities while its governor pushes AI safety rules and local veto power over data centers.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Maura Healey launched the Massachusetts AI Hub in December 2024 with $100 million authorized. Her September 8, 2026 executive order bars state permits for data centers over 25 MW without a local community-benefits agreement and requires their own clean power. On September 19, 2026 she proposed independent third-party testing of AI models, saying \"AI companies cannot be allowed to self-assess their own models.\"",
+        "sources": [
+          {
+            "url": "https://mghpcc.org/project/massachusetts-ai-hub/",
+            "outlet": "MGHPCC"
+          },
+          {
+            "url": "https://www.wbur.org/news/2026/09/08/proposed-data-centers-local-approvals-healey-massachusetts",
+            "outlet": "WBUR"
+          },
+          {
+            "url": "https://hoodline.com/2026/09/healey-pushes-ai-safety-rules-at-the-big-e-warns-states-can-t-wait-on-washington/",
+            "outlet": "Hoodline"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "A $31 million state grant (May 2025) funds an AI computing cluster of several hundred NVIDIA GPUs at the MGHPCC in Holyoke, run on hydropower; Cambridge Computer was picked to build it in December 2025. Matching money is expected to bring the total above $120 million by 2030.",
+        "sources": [
+          {
+            "url": "https://masstech.org/news/healey-driscoll-administration-celebrates-selection-cambridge-computer-build-landmark",
+            "outlet": "MassTech"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Everett's planning board voted on April 6, 2026 to cap data centers at 5 MW. Lowell residents sued in April 2026 over a Markley Group site's diesel generators. A ballot petition filed in August 2026 would require two-thirds voter approval for new data centers, and a Boston city councilor proposed a citywide ban in September 2026.",
+        "sources": [
+          {
+            "url": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/",
+            "outlet": "Boston.com"
+          },
+          {
+            "url": "https://www.wbur.org/news/2026/09/08/proposed-data-centers-local-approvals-healey-massachusetts",
+            "outlet": "WBUR"
+          },
+          {
+            "url": "https://www.boston.com/news/local-news/2026/08/26/a-new-ballot-initiative-takes-aim-at-massachusetts-data-centers/",
+            "outlet": "Boston.com"
+          },
+          {
+            "url": "https://www.wbur.org/news/2026/09/18/boston-data-center-ban-proposal",
+            "outlet": "WBUR"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Boston University, Harvard, MIT, Northeastern, UMass and Yale are matching the state's $31 million for the shared Holyoke AI compute cluster.",
+        "sources": [
+          {
+            "url": "https://masstech.org/news/healey-driscoll-administration-celebrates-selection-cambridge-computer-build-landmark",
+            "outlet": "MassTech"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Ed Markey released a draft Protecting Communities from Data Center Impacts Act on July 13, 2026, requiring a federal certificate before construction, and reintroduced the AI Environmental Impacts Act with Rep. Don Beyer. Sen. Elizabeth Warren and Sen. Josh Hawley asked the Energy Information Administration to collect data-center energy data.",
+        "sources": [
+          {
+            "url": "https://www.markey.senate.gov/news/press-releases/senator-markey-releases-discussion-draft-of-legislation-to-create-a-national-framework-to-address-data-center-harm",
+            "outlet": "Sen. Markey"
+          },
+          {
+            "url": "https://www.markey.senate.gov/news/press-releases/senator-markey-rep-beyer-reintroduce-ai-environmental-impacts-act",
+            "outlet": "Sen. Markey"
+          },
+          {
+            "url": "https://www.warren.senate.gov/newsroom/press-releases/senator-warren-lawmakers-open-investigation-into-big-tech-data-centers-role-in-driving-up-families-utility-costs/",
+            "outlet": "Sen. Warren"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

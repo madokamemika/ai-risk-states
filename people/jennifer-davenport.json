@@ -1,0 +1,32 @@
+{
+  "id": "jennifer-davenport",
+  "name": "Jennifer Davenport",
+  "office": "Attorney General of New Jersey",
+  "office_type": "state_ag",
+  "state": "NJ",
+  "party": null,
+  "committees": [],
+  "stance": "Co-led the 2026 state-AG call for federal frontier-AI safety regulation that preserves state enforcement.",
+  "statements": [
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The amazing promise of AI—whether to detect cancer faster or to aid drug discovery—will mean nothing in the end if our residents' health and finances, our utility grid, or our transportation safety systems are continually threatened by the risk of rogue AI events.",
+      "target": null,
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://www.njoag.gov/attorney-general-davenport-urges-congress-to-protect-americans-from-uncontrolled-artificial-intelligence-models/",
+      "outlet": "New Jersey Office of Attorney General"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/DAVENPORT_07_FINAL-scaled.jpg/250px-DAVENPORT_07_FINAL-scaled.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:DAVENPORT_07_FINAL-scaled.jpg",
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

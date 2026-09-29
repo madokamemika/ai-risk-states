@@ -1,0 +1,109 @@
+{
+  "code": "AK",
+  "xrisk": "none",
+  "summary": "No frontier or catastrophic-risk action found; Alaska signed neither 2026 AG letter on frontier AI, and the nearest activity is HB 47 on AI-generated sexual imagery and minors' social media, which passed the House in February 2026.",
+  "items": [
+    {
+      "date": "2026-02-27",
+      "type": "bill",
+      "title": "HB 47 — AI sexual imagery and minors' social media",
+      "status": "pending",
+      "text": "Criminalizes AI-generated CSAM and nonconsensual deepfakes and restricts minors' social media; passed the House, pending in the Senate.",
+      "source": "https://alaskapublic.org/news/politics/alaska-legislature/2026-02-27/alaska-house-passes-bill-limiting-ai-sexual-imagery-and-child-social-media-use",
+      "people": [
+        "sarah-vance"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Alaska's governor is courting data centers to create demand for North Slope gas, while most public comment and one senator push back.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Mike Dunleavy has been recruiting data centers to raise energy demand and justify a gas pipeline. In January 2026 he was working with DigitalBridge, majority owner of Switch, and released an independent WilmerHale review of the state's $75 million commitment to a DigitalBridge fund. A bill requiring data centers to pay their own grid costs died in committee in May 2026.",
+        "sources": [
+          {
+            "url": "https://thealaskacurrent.com/2026/01/13/dunleavy-crum-digitalbridge-data-centers-alaska/",
+            "outlet": "Alaska Current"
+          },
+          {
+            "url": "https://www.wilmerhale.com/en/insights/news/20260223-wilmerhale-completes-independent-review-for-alaska-of-$75-million-investment-decision",
+            "outlet": "WilmerHale"
+          },
+          {
+            "url": "https://www.alaskasnewssource.com/2026/09/17/alaska-senators-open-ai-guardrails-congress-winds-down-midterms/",
+            "outlet": "Alaska's News Source"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Stak Energy has proposed a $500 million data center on about one square mile of state land near the Dalton Highway on the North Slope. It could eventually need 1 to 3 GW of self-generated power from North Slope gas, with construction planned from summer 2026 and operations by late 2028 (May 2026). The Pentagon has offered about 4,700 acres near Anchorage, Healy and Fairbanks for up to a dozen military data centers.",
+        "sources": [
+          {
+            "url": "https://alaskapublic.org/news/economy/energy/2026-05-26/alaskas-north-slope-proposed-as-home-for-massive-ai-data-center",
+            "outlet": "Alaska Public Media"
+          },
+          {
+            "url": "https://broadbandbreakfast.com/stack-energy-proposes-to-invest-500-million-to-build-massive-data-center-in-alaska/",
+            "outlet": "Broadband Breakfast"
+          },
+          {
+            "url": "https://alaskapublic.org/news/alaska-desk/2026-09-15/forget-jets-and-helicopters-data-centers-could-be-alaska-military-towns-next-noisy-neighbors",
+            "outlet": "Alaska Public Media"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Public comments on the state's proposed 50-year lease for the North Slope project were mostly opposed; fewer than a dozen supported it (July 2026). The Fairbanks North Star Borough Assembly discussed a data center moratorium in 2026.",
+        "sources": [
+          {
+            "url": "https://alaskabeacon.com/2026/07/06/data-center-critics-flood-alaska-land-managers-with-opposition-to-north-slope-project/",
+            "outlet": "Alaska Beacon"
+          },
+          {
+            "url": "https://www.newsminer.com/news/local_news/school-testing-data-center-moratorium-spark-discussion-at-assembly/article_6ac582a2-1e7b-41a0-926c-e2389cfa67c0.html",
+            "outlet": "Fairbanks Daily News-Miner"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Lisa Murkowski (R) said she is \"not a proponent of data centers\" at JBER or Interior military installations because of Alaska's insecure energy base. Sen. Dan Sullivan (R) has pushed to bring data centers onto military bases in the state. In September 2026 both senators said they were open to AI guardrails.",
+        "sources": [
+          {
+            "url": "https://www.alaskasnewssource.com/2026/09/17/alaska-senators-open-ai-guardrails-congress-winds-down-midterms/",
+            "outlet": "Alaska's News Source"
+          },
+          {
+            "url": "https://alaskapublic.org/news/alaska-desk/2026-09-15/forget-jets-and-helicopters-data-centers-could-be-alaska-military-towns-next-noisy-neighbors",
+            "outlet": "Alaska Public Media"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The University of Alaska Anchorage College of Engineering opened a Master of Science in Artificial Intelligence, Data Science, and Engineering in fall 2025 (announced June 2025), aimed at building AI models for problems such as wildfire risk and energy resilience. UAA also hosts the NSF-funded Alaska AI Solutions Consortium, which held its first meeting in June 2025. In September 2026 the Board of Regents reviewed a draft AI policy requiring all three UA universities to write AI implementation plans; a final version is targeted for the November 2026 meeting.",
+        "sources": [
+          {
+            "url": "https://www.uaa.alaska.edu/news/archive/2025/06/new-graduate-program-in-ai.cshtml",
+            "outlet": "University of Alaska Anchorage"
+          },
+          {
+            "url": "https://coeng.uaa.alaska.edu/AI/raise-ai-solutions-consortium-at-uaa/",
+            "outlet": "UAA College of Engineering"
+          },
+          {
+            "url": "https://www.ktoo.org/2026/09/16/university-of-alaska-regents-consider-draft-ai-policy/",
+            "outlet": "KTOO"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

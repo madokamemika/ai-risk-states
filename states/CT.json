@@ -1,0 +1,121 @@
+{
+  "code": "CT",
+  "summary": "Connecticut enacted SB 5 (Public Act 26-15) in 2026, covering chatbot self-harm safeguards, AI-in-hiring disclosure and an AI sandbox, which is not frontier-risk law. Its only frontier-risk link is AG William Tong co-signing the Sept 2026 state-AG letter asking Congress for federal frontier-AI rules.",
+  "xrisk": "direct",
+  "items": [
+    {
+      "date": "2026-06-02",
+      "type": "law",
+      "title": "SB 5 — Connecticut AI Responsibility and Transparency Act (Public Act 26-15)",
+      "status": "signed",
+      "text": "Signed by Lamont with chatbot safeguards, employment AI disclosure and youth online safety provisions.",
+      "source": "https://portal.ct.gov/governor/news/press-releases/2026/06-2026/governor-lamont-signs-legislation-establishing-youth-online-safety-protections",
+      "people": [
+        "ned-lamont",
+        "james-maroney",
+        "william-tong"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI safety",
+      "status": "filed",
+      "text": "The Connecticut attorney general signed the letter urging Congress to adopt federal frontier-AI safety rules and to bar preemption of state AI laws.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "william-tong"
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "type": "letter",
+      "title": "36-AG NAAG letter opposing federal preemption of state AI laws",
+      "status": "filed",
+      "text": "The Connecticut attorney general joined the bipartisan letter urging Congress to reject a moratorium on state AI laws.",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-36-state-attorneys-general-opposes-federal-ban-on-state-ai-laws/",
+      "people": [
+        "william-tong"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Connecticut passed one of the broadest state AI laws in 2026 and has no AI data centers yet, while towns pass moratoriums anyway.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Ned Lamont signed SB 5, the Connecticut Artificial Intelligence Responsibility and Transparency Act (Public Act 26-15), on May 29, 2026. It covers frontier models, AI companions used by minors, AI in hiring and watermarking of synthetic content, and was drafted with Attorney General William Tong and Sen. James Maroney.",
+        "sources": [
+          {
+            "url": "https://www.hklaw.com/en/insights/publications/2026/06/connecticut-enacts-comprehensive-ai-legislation",
+            "outlet": "Holland & Knight"
+          },
+          {
+            "url": "https://www.dlapiper.com/en-us/insights/publications/2026/05/unpacking-connecticuts-new-ai-law",
+            "outlet": "DLA Piper"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Trumbull adopted a two-year moratorium on new data centers on September 9, 2026, as 365 Data Centers weighs converting a 15 MW site there for AI; Morris (two years), Groton and West Haven (one year) did the same. In February 2026 lawmakers heard SB 245 to repeal the 2021 data-center tax incentives Lamont signed.",
+        "sources": [
+          {
+            "url": "https://www.wshu.org/2026-09-11/trumbull-could-become-home-to-one-of-cts-first-ai-data-centers-despite-new-2-year-moratorium",
+            "outlet": "WSHU"
+          },
+          {
+            "url": "https://www.wshu.org/connecticut-news/2026-02-27/ct-ai-data-centers-regulations",
+            "outlet": "WSHU"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Yale committed more than $150 million over five years (August 2024) to AI, including about 450 GPUs, faculty hires and seed grants.",
+        "sources": [
+          {
+            "url": "https://provost.yale.edu/news/advancing-yales-leadership-artificial-intelligence-support-faculty-students-and-staff",
+            "outlet": "Yale Provost"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Richard Blumenthal cosponsored the Hawley-Blumenthal AI Risk Evaluation Act (S. 2938, September 2025), requiring Energy Department testing of frontier models for loss-of-control and weaponization risk, and introduced the GRID Act requiring 20 MW+ data centers to supply their own power. In September 2026 Sen. Chris Murphy warned of \"AI companies in a blind race to build a death machine first\" and called for binding rules.",
+        "sources": [
+          {
+            "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2938/text",
+            "outlet": "Congress.gov"
+          },
+          {
+            "url": "https://www.wshu.org/connecticut-news/2026-02-27/ct-ai-data-centers-regulations",
+            "outlet": "WSHU"
+          },
+          {
+            "url": "https://www.benzinga.com/markets/tech/26/09/61707725/senator-chris-murphy-sounds-alarm-on-ai-race-backs-anthropic-researchers-warning-ai-companies-in-a-blind-race-to-build-a-death-machine-first",
+            "outlet": "Benzinga"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Connecticut's data-center incentive law, signed by Gov. Ned Lamont in March 2021, waives sales, use and property taxes for 20 to 30 years for projects investing $50 million to $400 million or more. By 2026 only Cigna had used it, saving about $17 million in sales tax on its Windsor data center. A proposed 1.5-million-square-foot hyperscale data center tied to the Millstone nuclear plant in Waterford was dropped. In his 2026 State of the State address Lamont said the state had told new data centers to \"slow down\" unless they add generation. In September 2026 Republican candidate Ryan Fazio called for repealing the tax break.",
+        "sources": [
+          {
+            "url": "https://ctmirror.org/2026/09/03/fazio-opposed-to-data-center-tax-break-not-data-centers/",
+            "outlet": "CT Mirror"
+          },
+          {
+            "url": "https://www.governing.com/finance/connecticuts-data-center-tax-break-bet-isnt-paying-off",
+            "outlet": "Governing"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

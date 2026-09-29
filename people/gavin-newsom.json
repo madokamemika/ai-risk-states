@@ -1,0 +1,62 @@
+{
+  "id": "gavin-newsom",
+  "name": "Gavin Newsom",
+  "office": "Governor of California",
+  "office_type": "governor",
+  "state": "CA",
+  "party": "D",
+  "committees": [],
+  "stance": "Vetoed SB 1047 but signed the SB 53 frontier-transparency law and in 2026 ordered work toward independent audits and a kill switch for frontier models, arguing California's model should be the national baseline absent federal action.",
+  "statements": [
+    {
+      "date": "2024-09-29",
+      "arena": "state",
+      "kind": "quote",
+      "text": "Let me be clear - I agree with the author - we cannot afford to wait for a major catastrophe to occur before taking action to protect the public.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf",
+      "outlet": "Office of the Governor (SB 1047 veto message)"
+    },
+    {
+      "date": "2025-09-29",
+      "arena": "state",
+      "kind": "quote",
+      "text": "AI is the new frontier in innovation, and California is not only here for it — but stands strong as a national leader by enacting the first-in-the-nation frontier AI safety legislation that builds public trust as this emerging technology rapidly evolves.",
+      "target": null,
+      "joint": null,
+      "source": "https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/",
+      "outlet": "TechCrunch"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "state",
+      "kind": "quote",
+      "text": "We're not waiting to act – we're going to speed up our work on substantial and responsible AI oversight before it's too late.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
+      "outlet": "Office of the Governor"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The federal government's abject failure to create any form of meaningful AI oversight or accountability should alarm every American, especially when AI CEOs themselves are begging for regulation.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
+      "outlet": "CNBC"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Gavin_Newsom_official_photo.jpg/250px-Gavin_Newsom_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gavin_Newsom_official_photo.jpg",
+    "license": "Public domain",
+    "artist": "Office of the Lieutenant Governor of California"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

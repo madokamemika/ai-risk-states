@@ -1,0 +1,106 @@
+{
+  "code": "GA",
+  "xrisk": "adjacent",
+  "summary": "Georgia enacted SB 540 (signed 2026-05-15, effective 2027-07-01), a chatbot child-safety law enforced by the attorney general. Nothing found on frontier-model or catastrophic risk; the governor opposed the federal moratorium on state AI laws.",
+  "items": [
+    {
+      "date": "2026-05-15",
+      "type": "law",
+      "title": "SB 540 — conversational AI protections for minors",
+      "status": "signed",
+      "text": "Requires AI disclosure, bars sexually explicit and romantic interactions with minors, mandates crisis resources and parental controls; effective July 1, 2027.",
+      "source": "https://senatepress.net/majority-leader-jason-anavitarte-applauds-signing-of-sb-540-to-protect-children-online.html",
+      "people": [
+        "jason-anavitarte",
+        "brian-kemp"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Georgia is one of the country's largest data-center markets, and power bills from that boom are now an issue in the governor's race, the utility-commission race and the Senate delegation.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Brian Kemp backs data-center growth. In July 2026 he called a blanket moratorium \"irresponsible\" and \"insane\", said he is \"more concerned about China winning this race\", and added \"We don't need to try to push these things where people don't want them.\" The state runs an Office of Artificial Intelligence. In March 2026 the state Senate passed a bill to repeal data-center sales-tax exemptions early; Kemp had vetoed a pause on those exemptions in May 2024.",
+        "sources": [
+          {
+            "url": "https://thecurrentga.org/2026/07/27/gov-kemp-backs-georgia-data-centers-despite-worries-about-ais-risks/",
+            "outlet": "The Current GA"
+          },
+          {
+            "url": "https://www.ajc.com/business/2026/03/georgia-senate-votes-to-claw-back-data-center-tax-breaks/",
+            "outlet": "Atlanta Journal-Constitution"
+          },
+          {
+            "url": "https://ai.georgia.gov/",
+            "outlet": "Georgia Office of Artificial Intelligence"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "OpenAI plans a $20 billion data center at an industrial site in Effingham County near Savannah (reported July 2026). Georgia Power's contract to serve it with 3.2 gigawatts reached its Public Service Commission review deadline in August 2026. The PSC has adopted a rule letting Georgia Power bill new customers above 100 MW, chiefly data centers, for the grid costs they cause.",
+        "sources": [
+          {
+            "url": "https://thecurrentga.org/2026/07/27/gov-kemp-backs-georgia-data-centers-despite-worries-about-ais-risks/",
+            "outlet": "The Current GA"
+          },
+          {
+            "url": "https://thecurrentga.org/2026/08/25/psc-deadline-arrives-for-georgia-powers-3-2-gigawatt-openai-data-center-contract/",
+            "outlet": "The Current GA"
+          },
+          {
+            "url": "https://psc.ga.gov/site/downloads/datacenterfactsheet.pdf",
+            "outlet": "Georgia Public Service Commission"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "DeKalb County extended its pause on new data centers through March 30, 2027, and Cobb County extended its moratorium into early 2027. Augusta-Richmond County extended its freeze on applications to mid-September 2026. A wave of bipartisan bills was filed in January 2026; by April, residents criticised the legislature for adjourning without acting on them. Data-center growth is a campaign issue in the 2026 governor's race.",
+        "sources": [
+          {
+            "url": "https://dcmap.us/insights/policy/",
+            "outlet": "DC Map policy tracker"
+          },
+          {
+            "url": "https://thecurrentga.org/2026/04/03/georgia-lawmakers-failure-to-act-on-data-center-concerns-draws-community-ire/",
+            "outlet": "The Current GA"
+          },
+          {
+            "url": "https://georgiarecorder.com/2026/09/29/debate-over-data-center-growth-in-georgia-heats-up-race-for-governor/",
+            "outlet": "Georgia Recorder"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Georgia Tech is building Nexus, a $20 million National Science Foundation-funded AI supercomputer announced in July 2025, planned for spring 2026 and rated at over 400 petaflops. Researchers nationwide can apply for time on it through the NSF.",
+        "sources": [
+          {
+            "url": "https://news.gatech.edu/news/2025/07/15/georgia-tech-build-20m-national-ai-supercomputer",
+            "outlet": "Georgia Tech"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Jon Ossoff wrote to FERC in April 2026 asking whether AI data centers are raising Georgia power bills and whether tech companies' promises to pay their own way are enforceable. On August 28, 2026, Sen. Raphael Warnock called for a moratorium on data-center construction in Georgia, lifted only for builders who guarantee no increases in residents' water and power bills, no pollution, no nondisclosure agreements and no \"sweetheart tax giveaways to developers\".",
+        "sources": [
+          {
+            "url": "https://www.cbsnews.com/atlanta/news/ossoff-investigating-ai-data-center-are-impacting-rising-power-bills-in-georgia/",
+            "outlet": "CBS News Atlanta"
+          },
+          {
+            "url": "https://thecurrentga.org/2026/08/28/warnock-calls-for-data-center-moratorium-in-georgia/",
+            "outlet": "The Current GA"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

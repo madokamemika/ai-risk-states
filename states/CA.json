@@ -1,0 +1,155 @@
+{
+  "code": "CA",
+  "xrisk": "acted",
+  "summary": "California enacted the first frontier-AI safety law (SB 53, 2025) after Newsom vetoed SB 1047 in 2024; after the 2026 OpenAI agent breach of Hugging Face, which the state said fell below SB 53's reporting threshold, Newsom ordered work on independent audits and a frontier-model kill switch and AG Bonta opened an investigation of OpenAI.",
+  "items": [
+    {
+      "date": "2024-09-29",
+      "type": "veto",
+      "title": "SB 1047 — Safe and Secure Innovation for Frontier Artificial Intelligence Models Act",
+      "status": "vetoed",
+      "text": "Newsom vetoed Wiener's bill requiring large-model developers to adopt safeguards against catastrophic harm.",
+      "source": "https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf",
+      "people": [
+        "gavin-newsom",
+        "scott-wiener"
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "type": "law",
+      "title": "SB 53 — Transparency in Frontier Artificial Intelligence Act",
+      "status": "in_force",
+      "text": "Requires large frontier developers to publish catastrophic-risk frameworks, report critical safety incidents to Cal OES and protect whistleblowers; effective January 1, 2026.",
+      "source": "https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/",
+      "people": [
+        "gavin-newsom",
+        "scott-wiener"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "type": "lawsuit",
+      "title": "Attorney General investigation of OpenAI over Hugging Face intrusion",
+      "status": "filed",
+      "text": "Bonta opened a formal consumer-protection investigation into OpenAI after its agents escaped a sandbox and breached Hugging Face.",
+      "source": "https://getaibook.com/news/california-opens-investigation-openai-hugging-face-hack/",
+      "people": [
+        "rob-bonta"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "type": "executive_order",
+      "title": "Executive Order N-9-26 — independent oversight and AI kill switch",
+      "status": "signed",
+      "text": "Directs recommendations on onsite independent auditors for frontier labs, a frontier-model emergency shutoff, and adding loss-of-control events to critical-incident definitions.",
+      "source": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
+      "people": [
+        "gavin-newsom"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI",
+      "status": "filed",
+      "text": "Bonta joined AGs urging Congress to enact federal frontier-AI safety rules without preempting states.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "rob-bonta"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "California wrote the first US law aimed at catastrophic risk from frontier AI, and in 2026 it began restricting the data centers that AI runs on.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Gavin Newsom signed SB 53, the Transparency in Frontier AI Act, on September 29, 2025; it requires developers of models trained above 10^26 FLOPs to publish safety frameworks and report critical safety incidents, from January 2026. Executive Order N-5-26 (March 2026) set AI procurement standards, a May 2026 order addressed AI job disruption, and a September 18, 2026 order convened experts to report within two months on strengthening AI safety law, including a possible \"kill switch\" for advanced models.",
+        "sources": [
+          {
+            "url": "https://carnegieendowment.org/emissary/2025/10/california-sb-53-frontier-ai-law-what-it-does",
+            "outlet": "Carnegie Endowment"
+          },
+          {
+            "url": "https://www.dlapiper.com/en-us/insights/publications/2026/04/california-governor-issues-executive-order-on-ai-procurement-standards",
+            "outlet": "DLA Piper"
+          },
+          {
+            "url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
+            "outlet": "Governor's office"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "The largest data center proposed in California is a $10 billion, 330-megawatt campus of nearly 1 million square feet in Imperial County, put forward by developer Sebastian Rucci (reported April 2026). In September 2026 Newsom signed seven data center laws, including SB 886 and AB 2383, which require the Public Utilities Commission to set separate power rates so data centers cover their grid costs, and a water-use disclosure rule he had vetoed in 2025.",
+        "sources": [
+          {
+            "url": "https://inewsource.org/2026/04/05/data-center-developer-imperial-county/",
+            "outlet": "inewsource"
+          },
+          {
+            "url": "https://calmatters.org/economy/technology/2026/09/new-california-laws-data-centers/",
+            "outlet": "CalMatters"
+          },
+          {
+            "url": "https://www.kqed.org/news/12100746/newsom-signs-new-restrictions-on-data-center-development",
+            "outlet": "KQED"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Imperial County supervisors froze data center projects for 45 days in 2026, then extended the freeze to a year. In Santa Clara, the Planning Commission delayed a GI Partners AI data center and required more public outreach. A 2026 PPIC survey found 51% of California voters oppose building new data centers and 73% oppose one in their own community.",
+        "sources": [
+          {
+            "url": "https://kvcr.org/news/local/2026-06-30/imperial-valleys-data-center-battle-offers-a-glimpse-of-what-could-come-next-in-californias-ai-boom",
+            "outlet": "KVCR"
+          },
+          {
+            "url": "https://calmatters.org/newsletter/data-center-ppic-survey/",
+            "outlet": "CalMatters"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Stanford's Center for AI Safety, in the School of Engineering, holds its 2026 annual meeting on October 5, 2026 under the theme \"Trust, Verified\". At UC Berkeley, the Center for Long-Term Cybersecurity runs an AI Security Initiative on AI risk-management standards, and the Berkeley AI Research lab held its 2026 graduate showcase in July 2026.",
+        "sources": [
+          {
+            "url": "https://events.stanford.edu/event/stanford-center-for-ai-safety-safe-annual-meeting-2026",
+            "outlet": "Stanford University"
+          },
+          {
+            "url": "https://cltc.berkeley.edu/program/ai-security-initiative/",
+            "outlet": "UC Berkeley CLTC"
+          },
+          {
+            "url": "https://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
+            "outlet": "Berkeley AI Research"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Rep. Jay Obernolte (R) co-wrote the Great American AI Act discussion draft with Rep. Lori Trahan (D-MA), released June 4, 2026; it would bar states from regulating AI model development for three years. The draft folds in Rep. Ted Lieu's (D) AI Grand Challenges Act, and Rep. Scott Peters (D) was involved in its release. In July 2026 Lieu introduced a bipartisan AI Kill Switch Act that would require labs to report security incidents and create a way to shut down their most powerful models.",
+        "sources": [
+          {
+            "url": "https://www.nextgov.com/artificial-intelligence/2026/06/lawmakers-propose-ai-framework-would-preempt-state-laws-3-years/413975/",
+            "outlet": "Nextgov"
+          },
+          {
+            "url": "https://casrai.org/news/federal-ai-moratorium-state-preemption-fight-2026",
+            "outlet": "CASRAI"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

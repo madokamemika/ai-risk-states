@@ -1,0 +1,127 @@
+{
+  "code": "OR",
+  "xrisk": "acted",
+  "summary": "Gov. Kotek's September 2026 executive order makes Oregon define frontier AI, set third-party safety reviews for state procurement and assess a kill switch; the Legislature passed a companion-chatbot safety law (SB 1546) and AG Rayfield signed the multistate frontier-AI letter.",
+  "items": [
+    {
+      "date": "2026-03-31",
+      "type": "law",
+      "title": "SB 1546 — AI companion chatbot safety",
+      "status": "signed",
+      "text": "Requires chatbot operators to detect and not encourage self-harm, with a private right of action; effective January 1, 2027.",
+      "source": "https://www.kgw.com/article/news/politics/kotek-sign-oregon-ai-teen-mental-health-bill-safety-chatbot/283-321743ef-c1c2-49dc-bdec-da956c94704f",
+      "people": [
+        "tina-kotek"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "executive_order",
+      "title": "Executive Order 26-26 — Responsible AI Procurement Standards",
+      "status": "signed",
+      "text": "Orders a frontier-AI definition, third-party safety review standards and a kill-switch feasibility assessment within 90 days.",
+      "source": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-issues-executive-order-to-advance-ai-safety-and-oversight",
+      "people": [
+        "tina-kotek"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI",
+      "status": "filed",
+      "text": "Rayfield signed the multistate letter urging federal frontier-AI safety regulation.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "dan-rayfield"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Oregon has been a data center hub for years, and in September 2026 its governor came out for a statewide moratorium.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Tina Kotek finalized a state-government AI Action Plan in February 2025. In September 2026 she issued Executive Order 26-26, which directs the state CIO to set standards for third-party AI safety review and to assess a \"kill switch\" requirement for frontier models. The same month she paused state land transactions for new data centers through July 2027 and said she now supports a statewide data center moratorium.",
+        "sources": [
+          {
+            "url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-announces-artificial-intelligence-action-plan",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-issues-executive-order-to-advance-ai-safety-and-oversight",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://www.klcc.org/politics-government/2026-09-08/gov-tina-kotek-says-she-now-supports-a-data-center-moratorium",
+            "outlet": "KLCC"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Data centers are concentrated around Hillsboro and in eastern Oregon. The 2025 POWER Act requires customers above 20 MW to sign 10- to 30-year contracts and pay all new distribution costs; it raised data center electricity rates by 29% while lowering rates for other Portland General Electric customers. Kotek convened a Data Center Advisory Committee in January 2026, with recommendations due in October 2026.",
+        "sources": [
+          {
+            "url": "https://www.portlandciviclab.org/deep-dives/data-centers",
+            "outlet": "Portland Civic Lab"
+          },
+          {
+            "url": "https://oregoncapitalchronicle.com/2026/01/20/oregon-governor-forms-new-committee-to-advise-on-massive-data-center-growth/",
+            "outlet": "Oregon Capital Chronicle"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "The Hillsboro City Council approved the first data center moratorium in Oregon, and Riverkeepers have gone to court over water in the Tualatin basin. In August 2026, Democratic legislators proposed a three-year moratorium on new large data centers statewide.",
+        "sources": [
+          {
+            "url": "https://www.portlandciviclab.org/deep-dives/data-centers",
+            "outlet": "Portland Civic Lab"
+          },
+          {
+            "url": "https://oregoncapitalchronicle.com/2026/08/04/democratic-lawmakers-propose-three-year-moratorium-on-new-large-data-centers-in-oregon/",
+            "outlet": "Oregon Capital Chronicle"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Oregon State University is building the Jen-Hsun and Lori Huang Collaborative Innovation Complex, funded by a $50 million gift from the Nvidia founder and his wife. It will house a $25 million Nvidia-based AI supercomputer, expected to be available in late 2026.",
+        "sources": [
+          {
+            "url": "https://arcs.oregonstate.edu/townhall",
+            "outlet": "Oregon State University"
+          },
+          {
+            "url": "https://blogs.nvidia.com/blog/ai-supercomputer-oregon-state/",
+            "outlet": "NVIDIA"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sens. Ron Wyden and Jeff Merkley (both D) wrote to Kotek's Data Center Advisory Committee on July 2, 2026 about the effects of fast data center growth. In August 2026 Wyden released a proposal to deny full expensing to new data centers and create a Data Center Public Investment excise tax. He also co-sponsors the AI Environmental Impacts Act, which would require AI data centers to report their environmental and energy effects.",
+        "sources": [
+          {
+            "url": "https://www.wyden.senate.gov/news/press-releases/wyden-merkley-ask-state-data-center-advisory-committee-to-consider-multiple-issues-raised-by-oregonians",
+            "outlet": "Sen. Wyden"
+          },
+          {
+            "url": "https://www.finance.senate.gov/ranking-members-news/wyden-unveils-proposal-to-ensure-data-centers-pay-for-disruptions-caused-to-communities",
+            "outlet": "Senate Finance Committee"
+          },
+          {
+            "url": "https://www.koin.com/news/oregon/oregon-senators-call-for-accountability-amid-rapid-data-center-growth/",
+            "outlet": "KOIN"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

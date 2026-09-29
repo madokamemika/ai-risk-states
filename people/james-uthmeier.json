@@ -1,0 +1,82 @@
+{
+  "id": "james-uthmeier",
+  "name": "James Uthmeier",
+  "office": "Attorney General of Florida",
+  "office_type": "state_ag",
+  "state": "FL",
+  "party": "R",
+  "committees": [],
+  "stance": "Seeks court orders barring OpenAI from developing new models without independent third-party safety approval, citing loss-of-control risk, and wants companies criminally liable when their chatbots take part in crimes.",
+  "statements": [
+    {
+      "date": "2026-09-28",
+      "arena": "state",
+      "kind": "quote",
+      "text": "This is not just any service. It is one that Defendants themselves concede poses an existential risk to the continued survival of humankind.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.wlrn.org/government-politics/2026-09-28/uthmeier-seeks-halt-to-openai-development",
+      "outlet": "WLRN"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "state",
+      "kind": "action",
+      "text": "Filed a motion for temporary injunction in Florida's Tenth Judicial Circuit (Highlands County) asking the court to bar OpenAI from developing new AI models without independent third-party safety approval and to block Florida minors from ChatGPT.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.washingtontimes.com/news/2026/sep/28/florida-attorney-general-seeks-temporary-injunction-openai-ai-safety/",
+      "outlet": "Washington Times"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "state",
+      "kind": "quote",
+      "text": "No new model development without independent safety guardrails, no more harvesting children's data, no more calling this product safe, accurate or reliable.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.wuft.org/technology/2026-09-28/florida-attorney-general-seeks-halt-to-openai-development",
+      "outlet": "WUFT"
+    },
+    {
+      "date": "2026-09-08",
+      "arena": "state",
+      "kind": "quote",
+      "text": "When a product participates in a crime like that, the company that built it is not a bystander.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.news4jax.com/news/local/2026/09/08/florida-ag-pushes-to-hold-ai-chatbot-companies-accountable-for-crimes/",
+      "outlet": "News4JAX"
+    },
+    {
+      "date": "2026-06-01",
+      "arena": "state",
+      "kind": "action",
+      "text": "Filed the first state lawsuit against OpenAI and CEO Sam Altman (unfair trade practices, negligence, fraudulent misrepresentation, public nuisance), seeking to hold Altman personally liable.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.nbcnews.com/tech/tech-news/florida-sues-openai-sam-altman-saying-put-profit-safety-rcna347602",
+      "outlet": "NBC News"
+    },
+    {
+      "date": "2026-04-22",
+      "arena": "state",
+      "kind": "quote",
+      "text": "My prosecutors have looked at this and they've told me if it was a person on the other end of that screen we would be charging them with murder.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.cfpublic.org/2026-04-22/uthmeier-expands-openai-probe-over-fsu-shooting-now-criminal",
+      "outlet": "Central Florida Public Media"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Official_portrait_of_Attorney_General_James_Uthmeier%2C_2025.jpg/250px-Official_portrait_of_Attorney_General_James_Uthmeier%2C_2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Attorney_General_James_Uthmeier,_2025.jpg",
+    "license": "Public domain",
+    "artist": "Office of the Attorney General, State of Florida"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

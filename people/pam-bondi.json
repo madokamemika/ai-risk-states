@@ -1,0 +1,32 @@
+{
+  "id": "pam-bondi",
+  "name": "Pam Bondi",
+  "office": "Former U.S. Attorney General (2025-2026)",
+  "office_type": "federal_exec",
+  "state": null,
+  "party": "R",
+  "committees": [],
+  "stance": "As Attorney General, set up the DOJ unit charged with challenging state AI laws.",
+  "statements": [
+    {
+      "date": "2026-01-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Issued the memorandum creating the DOJ AI Litigation Task Force, whose sole responsibility is to challenge state AI laws inconsistent with the executive order's policy.",
+      "target": null,
+      "joint": "doj-ai-litigation-task-force",
+      "source": "https://www.justice.gov/ag/media/1422986/dl?inline=",
+      "outlet": "U.S. Department of Justice"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Pam_Bondi_official_portrait.jpg/250px-Pam_Bondi_official_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pam_Bondi_official_portrait.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Department of Justice"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

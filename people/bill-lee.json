@@ -1,0 +1,46 @@
+{
+  "id": "bill-lee",
+  "name": "Bill Lee",
+  "office": "Governor of Tennessee",
+  "office_type": "governor",
+  "state": "TN",
+  "party": "R",
+  "committees": [],
+  "stance": "Signed chatbot-adjacent AI laws and an AI safety study; joined governors opposing a federal moratorium on state AI laws.",
+  "statements": [
+    {
+      "date": "2026-05-27",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed SB 1493, which in its final form orders a TACIR study of AI systems, safety and state protections due January 31, 2027.",
+      "target": null,
+      "joint": null,
+      "source": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1493&ga=114",
+      "outlet": "Tennessee General Assembly"
+    },
+    {
+      "date": "2026-04-06",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed SB 1580, barring AI systems from being marketed as qualified mental health professionals.",
+      "target": null,
+      "joint": null,
+      "source": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1580&ga=114",
+      "outlet": "Tennessee General Assembly"
+    },
+    {
+      "date": "2025-06-27",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed the 17-governor letter asking Congress to drop the state AI-law moratorium.",
+      "target": "Congress (Thune, Johnson)",
+      "joint": "gop-governors-ai-moratorium-letter-2025",
+      "source": "https://governor.arkansas.gov/news_post/sanders-leads-republican-governors-to-call-on-congress-to-remove-ai-regulatory-moratorium-from-one-big-beautiful-bill/",
+      "outlet": "Office of the Governor of Arkansas"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

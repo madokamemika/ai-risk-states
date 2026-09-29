@@ -1,0 +1,26 @@
+{
+  "id": "clinton-anderson",
+  "name": "Clinton Anderson",
+  "office": "Wisconsin State Representative",
+  "office_type": "state_rep",
+  "state": "WI",
+  "party": "D",
+  "committees": [],
+  "stance": "Opposes congressional preemption of state AI regulation.",
+  "statements": [
+    {
+      "date": "2026-07-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The federal government should be a partner with the state government and not an adversary.",
+      "target": "Congress",
+      "joint": "state-legislators-petition-great-american-ai-act-2026",
+      "source": "https://www.wpr.org/news/bipartisan-wisconsin-lawmakers-oppose-federal-limit-state-ai-regulation",
+      "outlet": "Wisconsin Public Radio"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

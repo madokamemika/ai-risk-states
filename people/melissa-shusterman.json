@@ -1,0 +1,42 @@
+{
+  "id": "melissa-shusterman",
+  "name": "Melissa Shusterman",
+  "office": "Member of the Pennsylvania House of Representatives",
+  "office_type": "state_rep",
+  "state": "PA",
+  "party": "D",
+  "committees": [],
+  "stance": "Prime sponsor of Pennsylvania's frontier-AI risk prevention bill modeled on California, New York and Illinois.",
+  "statements": [
+    {
+      "date": "2026-09",
+      "arena": "state",
+      "kind": "quote",
+      "text": "Government must ensure frontier models are not causing catastrophic harm to society. Currently, AI has no federal regulatory standards.",
+      "target": null,
+      "joint": "pa-hb-2800",
+      "source": "https://www.mychesco.com/a/news/government/pennsylvania-bill-would-mandate-audits-for-frontier-ai/",
+      "outlet": "MyChesCo"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "state",
+      "kind": "action",
+      "text": "HB 2800, the Artificial Intelligence Risk Prevention Act, was introduced and referred to the House Communications and Technology Committee.",
+      "target": null,
+      "joint": "pa-hb-2800",
+      "source": "https://www.billtrack50.com/billdetail/2014770",
+      "outlet": "BillTrack50"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Melissa_Shusterman_press_conference.jpg/250px-Melissa_Shusterman_press_conference.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Melissa_Shusterman_press_conference.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Governor Tom Wolf"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

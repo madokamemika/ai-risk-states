@@ -1,0 +1,55 @@
+{
+  "id": "john-thune",
+  "name": "John Thune",
+  "office": "U.S. Senator from South Dakota; Senate Majority Leader",
+  "office_type": "us_senator",
+  "state": "SD",
+  "party": "R",
+  "committees": [
+    "Senate Majority Leader",
+    "Senate Commerce, Science, and Transportation"
+  ],
+  "stance": "Supports light-touch guardrails on frontier AI models that put the onus on companies to mitigate risks, and is co-drafting a bill with Klobuchar and Cruz.",
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I do think that the threats are real.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.yahoo.com/news/politics/articles/exclusive-thune-believes-trump-willing-194356701.html",
+      "outlet": "Axios (via Yahoo News)"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I think you have to have at least some sort of a plan and some guardrails around it, which is what I think our bill does.",
+      "target": null,
+      "joint": "thune-klobuchar-cruz-frontier-bill-2026",
+      "source": "https://www.yahoo.com/news/politics/articles/exclusive-thune-believes-trump-willing-194356701.html",
+      "outlet": "Axios (via Yahoo News)"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Said President Trump is not really dug in against AI guardrails, while also saying some people are doing a lot of fear mongering about AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.benton.org/headlines/sen-thune-believes-trump-willing-listen-ai-guardrails",
+      "outlet": "Benton Institute"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/John_Thune_117th_Congress_portrait.jpg/250px-John_Thune_117th_Congress_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Thune_117th_Congress_portrait.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photographic Studio"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": "ME",
+  "summary": "Maine regulates specific AI harms, including chatbot disclosure (LD 1727, 2025) and AI in therapy, deepfakes and child safety bills in 2026; no frontier-model legislation was found. AG Aaron Frey co-signed the Sept 2026 state-AG letter urging federal frontier-AI rules.",
+  "xrisk": "adjacent",
+  "items": [
+    {
+      "date": "2025-06-25",
+      "type": "law",
+      "title": "LD 1727 — AI chatbot disclosure",
+      "status": "signed",
+      "text": "Makes it an unfair trade practice to use an AI chatbot that could mislead consumers into thinking they are talking to a human.",
+      "source": "https://www.maine.gov/housedems/news/governor-signs-kuhn-legislation-protect-mainers-deceptive-artificial-intelligence",
+      "people": []
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI safety",
+      "status": "filed",
+      "text": "The Maine attorney general signed the letter urging Congress to adopt federal frontier-AI safety rules and to bar preemption of state AI laws.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "aaron-frey"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Maine came within one veto of the first statewide data-center moratorium in the country.",
+    "sections": [
+      {
+        "topic": "pushback",
+        "text": "In April 2026 the Legislature passed LD 307, pausing permits for data centers of 20 MW or more until November 1, 2027. Gov. Janet Mills vetoed it on April 24 because it did not exempt a $550 million project in Jay; the House override vote on April 29 was 72-65, short of two-thirds.",
+        "sources": [
+          {
+            "url": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://www.pressherald.com/2026/04/29/maine-legislature-sustains-mills-data-center-moratorium-veto/",
+            "outlet": "Portland Press Herald"
+          },
+          {
+            "url": "https://mainemorningstar.com/2026/04/24/gov-mills-vetoes-landmark-data-center-ban/",
+            "outlet": "Maine Morning Star"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "In September 2026 Sen. Susan Collins called for more federal oversight of AI, saying Congress should protect critical infrastructure and set consumer protections \"while also maintaining America's leadership in AI innovation.\"",
+        "sources": [
+          {
+            "url": "https://www.bangordailynews.com/2026/09/16/politics/elections/maine-politicians-responding-to-ai-warnings-joam40zk0w/",
+            "outlet": "Bangor Daily News"
+          }
+        ]
+      },
+      {
+        "topic": "state_push",
+        "text": "Gov. Janet Mills created a 21-member AI Task Force by executive order in December 2024; its final report (October 2025) made 34 recommendations on AI literacy, workforce, education, consumer protection and state agency use. In April 2026 Mills vetoed LD 307, an 18-month moratorium on data centers over 20 MW, because it lacked an exemption for a project in Jay, while saying she supports a temporary moratorium. On April 29, 2026 she created a 15-member Data Center Advisory Council, with recommendations due January 29, 2027.",
+        "sources": [
+          {
+            "url": "https://www.maine.gov/governor/mills/news/task-force-releases-report-artificial-intelligence-maine-2025-11-10",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://www.maine.gov/governor/mills/news/governor-mills-announces-decision-ld-307-2026-04-24",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://www.maine.gov/governor/mills/news/governor-mills-signs-executive-order-establish-maine-data-center-advisory-council-2026-04-29",
+            "outlet": "Governor's office"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "In October 2025 Loring LiquidCool Data Center leased 115,000 sq ft at the former Loring Air Force Base in Limestone for what was billed as Maine's first AI data center, starting at 5-6 MW with immersion cooling and New Brunswick hydropower. A $550 million data center at the former Androscoggin Mill in Jay was put on hold in June 2026 when operator Sentinel Data Centers withdrew.",
+        "sources": [
+          {
+            "url": "https://www.bangordailynews.com/2025/10/14/aroostook/aroostook-business/ai-data-center-loring-air-force-base/",
+            "outlet": "Bangor Daily News"
+          },
+          {
+            "url": "https://www.mainepublic.org/climate/2026-06-12/developer-halts-plans-for-data-center-at-former-jay-paper-mill",
+            "outlet": "Maine Public"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The University of Maine's AI Initiative, launched in 2020 and directed by Ali Abedi, held its second annual Maine AI Conference in Orono in June 2025. In May 2026 the University of Maine System signed a two-year, $1.4 million contract for OpenAI's ChatGPT Edu for all students, faculty and staff, starting July 2026.",
+        "sources": [
+          {
+            "url": "https://umaine.edu/news/blog/2025/05/08/help-shape-what-ai-means-for-maine-at-june-conference/",
+            "outlet": "University of Maine"
+          },
+          {
+            "url": "https://www.maine.edu/blog/2026/05/26/university-of-maine-system-to-launch-shared-ai-tool-to-accelerate-student-institutional-success/",
+            "outlet": "University of Maine System"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

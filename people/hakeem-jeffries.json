@@ -1,0 +1,28 @@
+{
+  "id": "hakeem-jeffries",
+  "name": "Hakeem Jeffries",
+  "office": "House Democratic Leader; U.S. Representative, New York 8th District",
+  "office_type": "us_rep",
+  "state": "NY",
+  "party": "D",
+  "committees": [
+    "House Democratic Leader"
+  ],
+  "stance": "Wants Congress to act now to slow the pace of AI development so that it proceeds safely.",
+  "statements": [
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We should take decisive action now so that we can slow down, as the CEOs have recently acknowledged, slow down the pace of development in order to protect the American people and ensure that AI is proceeding safely.",
+      "target": null,
+      "joint": null,
+      "source": "https://abcnews.com/Politics/house-democratic-leader-jeffries-calls-lawmakers-act-urgently/story?id=136401544",
+      "outlet": "ABC News"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

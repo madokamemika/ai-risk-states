@@ -1,0 +1,62 @@
+{
+  "id": "alex-bores",
+  "name": "Alex Bores",
+  "office": "Member of the New York State Assembly",
+  "office_type": "state_rep",
+  "state": "NY",
+  "party": "D",
+  "committees": [],
+  "stance": "Assembly sponsor of the RAISE Act who wants further state rules (third-party audits, broader incident disclosure) and was targeted by the AI-industry super PAC Leading the Future in his 2026 congressional run.",
+  "statements": [
+    {
+      "date": "2025-12-19",
+      "arena": "state",
+      "kind": "quote",
+      "text": "New York now has the strongest AI transparency law in the country. This bill moves beyond California's SB53 in significant ways.",
+      "target": null,
+      "joint": "ny-raise-act",
+      "source": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-require-ai-frameworks-ai-frontier-models",
+      "outlet": "Office of the Governor of New York"
+    },
+    {
+      "date": "2026-06-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Though we've come up short tonight, the example set here was not the one AI oligarchs intended. They set out to make people afraid to stand up to them. Instead, they learned just how ready people are to push back.",
+      "target": null,
+      "joint": null,
+      "source": "https://gizmodo.com/ai-super-pacs-first-major-target-loses-new-york-congressional-primary-2000776808",
+      "outlet": "Gizmodo"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "state",
+      "kind": "quote",
+      "text": "by all reasonable interpretations, Hugging Face would have had to be disclosed in the original RAISE Act",
+      "target": null,
+      "joint": null,
+      "source": "https://nysfocus.com/2026/09/14/alex-bores-new-york-ai-regulation",
+      "outlet": "New York Focus"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Called for New York to add mandatory third-party audits, disclosure of all safety incidents, monitoring of deployed systems and cybersecurity standards for model access.",
+      "target": "New York Legislature",
+      "joint": null,
+      "source": "https://nysfocus.com/2026/09/14/alex-bores-new-york-ai-regulation",
+      "outlet": "New York Focus"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/AlexBoresAssemblyHeadshot.jpg/250px-AlexBoresAssemblyHeadshot.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:AlexBoresAssemblyHeadshot.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Alex Bores"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

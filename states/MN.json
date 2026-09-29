@@ -1,0 +1,136 @@
+{
+  "code": "MN",
+  "xrisk": "direct",
+  "summary": "Minnesota enacted the first state ban on AI nudification tools (HF 1606, 2026); AG Ellison joined the September 2026 AG letter asking Congress to regulate AI, including limits on harmful superintelligence. The nudification law itself is not x-risk.",
+  "items": [
+    {
+      "date": "2026-05",
+      "type": "law",
+      "title": "HF 1606 — AI nudification ban",
+      "status": "signed",
+      "text": "Bans accessing or using AI nudification tools, with private suits and AG penalties up to $500,000 per image; effective Aug. 1, 2026.",
+      "source": "https://www.fox9.com/news/walz-signs-ai-nudification-ban-minnesota-law",
+      "people": [
+        "erin-maye-quade",
+        "tim-walz"
+      ]
+    },
+    {
+      "date": "2026-03",
+      "type": "bill",
+      "title": "Ban on AI companion chatbots for minors",
+      "status": "introduced",
+      "text": "Would bar companies from letting people under 18 access AI companions.",
+      "source": "http://www.minnpost.com/state-government/2026/03/citing-suicides-minnesota-lawmakers-want-to-end-minors-access-to-ai-companions/",
+      "people": [
+        "erin-maye-quade"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "Multistate AG letter urging Congress to regulate AI",
+      "status": "filed",
+      "text": "Ellison joined 25 AGs calling for federal AI safety regulation.",
+      "source": "https://www.ag.state.mn.us/Office/Communications/2026/09/24_AI-Regulation.asp",
+      "people": [
+        "keith-ellison"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Minnesota regulated data centers early, but courts, not lawmakers, have been the ones halting projects while its senior senator drafts a federal AI-safety bill.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "A June 2025 law ended data centers' electricity sales-tax break, bars utilities from shifting their supply costs onto other customers, requires water-use disclosure and charges large centres $2-5 million a year for low-income energy programmes. In May 2026 Gov. Tim Walz signed HF 1606, which bans AI \"nudification\" tools from August 2026; xAI sued to block it in July.",
+        "sources": [
+          {
+            "url": "https://www.mprnews.org/story/2025/06/18/data-centers-face-new-regulations-in-minnesota",
+            "outlet": "MPR News"
+          },
+          {
+            "url": "https://www.cbsnews.com/minnesota/news/governor-walz-sings-law-stop-ai-being-used-for-csam/",
+            "outlet": "CBS Minnesota"
+          },
+          {
+            "url": "https://www.mprnews.org/story/2026/07/28/elon-musks-company-x-ai-sues-minnesota-over-new-law-to-bar-manipulated-images-to-fake-nudity",
+            "outlet": "MPR News"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "In May 2026 a Goodhue County judge halted Google's \"Project Skyway\" in Pine Island over its environmental review, and in June the Court of Appeals sided with challengers to an Archer data center in Faribault. Lawsuits are pending in Hermantown, Monticello and Farmington. In September 2026 Woodbury, Bemidji and Lonsdale adopted one-year moratoriums.",
+        "sources": [
+          {
+            "url": "https://www.mprnews.org/story/2026/05/26/pine-island-hyperscale-data-center-construction-halted-by-judge",
+            "outlet": "MPR News"
+          },
+          {
+            "url": "https://www.minnpost.com/greater-minnesota/2026/07/in-pausing-data-centers-minnesota-courts-did-what-local-officials-wouldnt/",
+            "outlet": "MinnPost"
+          },
+          {
+            "url": "https://finance-commerce.com/2026/09/woodbury-data-center-moratorium/",
+            "outlet": "Finance & Commerce"
+          },
+          {
+            "url": "https://www.kaxe.org/local-news/2026-09-15/bemidji-adopts-1-year-moratorium-on-data-center-development",
+            "outlet": "KAXE"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "In September 2026 Sen. Amy Klobuchar was drafting an AI-safety bill with Majority Leader John Thune that would require developers to test models for catastrophic risks such as biological or nuclear threats before release and to report imminent risks. Reps. Angie Craig, Betty McCollum and Kelly Morrison signed a letter asking Speaker Johnson to keep Congress in session to pass AI legislation.",
+        "sources": [
+          {
+            "url": "https://www.minnpost.com/dc-memo/2026/09/d-c-memo-ai-doomers-minnesota-farmers-lobby-congress/",
+            "outlet": "MinnPost"
+          },
+          {
+            "url": "https://www.semafor.com/article/09/10/2026/bipartisan-ai-safety-bill-gains-momentum-on-the-hill",
+            "outlet": "Semafor"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Meta is building an $800 million data center in Rosemount, optimized for AI workloads. Twelve data-center projects had been proposed in Minnesota by October 2025, including Tract's $5 billion campus in Farmington and a CloudHQ campus of up to 200 MW in Chaska. Google has proposed campuses in Pine Island and Hermantown with more than $100 million in combined tax incentives; as of August 2026 Pine Island was on hold pending an environmental lawsuit and Hermantown had been cut from four buildings to three.",
+        "sources": [
+          {
+            "url": "https://www.enterpriseminnesota.org/articles/spring-2026/building-ais-home/",
+            "outlet": "Enterprise Minnesota"
+          },
+          {
+            "url": "https://techxplore.com/news/2025-01-mega-centers-minnesota-power-staggering.html",
+            "outlet": "Tech Xplore"
+          },
+          {
+            "url": "https://www.mprnews.org/story/2026/08/20/google-launches-a-charm-offensive-in-2-minnesota-towns-as-data-center-opposition-grows",
+            "outlet": "MPR News"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "In March 2026 the University of Minnesota launched a university-wide AI Hub led by Galin Jones, its first vice provost for AI, with a focus on agriculture, medicine and materials science. The university holds a $20 million USDA and NSF award for the AI-LEAF Institute. In February 2026 Regents Professor Vipin Kumar was named to the UN's first global scientific panel on AI. In August 2026 the university received three Phase I awards from the Department of Energy's Genesis Mission for AI-driven research.",
+        "sources": [
+          {
+            "url": "https://twin-cities.umn.edu/news-events/university-minnesota-launches-ai-hub-drive-statewide-innovation-education-and-public",
+            "outlet": "University of Minnesota"
+          },
+          {
+            "url": "https://twin-cities.umn.edu/news-events/university-minnesota-receives-doe-genesis-mission-funding-advance-ai-breakthroughs",
+            "outlet": "University of Minnesota"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

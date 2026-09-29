@@ -1,0 +1,121 @@
+{
+  "code": "SD",
+  "xrisk": "adjacent",
+  "summary": "South Dakota has no frontier-AI activity; 2026 bills on minors’ chatbot use, chatbot disclosure, AI therapy and an AI study task force all failed or were withdrawn, and AG Jackley joined the 2025 44-AG chatbot letter.",
+  "items": [
+    {
+      "date": "2026-02-12",
+      "type": "bill",
+      "title": "SB 168 — regulate chatbot use by minors",
+      "status": "failed",
+      "text": "Deferred to the 41st legislative day in committee.",
+      "source": "https://sdlegislature.gov/Session/Bill/26549",
+      "people": [
+        "liz-larson"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "type": "bill",
+      "title": "HB 1125 — AI impact study task force",
+      "status": "failed",
+      "text": "Did not pass the House.",
+      "source": "https://sdlegislature.gov/Session/Bill/26539",
+      "people": []
+    },
+    {
+      "date": "2025-08-25",
+      "type": "letter",
+      "title": "44-AG letter to AI companies on child safety",
+      "status": "filed",
+      "text": "Jackley joined the coalition.",
+      "source": "https://www.illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-44-states-in-demanding-companies-end-predatory-ai-interactions-with-kids",
+      "people": [
+        "marty-jackley"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "South Dakota passed a data-center \"bill of rights\" and refused tax breaks, and its two senators sit at the centre of federal AI policy.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Larry Rhoden signed two data-center laws in 2026, in effect July 1: SB 135, the \"Data Center Bill of Rights\", makes data centers pay for the rate increases they cause, requires water providers to check large centres' use against supply, and bars the state from overriding local data-center ordinances. Lawmakers rejected a sales-tax exemption for data-center equipment in February 2026, and also rejected moratoriums.",
+        "sources": [
+          {
+            "url": "https://www.sdpb.org/politics/2026-07-01/property-tax-relief-data-center-bills-among-new-south-dakota-laws-taking-effect",
+            "outlet": "SDPB"
+          },
+          {
+            "url": "https://southdakotasearchlight.com/2026/09/01/south-dakota-utility-regulator-candidates-clash-over-ai-data-center-pause/",
+            "outlet": "South Dakota Searchlight"
+          },
+          {
+            "url": "https://southdakotasearchlight.com/2026/02/04/data-center-tax-break-proposal-fails-in-south-dakota-legislative-committee/",
+            "outlet": "South Dakota Searchlight"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "In the 2026 Public Utilities Commission race, Democrat Frank Kloucek proposed a one-year ban on new AI data centers; Republican Don Haggar called it \"reckless and pandering\" (September 2026).",
+        "sources": [
+          {
+            "url": "https://southdakotasearchlight.com/2026/09/01/south-dakota-utility-regulator-candidates-clash-over-ai-data-center-pause/",
+            "outlet": "South Dakota Searchlight"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "In July 2026 the Board of Regents asked for $20 million in one-time and $4.5 million in ongoing funding to build and maintain an AI system for the public universities, and adopted a new AI policy.",
+        "sources": [
+          {
+            "url": "https://southdakotasearchlight.com/2026/07/23/universities-ask-for-24-5-million-to-launch-and-maintain-artificial-intelligence-system/",
+            "outlet": "South Dakota Searchlight"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Mike Rounds co-chaired the bipartisan Senate AI Working Group behind the May 2024 AI roadmap and in May 2026 co-sponsored the CREATE AI Act. In September 2026 Majority Leader John Thune was drafting an AI-safety bill with Sen. Amy Klobuchar focused on catastrophic risks; its text had not been released.",
+        "sources": [
+          {
+            "url": "https://www.rounds.senate.gov/newsroom/press-releases/following-historic-ai-insight-forums-over-the-past-year-senator-rounds-leader-schumer-senators-heinrich-and-young-reveal-bipartisan-roadmap-for-artificial-intelligence-policy-in-the-united-states-senate",
+            "outlet": "Sen. Mike Rounds"
+          },
+          {
+            "url": "https://fedscoop.com/create-ai-act-senate-bill-nairr/",
+            "outlet": "FedScoop"
+          },
+          {
+            "url": "https://www.semafor.com/article/09/10/2026/bipartisan-ai-safety-bill-gains-momentum-on-the-hill",
+            "outlet": "Semafor"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Gemini Data Center SD LLC plans a data center of up to 500 MW on about 146 acres northeast of Sioux Falls, next to Xcel Energy's Split Rock substation; the city annexed the land in October 2025 and the council rezoned it 7-0 in January 2026, with closed-loop cooling required. Applied Digital's proposed 430 MW campus near Toronto in Deuel County, with up to $16 billion in investment, was declared unlikely to go forward in March 2026 after the Legislature rejected data-center sales-tax exemptions.",
+        "sources": [
+          {
+            "url": "https://www.sdpb.org/politics/2026-01-07/sioux-falls-city-council-approves-rezoning-of-proposed-data-center-land",
+            "outlet": "SDPB"
+          },
+          {
+            "url": "https://www.sdpb.org/politics/2026-03-09/toronto-data-center-likely-wont-go-forward-after-legislature-rejects-incentives",
+            "outlet": "SDPB"
+          },
+          {
+            "url": "https://www.datacenterdynamics.com/en/news/applied-digital-says-data-center-near-toronto-south-dakota-unlikely-to-go-forward/",
+            "outlet": "DatacenterDynamics"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

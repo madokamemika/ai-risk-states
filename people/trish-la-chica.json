@@ -1,0 +1,26 @@
+{
+  "id": "trish-la-chica",
+  "name": "Trish La Chica",
+  "office": "Hawaii State Representative",
+  "office_type": "state_rep",
+  "state": "HI",
+  "party": "D",
+  "committees": [],
+  "stance": "Sponsored Hawaii's AI companion safety law for children (adjacent).",
+  "statements": [
+    {
+      "date": "2026-07-14",
+      "arena": "state",
+      "kind": "quote",
+      "text": "Our keiki are growing up in a world where artificial intelligence is becoming part of everyday life, and it is our kuleana to put the right protections in place.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.bigislandvideonews.com/2026/07/14/new-laws-on-artificial-intelligence-enacted-in-hawai%CA%BBi/",
+      "outlet": "Big Island Video News"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

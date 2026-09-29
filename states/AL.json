@@ -1,0 +1,114 @@
+{
+  "code": "AL",
+  "xrisk": "adjacent",
+  "summary": "Alabama's 2026 chatbot age-verification bill (HB 324) died in House Judiciary; a legislative commission on AI and children's safety is drafting recommendations due November 1 for 2027. Nothing on frontier or catastrophic risk.",
+  "items": [
+    {
+      "date": "2026",
+      "type": "bill",
+      "title": "HB 324 — AI chatbot age verification",
+      "status": "failed",
+      "text": "Would have required age verification and kept human-like chatbots from minors; stalled in House Judiciary.",
+      "source": "https://www.wbrc.com/2026/07/24/ai-commission-weighs-laws-keep-kids-teens-safe/",
+      "people": []
+    },
+    {
+      "date": "2026-07-23",
+      "type": "statement",
+      "title": "Commission on Artificial Intelligence and Children's Safety",
+      "status": "pending",
+      "text": "Legislative commission hearing experts on chatbot safeguards for minors, reporting to the Legislature by November 1.",
+      "source": "https://www.route-fifty.com/artificial-intelligence/2026/07/experts-tell-alabama-lawmakers-set-red-lines-protect-adolescents-ai-chatbots/414959/",
+      "people": [
+        "ben-robbins"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Alabama's biggest AI story is Project Marvel, a $14 billion data center in Bessemer that was approved under a nondisclosure deal residents are still fighting.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Kay Ivey created a Generative AI Task Force by executive order in February 2024; it delivered its final report in March 2025. In February 2026 she formed a Technology Quality Assurance Board to carry out its recommendations, including use of the NIST AI Risk Management Framework in state agencies.",
+        "sources": [
+          {
+            "url": "https://governor.alabama.gov/newsroom/2026/02/governor-ivey-forms-technology-quality-assurance-board-to-oversee-innovation-and-safeguard-statewide-it-systems/",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://governor.alabama.gov/newsroom/2025/03/governor-ivey-releases-genai-task-force-final-report/",
+            "outlet": "Governor's office"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "The Bessemer City Council approved Project Marvel, a $14 billion, 18-building hyperscale campus, in November 2025. A revised plan in February 2026 expanded the site to 1,600 acres; the project is described as a 1-gigawatt data center.",
+        "sources": [
+          {
+            "url": "https://www.datacenterdynamics.com/en/news/alabamas-planned-14bn-project-marvel-data-center-could-double-in-size/",
+            "outlet": "DatacenterDynamics"
+          },
+          {
+            "url": "https://www.wbrc.com/2026/02/09/proposed-data-center-campus-bessemer-expands-1600-acres-updated-plan/",
+            "outlet": "WBRC"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "A nondisclosure agreement released in July 2026 showed Bessemer officials had been required to destroy records about Project Marvel; it came out after environmental groups threatened to sue over public records. Birmingham has considered a 270-day moratorium on data-center activity. In September 2026 a conservative anti-data-center group brought a bus tour to Bessemer and McCalla.",
+        "sources": [
+          {
+            "url": "https://www.wbhm.org/local-news/2026-07-14/document-shows-bessemer-data-center-non-disclosure-agreement-required-officials-to-destroy-records",
+            "outlet": "WBHM"
+          },
+          {
+            "url": "https://alabamarivers.org/bcc/",
+            "outlet": "Alabama Rivers Alliance"
+          },
+          {
+            "url": "https://www.alreporter.com/2026/09/15/conservative-anti-data-center-group-brings-bus-tour-to-bessemer/",
+            "outlet": "Alabama Political Reporter"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "In April 2026 the University of Alabama moved to create a School of Data Science focused on AI, the first such academic unit in the state. It is also opening the Alabama Center for the Advancement of Artificial Intelligence in its College of Engineering with a $2 million gift.",
+        "sources": [
+          {
+            "url": "https://www.hpcwire.com/aiwire/2026/04/29/university-of-alabama-to-launch-states-first-school-of-data-science/",
+            "outlet": "HPCwire"
+          },
+          {
+            "url": "https://www.cbs42.com/news/local/university-of-alabama-launching-new-center-focused-on-ai-research/",
+            "outlet": "CBS 42"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Katie Britt co-sponsored the GUARD Act in October 2025 to require age verification and bar minors from AI chatbots. On September 1, 2026 she called for public accountability from data-center developers and praised the Ratepayer Protection Pledge as \"an outstanding first step\". In late September 2026 she co-sponsored the bipartisan AI Systems Transparency Act. Sen. Tommy Tuberville, the Republican nominee for governor, supports expanding data centers.",
+        "sources": [
+          {
+            "url": "https://www.alreporter.com/2025/10/30/sen-britt-joins-senate-colleagues-on-bill-to-protect-minors-from-ai-chatbots/",
+            "outlet": "Alabama Political Reporter"
+          },
+          {
+            "url": "https://www.alreporter.com/2026/09/01/britt-talks-data-center-accountability-defends-trump-admin-ratepayer-pledge/",
+            "outlet": "Alabama Political Reporter"
+          },
+          {
+            "url": "https://www.alreporter.com/2026/09/29/sen-britt-backs-bipartisan-ai-transparency-legislation/",
+            "outlet": "Alabama Political Reporter"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

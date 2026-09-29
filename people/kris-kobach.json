@@ -1,0 +1,52 @@
+{
+  "id": "kris-kobach",
+  "name": "Kris Kobach",
+  "office": "Attorney General of Kansas",
+  "office_type": "state_ag",
+  "state": "KS",
+  "party": "R",
+  "committees": [],
+  "stance": "Pushes state chatbot restrictions and enforcement; joined the OpenAI Hugging Face demand and opposed a federal ban on state AI laws.",
+  "statements": [
+    {
+      "date": "2026-02",
+      "arena": "state",
+      "kind": "action",
+      "text": "Testified in support of SB 405, which would bar AI chatbots from forming emotional relationships with users, encouraging suicide or offering mental health care.",
+      "target": null,
+      "joint": null,
+      "source": "https://kansasreflector.com/2026/02/10/bill-targets-emotional-sometimes-dangerous-interactions-between-kansans-and-artificial-intelligence/",
+      "outlet": "Kansas Reflector"
+    },
+    {
+      "date": "2026-08-03",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Signed the 15-state letter demanding OpenAI preserve records on the Hugging Face intrusion.",
+      "target": "OpenAI",
+      "joint": "ag-openai-preservation-letter-2026-08",
+      "source": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "outlet": "Iowa Attorney General"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined the bipartisan 36-AG letter urging Congress to reject a ban on state AI laws.",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.michigan.gov/ag/news/press-releases/2025/11/26/ag-nessel-pushes-back-on-potential-state-ai-law-ban",
+      "outlet": "Michigan Department of Attorney General"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kris_Kobach_Kansas%2C_Secretary_of_State_%2813419571233%29_%28cropped%29.jpg/250px-Kris_Kobach_Kansas%2C_Secretary_of_State_%2813419571233%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kris_Kobach_Kansas,_Secretary_of_State_(13419571233)_(cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Alice Linahan  Voices Empower"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

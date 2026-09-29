@@ -1,0 +1,104 @@
+{
+  "code": "NV",
+  "xrisk": "direct",
+  "summary": "Nevada's own AI laws are targeted (AI therapy ban, deepfakes, CSAM), with no frontier bill (the Legislature did not meet in 2026); the frontier link is AG Aaron Ford signing the September 2026 letter urging Congress to regulate frontier AI.",
+  "items": [
+    {
+      "date": "2025-06-05",
+      "type": "law",
+      "title": "AB 406 — AI in mental and behavioral health care",
+      "status": "in_force",
+      "text": "Bars AI systems from providing professional mental or behavioral health care.",
+      "source": "https://www.wsgr.com/en/insights/nevada-passes-law-limiting-ai-use-for-mental-and-behavioral-healthcare.html",
+      "people": [
+        "joe-lombardo"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI",
+      "status": "filed",
+      "text": "Ford signed the multistate letter urging federal frontier-AI safety rules without preemption.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "aaron-ford"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Nevada's governor calls data centers a \"new gold rush\" while Reno, rural counties and tribes move to pause them over water.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Joe Lombardo has made data centers central to his economic strategy and has called them the \"new gold rush\". On September 16, 2026 he signed an executive order requiring data center developers to pay the full Local School Support Tax and adding water and energy protections. The state has granted about $340 million in data center tax abatements since 2021.",
+        "sources": [
+          {
+            "url": "https://www.gov.nv.gov/press-releases/governor-joe-lombardo-signs-executive-order-placing-guardrails-on-data-center-development-restoring-education-funding/",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://nevadacurrent.com/2026/09/18/lombardo-doubles-down-on-data-centers-offers-trimmed-tax-breaks-commitments-to-wary-public/",
+            "outlet": "Nevada Current"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "About 70 data centers were planned, under construction or operating in Nevada as of May 2026, most at the Tahoe-Reno Industrial Center in Storey County. In May 2026 Fleet and Tract broke ground there on a 2-million-square-foot, $4.6 billion data center. By 2033, power generation for the center's data centers could need nearly 12,450 acre-feet of water a year.",
+        "sources": [
+          {
+            "url": "https://www.kolotv.com/2026/05/20/gov-lombardo-construction-companies-break-ground-2-million-sq-ft-data-center-storey-co/",
+            "outlet": "KOLO"
+          },
+          {
+            "url": "https://sierranevadaally.org/2026/05/17/data-centers-nevadas-new-boom/",
+            "outlet": "Sierra Nevada Ally"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "In May 2026 Reno became the first local government in Nevada to pause new data center applications. Nye County approved a temporary moratorium at its water district's request, and Churchill and Humboldt counties took up similar votes. In September 2026 northern Nevada tribes spoke out over effects on the Truckee River and its endangered fish.",
+        "sources": [
+          {
+            "url": "https://www.reviewjournal.com/news/environment/this-nevada-city-is-the-first-to-pause-new-data-centers-3824360/",
+            "outlet": "Las Vegas Review-Journal"
+          },
+          {
+            "url": "https://www.kunr.org/energy-and-environment/2026-09-02/northern-nevada-tribes-speak-out-against-data-centers",
+            "outlet": "KUNR"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The University of Nevada, Reno launched PACK AI, a campus initiative on AI in teaching, research and administration, and in 2026 its College of Education is central to a four-year, $2.7 million federal program for K-12 AI and computer science education. UNLV's AI Research Hub published its first \"State of AI in Gaming\" report with KPMG in 2026.",
+        "sources": [
+          {
+            "url": "https://www.unr.edu/nevada-today/news/2026/ai-and-education-grant",
+            "outlet": "University of Nevada, Reno"
+          },
+          {
+            "url": "https://ggbmagazine.com/articles/unlv-releases-inaugural-state-of-ai-in-gaming-report/",
+            "outlet": "GGB Magazine"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "On September 14, 2026 Sen. Catherine Cortez Masto (D) said that \"AI development is moving quickly and the safety risks for Americans are also increasing every day.\" She called for immediate congressional hearings on AI safety and for commonsense guardrails on AI development.",
+        "sources": [
+          {
+            "url": "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-statement-on-reports-of-threats-posed-by-rapidly-developing-ai-technology/",
+            "outlet": "Sen. Cortez Masto"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pete-hegseth",
+  "name": "Pete Hegseth",
+  "office": "Secretary of Defense (Secretary of War)",
+  "office_type": "federal_exec",
+  "state": null,
+  "party": "R",
+  "committees": [],
+  "stance": "Wants frontier AI available to the military without developer-imposed limits on autonomous weapons or surveillance use.",
+  "statements": [
+    {
+      "date": "2026-02-27",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Designated Anthropic a supply chain risk after it refused to waive limits on mass domestic surveillance and fully autonomous weapons in its defense contract.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.mayerbrown.com/en/insights/publications/2026/03/pentagon-designates-anthropic-a-supply-chain-risk-what-government-contractors-need-to-know",
+      "outlet": "Mayer Brown"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Pete_Hegseth_Official_Portrait.jpg/250px-Pete_Hegseth_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pete_Hegseth_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Department of Defense"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

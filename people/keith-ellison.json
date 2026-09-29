@@ -1,0 +1,52 @@
+{
+  "id": "keith-ellison",
+  "name": "Keith Ellison",
+  "office": "Attorney General of Minnesota",
+  "office_type": "state_ag",
+  "state": "MN",
+  "party": "D",
+  "committees": [],
+  "stance": "Wants Congress to regulate frontier AI development, keep state rules, and let state AGs enforce federal AI law.",
+  "statements": [
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We will be doing the American people a tremendous disservice if we allow the frontier of AI development to remain a wild west of near-misses and chilling failures.",
+      "target": "Congress",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://www.ag.state.mn.us/Office/Communications/2026/09/24_AI-Regulation.asp",
+      "outlet": "Minnesota Attorney General"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It is past time Congress do the same with artificial intelligence.",
+      "target": "Congress",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://www.ag.state.mn.us/Office/Communications/2026/09/24_AI-Regulation.asp",
+      "outlet": "Minnesota Attorney General"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined the bipartisan 36-AG letter urging Congress to reject a ban on state AI laws.",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.michigan.gov/ag/news/press-releases/2025/11/26/ag-nessel-pushes-back-on-potential-state-ai-law-ban",
+      "outlet": "Michigan Department of Attorney General"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Keith_Ellison_portrait_%28cropped%29.jpg/250px-Keith_Ellison_portrait_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Keith_Ellison_portrait_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "US House Office of Photography"
+  }
+}

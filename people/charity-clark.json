@@ -1,0 +1,52 @@
+{
+  "id": "charity-clark",
+  "name": "Charity Clark",
+  "office": "Attorney General of Vermont",
+  "office_type": "state_ag",
+  "state": "VT",
+  "party": "D",
+  "committees": [],
+  "stance": "Opposes federal preemption of state AI laws and wants states free to regulate AI harms.",
+  "statements": [
+    {
+      "date": "2025-05-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is a new frontier for consumer protection. With this emerging technology, we need to make sure that elections are protected, consumers are safe from scams, and that our data privacy is preserved.",
+      "target": "Congress",
+      "joint": "ag-letter-moratorium-may-2025",
+      "source": "https://ago.vermont.gov/blog/2025/05/16/attorney-general-clark-leads-bipartisan-letter-congress-opposing-budget-amendment-prohibiting-states",
+      "outlet": "Vermont Attorney General"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed the 26-attorney-general letter urging Congress to immediately establish federal regulation and safety protocols for frontier AI (mandatory safety testing oversight, incident investigations, international coordination against harmful superintelligence) without preempting state law.",
+      "target": "Congressional leadership (Johnson, Thune, Jeffries, Schumer)",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "outlet": "California Attorney General (letter PDF)"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined the bipartisan 36-attorney-general NAAG letter urging Congress to reject a federal moratorium preempting state AI laws.",
+      "target": "Congressional leadership",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-36-state-attorneys-general-opposes-federal-ban-on-state-ai-laws/",
+      "outlet": "National Association of Attorneys General"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Charity_Clark.jpg/250px-Charity_Clark.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Charity_Clark.jpg",
+    "license": "CC BY 3.0",
+    "artist": "Town Meeting TV"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

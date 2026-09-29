@@ -1,0 +1,52 @@
+{
+  "id": "aaron-ford",
+  "name": "Aaron Ford",
+  "office": "Attorney General of Nevada (2026 Democratic nominee for governor)",
+  "office_type": "state_ag",
+  "state": "NV",
+  "party": "D",
+  "committees": [],
+  "stance": "Backs federal frontier-AI safety regulation that preserves state authority; at home stresses guardrails on AI harms to children.",
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed the 26-AG letter urging Congress to immediately establish comprehensive federal regulation and safety protocols for frontier AI, including mandatory federal oversight of safety testing, and to prohibit preemption of state law.",
+      "target": "Congressional leadership (Johnson, Thune, Jeffries, Schumer)",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "outlet": "California Attorney General (letter PDF)"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "state",
+      "kind": "quote",
+      "text": "We have to advocate that, but we have to do so in a way that is responsible, that protects the public.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kunr.org/local-stories/2026-09-18/listen-to-this-extended-interview-with-aaron-ford-on-data-centers-and-ai",
+      "outlet": "KUNR"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined a 36-AG letter to Congress opposing federal legislation that would bar states from enacting or enforcing AI laws.",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.ag.idaho.gov/newsroom/attorney-general-labrador-pushes-back-against-federal-overreach-on-states-regulation-of-artificial-intelligence/",
+      "outlet": "Idaho Attorney General"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Aaron_D._Ford.jpg/250px-Aaron_D._Ford.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aaron_D._Ford.jpg",
+    "license": "Public domain",
+    "artist": "United State Senate - the Office of Michael Bennet"
+  }
+}

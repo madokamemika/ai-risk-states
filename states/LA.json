@@ -1,0 +1,111 @@
+{
+  "code": "LA",
+  "xrisk": "adjacent",
+  "summary": "Louisiana is the clearest regional case of federal preemption pressure working: legislators shelved seven of nearly 20 AI bills in 2026, including a chatbot-and-children bill, after Trump threatened broadband funding. Only child-deepfake and election-deepfake laws passed; nothing on frontier risk.",
+  "items": [
+    {
+      "date": "2026-04-01",
+      "type": "statement",
+      "title": "Seven AI bills shelved after Trump funding threat",
+      "status": "failed",
+      "text": "Six legislators withdrew bills on AI in health insurance, likeness, employment, medical treatment and chatbots with children.",
+      "source": "https://www.wwno.org/coastal-desk/2026-04-01/louisiana-scraps-some-but-not-all-ai-proposals-after-trump-threats",
+      "people": [
+        "vincent-cox",
+        "jay-luneau"
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "type": "law",
+      "title": "HB 119 — AI-generated sexual imagery",
+      "status": "in_force",
+      "text": "Expands criminal penalties for AI-generated sexual images of minors and non-consensual images of adults.",
+      "source": "https://americanpress.com/2026/07/21/new-louisiana-artificial-intelligence-laws-take-effect-aug-1/",
+      "people": []
+    }
+  ],
+  "profile": {
+    "headline": "Louisiana is home to Meta's Hyperion, now a $50 billion AI data center, and the fight is over the gas plants and power bills that come with it.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "On June 25, 2026 Gov. Jeff Landry signed an executive order, the Louisiana Ratepayer and Community Protection Initiative, requiring power-intensive companies to \"fully fund the generation, transmission and infrastructure needed to serve them.\" Critics note the order has no legal force over the Public Service Commission. The state has also announced a Louisiana Institute for Artificial Intelligence for applied research and workforce development.",
+        "sources": [
+          {
+            "url": "https://www.knoe.com/2026/06/26/gov-landry-signs-executive-order-addresses-ai-data-centers/",
+            "outlet": "KNOE"
+          },
+          {
+            "url": "https://www.shreveportbossieradvocate.com/news/politics/jeff-landry-power-plant-entergy-meta-data-center/article_bb9cb059-2066-54bc-8153-8077576167fd.html",
+            "outlet": "Shreveport-Bossier Advocate"
+          },
+          {
+            "url": "https://www.opportunitylouisiana.gov/news/state-of-louisiana-launches-innovation-brand-announces-creation-of-50-million-growth-fund-and-artificial-intelligence-research-institute",
+            "outlet": "Louisiana Economic Development"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "In July 2026 Meta raised its Hyperion data center in Richland Parish to a $50 billion, 5-gigawatt project on more than 3,200 acres, adding $40 billion to the $10 billion committed at groundbreaking in December 2024. It is exempt from most state and local sales taxes. Amazon announced a $12 billion campus in Caddo and Bossier parishes in February 2026.",
+        "sources": [
+          {
+            "url": "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
+            "outlet": "CNBC"
+          },
+          {
+            "url": "https://www.wwno.org/economy/2026-07-14/meta-is-investing-40b-more-to-expand-richland-parish-data-center-project",
+            "outlet": "WWNO"
+          },
+          {
+            "url": "https://www.knoe.com/2026/06/26/gov-landry-signs-executive-order-addresses-ai-data-centers/",
+            "outlet": "KNOE"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "In April 2026 Entergy Louisiana applied to build seven more gas plants for Hyperion, on top of three approved in August 2025, under a fast-track PSC process. Earthjustice, the Alliance for Affordable Energy and the Union of Concerned Scientists are challenging it, saying Entergy and Meta are withholding projected energy demand and job figures. Meta is fighting an order to disclose them.",
+        "sources": [
+          {
+            "url": "https://www.fox8live.com/2026/08/04/groups-question-entergys-plan-build-gas-plants-metas-ai-data-center-entergy-responds/",
+            "outlet": "Fox 8 New Orleans"
+          },
+          {
+            "url": "https://www.ucs.org/about/news/louisiana-regulators-fast-track-7-gas-plant-proposal-meta-data-center",
+            "outlet": "Union of Concerned Scientists"
+          },
+          {
+            "url": "https://thelensnola.org/2026/08/18/meta-louisiana-data-center-ratepayer-costs/",
+            "outlet": "The Lens"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "In July 2026 two LSU-led teams won awards under the Department of Energy's Genesis Mission, the national lab AI-for-science program. They will work with Oak Ridge and Brookhaven national laboratories on AI for nuclear science and particle accelerators, including LSU's Louisiana Light Source.",
+        "sources": [
+          {
+            "url": "https://www.lsu.edu/blog/2026/07/genesis-mission-awards.php",
+            "outlet": "LSU"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "On September 16, 2026 Sen. John Kennedy tried to pass his AI Emergency Button Act, which would require AI developers to install an emergency kill switch, by unanimous consent; Sen. Rand Paul objected. Kennedy said that \"if there is even a 1% chance\" an AI model could become \"an independent species\", \"we ought to take it seriously.\"",
+        "sources": [
+          {
+            "url": "https://www.kennedy.senate.gov/2026/09/16/senate-blocks-kennedy-bill-to-require-ai-developers-to-install-an-emergency-kill-switch/",
+            "outlet": "Sen. Kennedy's office"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "kevin-stitt",
+  "name": "Kevin Stitt",
+  "office": "Governor of Oklahoma",
+  "office_type": "governor",
+  "state": "OK",
+  "party": "R",
+  "committees": [],
+  "stance": "Says federal and state governments must jointly set AI guardrails; has also pushed rules on AI in political campaigns.",
+  "statements": [
+    {
+      "date": "2026-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I think this is an example of where we have to work together with the feds, the Congress, the states, in establishing a regulatory process that protects us from AI in the future.",
+      "target": null,
+      "joint": null,
+      "source": "https://recorder.com/2026/09/14/healey-calls-ai-guardrails/",
+      "outlet": "Greenfield Recorder"
+    },
+    {
+      "date": "2026-07-30",
+      "arena": "state",
+      "kind": "urging",
+      "text": "At the NGA summer meeting said Oklahoma needs regulation of AI deepfakes in political campaigns and that he had considered a special session on it.",
+      "target": "Oklahoma Legislature",
+      "joint": null,
+      "source": "https://www.yahoo.com/news/politics/articles/stitt-pushes-ai-rules-political-201506724.html",
+      "outlet": "Yahoo News"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Kevin_Stitt_2020.jpg/250px-Kevin_Stitt_2020.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kevin_Stitt_2020.jpg",
+    "license": "Public domain",
+    "artist": "The White House from Washington, DC"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

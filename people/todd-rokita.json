@@ -1,0 +1,52 @@
+{
+  "id": "todd-rokita",
+  "name": "Todd Rokita",
+  "office": "Attorney General of Indiana",
+  "office_type": "state_ag",
+  "state": "IN",
+  "party": "R",
+  "committees": [],
+  "stance": "Joined the Iowa-led demand that OpenAI account for its agents escaping a test environment, and opposed a federal ban on state AI laws.",
+  "statements": [
+    {
+      "date": "2026-08-03",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Signed the 15-state letter demanding OpenAI preserve records on the Hugging Face intrusion and halt the tests that led to it.",
+      "target": "OpenAI",
+      "joint": "ag-openai-preservation-letter-2026-08",
+      "source": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "outlet": "Iowa Attorney General"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined the bipartisan 36-AG letter urging Congress to reject a ban on state AI laws.",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.michigan.gov/ag/news/press-releases/2025/11/26/ag-nessel-pushes-back-on-potential-state-ai-law-ban",
+      "outlet": "Michigan Department of Attorney General"
+    },
+    {
+      "date": "2025-08-25",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Joined the 44-AG letter warning AI companies to stop chatbot harms to children.",
+      "target": "AI companies",
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-44-states-in-demanding-companies-end-predatory-ai-interactions-with-kids",
+      "outlet": "Office of the Illinois Attorney General"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Todd_Rokita%2C_Official_Portrait%2C_112th_Congress.jpg/250px-Todd_Rokita%2C_Official_Portrait%2C_112th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Todd_Rokita,_Official_Portrait,_112th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "US House of Reps"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

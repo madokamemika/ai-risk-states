@@ -1,0 +1,32 @@
+{
+  "id": "tim-walz",
+  "name": "Tim Walz",
+  "office": "Governor of Minnesota",
+  "office_type": "governor",
+  "state": "MN",
+  "party": "D",
+  "committees": [],
+  "stance": "Signed Minnesota’s AI nudification ban.",
+  "statements": [
+    {
+      "date": "2026-05",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed HF 1606, making Minnesota the first state to ban AI nudification tools, effective Aug. 1, 2026.",
+      "target": null,
+      "joint": "mn-hf1606",
+      "source": "https://www.fox9.com/news/walz-signs-ai-nudification-ban-minnesota-law",
+      "outlet": "FOX 9"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Tim_Walz_official_photo.jpg/250px-Tim_Walz_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tim_Walz_official_photo.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "jay-obernolte",
+  "name": "Jay Obernolte",
+  "office": "U.S. Representative, California 23rd District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "R",
+  "committees": [
+    "House Energy and Commerce",
+    "House Science, Space, and Technology"
+  ],
+  "stance": "Wants a federal AI framework with frontier-model transparency and independent verification, paired with temporary preemption of state laws regulating AI development.",
+  "statements": [
+    {
+      "date": "2026-06-04",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Released the Great American Artificial Intelligence Act of 2026 discussion draft with Rep. Trahan: frontier developers must publish risk frameworks and retain independent verifiers, CAISI is codified, and state AI development laws are preempted for three years.",
+      "target": null,
+      "joint": "great-american-ai-act-draft",
+      "source": "https://www.nextgov.com/artificial-intelligence/2026/06/lawmakers-propose-ai-framework-would-preempt-state-laws-3-years/413975/",
+      "outlet": "Nextgov/FCW"
+    },
+    {
+      "date": "2026-06-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This discussion draft is an important step toward building a clear federal framework that promotes innovation, protects Americans from emerging risks, and ensures the United States continues to lead the world in AI.",
+      "target": null,
+      "joint": "great-american-ai-act-draft",
+      "source": "https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/",
+      "outlet": "Roll Call"
+    },
+    {
+      "date": "2026-07-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Said upcoming revisions to the draft could absolutely include a rewrite of how it handles state laws.",
+      "target": null,
+      "joint": "great-american-ai-act-draft",
+      "source": "https://punchbowl.news/article/tech/obernolte-preemption-shift/",
+      "outlet": "Punchbowl News"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Jay_Obernolte_117th_U.S_Congress.jpg/250px-Jay_Obernolte_117th_U.S_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jay_Obernolte_117th_U.S_Congress.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Committee"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

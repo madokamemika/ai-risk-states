@@ -1,0 +1,32 @@
+{
+  "id": "mike-lawler",
+  "name": "Mike Lawler",
+  "office": "U.S. Representative, New York 17th District",
+  "office_type": "us_rep",
+  "state": "NY",
+  "party": "R",
+  "committees": [],
+  "stance": "Wants NIST standards for securing AI agents.",
+  "statements": [
+    {
+      "date": "2026-09-03",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced the Stop Rogue AI Act with Rep. Gottheimer after the Hugging Face breach.",
+      "target": null,
+      "joint": "stop-rogue-ai-act",
+      "source": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6424",
+      "outlet": "Office of Rep. Lawler"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Michael_Lawler_%28cropped%29.jpg/250px-Michael_Lawler_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Michael_Lawler_(cropped).jpg",
+    "license": "CC BY 2.0",
+    "artist": "New York State Young Republicans"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

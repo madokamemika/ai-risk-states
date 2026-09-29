@@ -1,0 +1,36 @@
+{
+  "id": "sarah-lightner",
+  "name": "Sarah Lightner",
+  "office": "Michigan State Representative",
+  "office_type": "state_rep",
+  "state": "MI",
+  "party": "R",
+  "committees": [],
+  "stance": "Sponsors HB 4668, a RAISE-style bill requiring large foundation-model developers to adopt safety protocols against critical risk.",
+  "statements": [
+    {
+      "date": "2025-06-24",
+      "arena": "state",
+      "kind": "action",
+      "text": "Introduced HB 4668, the Artificial Intelligence Safety and Security Transparency Act, requiring large developers to test for and mitigate critical risk (100+ deaths/serious injuries or $100M+ damage), with third-party audits and whistleblower protections.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.transparencycoalition.ai/news/michigan-lawmaker-brings-the-raise-acts-ai-safety-measures-to-lansing",
+      "outlet": "Transparency Coalition"
+    },
+    {
+      "date": "2026-03-19",
+      "arena": "state",
+      "kind": "action",
+      "text": "HB 4668 was re-referred to the House Communications and Technology Committee, where it remains.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4668",
+      "outlet": "Michigan Legislature"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

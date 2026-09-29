@@ -1,0 +1,45 @@
+{
+  "id": "amy-klobuchar",
+  "name": "Amy Klobuchar",
+  "office": "U.S. Senator from Minnesota",
+  "office_type": "us_senator",
+  "state": "MN",
+  "party": "D",
+  "committees": [
+    "Senate Judiciary",
+    "Senate Commerce, Science, and Transportation"
+  ],
+  "stance": "Co-drafting a bipartisan frontier-AI bill with Thune and Cruz that imposes a duty of care, risk reporting and company-run safety testing on frontier developers.",
+  "statements": [
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "it's clear we need to act now and not wait.",
+      "target": null,
+      "joint": "thune-klobuchar-cruz-frontier-bill-2026",
+      "source": "https://www.semafor.com/article/09/10/2026/bipartisan-ai-safety-bill-gains-momentum-on-the-hill",
+      "outlet": "Semafor"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I continue to believe we could get this done. We'd have to put forward the bill, and get support.",
+      "target": null,
+      "joint": "thune-klobuchar-cruz-frontier-bill-2026",
+      "source": "https://www.semafor.com/article/09/16/2026/bipartisan-ai-safety-talks-accelerate-in-senate",
+      "outlet": "Semafor"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Amy_Klobuchar%2C_official_portrait%2C_113th_Congress.jpg/250px-Amy_Klobuchar%2C_official_portrait%2C_113th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Amy_Klobuchar,_official_portrait,_113th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

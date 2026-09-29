@@ -1,0 +1,42 @@
+{
+  "id": "jd-vance",
+  "name": "JD Vance",
+  "office": "Vice President of the United States",
+  "office_type": "federal_exec",
+  "state": null,
+  "party": "R",
+  "committees": [],
+  "stance": "Opposes safety-first AI regulation and treats frontier labs' requests for regulation as possible regulatory capture.",
+  "statements": [
+    {
+      "date": "2025-02-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The AI future is not going to be won by hand-wringing about safety. It will be won by building",
+      "target": null,
+      "joint": null,
+      "source": "https://www.americanrhetoric.com/speeches/JDvanceparisAIsummitspeech.htm",
+      "outlet": "American Rhetoric"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Personally, I feel a little bit weird about the fact that you have so many frontier AI tech companies kind of coming to the government and begging the government to regulate them. It feels a little bit to me like a bit of a Trojan horse.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.pbs.org/newshour/politics/watch-vance-says-americans-should-not-be-scared-of-ai-as-calls-for-limits-grow",
+      "outlet": "PBS NewsHour"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg/250px-March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg",
+    "license": "Public domain",
+    "artist": "Emily J. Higgins"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

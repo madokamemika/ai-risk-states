@@ -1,0 +1,62 @@
+{
+  "id": "spencer-cox",
+  "name": "Spencer Cox",
+  "office": "Governor of Utah",
+  "office_type": "governor",
+  "state": "UT",
+  "party": "R",
+  "committees": [],
+  "stance": "Wants a federal frontier-AI safety floor (incident reporting, whistleblower protections, third-party audits, chip export limits) that does not preempt broader state authority.",
+  "statements": [
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America should lead the world in developing artificial intelligence, and that leadership must keep people firmly in control.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.ksl.com/article/51623925/utah-governor-calls-on-congress-to-create-framework-for-ai-safety",
+      "outlet": "KSL"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "the possibility of an existential event happening is growing and growing much more rapidly than anyone projected",
+      "target": null,
+      "joint": null,
+      "source": "https://www.cbsnews.com/news/spencer-cox-utah-governor-face-the-nation-transcript-09-13-2026/",
+      "outlet": "CBS News (Face the Nation)"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The Hugging Face incident that you've already talked about should be very concerning to everyone",
+      "target": null,
+      "joint": null,
+      "source": "https://www.cbsnews.com/news/spencer-cox-utah-governor-face-the-nation-transcript-09-13-2026/",
+      "outlet": "CBS News (Face the Nation)"
+    },
+    {
+      "date": "2026-02-19",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Pushed back on White House pressure against Utah's HB 286, saying AI regulation should be left to the states.",
+      "target": "Trump administration",
+      "joint": null,
+      "source": "https://www.kuer.org/politics-government/2026-02-19/trump-is-pressuring-utah-on-an-ai-bill-gov-cox-says-states-should-lead-on-policy",
+      "outlet": "KUER"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Spencer_Cox_at_the_Economic_Club_of_Washington_D.C._%2853545313288%29.jpg/250px-Spencer_Cox_at_the_Economic_Club_of_Washington_D.C._%2853545313288%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spencer_Cox_at_the_Economic_Club_of_Washington_D.C._(53545313288).jpg",
+    "license": "CC BY 2.0",
+    "artist": "Maryland GovPics"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

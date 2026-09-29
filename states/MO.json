@@ -1,0 +1,131 @@
+{
+  "code": "MO",
+  "xrisk": "direct",
+  "summary": "Missouri passed no AI legislation in 2026; its frontier-risk activity is AG Hanaway joining the August 2026 15-state OpenAI Hugging Face demand, while she says states have a role mainly on AI crime and kids.",
+  "items": [
+    {
+      "date": "2026-08-03",
+      "type": "letter",
+      "title": "15-state AG letter to OpenAI on Hugging Face intrusion",
+      "status": "filed",
+      "text": "Missouri joined the Iowa-led letter.",
+      "source": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "people": [
+        "catherine-hanaway"
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "type": "bill",
+      "title": "SB 1012 and other AI bills",
+      "status": "failed",
+      "text": "SB 1012, requiring oversight of AI systems and election-ad disclaimers, passed the Senate but died in the House; no AI bill passed.",
+      "source": "https://www.kfvs12.com/2026/05/25/missouri-lawmakers-fail-pass-ai-regulations-during-2026-legislative-session/",
+      "people": []
+    },
+    {
+      "date": "2025-07",
+      "type": "letter",
+      "title": "AG Bailey letters to AI companies over chatbot rankings of Trump",
+      "status": "filed",
+      "text": "Then-AG Andrew Bailey demanded records from AI companies over chatbots ranking President Trump last on antisemitism.",
+      "source": "https://thehill.com/policy/technology/5394934-missouri-chatbots-trump-record/",
+      "people": []
+    }
+  ],
+  "profile": {
+    "headline": "Missouri's governor is landing $10-15 billion data centers, while voters in Festus threw out the council that approved one and protesters want a statewide moratorium.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Mike Kehoe has promoted data centers as economic development and hosted a Governor's AI and Data Center Forum at Missouri S&T on June 18, 2026. In June 2026 he responded to calls for a special session on data centers, but none has been called.",
+        "sources": [
+          {
+            "url": "https://news.mst.edu/events/missouri-governor-to-host-artificial-intelligence-and-data-center-forum-at-missouri-st/",
+            "outlet": "Missouri S&T"
+          },
+          {
+            "url": "https://fox2now.com/news/missouri/kehoe-responds-to-request-for-special-session-on-data-centers/",
+            "outlet": "FOX 2"
+          },
+          {
+            "url": "https://www.stlpr.org/government-politics-issues/2026-09-16/data-center-protesters-fill-missouri-capitol-seeking-a-statewide-construction-moratorium",
+            "outlet": "STLPR"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "In May 2026 Google announced a $15 billion data center near New Florence in Montgomery County, the largest single investment in state history. In June 2026 AWS announced a $10 billion data center in the same county, with completion tentatively in 2032. Festus approved a $6 billion project in March 2026.",
+        "sources": [
+          {
+            "url": "https://www.bizjournals.com/stlouis/news/2026/05/20/google-data-center-montgomery-county-kehoe.html",
+            "outlet": "St. Louis Business Journal"
+          },
+          {
+            "url": "https://spectrumlocalnews.com/mo/st-louis/news/2026/06/15/amazon--10-billion-data-center-montgomery-county-missouri",
+            "outlet": "Spectrum News"
+          },
+          {
+            "url": "https://www.kcur.org/housing-development-section/2026-09-02/data-center-backlash-missouri-kansas",
+            "outlet": "KCUR"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "In April 2026 Festus voters removed incumbent council members after the council approved the $6 billion data center; a judge dismissed a suit over a rejected recall vote in September. About 200 protesters filled the Capitol on September 16, 2026 asking for a statewide moratorium on hyperscale construction and an end to tax incentives. A Benton County moratorium is being fought in court.",
+        "sources": [
+          {
+            "url": "https://www.stlpr.org/show/st-louis-on-the-air/2026-04-24/festus-residents-opposed-data-center-national-news-lawsuit-election-city-council",
+            "outlet": "STLPR"
+          },
+          {
+            "url": "https://www.bizjournals.com/stlouis/news/2026/09/01/festus-recall-ruling-data-center.html",
+            "outlet": "St. Louis Business Journal"
+          },
+          {
+            "url": "https://www.stlpr.org/government-politics-issues/2026-09-16/data-center-protesters-fill-missouri-capitol-seeking-a-statewide-construction-moratorium",
+            "outlet": "STLPR"
+          },
+          {
+            "url": "https://www.ky3.com/2026/09/02/data-center-moratorium-fight-plays-out-benton-county-courtroom/",
+            "outlet": "KY3"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The University of Missouri launched the AI Education, Research and Infrastructure Center (AERI) on May 27, 2026 to connect AI research across campus and build computing infrastructure. Washington University started a campus \"+AI\" initiative in March 2026.",
+        "sources": [
+          {
+            "url": "https://engineering.missouri.edu/2026/mizzou-launches-new-center-to-advance-study-and-application-of-ai/",
+            "outlet": "Mizzou Engineering"
+          },
+          {
+            "url": "https://www.studlife.com/news/2026/03/26/washu-admin-launches-ai-initiative-encourages-discussion-on-and-use-of-ai",
+            "outlet": "Student Life"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Josh Hawley is among the Senate's most active AI critics. In a June 2026 op-ed he listed his bills, including the GUARD Act (criminal penalties for AI that sexually solicits children or encourages self-harm), the AI Risk Evaluation Act and the GRID Act, and argued data-center companies should cover their infrastructure costs. He co-sponsors Grassley's AI Whistleblower Protection Act.",
+        "sources": [
+          {
+            "url": "https://www.hawley.senate.gov/hawley-op-ed-ai-will-control-us-if-we-do-not-control-it/",
+            "outlet": "Sen. Josh Hawley"
+          },
+          {
+            "url": "https://whistleblowersblog.org/whistleblower-news/senator-grassley-moves-to-fast-track-the-ai-whistleblower-protection-act/",
+            "outlet": "Whistleblower Network News"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

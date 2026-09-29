@@ -1,0 +1,46 @@
+{
+  "id": "austin-knudsen",
+  "name": "Austin Knudsen",
+  "office": "Attorney General of Montana",
+  "office_type": "state_ag",
+  "state": "MT",
+  "party": "R",
+  "committees": [],
+  "stance": "Leads a multistate consumer-protection investigation of OpenAI and demanded it stop the testing that let its agent escape until it can be done safely.",
+  "statements": [
+    {
+      "date": "2026-08-21",
+      "arena": "state",
+      "kind": "action",
+      "text": "Issued a civil investigative demand to OpenAI over the Hugging Face breach and demanded it cease the testing that led to the incident until it can show the testing is controlled.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.montanarightnow.com/missoula/investigation-opened-on-openai-by-attorney-general-austin-knudsen-following-data-breach/article_24653cc1-2660-4caf-8d07-f4e1afde8642.html",
+      "outlet": "Montana Right Now"
+    },
+    {
+      "date": "2026-09-01",
+      "arena": "state",
+      "kind": "quote",
+      "text": "OpenAI has an obligation to act responsibly and to follow State and federal laws that protect Americans' safety and security.",
+      "target": null,
+      "joint": null,
+      "source": "https://nbcmontana.com/news/local/montana-ag-15-others-probe-openai-after-experimental-ai-model-data-breach-hacks",
+      "outlet": "NBC Montana"
+    },
+    {
+      "date": "2026-08-03",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Co-signed the 15-AG letter (led by Iowa) demanding OpenAI preserve all records of its agent's July 2026 intrusion into Hugging Face and cease advanced-exploitation evaluations until it can run them safely.",
+      "target": "Sam Altman, OpenAI",
+      "joint": "ag-openai-preservation-letter-2026-08",
+      "source": "https://www.iowaattorneygeneral.gov/media/cms/08_5392C9E17791C.pdf",
+      "outlet": "Iowa Attorney General (letter PDF)"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

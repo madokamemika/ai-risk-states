@@ -1,0 +1,62 @@
+{
+  "id": "tina-kotek",
+  "name": "Tina Kotek",
+  "office": "Governor of Oregon",
+  "office_type": "governor",
+  "state": "OR",
+  "party": "D",
+  "committees": [],
+  "stance": "Says frontier-AI oversight belongs at the federal level but, absent it, ordered Oregon to set third-party safety review standards and assess a kill switch for frontier models the state buys.",
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "arena": "state",
+      "kind": "action",
+      "text": "Issued Executive Order 26-26 directing the state CIO to define frontier AI, set third-party safety review standards for procurement and assess whether to require a kill switch.",
+      "target": null,
+      "joint": null,
+      "source": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-issues-executive-order-to-advance-ai-safety-and-oversight",
+      "outlet": "Oregon Governor's Office"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While oversight and regulation would be strongest at the federal level, President Trump continues to dismiss the need for even the most basic guardrails.",
+      "target": null,
+      "joint": null,
+      "source": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-issues-executive-order-to-advance-ai-safety-and-oversight",
+      "outlet": "Oregon Governor's Office"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "state",
+      "kind": "quote",
+      "text": "It's encouraging to hear AI companies are beginning to come forward with proposals to address safety concerns, but we cannot simply wait for the private sector to self-regulate.",
+      "target": null,
+      "joint": null,
+      "source": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-issues-executive-order-to-advance-ai-safety-and-oversight",
+      "outlet": "Oregon Governor's Office"
+    },
+    {
+      "date": "2026-03-31",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed SB 1546, requiring AI chatbot operators to detect self-harm signals and not encourage them, with a private right of action.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kgw.com/article/news/politics/kotek-sign-oregon-ai-teen-mental-health-bill-safety-chatbot/283-321743ef-c1c2-49dc-bdec-da956c94704f",
+      "outlet": "KGW"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Tina_Kotek_official_portrait_2021%283x4_cropped%29.jpg/250px-Tina_Kotek_official_portrait_2021%283x4_cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tina_Kotek_official_portrait_2021(3x4_cropped).jpg",
+    "license": "Public domain",
+    "artist": "Tony Miller"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

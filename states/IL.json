@@ -1,0 +1,121 @@
+{
+  "code": "IL",
+  "xrisk": "acted",
+  "summary": "Illinois enacted SB 315, the Artificial Intelligence Safety Measures Act (signed July 6, 2026), requiring the largest frontier developers to publish catastrophic-risk frameworks, report critical incidents and undergo first-in-the-nation annual third-party audits; AG Raoul also joined the 2026 multistate call for federal AI safety regulation.",
+  "items": [
+    {
+      "date": "2026-07-06",
+      "type": "law",
+      "title": "SB 315 — Artificial Intelligence Safety Measures Act",
+      "status": "signed",
+      "text": "Requires large frontier developers to publish frameworks for catastrophic risk (CBRN, cyber), report incidents within 72/24 hours, and get annual independent audits.",
+      "source": "https://capitolnewsillinois.com/news/pritzker-signs-landmark-ai-regulation-bill-that-aims-to-mitigate-risks/",
+      "people": [
+        "jb-pritzker",
+        "mary-edly-allen",
+        "daniel-didech"
+      ]
+    },
+    {
+      "date": "2025-08-01",
+      "type": "law",
+      "title": "HB 1806 — Wellness and Oversight for Psychological Resources Act",
+      "status": "in_force",
+      "text": "Bans AI from providing therapy or therapeutic decision-making; enforced by IDFPR.",
+      "source": "https://idfpr.illinois.gov/news/2025/gov-pritzker-signs-state-leg-prohibiting-ai-therapy-in-il.html",
+      "people": [
+        "jb-pritzker"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "Multistate AG letter urging Congress to regulate AI",
+      "status": "filed",
+      "text": "Raoul joined 25 other AGs asking Congress for federal safety testing, incident response and international limits on harmful superintelligence without preempting states.",
+      "source": "https://www.einpresswire.com/article/945018460/attorney-general-raoul-calls-on-congress-to-protect-americans-with-comprehensive-framework-for-ai-development",
+      "people": [
+        "kwame-raoul"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Illinois passed a frontier-AI safety law and paused its data-center tax breaks while $20 billion-scale campuses are approved near Chicago.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "On July 6, 2026 Gov. JB Pritzker signed SB 315, the Artificial Intelligence Safety Measures Act, which requires the largest AI developers to publish how they assess and reduce \"catastrophic risks\", adds whistleblower channels and makes Illinois the first state to require regular independent third-party safety audits. Most provisions take effect January 1, 2027; audits from January 1, 2028. In June 2026 Pritzker paused new state data-center tax-incentive agreements for two years from July 1, 2026.",
+        "sources": [
+          {
+            "url": "https://capitolnewsillinois.com/news/pritzker-signs-landmark-ai-regulation-bill-that-aims-to-mitigate-risks/",
+            "outlet": "Capitol News Illinois"
+          },
+          {
+            "url": "https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://gov-pritzker-newsroom.prezly.com/gov-pritzker-pauses-new-data-center-tax-incentives",
+            "outlet": "Governor's office"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "In March 2026 Joliet approved the Joliet Technology Center, a $20 billion, 795-acre, 24-building campus of up to 1.8 GW by Hillwood and PowerHouse Data Centers, aimed at hyperscale tenants.",
+        "sources": [
+          {
+            "url": "https://www.datacenterdynamics.com/en/news/approval-given-to-20bn-data-center-near-chicago-illinois/",
+            "outlet": "Data Center Dynamics"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Champaign County unanimously passed a one-year moratorium in April 2026, citing the Mahomet Aquifer; Lake County froze applications and Macon County proposed a pause. The POWER Act, which would have set transparency rules and limits on data-center utility use, died without a vote when the legislature adjourned in May 2026, which led to Pritzker's incentive pause. Students rallied against data centers in Champaign in September 2026.",
+        "sources": [
+          {
+            "url": "https://www.kcur.org/environment-agriculture/2026-06-08/data-centers-protests-lawmakers-regulate",
+            "outlet": "KCUR / Harvest Public Media"
+          },
+          {
+            "url": "https://www.shawlocal.com/news/2026/06/06/illinois-data-center-fight-escalates-as-state-regulation-fails-and-communities-push-back/",
+            "outlet": "Shaw Local"
+          },
+          {
+            "url": "https://dailyillini.com/news-stories/university-news/protests-strikes/2026/09/25/anti-data-center-protest/",
+            "outlet": "The Daily Illini"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The University of Illinois Urbana-Champaign runs the National Center for Supercomputing Applications (NCSA), which added an AI partition to its Delta supercomputer and hosts a Center for Artificial Intelligence Innovation. In April 2026 IBM and UIUC expanded their Discovery Accelerator Institute to research combining IBM quantum computers with NCSA supercomputing.",
+        "sources": [
+          {
+            "url": "https://www.datacenterdynamics.com/en/news/ncsas-delta-supercomputer-gets-ai-partition/",
+            "outlet": "Data Center Dynamics"
+          },
+          {
+            "url": "https://newsroom.ibm.com/2026-04-16-ibm-and-the-university-of-illinois-urbana-champaign-expand-discovery-accelerator-institute-to-advance-ai-and-quantum-computing",
+            "outlet": "IBM"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "On September 23, 2026 Rep. Raja Krishnamoorthi asked Geoffrey Hinton at a Democratic shadow hearing of the China select committee whether his 10-20% estimate of AI-caused extinction had changed (Hinton said it had not), and pressed witnesses on chip-export loopholes and data-center nondisclosure agreements.",
+        "sources": [
+          {
+            "url": "https://krishnamoorthi.house.gov/media/press-releases/krishnamoorthi-presses-ai-experts-extinction-risk-china-chip-loopholes-and",
+            "outlet": "Rep. Raja Krishnamoorthi"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

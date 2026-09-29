@@ -1,0 +1,62 @@
+{
+  "id": "alan-wilson",
+  "name": "Alan Wilson",
+  "office": "Attorney General of South Carolina",
+  "office_type": "state_ag",
+  "state": "SC",
+  "party": "R",
+  "committees": [],
+  "stance": "Presses AI companies on child safety through multistate AG action.",
+  "statements": [
+    {
+      "date": "2025-08-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led the 44-AG NAAG letter warning AI companies they will answer for harms to children.",
+      "target": "AI companies",
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-state-attorneys-general-issues-letter-to-ai-industry-leaders-on-child-safety/",
+      "outlet": "NAAG"
+    },
+    {
+      "date": "2025-05-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI brings real promise, but also real danger, and South Carolina has been doing the hard work to protect our citizens.",
+      "target": "Congress",
+      "joint": null,
+      "source": "https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-fights-back-federal-proposal-to-strip-states-of-authority-over-ai/",
+      "outlet": "South Carolina Attorney General"
+    },
+    {
+      "date": "2025-05-16",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined a bipartisan AG letter to Speaker Johnson and Leader Thune opposing a 10-year moratorium on state AI regulation, calling it federal overreach.",
+      "target": "Congress (Johnson, Thune)",
+      "joint": null,
+      "source": "https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-fights-back-federal-proposal-to-strip-states-of-authority-over-ai/",
+      "outlet": "South Carolina Attorney General"
+    },
+    {
+      "date": "2025-08-25",
+      "arena": "state",
+      "kind": "action",
+      "text": "Co-led the 44-AG letter to AI companies demanding they protect children from harmful chatbot interactions.",
+      "target": null,
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-state-attorneys-general-issues-letter-to-ai-industry-leaders-on-child-safety/",
+      "outlet": "NAAG"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/JAG_Passing_Alan_Wilson.jpg/250px-JAG_Passing_Alan_Wilson.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:JAG_Passing_Alan_Wilson.jpg",
+    "license": "Public domain",
+    "artist": "SC National Guard"
+  }
+}

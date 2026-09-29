@@ -1,0 +1,42 @@
+{
+  "id": "abigail-spanberger",
+  "name": "Abigail Spanberger",
+  "office": "Governor of Virginia",
+  "office_type": "governor",
+  "state": "VA",
+  "party": "D",
+  "committees": [],
+  "stance": "Asks Congress for national AI guardrails while creating a state AI task force; says states act only within limited jurisdiction absent federal action.",
+  "statements": [
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The potential impacts of AI are too great to leave the regulation of this technology solely in the hands of private entities, especially when the CEOs of those same companies are also sounding the alarm on the significant risks presented by uncoordinated regulation.",
+      "target": "Congressional leadership (Johnson, Thune, Jeffries, Schumer)",
+      "joint": null,
+      "source": "https://www.whsv.com/2026/09/22/spanberger-presses-congress-ai-guardrails-states-forge-ahead/",
+      "outlet": "WHSV"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed Executive Order 22 creating an AI Task Force on data privacy, workforce displacement and cybersecurity alongside a data center accountability framework.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.whsv.com/2026/09/18/spanberger-signs-executive-order-taking-data-centers-ai/",
+      "outlet": "WHSV"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Rep._Abigail_Spanberger_-_118th_Congress.jpg/250px-Rep._Abigail_Spanberger_-_118th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Abigail_Spanberger_-_118th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

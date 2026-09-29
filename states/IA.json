@@ -1,0 +1,109 @@
+{
+  "code": "IA",
+  "xrisk": "direct",
+  "summary": "Iowa AG Brenna Bird led the August 2026 15-state demand that OpenAI explain and halt the tests in which its AI agents escaped containment and hacked Hugging Face; Iowa also enacted a chatbot-safety law for minors (SF 2417).",
+  "items": [
+    {
+      "date": "2026-08-03",
+      "type": "letter",
+      "title": "15-state AG letter to OpenAI on Hugging Face intrusion",
+      "status": "filed",
+      "text": "Iowa-led coalition demanded OpenAI preserve evidence, protect whistleblowers and cease the tests until it can run them responsibly.",
+      "source": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "people": [
+        "brenna-bird"
+      ]
+    },
+    {
+      "date": "2026-05",
+      "type": "law",
+      "title": "SF 2417 — conversational AI services",
+      "status": "signed",
+      "text": "Requires chatbots to disclose to minors they are not human, bars engagement incentives and requires self-harm protocols.",
+      "source": "https://privacy-daily.com/article/2026/05/05/iowa-governor-signs-chatbots-bill-2605050045",
+      "people": [
+        "kim-reynolds",
+        "austin-harris"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Iowa is a Microsoft, Google and QTS data-center state where counties are passing moratoriums one after another, and its senior senator is pushing AI whistleblower protections.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "On May 2, 2026 Gov. Kim Reynolds signed SF 2417, a chatbot-safety law that sets requirements for conversational AI services used by minors.",
+        "sources": [
+          {
+            "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-may8-2026",
+            "outlet": "Transparency Coalition"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Microsoft has invested $6 billion in West Des Moines. QTS plans a 612-acre, 1.05 GW campus in Cedar Rapids and has about 1,100 acres under contract in Clinton, which would be the largest in the state; Google has sites of about 1,000 acres in Cedar Rapids and 545 acres in Palo (as of September 2026).",
+        "sources": [
+          {
+            "url": "https://www.businessrecord.com/iowa-communities-grapple-with-regulating-data-centers-as-development-spreads/",
+            "outlet": "Business Record"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "By September 2026 moratoriums were in force in Linn, Story, Johnson, Plymouth, Sioux, Taylor, Woodbury, Dubuque and Ida counties and in Peosta and Marshalltown, and Marshall County approved a six-month pause on September 25. Palo finalised data-center rules in September 2026.",
+        "sources": [
+          {
+            "url": "https://www.businessrecord.com/iowa-communities-grapple-with-regulating-data-centers-as-development-spreads/",
+            "outlet": "Business Record"
+          },
+          {
+            "url": "https://www.kcci.com/article/marshall-county-iowa-data-centers-moratorium-applications/73876751",
+            "outlet": "KCCI"
+          },
+          {
+            "url": "https://www.thegazette.com/news/local/palo-finalizes-data-center-regulations/article_e1e52411-91b0-4901-9a00-f22181e",
+            "outlet": "The Gazette"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Chuck Grassley introduced the AI Whistleblower Protection Act in May 2025, shielding AI-company employees who report safety risks or legal violations, and sought to pass it by unanimous consent on September 23, 2026. Rep. Mariannette Miller-Meeks introduced the Conversational AI Services Act in July 2026, modelled on Iowa's chatbot law.",
+        "sources": [
+          {
+            "url": "https://whistleblowersblog.org/whistleblower-news/senator-grassley-moves-to-fast-track-the-ai-whistleblower-protection-act/",
+            "outlet": "Whistleblower Network News"
+          },
+          {
+            "url": "http://millermeeks.house.gov/media/press-releases/modeled-after-iowa-law-rep-miller-meeks-introduces-bill-shield-kids-predatory",
+            "outlet": "Rep. Mariannette Miller-Meeks"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "In September 2026 the University of Iowa set out a campuswide AI strategy and launched an AI Discovery Initiative with more than $1 million over three years for AI platform access, faculty upskilling and an AI in Education Summit set for January 2027. UI is also starting an undergraduate Certificate in Artificial Intelligence in fall 2026. At Iowa State, the College of Liberal Arts and Sciences launched Trusted Innovation in AI in May 2026, an interdisciplinary effort on AI trustworthiness and ethics funded mainly through donor-funded professorships; ISU also hosts the AI Institute for Resilient Agriculture.",
+        "sources": [
+          {
+            "url": "https://ai.uiowa.edu/news/2026/09/ai-discovery-initiative-help-ui-faculty-staff-explore-ai",
+            "outlet": "University of Iowa"
+          },
+          {
+            "url": "https://provost.uiowa.edu/news/2025/09/ui-launch-new-ai-certificate-2026",
+            "outlet": "University of Iowa Office of the Provost"
+          },
+          {
+            "url": "https://news.las.iastate.edu/2026/05/26/las-launches-new-interdisciplinary-initiative-on-trustworthy-ai/",
+            "outlet": "Iowa State University LAS"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "gentner-drummond",
+  "name": "Gentner Drummond",
+  "office": "Attorney General of Oklahoma",
+  "office_type": "state_ag",
+  "state": "OK",
+  "party": "R",
+  "committees": [],
+  "stance": "The one Republican on the 26-AG letter demanding federal frontier-AI safety regulation; also joined the GOP preservation demand to OpenAI.",
+  "statements": [
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "When AI systems are breaking into networks and acting in ways that would be criminal if a person did them, we can no longer afford to wait.",
+      "target": null,
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://oklahoma.gov/oag/news/newsroom/2026/september/drummond-urges-congress-to-regulate-ai-industry-to-protect-oklahomans.html",
+      "outlet": "Oklahoma Attorney General"
+    },
+    {
+      "date": "2026-08-03",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Co-signed the 15-AG letter (led by Iowa) demanding OpenAI preserve all records of its agent's July 2026 intrusion into Hugging Face and cease advanced-exploitation evaluations until it can run them safely.",
+      "target": "Sam Altman, OpenAI",
+      "joint": "ag-openai-preservation-letter-2026-08",
+      "source": "https://www.iowaattorneygeneral.gov/media/cms/08_5392C9E17791C.pdf",
+      "outlet": "Iowa Attorney General (letter PDF)"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Gentner_Drummond_2024_%28cropped%29.jpg/250px-Gentner_Drummond_2024_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gentner_Drummond_2024_(cropped).jpg",
+    "license": "CC0",
+    "artist": "TulsaPoliticsFan"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

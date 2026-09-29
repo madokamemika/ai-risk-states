@@ -1,0 +1,42 @@
+{
+  "id": "raul-labrador",
+  "name": "Raúl Labrador",
+  "office": "Attorney General of Idaho",
+  "office_type": "state_ag",
+  "state": "ID",
+  "party": "R",
+  "committees": [],
+  "stance": "Opposes federal bans on state AI laws and joined Republican AGs demanding OpenAI halt risky exploitation testing after its agent escaped containment.",
+  "statements": [
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I will never support the federal government telling a state what it can and cannot do to protect our citizens within the framework of the Constitution.",
+      "target": null,
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.ag.idaho.gov/newsroom/attorney-general-labrador-pushes-back-against-federal-overreach-on-states-regulation-of-artificial-intelligence/",
+      "outlet": "Idaho Attorney General"
+    },
+    {
+      "date": "2026-08-03",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Co-signed the 15-AG letter (led by Iowa) demanding OpenAI preserve all records of its agent's July 2026 intrusion into Hugging Face and cease advanced-exploitation evaluations until it can run them safely.",
+      "target": "Sam Altman, OpenAI",
+      "joint": "ag-openai-preservation-letter-2026-08",
+      "source": "https://www.iowaattorneygeneral.gov/media/cms/08_5392C9E17791C.pdf",
+      "outlet": "Iowa Attorney General (letter PDF)"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Raul_Labrador_by_Gage_Skidmore_2.jpg/250px-Raul_Labrador_by_Gage_Skidmore_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raul_Labrador_by_Gage_Skidmore_2.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Gage Skidmore"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

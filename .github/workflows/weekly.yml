@@ -1,0 +1,25 @@
+name: weekly
+on:
+  schedule: [{ cron: '0 8 * * 2' }]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: python3 -m fetchers.bills
+      - run: python3 -m fetchers.offices
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: candidates/weekly
+          title: Candidates for review
+          commit-message: Weekly fetch
+          labels: candidates
+          body: |
+            New bill counts and candidates from the weekly fetch. Nothing in `queue/` is published.
+            Accepted candidates become corpus entries in this pull request; rejected ones move to `queue/rejected.json`. See REVIEW.md.

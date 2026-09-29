@@ -1,0 +1,106 @@
+{
+  "code": "DC",
+  "summary": "The District's only frontier-risk action found is AG Brian Schwalb co-signing the Sept 2026 state-AG letter urging federal frontier-AI safety rules, after joining the 2025 anti-preemption letter. No DC Council frontier-AI legislation was found.",
+  "xrisk": "direct",
+  "items": [
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI safety",
+      "status": "filed",
+      "text": "The District of Columbia attorney general signed the letter urging Congress to adopt federal frontier-AI safety rules and to bar preemption of state AI laws.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "brian-schwalb"
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "type": "letter",
+      "title": "36-AG NAAG letter opposing federal preemption of state AI laws",
+      "status": "filed",
+      "text": "The District of Columbia attorney general joined the bipartisan letter urging Congress to reject a moratorium on state AI laws.",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-36-state-attorneys-general-opposes-federal-ban-on-state-ai-laws/",
+      "people": [
+        "brian-schwalb"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Washington, D.C. has a mayoral AI values order that governs how the city government itself uses AI.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Mayor Muriel Bowser's Order 2024-028 (February 2024) set six AI values, an 18-month strategic plan and an internal AI Taskforce due to sunset on December 31, 2026. In July 2025 the city piloted deliberation.io, a public-consultation tool from MIT and Stanford, to gather residents' views on AI.",
+        "sources": [
+          {
+            "url": "https://techplan.dc.gov/page/mayors-order-articulating-dc%E2%80%99s-artificial-intelligence-values-and-establishing-artificial",
+            "outlet": "DC Office of the CTO"
+          },
+          {
+            "url": "https://octo.dc.gov/release/bowser-administration-announces-first-its-kind-ai-pilot-program-new-platform-mit-governance",
+            "outlet": "DC Office of the CTO"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "The District hosts no hyperscale AI campuses; the region's large data centers sit in Northern Virginia, mainly Loudoun County (July 2026). DC still shares the PJM grid, so capacity-auction costs driven partly by data-center demand reach Pepco bills. A study commissioned by DC's Office of the People's Counsel (April 2025) estimated the 2025/2026 auction would add about $10 a month, or 9%, to the average residential bill from June 2025.",
+        "sources": [
+          {
+            "url": "https://www.washingtoninformer.com/ai-data-centers-electricity-costs-dc-maryland-virginia/",
+            "outlet": "Washington Informer"
+          },
+          {
+            "url": "https://opc-dc.gov/wp-content/uploads/2025/05/PJM-Capacity-Market-Report-FINAL-OPC-Synapse.pdf",
+            "outlet": "DC Office of the People's Counsel / Synapse"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "George Washington University co-leads the $20 million NSF/NIST Institute for Trustworthy AI in Law and Society (TRAILS), and in December 2025 launched a university-wide AI strategy mapping exercise led by Zoe Szajnfarber. Howard University's Human-Centered AI Institute, founded in 2022 and funded by the Office of Naval Research, builds decision-support tools and ran Project Elevate Black Voices, a 600-hour dataset of African American speech.",
+        "sources": [
+          {
+            "url": "https://gwtoday.gwu.edu/gw-takes-major-step-toward-comprehensive-ai-strategy-university-wide-mapping-exercise",
+            "outlet": "GW Today"
+          },
+          {
+            "url": "https://gwtoday.gwu.edu/gw-co-lead-new-20-million-nsf-artificial-intelligence-institute",
+            "outlet": "GW Today"
+          },
+          {
+            "url": "https://thedig.howard.edu/all-stories/howards-human-centered-ai-institute-bridges-disciplines-make-ai-work-humans",
+            "outlet": "Howard University"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Delegate Eleanor Holmes Norton said at a House Oversight hearing in June 2025 that \"AI is a tool that can empower our public servants, but it is not a substitute for passionate and committed federal workers.\" In August 2026 she introduced a bill to add AmeriCorps positions, citing AI shrinking entry-level jobs. Norton announced her retirement in January 2026; Council member Robert White won the June 2026 Democratic primary to succeed her. No AI statements from White were found.",
+        "sources": [
+          {
+            "url": "https://norton.house.gov/media/press-releases/norton-says-chatbots-are-no-replacement-federal-workers",
+            "outlet": "Office of Del. Norton"
+          },
+          {
+            "url": "https://norton.house.gov/media/press-releases/norton-introduces-bill-expand-americorps-reduce-youth-unemployment-0",
+            "outlet": "Office of Del. Norton"
+          },
+          {
+            "url": "https://www.npr.org/2026/01/26/g-s1-107327/eleanor-holmes-norton-ending-reelection-campaign",
+            "outlet": "NPR"
+          },
+          {
+            "url": "https://www.washingtonpost.com/elections/2026/06/16/dc-house-delegate-primary-election-results-2026-live-updates/",
+            "outlet": "Washington Post"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "code": "PA",
+  "summary": "HB 2800, a frontier-developer catastrophic-risk bill with third-party audits and 72-hour incident reporting, was introduced Sept 23, 2026 and is in committee. The executive branch's AI work centers on chatbot child safety (SB 1090, a Character.AI lawsuit); AG Dave Sunday opposed federal preemption in 2025 but did not sign the 2026 frontier letter.",
+  "xrisk": "direct",
+  "items": [
+    {
+      "date": "2026-09-23",
+      "type": "bill",
+      "title": "HB 2800 — Artificial Intelligence Risk Prevention Act",
+      "status": "pending",
+      "text": "Would require large frontier developers to register with PEMA, adopt catastrophic-risk frameworks, undergo third-party audits and report critical safety incidents.",
+      "source": "https://www.billtrack50.com/billdetail/2014770",
+      "people": [
+        "melissa-shusterman"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "type": "bill",
+      "title": "SB 1090 — Protecting Children from Harmful AI Chat Interactions",
+      "status": "pending",
+      "text": "Passed the Senate 49-1 and awaits House action.",
+      "source": "https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-reacts-to-pa-senates-passage-of-legislation-to-reinforce-protections-online-against-a-i-chatbots/",
+      "people": [
+        "dave-sunday"
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "type": "lawsuit",
+      "title": "Pennsylvania Department of State v. Character.AI",
+      "status": "filed",
+      "text": "The state sued Character.AI alleging chatbots posed as licensed medical professionals.",
+      "source": "https://www.pa.gov/governor/newsroom/2026-press-releases/shapiro-administration-sues-character-ai-over-fake-medical-claim",
+      "people": [
+        "josh-shapiro"
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "type": "letter",
+      "title": "36-AG NAAG letter opposing federal preemption of state AI laws",
+      "status": "filed",
+      "text": "The Pennsylvania attorney general joined the bipartisan letter urging Congress to reject a moratorium on state AI laws.",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-36-state-attorneys-general-opposes-federal-ban-on-state-ai-laws/",
+      "people": [
+        "dave-sunday"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Pennsylvania courted the largest AI data-center investments in its history, then its governor imposed some of the strictest conditions in the country after towns pushed back.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Josh Shapiro announced Amazon's $20 billion data-center plan in June 2025. On August 18, 2026 he signed an executive order that requires local approval before state permits, pulls AI data centers out of fast-track permitting, bans nondisclosure agreements and makes developers pay for their own power and grid costs. His office counted over 100 proposed projects, of which 5 had all initial permits.",
+        "sources": [
+          {
+            "url": "https://dced.pa.gov/newsroom/governor-josh-shapiro-announces-amazon-plans-to-invest-20-billion-in-pennsylvania-for-ai-infrastructure-in-largest-capital-investment-in-commonwealth-history/",
+            "outlet": "PA DCED"
+          },
+          {
+            "url": "https://www.pa.gov/governor/newsroom/2026-press-releases/governor-shapiro-signs-executive-order-on-data-center-developmen",
+            "outlet": "Governor's office"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Amazon's $20 billion plan (June 2025) covers campuses in Falls Township, Bucks County, and Salem Township, Luzerne County, next to the Susquehanna nuclear plant, with at least 1,250 jobs. At the former Homer City coal plant in Indiana County, developers plan a 3,200-acre campus powered by a 4.5 GW gas plant built by Kiewit with seven GE Vernova turbines.",
+        "sources": [
+          {
+            "url": "https://www.cnbc.com/2025/06/09/amazon-to-spend-20-billion-on-data-centers-in-pennsylvania-including-one-next-to-a-nuclear-power-plant.html",
+            "outlet": "CNBC"
+          },
+          {
+            "url": "https://www.enr.com/articles/60531-kiewit-to-build-record-45-gw-gas-power-plant-for-pa-data-center-complex",
+            "outlet": "ENR"
+          },
+          {
+            "url": "https://www.gevernova.com/news/press-releases/homer-city-redevelopment-kiewit-announce-country-largest-natural-gas-powered-data-center-support-ai-hpc-demand",
+            "outlet": "GE Vernova"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "More than 60 data-center proposals appeared in a year, most facing local opposition. Hazle Township voted June 8, 2026 to pause applications for 180 days. State Sen. Katie Muth introduced SB 1359 on June 4, 2026 for a three-year moratorium on hyperscale sites. The 2026 budget passed only a disclosure rule for data centers over 10 MW.",
+        "sources": [
+          {
+            "url": "https://insideclimatenews.org/news/02072026/pennsylvania-coal-town-data-center-moratorium/",
+            "outlet": "Inside Climate News"
+          },
+          {
+            "url": "https://broadbandbreakfast.com/pennsylvania-lawmakers-skip-over-data-center-moratorium-proposals-and-tax-breaks/",
+            "outlet": "Broadband Breakfast"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Shapiro gave $1.5 million in February 2026 toward a Physical AI Accelerator at Carnegie Mellon's Robotics Innovation Center; Fujitsu and CMU opened a joint physical-AI research center in April 2026. In July 2026 NSF announced over $320 million for an energy innovation hub led by WVU with Pitt and CMU.",
+        "sources": [
+          {
+            "url": "https://www.cmu.edu/news/stories/archives/2026/february/pennsylvania-invests-in-cmu-project-to-advance-physical-ai-innovation",
+            "outlet": "Carnegie Mellon University"
+          },
+          {
+            "url": "https://global.fujitsu/en-global/pr/news/2026/04/23-01",
+            "outlet": "Fujitsu"
+          },
+          {
+            "url": "https://wvutoday.wvu.edu/stories/2026/07/14/powering-up-economies-wvu-with-pitt-and-carnegie-mellon-will-recharge-energy-security-and-resilience-with-320m-for-new-technology-ai-infrastructure-and-jobs",
+            "outlet": "WVU Today"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. John Fetterman opposed data-center moratoriums; after Shapiro's August 2026 order he posted: \"I reject the political pandering and hyperbole over data centers or AI doomsdaying.\" He called Hochul's New York moratorium a case of \"China wins.\"",
+        "sources": [
+          {
+            "url": "https://www.washingtonexaminer.com/policy/infrastructure/4697477/fetterman-data-center-ai-doomsdaying-shapiro-order/",
+            "outlet": "Washington Examiner"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

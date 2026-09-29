@@ -1,0 +1,32 @@
+{
+  "id": "drew-wrigley",
+  "name": "Drew Wrigley",
+  "office": "Attorney General of North Dakota",
+  "office_type": "state_ag",
+  "state": "ND",
+  "party": "R",
+  "committees": [],
+  "stance": "Has joined multistate pressure on AI companies over chatbot harms to children.",
+  "statements": [
+    {
+      "date": "2025-08-25",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Joined the 44-AG letter warning AI companies to stop chatbot harms to children.",
+      "target": "AI companies",
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-44-states-in-demanding-companies-end-predatory-ai-interactions-with-kids",
+      "outlet": "Office of the Illinois Attorney General"
+    }
+  ],
+  "photo": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Drew_Wrigley_-_official_U.S._Attorney_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drew_Wrigley_-_official_U.S._Attorney_portrait.jpg",
+    "license": "Public domain",
+    "artist": "United States Department of Justice"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ned-lamont",
+  "name": "Ned Lamont",
+  "office": "Governor of Connecticut",
+  "office_type": "governor",
+  "state": "CT",
+  "party": "D",
+  "committees": [],
+  "stance": "Long resisted broad AI regulation but signed a 2026 law on chatbots, AI in hiring and youth online safety; no frontier-risk position found.",
+  "statements": [
+    {
+      "date": "2026-06-02",
+      "arena": "state",
+      "kind": "quote",
+      "text": "We can no longer wait for Washington, D.C. to do the right thing and enact protections",
+      "target": null,
+      "joint": "ct-sb-5-2026",
+      "source": "https://portal.ct.gov/governor/news/press-releases/2026/06-2026/governor-lamont-signs-legislation-establishing-youth-online-safety-protections",
+      "outlet": "Office of the Governor of Connecticut"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed Senate Bill 5 (Public Act 26-15), with chatbot self-harm safeguards, AI-in-hiring disclosure and an AI regulatory sandbox.",
+      "target": null,
+      "joint": "ct-sb-5-2026",
+      "source": "https://portal.ct.gov/governor/news/press-releases/2026/06-2026/governor-lamont-signs-legislation-establishing-youth-online-safety-protections",
+      "outlet": "Office of the Governor of Connecticut"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Governor_Ned_Lamont_of_Connecticut%2C_official_portrait.jpg/250px-Governor_Ned_Lamont_of_Connecticut%2C_official_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Governor_Ned_Lamont_of_Connecticut,_official_portrait.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "The Office of Governor Ned Lamont"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

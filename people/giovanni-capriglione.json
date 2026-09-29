@@ -1,0 +1,26 @@
+{
+  "id": "giovanni-capriglione",
+  "name": "Giovanni Capriglione",
+  "office": "Texas State Representative",
+  "office_type": "state_rep",
+  "state": "TX",
+  "party": "R",
+  "committees": [],
+  "stance": "Author of TRAIGA, which targets harmful and manipulative AI uses rather than frontier-model risk.",
+  "statements": [
+    {
+      "date": "2025-06-22",
+      "arena": "state",
+      "kind": "action",
+      "text": "Authored HB 149, the Texas Responsible Artificial Intelligence Governance Act.",
+      "target": null,
+      "joint": null,
+      "source": "https://iapp.org/news/a/governor-signs-texas-responsible-artificial-intelligence-governance-act",
+      "outlet": "IAPP"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

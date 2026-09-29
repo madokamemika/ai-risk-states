@@ -1,0 +1,65 @@
+{
+  "id": "ro-khanna",
+  "name": "Ro Khanna",
+  "office": "U.S. Representative, California 17th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "committees": [
+    "House Select Committee on the CCP (ranking member)",
+    "House Armed Services"
+  ],
+  "stance": "Wants a licensing agency for frontier AI, a ban on recursively self-improving models until guardrails exist, and US-China agreements on AI safety.",
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We urgently need an agreement with China on basic inspections and safety standards.",
+      "target": null,
+      "joint": null,
+      "source": "https://rollcall.com/2026/09/23/ai-superintelligence-ban-proposed-by-casar-sanders/",
+      "outlet": "Roll Call"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cosponsored the Ban Artificial Superintelligence Act.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://www.washingtonexaminer.com/news/house/4742484/ten-democrats-aoc-back-ai-superintelligence-ban/",
+      "outlet": "Washington Examiner"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There's actually a civilizational extinction risk",
+      "target": null,
+      "joint": null,
+      "source": "https://thenextweb.com/news/human-control-over-ai-act-khanna-self-improving-ai",
+      "outlet": "The Next Web (citing CNBC)"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Announced the Human Control Over AI Act, which would ban recursively self-improving models until federal guardrails exist and create an agency to license frontier model training and deployment.",
+      "target": null,
+      "joint": null,
+      "source": "https://thenextweb.com/news/human-control-over-ai-act-khanna-self-improving-ai",
+      "outlet": "The Next Web (citing CNBC)"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Ro_Khanna%2C_official_portrait%2C_115th_Congress.jpg/250px-Ro_Khanna%2C_official_portrait%2C_115th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ro_Khanna,_official_portrait,_115th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Congress/Eric Connolly"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

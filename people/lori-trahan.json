@@ -1,0 +1,44 @@
+{
+  "id": "lori-trahan",
+  "name": "Lori Trahan",
+  "office": "U.S. Representative, Massachusetts 3rd District",
+  "office_type": "us_rep",
+  "state": "MA",
+  "party": "D",
+  "committees": [
+    "House Energy and Commerce"
+  ],
+  "stance": "Co-author of the bipartisan draft framework with frontier-model safety duties and temporary preemption; says it should be only a start.",
+  "statements": [
+    {
+      "date": "2026-06-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The threats AI poses to our national security, our safety, and our workforce are here and growing by the day.",
+      "target": null,
+      "joint": "great-american-ai-act-draft",
+      "source": "https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/",
+      "outlet": "Roll Call"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Said the Obernolte-Trahan framework should be only the start and argued for placing AI safety work in the Commerce Department in the open.",
+      "target": null,
+      "joint": "great-american-ai-act-draft",
+      "source": "https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/",
+      "outlet": "Roll Call"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Lori_Trahan%2C_official_portrait%2C_116th_Congress.jpg/250px-Lori_Trahan%2C_official_portrait%2C_116th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lori_Trahan,_official_portrait,_116th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

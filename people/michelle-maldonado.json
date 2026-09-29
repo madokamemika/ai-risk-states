@@ -1,0 +1,36 @@
+{
+  "id": "michelle-maldonado",
+  "name": "Michelle Lopes Maldonado",
+  "office": "Member of the Virginia House of Delegates",
+  "office_type": "state_rep",
+  "state": "VA",
+  "party": "D",
+  "committees": [],
+  "stance": "Sponsor of Virginia's high-risk AI (algorithmic discrimination) bill vetoed in 2025 and of a 2026 chatbot child-safety bill carried over to 2027.",
+  "statements": [
+    {
+      "date": "2025-05-08",
+      "arena": "state",
+      "kind": "quote",
+      "text": "What I'm suggesting is that we don't wait to see how it evolves. That we'd be engaged in a very thoughtful conversation from the start.",
+      "target": null,
+      "joint": null,
+      "source": "https://technical.ly/civic-news/virginia-ai-bill-veto-youngkin-maldonado/",
+      "outlet": "Technical.ly"
+    },
+    {
+      "date": "2026-02-23",
+      "arena": "state",
+      "kind": "action",
+      "text": "Her 2026 bill barring chatbots from manipulating children toward self-harm was continued to 2027.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.vpm.org/generalassembly/2026-02-23/virginia-ai-bills-hayes-maldonado-salim-trump-spanberger",
+      "outlet": "VPM"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "bernie-sanders",
+  "name": "Bernie Sanders",
+  "office": "U.S. Senator from Vermont",
+  "office_type": "us_senator",
+  "state": "VT",
+  "party": "I",
+  "committees": [
+    "Senate Health, Education, Labor and Pensions (ranking member)"
+  ],
+  "stance": "Wants a permanent ban on artificial superintelligence, a pause on advanced AI development above 10^25 FLOP until a new Department of AI sets rules, and international agreements to the same end.",
+  "statements": [
+    {
+      "date": "2026-09-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The future of humanity cannot be left in the hands of a handful of Big Tech oligarchs.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+      "outlet": "Office of Sen. Sanders"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The leaders of the major AI companies publicly acknowledge that they do not fully understand the technology and that it is escaping their control.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face",
+      "outlet": "PBS NewsHour (AP)"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the Ban Artificial Superintelligence Act with Rep. Greg Casar.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://rollcall.com/2026/09/23/ai-superintelligence-ban-proposed-by-casar-sanders/",
+      "outlet": "Roll Call"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bernie_Sanders_2023.jpg/250px-Bernie_Sanders_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bernie_Sanders_2023.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Palácio do Planalto from Brasilia, Brasil"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

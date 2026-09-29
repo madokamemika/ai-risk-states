@@ -1,0 +1,34 @@
+{
+  "id": "adam-neylon",
+  "name": "Adam Neylon",
+  "office": "Wisconsin State Representative",
+  "office_type": "state_rep",
+  "state": "WI",
+  "party": "R",
+  "committees": [
+    "Legislative Council Study Committee on the Use of AI in Health Care (vice chair)"
+  ],
+  "stance": "Wants a national standard but opposes tying states’ hands on AI.",
+  "statements": [
+    {
+      "date": "2026-07-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While we don't need a patchwork, we also should not be tying the hands of the people closest to these issues at the state level,",
+      "target": "Congress",
+      "joint": "state-legislators-petition-great-american-ai-act-2026",
+      "source": "https://www.wpr.org/news/bipartisan-wisconsin-lawmakers-oppose-federal-limit-state-ai-regulation",
+      "outlet": "Wisconsin Public Radio"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Representative_Adam_Neylon.jpg/250px-Representative_Adam_Neylon.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Representative_Adam_Neylon.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "WAUKESHAGOP"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tom-leek",
+  "name": "Tom Leek",
+  "office": "Florida State Senator (District 7)",
+  "office_type": "state_senator",
+  "state": "FL",
+  "party": "R",
+  "committees": [],
+  "stance": "Sponsor of SB 482, the AI Bill of Rights, restricting companion chatbots for minors and requiring AI disclosure.",
+  "statements": [
+    {
+      "date": "2026-03-04",
+      "arena": "state",
+      "kind": "action",
+      "text": "Sponsored SB 482, the Artificial Intelligence Bill of Rights, which passed the Florida Senate 35-2.",
+      "target": null,
+      "joint": "fl-sb482-ai-bill-of-rights",
+      "source": "https://www.cfpublic.org/politics/2026-03-05/senate-approves-house-obstructed-ai-bill-of-rights",
+      "outlet": "Central Florida Public Media"
+    },
+    {
+      "date": "2026-04",
+      "arena": "state",
+      "kind": "quote",
+      "text": "There's an inherent evilness when we allow machines to create and sustain a relationship that a user believes to be real.",
+      "target": null,
+      "joint": "fl-sb482-ai-bill-of-rights",
+      "source": "https://www.wlrn.org/government-politics/2026-04-21/floridas-ai-bill-of-rights-what-happened-whats-in-it-and-whats-next",
+      "outlet": "WLRN"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ben-robbins",
+  "name": "Ben Robbins",
+  "office": "Alabama State Representative",
+  "office_type": "state_rep",
+  "state": "AL",
+  "party": "R",
+  "committees": [
+    "Chair, Commission on Artificial Intelligence and Children's Safety"
+  ],
+  "stance": "Chairs a legislative commission drafting 2027 chatbot protections for minors.",
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "arena": "state",
+      "kind": "quote",
+      "text": "There are positives to it, but the negatives have been the drawbacks and what it's done to children.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.route-fifty.com/artificial-intelligence/2026/07/experts-tell-alabama-lawmakers-set-red-lines-protect-adolescents-ai-chatbots/414959/",
+      "outlet": "Route Fifty / Alabama Reflector"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

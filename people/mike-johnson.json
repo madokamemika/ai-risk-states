@@ -1,0 +1,54 @@
+{
+  "id": "mike-johnson",
+  "name": "Mike Johnson",
+  "office": "Speaker of the U.S. House of Representatives; U.S. Representative, Louisiana 4th District",
+  "office_type": "us_rep",
+  "state": "LA",
+  "party": "R",
+  "committees": [
+    "Speaker of the House"
+  ],
+  "stance": "Opposes a moratorium on AI development and prefers that AI companies self-regulate on safety.",
+  "statements": [
+    {
+      "date": "2026-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "They can self-police, they can self-regulate. They don't need the government to tell them to slow it down.",
+      "target": null,
+      "joint": null,
+      "source": "https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/",
+      "outlet": "Roll Call"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We all have a sense of urgency to create guardrails around the technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SpeakerJohnson/status/2099284105003257875",
+      "outlet": "X"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "They probably should be summoned together at the White House. And I think we need to go in a big room, close the door and sort this out. And I'll be the one pushing for it.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.politico.com/news/2026/09/13/tech-ai-safety-johnson-01073735",
+      "outlet": "POLITICO"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Mike_Johnson%2C_official_portrait%2C_116th_Congress.jpg/250px-Mike_Johnson%2C_official_portrait%2C_116th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mike_Johnson,_official_portrait,_116th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "U.S. House Office of Photography/House Creative Services"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

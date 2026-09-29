@@ -1,0 +1,116 @@
+{
+  "code": "OK",
+  "xrisk": "direct",
+  "summary": "AG Drummond was the lone Republican on the 26-AG September 2026 letter demanding federal frontier-AI safety rules and also joined the GOP preservation demand to OpenAI; Gov. Stitt says federal and state governments must jointly set AI guardrails.",
+  "items": [
+    {
+      "date": "2026-08-03",
+      "type": "letter",
+      "title": "Republican AGs' preservation demand to OpenAI",
+      "status": "filed",
+      "text": "Drummond co-signed the demand.",
+      "source": "https://www.iowaattorneygeneral.gov/media/cms/08_5392C9E17791C.pdf",
+      "people": [
+        "gentner-drummond"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI",
+      "status": "filed",
+      "text": "Drummond urged Congress to regulate the AI industry, citing agents breaking into networks.",
+      "source": "https://oklahoma.gov/oag/news/newsroom/2026/september/drummond-urges-congress-to-regulate-ai-industry-to-protect-oklahomans.html",
+      "people": [
+        "gentner-drummond"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Oklahoma welcomed a $9 billion Google investment, and in 2026 its two largest cities and the Cherokee Nation paused or barred new data centers.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Most AI regulation bills in Oklahoma stalled in 2026, including deepfake political-ad and chatbot child-safety bills, as President Trump's executive order discouraged state AI rules; a narrower school AI transparency law passed. In June 2026 Gov. Kevin Stitt said he was considering a special session on AI in campaign ads.",
+        "sources": [
+          {
+            "url": "https://oklahomawatch.org/2026/06/18/oklahoma-holding-back-on-ai-regulations-amid-trumps-order-for-states-not-to-stifle-the-new-technology/",
+            "outlet": "Oklahoma Watch"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "In August 2025 Google announced a $9 billion investment in Oklahoma over two years, covering a new data center campus in Stillwater and an expansion in Pryor. The 400-acre Stillwater campus could cost up to $3 billion, with its first phase due by 2027. Stitt called the investment a \"huge win\".",
+        "sources": [
+          {
+            "url": "https://www.kosu.org/local-news/2025-08-14/google-announces-a-new-9-billion-cloud-and-ai-investment-in-oklahoma",
+            "outlet": "KOSU"
+          },
+          {
+            "url": "https://www.newson6.com/story/689ceb7935c02bda0f23fd03/google-9-billion-oklahoma-investment-pryor-stillwater-data-centers-workforce-programs-jobs-ai",
+            "outlet": "News On 6"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Tulsa's City Council unanimously paused new data centers for nine months, and Oklahoma City approved a moratorium through 2026, as other towns followed. The Cherokee Nation barred large-scale data centers on its tribal lands on August 10, 2026. A July 2026 investigation found a loophole that leaves most data center water use in the state unreported.",
+        "sources": [
+          {
+            "url": "https://www.readfrontier.org/stories/why-tulsa-is-hitting-pause-on-data-centers/",
+            "outlet": "The Frontier"
+          },
+          {
+            "url": "https://www.kosu.org/okc-data-center-moratorium",
+            "outlet": "KOSU"
+          },
+          {
+            "url": "https://programs.com/resources/data-center-moratoriums-tracker/",
+            "outlet": "Programs.com"
+          },
+          {
+            "url": "https://investigatemidwest.org/2026/07/14/oklahoma-data-centers-water-use-loophole/",
+            "outlet": "Investigate Midwest"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Oklahoma State University and the University of Oklahoma were in the first group of schools in Google's AI for Education Accelerator in 2025, which gives students free AI training and certificates. OSU starts a multi-campus Master's in AI in fall 2026, and OU announced 20 new AI projects in June 2025.",
+        "sources": [
+          {
+            "url": "https://news.okstate.edu/articles/communications/2025/oklahoma_state_university_joins_google_ai_for_education_accelerator",
+            "outlet": "Oklahoma State University"
+          },
+          {
+            "url": "https://www.ou.edu/news/articles/2025/june/ou-to-launch-twenty-new-ai-projects",
+            "outlet": "University of Oklahoma"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sens. James Lankford and Markwayne Mullin were part of the 99-1 Senate vote in July 2025 that removed a 10-year moratorium on state AI laws from the budget bill; Mullin left the Senate in 2026 to become Secretary of Homeland Security. In September 2026 Lankford co-sponsored the AI Systems Transparency Act with Sens. Britt, Coons and Schatz, requiring AI companies to disclose data collection and safeguards for children, privacy, cybersecurity and loss-of-control risks, enforced by the FTC. No 2025-26 AI statements were found from Reps. Cole, Hern, Bice, Brecheen or Lucas.",
+        "sources": [
+          {
+            "url": "https://time.com/7299044/senators-reject-10-year-ban-on-state-level-ai-regulation-in-blow-to-big-tech/",
+            "outlet": "TIME"
+          },
+          {
+            "url": "https://www.oklahomafarmreport.com/2026/06/16/kevin-hern-one-step-closer-to-replacing-markwayne-mullin-in-the-us-senate/",
+            "outlet": "Oklahoma Farm Report"
+          },
+          {
+            "url": "https://www.alreporter.com/2026/09/29/sen-britt-backs-bipartisan-ai-transparency-legislation/",
+            "outlet": "Alabama Reflector"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

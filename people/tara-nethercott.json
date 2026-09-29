@@ -1,0 +1,26 @@
+{
+  "id": "tara-nethercott",
+  "name": "Tara Nethercott",
+  "office": "Wyoming State Senator",
+  "office_type": "state_senator",
+  "state": "WY",
+  "party": "R",
+  "committees": [],
+  "stance": "Skeptical of state AI rules for government use, calling the 2026 draft a bill in search of a problem.",
+  "statements": [
+    {
+      "date": "2026-07-16",
+      "arena": "state",
+      "kind": "action",
+      "text": "Argued in committee against the draft bill requiring human approval of consequential government AI decisions, saying it was in search of a problem.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.wyomingpublicmedia.org/politics-government/2026-07-16/lawmakers-debate-how-to-regulate-government-use-of-ai",
+      "outlet": "Wyoming Public Media"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

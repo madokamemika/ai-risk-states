@@ -1,0 +1,108 @@
+{
+  "code": "SC",
+  "xrisk": "adjacent",
+  "summary": "South Carolina's AG has opposed federal preemption of state AI law and co-led the 44-AG child-safety letter; chatbot bills (S. 1037 / H. 5476) never left committee in 2026. Nothing specific to frontier or catastrophic risk.",
+  "items": [
+    {
+      "date": "2026-03-19",
+      "type": "bill",
+      "title": "S. 1037 — Protecting Children from Chatbots Act",
+      "status": "failed",
+      "text": "Referred to Senate Labor, Commerce and Industry and did not advance before the 2025-26 session ended; House companion H. 5476 also stayed in committee.",
+      "source": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1037.htm",
+      "people": [
+        "josh-kimbrell"
+      ]
+    },
+    {
+      "date": "2025-05-16",
+      "type": "letter",
+      "title": "AG letter opposing the federal 10-year state AI moratorium",
+      "status": "filed",
+      "text": "Wilson and a bipartisan AG coalition urged Congress to drop the moratorium on state AI laws.",
+      "source": "https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-fights-back-federal-proposal-to-strip-states-of-authority-over-ai/",
+      "people": [
+        "alan-wilson"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "South Carolina is landing billions in Google data centers while at least 13 of its counties have paused new ones, and the governor has declined to call for a statewide pause.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "South Carolina has no governor's executive order on AI; the Department of Administration published a state AI Strategy in March 2024 and runs an AI Center of Excellence for agencies. In September 2026 Gov. Henry McMaster said he would not call for a statewide data-center moratorium. No moratorium bill passed in 2026, but the budget requires large data centers to report water use. State-owned utility Santee Cooper charges higher rates to users needing 50 MW or more.",
+        "sources": [
+          {
+            "url": "https://www.southcarolinapublicradio.org/sc-news/2026-09-25/gov-mcmaster-declines-calling-for-sc-wide-data-center-moratorium-as-more-counties-pass-their-own",
+            "outlet": "South Carolina Public Radio"
+          },
+          {
+            "url": "https://pivitstrategy.com/south-carolina-ai-laws-you-should-know-2026/",
+            "outlet": "PivIT Strategy"
+          },
+          {
+            "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5526.htm",
+            "outlet": "South Carolina Legislature"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Google announced on October 13, 2025 a $9 billion investment through 2027 to expand its Berkeley County campus and build two campuses in Dorchester County, on top of $3.3 billion announced in September 2024.",
+        "sources": [
+          {
+            "url": "https://blog.google/company-news/inside-google/company-announcements/google-american-innovation-south-carolina/",
+            "outlet": "Google"
+          },
+          {
+            "url": "https://www.datacenterdynamics.com/en/news/google-to-invest-9bn-in-south-carolina-data-centers/",
+            "outlet": "DatacenterDynamics"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "At least 13 counties, including Colleton, Spartanburg and York, had passed data-center moratoriums by late September 2026. Colleton adopted a six-month pause on July 7, 2026 after about 500 people protested a proposed project; Spartanburg froze new applications in June 2026. Lexington, Kershaw and McCormick counties were considering pauses. Bills in 2026 proposed a statewide moratorium (S. 5526) and an end to incentives (H. 4583).",
+        "sources": [
+          {
+            "url": "https://scdailygazette.com/2026/06/26/sc-counties-enacting-data-center-moratoriums/",
+            "outlet": "SC Daily Gazette"
+          },
+          {
+            "url": "https://www.live5news.com/2026/07/08/6-month-pause-data-center-developments-colleton-county-lawsuit-paused/",
+            "outlet": "Live 5 News"
+          },
+          {
+            "url": "https://www.southcarolinapublicradio.org/sc-news/2026-09-25/gov-mcmaster-declines-calling-for-sc-wide-data-center-moratorium-as-more-counties-pass-their-own",
+            "outlet": "South Carolina Public Radio"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "South Carolina State University, an HBCU, announced a collaboration with NVIDIA in June 2026 on AI education and workforce development.",
+        "sources": [
+          {
+            "url": "https://scsu.edu/news/2026_19_06_NVIDIA_collaboration.php",
+            "outlet": "South Carolina State University"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "In July 2026 Sen. Tim Scott, chair of the Senate Banking Committee, asked Federal Reserve Chair Kevin Warsh to address data centers and AI at a coming hearing, raising their water and electricity use amid rising utility costs and resistance in South Carolina.",
+        "sources": [
+          {
+            "url": "https://www.cnbc.com/2026/07/14/tim-scott-kevin-warsh-data-centers-artificial-intelligence.html",
+            "outlet": "CNBC"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "code": "CO",
+  "xrisk": "direct",
+  "summary": "Colorado's 2024 AI Act targeted algorithmic discrimination (adjacent) and was delayed, sued by xAI with DOJ intervention, and replaced in 2026 by a narrower law; Polis favors federal preemption, while AG Weiser signed the 2026 letter urging federal frontier-AI safety rules.",
+  "items": [
+    {
+      "date": "2025-08",
+      "type": "law",
+      "title": "SB 25B-004 — Colorado AI Act delay",
+      "status": "signed",
+      "text": "Moved the AI Act's effective date to June 30, 2026.",
+      "source": "https://www.bakerbotts.com/thought-leadership/publications/2025/september/colorado-ai-act-implementation-delayed",
+      "people": [
+        "jared-polis"
+      ]
+    },
+    {
+      "date": "2026-04-24",
+      "type": "lawsuit",
+      "title": "xAI v. Weiser (D. Colo.)",
+      "status": "pending",
+      "text": "xAI sued to block the AI Act on April 9, 2026 and DOJ moved to intervene on April 24; enforcement was stayed by joint motion.",
+      "source": "https://coloradosun.com/2026/04/24/doj-joins-lawsuit-colorado-ai-law-federal-court/",
+      "people": [
+        "phil-weiser"
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "type": "law",
+      "title": "SB 26-189 — automated decision-making technology law",
+      "status": "signed",
+      "text": "Replaces SB 24-205 with notice and disclosure duties for automated decision-making, effective January 1, 2027.",
+      "source": "https://www.hklaw.com/en/insights/publications/2026/05/colorado-governor-signs-sb-189",
+      "people": [
+        "jared-polis",
+        "robert-rodriguez"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI",
+      "status": "filed",
+      "text": "Weiser signed the multistate letter urging federal frontier-AI safety rules.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "phil-weiser"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Colorado passed the first broad state AI-discrimination law and then scaled it back, while its Front Range cities and counties pause data centers.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Jared Polis delayed the 2024 Colorado AI Act to June 30, 2026 (signed August 2025). On May 14, 2026 he signed SB26-189, which repeals it and replaces its \"high-risk AI\" rules with a narrower law on automated decision-making in consequential decisions, effective January 1, 2027. In 2026 the legislature killed both a data center tax-break bill and a bill requiring data centers to pay for their own clean power.",
+        "sources": [
+          {
+            "url": "https://www.skadden.com/insights/publications/2026/06/colorado-repeals-and-replaces-its-ai-act",
+            "outlet": "Skadden"
+          },
+          {
+            "url": "https://www.akingump.com/en/insights/ai-law-and-regulation-tracker/colorado-postpones-implementation-of-colorado-ai-act-sb-24-205",
+            "outlet": "Akin Gump"
+          },
+          {
+            "url": "https://www.rmpbs.org/news/government/colorado-data-centers-competing-legislation",
+            "outlet": "Rocky Mountain PBS"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Vantage Data Centers' Trident project in Aurora, 334 MW of IT capacity and about 500 MW total on 143 acres across from homes, would be Colorado's largest data center and can be approved without a public hearing (September 2026). QTS Denver-Aurora (177 MW) will be Xcel's largest industrial customer. Xcel's April 2026 large-load tariff for users of 50 MW or more requires 15-year contracts and an 80% minimum demand charge.",
+        "sources": [
+          {
+            "url": "https://coloradonewsline.com/2026/09/21/colorado-largest-data-center/",
+            "outlet": "Colorado Newsline"
+          },
+          {
+            "url": "https://www.cpr.org/2026/04/07/xcel-colorado-data-center-power-prices/",
+            "outlet": "Colorado Public Radio"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Larimer County (January 2026), Jefferson County and Boulder County (June 2026) adopted temporary data center moratoriums. Denver approved a one-year moratorium in May 2026, Longmont banned hyperscale centers over 100 MW in June, and Broomfield paused them for 18 months in July. Earthjustice and other groups intervened against Xcel's data center tariff in 2026.",
+        "sources": [
+          {
+            "url": "https://coloradonewsline.com/2026/08/10/colorado-moratoriums-data-centers/",
+            "outlet": "Colorado Newsline"
+          },
+          {
+            "url": "https://earthjustice.org/press/2026/public-interest-groups-seek-intervention-in-xcel-energy-data-center-tariff-proceeding",
+            "outlet": "Earthjustice"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "CU Boulder leads the NSF National AI Institute for Student-AI Teaming (iSAT), whose funding NSF renewed for five more years in 2025. In July 2026 CU Boulder's research office awarded more than $200,000 to nine interdisciplinary AI pilot projects.",
+        "sources": [
+          {
+            "url": "https://www.colorado.edu/today/2025/07/29/research-institute-building-ai-literate-workforce-future-receives-major-new-grant-0",
+            "outlet": "CU Boulder"
+          },
+          {
+            "url": "https://www.colorado.edu/today/2026/07/14/pilot-grants-support-interdisciplinary-ai-research-cu-boulder",
+            "outlet": "CU Boulder"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "On September 25, 2026 Sen. Michael Bennet (D) proposed the AI Regulator Act, which would create an independent federal agency to regulate frontier AI models and social media, with power to pause the release of models that pose catastrophic risk.",
+        "sources": [
+          {
+            "url": "https://www.bennet.senate.gov/2026/09/25/icymi-bennet-calls-for-new-federal-agency-to-prevent-catastrophic-ai-risk/",
+            "outlet": "Sen. Bennet"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

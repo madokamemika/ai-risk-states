@@ -1,0 +1,151 @@
+{
+  "code": "NY",
+  "summary": "New York enacted the RAISE Act (signed Dec 19, 2025; chapter amendment S8828 signed Mar 27, 2026; effective Jan 1, 2027), requiring large frontier developers to publish safety frameworks, report critical safety incidents within 72 hours and file catastrophic-risk assessments with a new DFS office. AG Letitia James co-led the Sept 2026 state-AG letter asking Congress for federal frontier-AI rules without preemption.",
+  "xrisk": "acted",
+  "items": [
+    {
+      "date": "2025-12-19",
+      "type": "law",
+      "title": "RAISE Act (S6953B/A6453B) — Responsible AI Safety and Education Act",
+      "status": "signed",
+      "text": "Hochul signed the frontier-model safety and transparency law requiring safety protocols and 72-hour incident reporting, enforced by the Attorney General.",
+      "source": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-require-ai-frameworks-ai-frontier-models",
+      "people": [
+        "kathy-hochul",
+        "andrew-gounardes",
+        "alex-bores"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "type": "law",
+      "title": "RAISE Act chapter amendment (S8828)",
+      "status": "enacted",
+      "text": "The amendment added compute and $500 million revenue thresholds, quarterly catastrophic-risk disclosures, penalties up to $1M/$3M and an effective date of January 1, 2027.",
+      "source": "https://www.wiley.law/alert-New-York-Finalizes-RAISE-Act-for-Frontier-AI-Models-Law-Takes-Effect-January-1-2027",
+      "people": [
+        "kathy-hochul"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "type": "statement",
+      "title": "RAISE Act implementation: DIGIT office and developer registration",
+      "status": "in_force",
+      "text": "The governor announced frontier-developer registration in November 2026 and named Marc Gilman to lead the DFS DIGIT office.",
+      "source": "https://www.governor.ny.gov/news/ai-safety-governor-hochul-announces-next-steps-regulate-major-ai-developers-and-protect-new",
+      "people": [
+        "kathy-hochul"
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "type": "statement",
+      "title": "NY-12 primary: AI super PAC spending against Alex Bores",
+      "status": "failed",
+      "text": "Bores lost the Democratic primary to Micah Lasher after Leading the Future spent about $8 million against him, with roughly $20 million spent supporting him.",
+      "source": "https://gizmodo.com/ai-super-pacs-first-major-target-loses-new-york-congressional-primary-2000776808",
+      "people": [
+        "alex-bores"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI safety",
+      "status": "filed",
+      "text": "James co-led the letter citing AI agents escaping test environments and urging mandatory federal safety oversight without preemption.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "letitia-james"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "New York is building a state-owned AI supercomputer network while pausing permits for big data centers and writing its own frontier-AI safety law.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Kathy Hochul's Empire AI consortium has about $500 million in state money behind it; the FY26 budget added $90 million in capital funding and new members. Hochul signed the RAISE Act on frontier-model safety in December 2025 and signed chapter amendments in March 2026 that align it with California's law and give the Department of Financial Services enforcement power; it takes effect January 1, 2027.",
+        "sources": [
+          {
+            "url": "https://www.governor.ny.gov/news/governor-hochul-signs-legislation-expanding-historic-empire-ai-consortium-and-establishing",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://www.buffalo.edu/ubnow/stories/2026/08/empire-ai-beta.html",
+            "outlet": "UBNow"
+          },
+          {
+            "url": "https://www.wiley.law/alert-New-York-Finalizes-RAISE-Act-for-Frontier-AI-Models-Law-Takes-Effect-January-1-2027",
+            "outlet": "Wiley"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "The largest proposal is a $19.5 billion, 500 MW Stream Data Centers campus at the STAMP industrial park in Genesee County (reported June 2026), which critics note would bring about 170 permanent jobs.",
+        "sources": [
+          {
+            "url": "https://rbj.net/2026/06/15/new-york-moratorium-genesee-county-data-center/",
+            "outlet": "Rochester Business Journal"
+          },
+          {
+            "url": "https://thirdact.org/upstate-ny/2026/06/04/support-the-ny-data-center-moratorium/",
+            "outlet": "Third Act Upstate NY"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "On June 4, 2026 the Legislature passed S.9144 (Krueger/Kelles), a one-year moratorium on hyperscale data centers of 20 MW or more. On July 14, 2026 Hochul issued Executive Order 62, pausing state environmental permit reviews for data centers of 50 MW or more until a generic environmental impact statement is done. Residents in Genesee County organized as No Data Center at STAMP.",
+        "sources": [
+          {
+            "url": "https://earthjustice.org/press/2026/nys-legislature-passes-data-center-moratorium",
+            "outlet": "Earthjustice"
+          },
+          {
+            "url": "https://www.bdlaw.com/publications/new-york-enacts-first-statewide-moratorium-on-data-centers/",
+            "outlet": "Beveridge & Diamond"
+          },
+          {
+            "url": "https://thirdact.org/upstate-ny/2026/04/30/support-the-ny-data-center-moratorium/",
+            "outlet": "Third Act Upstate NY"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Empire AI Beta, a $40 million NVIDIA system at the University at Buffalo, came fully online in August 2026 with more than 300 research projects queued. The permanent Gamma facility at UB is due by the end of 2027. The FY26 expansion added the University of Rochester, RIT and Mount Sinai to the consortium.",
+        "sources": [
+          {
+            "url": "https://www.buffalo.edu/ubnow/stories/2026/08/empire-ai-beta.html",
+            "outlet": "UBNow"
+          },
+          {
+            "url": "https://www.governor.ny.gov/news/governor-hochul-signs-legislation-expanding-historic-empire-ai-consortium-and-establishing",
+            "outlet": "Governor's office"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Rep. Alexandria Ocasio-Cortez introduced the House version of the AI Data Center Moratorium Act with Sen. Bernie Sanders (announced March 2026), which would halt new AI data centers until Congress passes safeguards; she said \"Congress has a moral obligation to stand with the American people and stop the expansion of these data centers.\" Sen. Kirsten Gillibrand criticized White House oversight of new AI models in 2026 as failing to address security risks.",
+        "sources": [
+          {
+            "url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act/",
+            "outlet": "Sen. Sanders"
+          },
+          {
+            "url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-schiff-and-colleagues-press-trump-administration-on-chaotic-opaque-oversight-of-new-artificial-intelligence-models/",
+            "outlet": "Sen. Gillibrand"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

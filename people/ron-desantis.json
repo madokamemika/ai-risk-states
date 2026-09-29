@@ -1,0 +1,62 @@
+{
+  "id": "ron-desantis",
+  "name": "Ron DeSantis",
+  "office": "Governor of Florida",
+  "office_type": "governor",
+  "state": "FL",
+  "party": "R",
+  "committees": [],
+  "stance": "Opposes federal preemption of state AI laws, calling it a subsidy to Big Tech.",
+  "statements": [
+    {
+      "date": "2025-11-18",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Opposed adding AI preemption to the defense bill, warning it would be a subsidy to Big Tech and remove state protections for children and against censorship.",
+      "target": "Congress",
+      "joint": null,
+      "source": "https://www.foxnews.com/politics/trump-calls-federal-ai-standards-end-state-patchwork-regulations-threatening-economic-growth",
+      "outlet": "Fox News"
+    },
+    {
+      "date": "2025-12-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "You can preempt states under Article 1 powers through congressional legislation on certain issues, but you can't do it through executive order.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.foxbusiness.com/politics/desantis-says-florida-can-regulate-ai-trumps-executive-order-we-have-right-do-this",
+      "outlet": "Fox Business"
+    },
+    {
+      "date": "2025-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Stripping states of jurisdiction to regulate AI is a subsidy to Big Tech and will prevent states from protecting against online censorship of political speech, predatory applications that target children, violations of intellectual property rights and data center intrusions on power/water resources.",
+      "target": null,
+      "joint": null,
+      "source": "https://statescoop.com/gop-lawmakers-state-ai-law-moratorium/",
+      "outlet": "StateScoop"
+    },
+    {
+      "date": "2026-04",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Added the AI Bill of Rights to the April 28-May 1 special session agenda after the House refused to take it up in regular session.",
+      "target": "Florida House",
+      "joint": "fl-sb482-ai-bill-of-rights",
+      "source": "https://www.wlrn.org/government-politics/2026-04-21/floridas-ai-bill-of-rights-what-happened-whats-in-it-and-whats-next",
+      "outlet": "WLRN"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Ron_DeSantis_113th_Congress.jpg/250px-Ron_DeSantis_113th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ron_DeSantis_113th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

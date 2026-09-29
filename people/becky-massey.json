@@ -1,0 +1,42 @@
+{
+  "id": "becky-massey",
+  "name": "Becky Massey",
+  "office": "Tennessee State Senator (District 6)",
+  "office_type": "state_senator",
+  "state": "TN",
+  "party": "R",
+  "committees": [],
+  "stance": "Sponsored a bill that originally would have made training companion-style chatbots a felony; it was narrowed to a state AI study.",
+  "statements": [
+    {
+      "date": "2025-12-18",
+      "arena": "state",
+      "kind": "action",
+      "text": "Introduced SB 1493 to make it a Class A felony to train AI to simulate a human or act as an emotional-support companion.",
+      "target": null,
+      "joint": null,
+      "source": "https://natlawreview.com/article/tennessees-ai-bill-would-criminalize-training-ai-cha",
+      "outlet": "National Law Review"
+    },
+    {
+      "date": "2026-05-27",
+      "arena": "state",
+      "kind": "action",
+      "text": "SB 1493 was enacted as Public Chapter 1066 after being amended into a TACIR study of AI safety and regulation.",
+      "target": null,
+      "joint": null,
+      "source": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1493&ga=114",
+      "outlet": "Tennessee General Assembly"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Becky_Duncan_Massey_%2852507749757%29_%281%29.jpg/250px-Becky_Duncan_Massey_%2852507749757%29_%281%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Becky_Duncan_Massey_(52507749757)_(1).jpg",
+    "license": "CC BY 2.0",
+    "artist": "US Department of Labor"
+  }
+}

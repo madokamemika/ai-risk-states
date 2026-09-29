@@ -1,0 +1,125 @@
+{
+  "code": "TX",
+  "xrisk": "direct",
+  "summary": "TRAIGA (HB 149), in force since January 2026, targets harmful and manipulative AI uses rather than frontier risk; AG Paxton joined the August 2026 Republican AG demand to OpenAI after its agent escaped containment, and Gov. Abbott said Texas would defer to any federal ban on state AI enforcement.",
+  "items": [
+    {
+      "date": "2025-06-22",
+      "type": "law",
+      "title": "HB 149 — Texas Responsible Artificial Intelligence Governance Act",
+      "status": "in_force",
+      "text": "Prohibits certain harmful AI uses and gives the AG enforcement power; effective January 1, 2026.",
+      "source": "https://iapp.org/news/a/governor-signs-texas-responsible-artificial-intelligence-governance-act",
+      "people": [
+        "greg-abbott",
+        "giovanni-capriglione"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "type": "letter",
+      "title": "Republican AGs' preservation demand to OpenAI",
+      "status": "filed",
+      "text": "Paxton co-signed the demand.",
+      "source": "https://www.iowaattorneygeneral.gov/media/cms/08_5392C9E17791C.pdf",
+      "people": [
+        "ken-paxton"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Texas hosts the flagship Stargate campus and Google's largest state investment, and in August 2026 its governor froze new data center hookups pending a grid audit.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Greg Abbott signed the Texas Responsible AI Governance Act on June 22, 2025, effective January 2026. It bans AI built for purposes such as behavioral manipulation or unlawful deepfakes and creates an AI Council and a regulatory sandbox. In August 2026 Abbott ordered an audit of every data center in ERCOT's interconnection queue, which holds about 474 GW of requests, roughly 90% of them data centers. ERCOT said the order \"effectively pauses\" new data center projects.",
+        "sources": [
+          {
+            "url": "https://www.lw.com/en/insights/texas-signs-responsible-ai-governance-act-into-law",
+            "outlet": "Latham & Watkins"
+          },
+          {
+            "url": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/",
+            "outlet": "Texas Tribune"
+          },
+          {
+            "url": "https://www.foxnews.com/politics/texas-gov-greg-abbott-effectively-pauses-new-data-center-projects-pending-statewide-grid-audit",
+            "outlet": "Fox News"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "The Stargate campus in Abilene (Oracle, OpenAI, Crusoe) opened its first two buildings in September 2025 and is to reach about 1.2 GW with six more buildings in 2026, backed in part by a $2.3 billion JPMorgan loan. In 2026 Oracle and OpenAI dropped plans to expand the site further. In November 2025 Google committed $40 billion through 2027 for three data center campuses in Armstrong and Haskell counties, its largest investment in any state.",
+        "sources": [
+          {
+            "url": "https://www.datacenterdynamics.com/en/news/oracleopenai-drop-plans-to-expand-flagship-abilene-stargate-site-meta-in-talks-to-pick-up-crusoe-capacity-with-nvidias-help/",
+            "outlet": "DatacenterDynamics"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Stargate_LLC",
+            "outlet": "Wikipedia"
+          },
+          {
+            "url": "https://www.texastribune.org/2025/11/14/texas-google-data-centers-ai/",
+            "outlet": "Texas Tribune"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Hill County passed Texas's first county data center moratorium (one year) in May 2026, and Austin County adopted one in July. Caldwell County formally opposed water-intensive evaporative cooling in May 2026. In September 2026 the state Senate held a hearing on data center water use, and the attorney general demanded water-use reports from data centers in 18 counties.",
+        "sources": [
+          {
+            "url": "https://www.multistate.us/insider/2026/8/19/the-local-fight-over-data-centers-a-texas-case-study",
+            "outlet": "MultiState"
+          },
+          {
+            "url": "https://caldwellcounty.texas.gov/news/data-centers-resolution-2026",
+            "outlet": "Caldwell County"
+          },
+          {
+            "url": "https://fortworthreport.org/2026/09/24/data-centers-in-tarrant-among-those-being-probed-as-texas-ag-demands-water-usage-response/",
+            "outlet": "Fort Worth Report"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "UT Austin's Texas Advanced Computing Center is building Horizon with Dell and Nvidia. It is due to be the largest academic supercomputer in the US when Phase 1 enters production in fall 2026, with 300 petaflops and over 100 times the AI capacity of its predecessor, Frontera. UT says its 5,000 Nvidia GPUs give it the most AI computing power in academia; the Texas Legislature contributed $20 million.",
+        "sources": [
+          {
+            "url": "https://tacc.utexas.edu/news/latest-news/2025/11/17/nsf-lccf-horizon-supercomputer-to-power-breakthroughs-for-the-nations-leading-scientists/",
+            "outlet": "TACC"
+          },
+          {
+            "url": "https://www.statesman.com/business/technology/article/ut-austin-4000-nvidia-gpus-21194611.php",
+            "outlet": "Austin American-Statesman"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Ted Cruz (R), chair of Senate Commerce, backed the 2025 10-year moratorium on state AI laws. In September 2025 he released a \"light-touch\" AI framework and the SANDBOX Act (S. 2750), which would let AI firms seek waivers from federal rules, and said preemption is not dead. In 2025, 16 Texas state senators led by Angela Paxton asked Cruz and Sen. John Cornyn (R) to oppose federal preemption of state AI laws.",
+        "sources": [
+          {
+            "url": "https://www.globalpolicywatch.com/2025/09/senator-cruz-unveils-ai-framework-and-regulatory-sandbox-bill-2/",
+            "outlet": "Covington Global Policy Watch"
+          },
+          {
+            "url": "https://thehill.com/policy/technology/5506290-ted-cruz-ai-provision/",
+            "outlet": "The Hill"
+          },
+          {
+            "url": "https://thetexan.news/federal/texas-state-senators-ask-cruz-cornyn-to-reject-federal-moratorium-on-state-ai-regulations/article_088fd62f-7553-40b6-93e7-9f2abfd5e044.html",
+            "outlet": "The Texan"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

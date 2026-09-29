@@ -1,0 +1,113 @@
+{
+  "code": "NM",
+  "xrisk": "direct",
+  "summary": "After OpenAI agents tried to breach a UNM digital library in May 2026, AG Torrez signed the multistate letter urging Congress to regulate frontier AI and said New Mexico is preparing its own safeguards; his 2026 AI Accountability Act on deepfakes stalled.",
+  "items": [
+    {
+      "date": "2026-01",
+      "type": "bill",
+      "title": "Artificial Intelligence Accountability Act (HB 141)",
+      "status": "failed",
+      "text": "Would have set a framework for generative AI and synthetic media including deepfakes; stalled in the 2026 session.",
+      "source": "https://legiscan.com/NM/bill/HB141/2026",
+      "people": [
+        "raul-torrez",
+        "linda-serrato"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI",
+      "status": "filed",
+      "text": "Torrez signed the multistate letter urging immediate federal frontier-AI regulation.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "raul-torrez"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "New Mexico is hosting one of OpenAI's Stargate campuses, and residents have taken the fight over its air permit to the state Supreme Court.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Michelle Lujan Grisham's office announced Project Jupiter as a $5 billion partnership with BorderPlex Digital Assets, expected to create 1,000 jobs. After protests, a spokesperson said the governor \"takes seriously the concerns\" about air quality and groundwater and expects data centers to meet state environmental standards. A 2025 bill regulating high-risk AI (HB 60) died in committee.",
+        "sources": [
+          {
+            "url": "https://sourcenm.com/2026/01/21/16-groups-call-on-nm-governor-for-more-transparency-public-input-on-project-jupiter-data-center/",
+            "outlet": "Source NM"
+          },
+          {
+            "url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=60&year=25",
+            "outlet": "New Mexico Legislature"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Project Jupiter is a 1,400-acre Stargate campus in Santa Teresa, Doña Ana County, with Oracle as the tenant hosting OpenAI infrastructure. Construction began in September 2025. Oracle will pay more than $600 million in gross receipts taxes, $320 million to the county and $50 million for its water system (January 2026). In April 2026 Oracle said Bloom Energy fuel cells would supply the campus's power.",
+        "sources": [
+          {
+            "url": "https://www.oracle.com/news/announcement/blog/oracle-advances-american-ai-innovation-in-new-mexico-2026-01-23/",
+            "outlet": "Oracle"
+          },
+          {
+            "url": "https://www.oracle.com/news/announcement/oracle-borderplex-and-bloom-energy-to-power-project-jupiter-with-fuel-cell-technology-2026-04-27/",
+            "outlet": "Oracle"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "In January 2026, 16 groups asked the governor for more transparency and public input on Project Jupiter. Residents protested its pending air permit outside the Environment Department in August 2026, and the New Mexico Supreme Court unanimously paused permit proceedings that month. In July 2026 a county adopted a data center moratorium as residents protested a proposal near Spaceport America.",
+        "sources": [
+          {
+            "url": "https://sourcenm.com/2026/08/24/nm-supreme-court-temporarily-halt-project-jupiter-air-quality-permit-hearing/",
+            "outlet": "Source NM"
+          },
+          {
+            "url": "https://sourcenm.com/2026/08/21/nm-residents-protest-pending-project-jupiter-air-quality-permit-outside-environment-department/",
+            "outlet": "Source NM"
+          },
+          {
+            "url": "https://sourcenm.com/2026/07/22/new-mexico-county-adopts-data-center-moratorium-as-residents-protest-spaceport-proposal/",
+            "outlet": "Source NM"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Los Alamos National Laboratory runs OpenAI's o-series reasoning models on its Venado supercomputer (Nvidia GH200) on a classified network. Researchers from Los Alamos, Lawrence Livermore and Sandia use it for national security work under a partnership announced in January 2025.",
+        "sources": [
+          {
+            "url": "https://www.lanl.gov/media/news/0130-open-ai",
+            "outlet": "Los Alamos National Laboratory"
+          },
+          {
+            "url": "https://www.energy.gov/nnsa/articles/nnsas-los-alamos-national-laboratory-launches-frontier-ai-models-venado-supercomputer",
+            "outlet": "NNSA"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Martin Heinrich (D) introduced the GRID Savings Act, which would require hyperscale users of 150 MW or more to pay for their grid upgrades, and released a data center energy plan in August 2026. He said he is \"not a fan of the moratorium approach\". In September 2026 he blocked the bipartisan Ratepayer Protection Act in the Senate, saying it did not go far enough.",
+        "sources": [
+          {
+            "url": "https://searchlightnm.org/heinrich-proposes-legislation-to-make-data-centers-pay-for-grid-infrastructure/",
+            "outlet": "Searchlight New Mexico"
+          },
+          {
+            "url": "https://www.cnbc.com/2026/09/17/ai-data-center-utility-cost-senate.html",
+            "outlet": "CNBC"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

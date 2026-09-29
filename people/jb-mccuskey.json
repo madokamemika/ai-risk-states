@@ -1,0 +1,46 @@
+{
+  "id": "jb-mccuskey",
+  "name": "JB McCuskey",
+  "office": "Attorney General of West Virginia",
+  "office_type": "state_ag",
+  "state": "WV",
+  "party": "R",
+  "committees": [],
+  "stance": "Presses AI companies to test and audit chatbots for harmful outputs through multistate AG action.",
+  "statements": [
+    {
+      "date": "2025-12-10",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led the 42-AG letter asking 13 AI companies to adopt third-party audits, pre-release safety testing and incident reporting for sycophantic and delusional outputs.",
+      "target": "AI companies",
+      "joint": "naag-delusional-outputs-letter-dec-2025",
+      "source": "https://www.njoag.gov/ag-platkin-leads-bipartisan-coalition-demanding-that-tech-companies-put-a-stop-to-harmful-ai-chatbots/",
+      "outlet": "New Jersey Attorney General"
+    },
+    {
+      "date": "2025-12-10",
+      "arena": "state",
+      "kind": "quote",
+      "text": "Kids and parents know to be vigilant against real life bullies and predators, but the emergence of A.I. chatbots is a new and dangerous threat that they should not be battling alone.",
+      "target": null,
+      "joint": "naag-delusional-outputs-letter-dec-2025",
+      "source": "https://ago.wv.gov/article/west-virginia-sends-letter-ai-software-companies-demanding-safeguards-protect-vulnerable",
+      "outlet": "West Virginia Attorney General"
+    },
+    {
+      "date": "2025-05-27",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Did not join the 40-attorney-general letter opposing a proposed federal ban on state AI laws.",
+      "target": null,
+      "joint": null,
+      "source": "https://westvirginiawatch.com/2025/05/27/mccuskey-didnt-join-40-ags-fighting-a-proposed-federal-ban-on-states-crafting-their-own-ai-laws/",
+      "outlet": "West Virginia Watch"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

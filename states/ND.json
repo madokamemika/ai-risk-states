@@ -1,0 +1,127 @@
+{
+  "code": "ND",
+  "xrisk": "direct",
+  "summary": "North Dakota’s interim Artificial Intelligence and Data Center Committee is studying federal preemption and whether to statutorily prohibit AI designed to or showing signs of exceeding human control (2026); enacted AI law so far is limited to political-content disclosure (HB 1167, 2025).",
+  "items": [
+    {
+      "date": "2026-07-15",
+      "type": "statement",
+      "title": "Interim AI and Data Center Committee study",
+      "status": "pending",
+      "text": "Assignment includes reviewing federal preemption and considering a prohibition of AI exceeding human control; meetings July-Oct 2026.",
+      "source": "https://ndlegis.gov/assembly/69-2025/committees/interim/artificial-intelligence-and-data-center-committee",
+      "people": [
+        "jonathan-warrey"
+      ]
+    },
+    {
+      "date": "2025-04-11",
+      "type": "law",
+      "title": "HB 1167 — AI disclosure statements",
+      "status": "signed",
+      "text": "Requires AI disclosure statements on political content.",
+      "source": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1167.html",
+      "people": [
+        "jonathan-warrey"
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "type": "letter",
+      "title": "44-AG letter to AI companies on child safety",
+      "status": "filed",
+      "text": "Wrigley joined the coalition.",
+      "source": "https://www.illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-44-states-in-demanding-companies-end-predatory-ai-interactions-with-kids",
+      "people": [
+        "drew-wrigley"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "North Dakota is building AI data centers with no tax incentives and, so far, no new rules; lawmakers turned down both a moratorium and a ban on secrecy deals.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "In June 2026 legislative leaders formed an interim Artificial Intelligence and Data Center Committee, with citizen members, which Gov. Kelly Armstrong supported. In September 2026 Armstrong said a data-center transparency bill was not needed.",
+        "sources": [
+          {
+            "url": "https://www.governor.nd.gov/news/armstrong-statement-north-dakota-legislators-establishing-interim-committee-ai-and-data",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://kfgo.com/2026/09/02/north-dakota-governor-says-data-center-transparency-bill-not-needed/",
+            "outlet": "KFGO"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Applied Digital's $3 billion, 280 MW Polaris Forge 2 campus in Harwood, near Fargo, is due to partly open by the end of 2026, with no tax incentives or abatements. It follows Polaris Forge 1 in Ellendale, and in July 2026 the company was eyeing Oliver County for a third site.",
+        "sources": [
+          {
+            "url": "https://www.grandforksherald.com/news/north-dakota/inside-the-ai-small-city-data-center-rising-from-the-plains",
+            "outlet": "Grand Forks Herald"
+          },
+          {
+            "url": "https://www.valleynewslive.com/2026/07/13/applied-digital-expands-north-dakota-eyes-oliver-county-third-data-center/",
+            "outlet": "Valley News Live"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "In August 2026 legislative leaders declined to put a data-center moratorium before the September special session; a temporary ban on nondisclosure agreements between developers and public officials (SB 2406) then failed on the Senate floor on September 3, 2026. Harmony Township was weighing a two-year moratorium in September 2026.",
+        "sources": [
+          {
+            "url": "https://northdakotamonitor.com/2026/08/17/no-pause-on-data-centers-but-north-dakota-special-session-to-debate-non-disclosure-deals/",
+            "outlet": "North Dakota Monitor"
+          },
+          {
+            "url": "https://www.kfyrtv.com/2026/09/03/effort-ban-ndas-data-centers-fails-floor-action/",
+            "outlet": "KFYR-TV"
+          },
+          {
+            "url": "https://www.inforum.com/news/north-dakota/harmony-township-board-to-consider-2-year-data-center-moratorium",
+            "outlet": "InForum"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "In 2025 University of North Dakota President Andy Armacost set a goal for UND to become North Dakota's AI university. In June 2026 UND reported it was setting up a Co.AI Collective to pursue that goal. UND offers a Ph.D. in Artificial Intelligence, runs an Artificial Intelligence Research (AIR) Center, and held its second AI and Human Innovation showcase in March 2026. North Dakota State University offers a B.S. in Artificial Intelligence alongside an AI minor.",
+        "sources": [
+          {
+            "url": "https://www.yahoo.com/news/us/articles/moonshots-campus-construction-recap-unds-143600227.html",
+            "outlet": "Grand Forks Herald via Yahoo News"
+          },
+          {
+            "url": "https://und.edu/academics/provost/about/ai-human-innovation-initiative.html",
+            "outlet": "University of North Dakota"
+          },
+          {
+            "url": "https://www.ndsu.edu/programs/undergraduate/artificial-intelligence",
+            "outlet": "North Dakota State University"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "In March 2026 Rep. Julie Fedorchak praised the White House's National Policy Framework for AI, citing its aim of \"preventing a fragmented patchwork of state regulations that could slow American innovation\" and its support for streamlined permitting to meet AI-driven electricity demand. At a radio town hall in August 2026, Sen. Kevin Cramer said North Dakota ranks third in available energy but 26th in data centers. He argued the state should host AI data centers, and said local concerns about land, water and electricity costs must be addressed.",
+        "sources": [
+          {
+            "url": "https://fedorchak.house.gov/media/press-releases/fedorchak-applauds-white-house-ai-framework",
+            "outlet": "Office of Rep. Fedorchak"
+          },
+          {
+            "url": "https://www.wdayradionow.com/news/national-news/cramer-addresses-russian-sanctions-voting-legislation-and-north-dakota-data-centers",
+            "outlet": "WDAY Radio"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "dani-isaacsohn",
+  "name": "Dani Isaacsohn",
+  "office": "Minority Leader, Ohio House of Representatives",
+  "office_type": "state_rep",
+  "state": "OH",
+  "party": "D",
+  "committees": [
+    "Ohio House (Minority Leader)"
+  ],
+  "stance": "Wants Ohio to regulate AI despite federal pushback.",
+  "statements": [
+    {
+      "date": "2026-02-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Of course, the federal government led by President Trump isn't interested in regulating AI, which is the next frontier of technology, potentially a much more disruptive technology than social media,",
+      "target": null,
+      "joint": null,
+      "source": "https://spectrumnews1.com/oh/columbus/news/2026/02/24/despite-federal-pushback-ohio-lawmakers-seek-to-regulate-ai",
+      "outlet": "Spectrum News 1"
+    },
+    {
+      "date": "2026-02-24",
+      "arena": "state",
+      "kind": "quote",
+      "text": "We are elected to pass laws and regulate these things, that's what people expect of us,",
+      "target": null,
+      "joint": null,
+      "source": "https://spectrumnews1.com/oh/columbus/news/2026/02/24/despite-federal-pushback-ohio-lawmakers-seek-to-regulate-ai",
+      "outlet": "Spectrum News 1"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

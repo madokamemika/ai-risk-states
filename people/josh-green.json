@@ -1,0 +1,42 @@
+{
+  "id": "josh-green",
+  "name": "Josh Green",
+  "office": "Governor of Hawaii",
+  "office_type": "governor",
+  "state": "HI",
+  "party": "D",
+  "committees": [],
+  "stance": "Signed AI companion-chatbot and deepfake protections; no frontier-risk position found.",
+  "statements": [
+    {
+      "date": "2026-07-14",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed SB 3001 (AI Disclosure and Safety Act, Act 248) on AI companion safety and HB 2137 (Act 247) on unauthorized deepfakes.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.bigislandvideonews.com/2026/07/14/new-laws-on-artificial-intelligence-enacted-in-hawai%CA%BBi/",
+      "outlet": "Big Island Video News"
+    },
+    {
+      "date": "2026-07-14",
+      "arena": "state",
+      "kind": "quote",
+      "text": "AI presents fascinating opportunities for technological breakthroughs and has become a daily tool for many here in Hawaiʻi.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.bigislandvideonews.com/2026/07/14/new-laws-on-artificial-intelligence-enacted-in-hawai%CA%BBi/",
+      "outlet": "Big Island Video News"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Josh_Green_Official_Photo_2022_%28cropped%29.jpg/250px-Josh_Green_Official_Photo_2022_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Josh_Green_Official_Photo_2022_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Aloha102"
+  }
+}

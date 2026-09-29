@@ -1,0 +1,54 @@
+{
+  "id": "john-kennedy",
+  "name": "John Kennedy",
+  "office": "U.S. Senator from Louisiana",
+  "office_type": "us_senator",
+  "state": "LA",
+  "party": "R",
+  "committees": [
+    "Senate Judiciary"
+  ],
+  "stance": "Wants every advanced AI model sold in the US to carry a company-controlled kill switch in case a model escapes human control.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Sought unanimous consent to pass his AI Emergency Button Act requiring a kill switch in advanced AI models; Sen. Rand Paul objected.",
+      "target": null,
+      "joint": "ai-emergency-button-act",
+      "source": "https://www.kennedy.senate.gov/2026/09/16/senate-blocks-kennedy-bill-to-require-ai-developers-to-install-an-emergency-kill-switch/",
+      "outlet": "Office of Sen. Kennedy"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is supposed to be a tool that human beings have control of to make our lives better.",
+      "target": null,
+      "joint": "ai-emergency-button-act",
+      "source": "https://www.kennedy.senate.gov/2026/09/16/senate-blocks-kennedy-bill-to-require-ai-developers-to-install-an-emergency-kill-switch/",
+      "outlet": "Office of Sen. Kennedy"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I'm not standing here today suggesting to you I have all the answers. What I am suggesting to you is there are risks to artificial intelligence.",
+      "target": null,
+      "joint": "ai-emergency-button-act",
+      "source": "http://www.washingtonexaminer.com/news/senate/4730945/gop-ai-kill-switch-bill-killed-by-rand-paul/",
+      "outlet": "Washington Examiner"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/John_Kennedy%2C_official_portrait%2C_115th_Congress.jpg/250px-John_Kennedy%2C_official_portrait%2C_115th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Kennedy,_official_portrait,_115th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

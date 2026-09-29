@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Person",
+  "type": "object",
+  "required": ["id", "name", "office", "office_type", "state", "party", "statements", "review"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "name": { "type": "string", "minLength": 2 },
+    "office": { "type": "string", "minLength": 2 },
+    "office_type": { "enum": ["us_senator", "us_rep", "federal_exec", "governor", "state_ag", "state_senator", "state_rep", "state_exec"] },
+    "state": { "type": ["string", "null"], "pattern": "^[A-Z]{2}$" },
+    "party": { "enum": ["R", "D", "I", null] },
+    "committees": { "type": "array", "items": { "type": "string" } },
+    "stance": { "type": "string" },
+    "photo": {
+      "type": "object",
+      "required": ["src", "page", "license"],
+      "additionalProperties": false,
+      "properties": {
+        "src": { "type": "string", "pattern": "^https://" },
+        "page": { "type": "string", "pattern": "^https://" },
+        "license": { "type": "string", "minLength": 2 },
+        "artist": { "type": ["string", "null"] }
+      }
+    },
+    "statements": { "type": "array", "items": { "$ref": "statement.schema.json" } },
+    "review": { "$ref": "review.schema.json" }
+  }
+}

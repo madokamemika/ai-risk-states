@@ -1,0 +1,109 @@
+{
+  "code": "KY",
+  "xrisk": "adjacent",
+  "summary": "Kentucky's AG filed the first state lawsuit against an AI chatbot company (Character.AI, 2026-01-08) over self-harm and sexual content with minors. A legislative AI task force recommended child protections; nothing on frontier or catastrophic risk.",
+  "items": [
+    {
+      "date": "2026-01-08",
+      "type": "lawsuit",
+      "title": "Commonwealth of Kentucky v. Character Technologies",
+      "status": "filed",
+      "text": "Alleges Character.AI violated Kentucky consumer- and data-protection law by exposing minors to self-harm, sexual content and manipulation.",
+      "source": "https://www.kentucky.gov/Pages/Activity-stream.aspx?n=AttorneyGeneral&prId=1857",
+      "people": [
+        "russell-coleman"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Kentucky drew a $100 billion AI data-center plan to Paducah, while its governor now wants to end data-center tax breaks and dozens of counties have passed moratoria.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "In 2025 the legislature passed statewide tax incentives for data centers. Gov. Andy Beshear signed Executive Order 2026-494 on August 6, 2026. It requires developers to show their projects will not raise costs for ratepayers or harm air and water, to pay local and school taxes, and to hold public meetings. On August 27, 2026 he said the state should end data-center incentives: \"I don't think data centers need incentives.\"",
+        "sources": [
+          {
+            "url": "https://www.klc.org/News/13351/gov-beshear-issues-executive-order-on-data-center-development",
+            "outlet": "Kentucky League of Cities"
+          },
+          {
+            "url": "https://www.lpm.org/news/2026-08-27/kentucky-gov-andy-beshear-calls-for-ending-state-tax-incentives-for-data-centers",
+            "outlet": "Louisville Public Media"
+          },
+          {
+            "url": "https://kentuckylantern.com/2026/08/18/does-beshears-data-center-executive-order-have-teeth-without-state-law-to-back-it-up/",
+            "outlet": "Kentucky Lantern"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "On July 29, 2026 the Department of Energy, Brookfield and NextEra announced a $100 billion data-center campus at DOE's former uranium-enrichment site in Paducah. It is to support more than 1.2 GW of compute by 2032, with up to 2 GW of new gas generation and 2.6 GW of batteries. Beshear said he had not been informed of the project's details beforehand.",
+        "sources": [
+          {
+            "url": "https://www.powermag.com/brookfield-nextera-to-develop-100b-data-center-campus-at-does-paducah-site-paired-with-4-6-gw-of-dedicated-generation/",
+            "outlet": "POWER Magazine"
+          },
+          {
+            "url": "https://www.lpm.org/news/2026-07-30/100b-data-center-gas-fired-power-plant-to-be-developed-around-paducah-doe-site",
+            "outlet": "Louisville Public Media"
+          },
+          {
+            "url": "https://www.wkyt.com/2026/07/31/gov-andy-beshear-says-he-was-uninformed-about-large-paducah-data-center/",
+            "outlet": "WKYT"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "At least 30 Kentucky counties have adopted ordinances or moratoria on new data centers. Oldham County was the first to fully block a project, in summer 2025. Louisville Metro Council passed a six-month moratorium in August 2026, and Mercer County adopted a one-year moratorium on August 12, 2026. Opposition has crossed party lines.",
+        "sources": [
+          {
+            "url": "https://www.lpm.org/news/2026-08-17/hyperscale-data-centers-provoke-bipartisan-outrage-across-kentucky",
+            "outlet": "Louisville Public Media"
+          },
+          {
+            "url": "https://www.lpm.org/news/2026-08-27/kentucky-gov-andy-beshear-calls-for-ending-state-tax-incentives-for-data-centers",
+            "outlet": "Louisville Public Media"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The University of Kentucky enrolled the first class in the state's first Bachelor of Science in artificial intelligence in fall 2026. It also launched the Commonwealth AI Transdisciplinary Strategy (CATS AI) to coordinate AI work across research, libraries and its health system.",
+        "sources": [
+          {
+            "url": "https://uknow.uky.edu/campus-news/ai-future-uk-launches-state-s-1st-bachelor-science-ai",
+            "outlet": "University of Kentucky"
+          },
+          {
+            "url": "https://kykernel.com/119934/news/uk-launches-cats-ai-to-advance-artificial-intelligence-across-campus/",
+            "outlet": "Kentucky Kernel"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Rand Paul said in January 2026 that states will decide AI policy, and has said data-center decisions should stay local: the federal government should not tell communities they must have one or cannot. On September 16, 2026 he blocked Sen. John Kennedy's AI Emergency Button Act, which would require AI kill switches, from passing by unanimous consent.",
+        "sources": [
+          {
+            "url": "https://kentuckylantern.com/2026/01/22/kentuckys-paul-says-states-will-decide-policies-on-the-future-of-artificial-intelligence/",
+            "outlet": "Kentucky Lantern"
+          },
+          {
+            "url": "https://www.thenewsenterprise.com/news/local/during-brief-visit-at-fort-knox-rand-paul-discusses-data-centers-mcconnell-and-fauci/article_08796f57-df70-5ace-b59f-89191c200183.html",
+            "outlet": "The News-Enterprise"
+          },
+          {
+            "url": "https://www.kennedy.senate.gov/2026/09/16/senate-blocks-kennedy-bill-to-require-ai-developers-to-install-an-emergency-kill-switch/",
+            "outlet": "Sen. Kennedy's office"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

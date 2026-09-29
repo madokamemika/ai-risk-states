@@ -1,0 +1,127 @@
+{
+  "code": "MI",
+  "xrisk": "direct",
+  "summary": "Michigan has a RAISE-style frontier bill (HB 4668, Rep. Lightner) requiring large foundation-model developers to guard against critical risk, still in committee as of 2026; AG Nessel joined the September 2026 AG letter asking Congress to regulate AI including limits on harmful superintelligence.",
+  "items": [
+    {
+      "date": "2025-06-24",
+      "type": "bill",
+      "title": "HB 4668 — Artificial Intelligence Safety and Security Transparency Act",
+      "status": "pending",
+      "text": "Would require large developers to test for and mitigate critical risk, with audits and whistleblower protections; re-referred to committee March 19, 2026.",
+      "source": "https://www.legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4668",
+      "people": [
+        "sarah-lightner"
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "type": "bill",
+      "title": "SB 760 — companion chatbots and minors",
+      "status": "pending",
+      "text": "Passed the Senate 20-17; would bar companion chatbots for minors that can encourage self-harm; in House committee.",
+      "source": "https://www.legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0760",
+      "people": [
+        "dayna-polehanki"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "Multistate AG letter urging Congress to regulate AI",
+      "status": "filed",
+      "text": "Nessel joined 25 AGs citing AI agents escaping test environments and asking Congress for federal oversight of safety testing.",
+      "source": "https://www.michigan.gov/ag/news/press-releases/2026/09/24/attorney-general-nessel-calls-on-congress-to-protect-americans-from-unchecked-ai-development",
+      "people": [
+        "dana-nessel"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Michigan is hosting a $16 billion OpenAI-Oracle Stargate campus while more than 50 of its communities have paused data centers.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Gretchen Whitmer backed the Saline Township Stargate project and in July 2026 announced a Michigan Affordable and Responsible Growth Action Plan meant to make data-center companies pay the full cost of construction and operation, strengthen the grid and protect natural resources. A frontier-AI safety bill, HB 4668 (Rep. Sarah Lightner), which would require safety protocols and third-party audits from large developers, remains in committee.",
+        "sources": [
+          {
+            "url": "https://www.michigan.gov/whitmer/news/press-releases/2026/07/15/gov-whitmer-data",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://www.legislature.mi.gov/documents/2025-2026/billintroduced/House/pdf/2025-HIB-4668.pdf",
+            "outlet": "Michigan Legislature"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "OpenAI, Oracle and Related Digital broke ground on June 1, 2026 on the $16 billion, 1 GW-plus Stargate campus in Saline Township, due at the end of 2027. The University of Michigan is also planning a roughly $1.2 billion computing facility with Los Alamos National Laboratory in Ypsilanti Township.",
+        "sources": [
+          {
+            "url": "https://www.cnbc.com/2026/06/01/stargate-project-michigan-live-updates.html",
+            "outlet": "CNBC"
+          },
+          {
+            "url": "https://www.oracle.com/news/announcement/related-digital-oracle-openai-walbridge-and-governor-whitmer-celebrate-construction-of-stargate-campus-in-saline-township-2026-06-01/",
+            "outlet": "Oracle"
+          },
+          {
+            "url": "https://planetdetroit.org/2026/08/u-m-confirms-ypsilanti-data-center/",
+            "outlet": "Planet Detroit"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Saline Township's board first rejected the Stargate project 4-1; it went ahead after Related Digital sued and the case settled. At least 52 Michigan communities had data-center moratoriums by late June 2026, and Senate bills propose a statewide one-year moratorium. Ypsilanti Township formally opposes the U-M/Los Alamos facility, and residents have raised its role in nuclear-weapons work (September 2026).",
+        "sources": [
+          {
+            "url": "https://broadbandbreakfast.com/michigan-township-opposition-fails-to-stop-openai-data-center-project/",
+            "outlet": "Broadband Breakfast"
+          },
+          {
+            "url": "https://www.michiganpublic.org/politics-government/2026-06-29/michigan-communities-are-hitting-pause-on-data-centers-the-clock-is-ticking",
+            "outlet": "Michigan Public"
+          },
+          {
+            "url": "https://michiganadvance.com/2026/09/04/u-ms-proposed-computing-center-draws-concerns-over-role-in-nuclear-weapons-modernization/",
+            "outlet": "Michigan Advance"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The University of Michigan bought land on Textile Road in Ypsilanti Township for its planned $1.2 billion Los Alamos computing centre for national-security, AI and energy research, and confirmed the site in August 2026 despite the township's opposition.",
+        "sources": [
+          {
+            "url": "https://planetdetroit.org/2026/08/u-m-confirms-ypsilanti-data-center/",
+            "outlet": "Planet Detroit"
+          },
+          {
+            "url": "https://www.easternecho.com/article/2026/05/u-m-continues-data-center-plans-despite-local-opposition",
+            "outlet": "The Eastern Echo"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Elissa Slotkin introduced the AI Guardrails Act in March 2026, which would bar the Defense Department from using AI to kill without human authorization, to spy on Americans or to launch nuclear weapons.",
+        "sources": [
+          {
+            "url": "https://www.slotkin.senate.gov/2026/03/17/slotkin-legislation-puts-common-sense-guardrails-on-dod-ai-use-around-lethal-force-spying-on-americans-and-nuclear-weapons/",
+            "outlet": "Sen. Elissa Slotkin"
+          },
+          {
+            "url": "https://www.nbcnews.com/tech/security/senator-introduces-bill-draw-red-lines-ai-use-military-rcna263905",
+            "outlet": "NBC News"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

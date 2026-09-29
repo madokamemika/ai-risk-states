@@ -1,0 +1,128 @@
+{
+  "code": "WI",
+  "xrisk": "direct",
+  "summary": "Wisconsin has only use-specific AI laws (election deepfake disclosure, AI CSAM, deepfake nudes); Gov. Evers opposes federal preemption, and AG Kaul joined the September 2026 AG call for federal frontier-AI safety rules.",
+  "items": [
+    {
+      "date": "2025-12-11",
+      "type": "letter",
+      "title": "Evers letter to President Trump on AI executive order",
+      "status": "filed",
+      "text": "Evers urged Trump to abandon efforts to preempt or punish states with AI safeguards.",
+      "source": "https://www.wpr.org/news/trump-executive-order-artificial-intelligence-evers-letter",
+      "people": [
+        "tony-evers"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "Multistate AG letter urging Congress to regulate AI",
+      "status": "filed",
+      "text": "Kaul joined the New York-led coalition asking for federal oversight of AI safety testing.",
+      "source": "https://www.wxow.com/news/wisconsin-politics/wisconsin-joins-multistate-push-for-federal-ai-safety-rules/article_590b5c43-2422-5ba5-b4ed-d833f00da777.html",
+      "people": [
+        "josh-kaul"
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "type": "letter",
+      "title": "State legislators’ petition against Great American AI Act preemption",
+      "status": "filed",
+      "text": "Five Wisconsin lawmakers were among 200+ state legislators asking Congress to reject broad preemption of state AI laws.",
+      "source": "https://www.wpr.org/news/bipartisan-wisconsin-lawmakers-oppose-federal-limit-state-ai-regulation",
+      "people": [
+        "clinton-anderson",
+        "adam-neylon"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Wisconsin is home to Microsoft's Fairwater AI supercomputer and a $15 billion OpenAI-Oracle campus, and county after county is pausing new data centers.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Tony Evers's AI work goes back to his 2023 Task Force on Workforce and Artificial Intelligence; in May 2026 the state launched WisTRAIN, about $7 million in federal grants for AI and manufacturing training. The Assembly passed a Republican data-center bill 53-44 in January 2026, but Evers signalled he would not back it.",
+        "sources": [
+          {
+            "url": "https://drydenwire.com/news/gov-evers-dwd-launch-workforce-grants-for-ai-manufacturing-training/",
+            "outlet": "DrydenWire"
+          },
+          {
+            "url": "https://www.wsaw.com/2026/01/21/wisconsin-assembly-passes-bill-regulate-ai-data-centers/",
+            "outlet": "WSAW"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Microsoft completed its first Fairwater data center in Mount Pleasant in June 2026, part of $4.7 billion planned there for 2024-2028, and called it \"the world's most powerful supercomputer\"; a second facility is due in 2028. Vantage Data Centers is building a $15 billion campus in Port Washington for Oracle and OpenAI. Wisconsin regulators approved power rates for Meta's Beaver Dam data center in May 2026.",
+        "sources": [
+          {
+            "url": "https://news.microsoft.com/source/2026/06/23/microsoft-completes-construction-on-first-datacenter-facility-in-mount-pleasant-wisconsin/",
+            "outlet": "Microsoft"
+          },
+          {
+            "url": "https://www.tmj4.com/about-us/contests/port-washington/port-washington-residents-get-first-look-inside-wisconsins-15-billion-vantage-data-center",
+            "outlet": "TMJ4"
+          },
+          {
+            "url": "https://www.wpr.org/news/wisconsin-regulators-approve-rates-for-metas-beaver-dam-data-center-with-sharp-criticism",
+            "outlet": "WPR"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "By June 2026 Madison, Dane County, Manitowoc County and Superior had moratoriums; Winnebago County (June), St. Croix County (September) and Marathon County (September) followed, and Milwaukee's plan commission approved one on September 28, 2026. In August 2026 state regulators set back power lines for the Port Washington campus, and residents there keep contesting its noise, dust and costs.",
+        "sources": [
+          {
+            "url": "https://www.wpr.org/news/superior-joins-growing-number-of-wisconsin-communities-to-pass-data-center-moratorium",
+            "outlet": "WPR"
+          },
+          {
+            "url": "https://www.hudsonstarobserver.com/news/st-croix-county-board-of-supervisors-approves-data-center-moratorium-unanimously/article_ffb0d3f1-77a5-43c7-8ba5-e9fd44b1aa32.html",
+            "outlet": "Hudson Star-Observer"
+          },
+          {
+            "url": "https://wausaupilotandreview.com/2026/09/21/what-to-know-about-marathon-countys-12-month-data-center-moratorium/",
+            "outlet": "Wausau Pilot & Review"
+          },
+          {
+            "url": "https://wtmj.com/news/2026/09/28/milwaukee-data-center-moratorium-approved-by-city-plan-commission/",
+            "outlet": "WTMJ"
+          },
+          {
+            "url": "https://wtmj.com/news/2026/08/07/state-regulators-deliver-massive-setback-to-port-washington-data-center-power-lines/",
+            "outlet": "WTMJ"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "In April 2026 UW-Madison named a founding dean for its new College of Computing and Artificial Intelligence, launched July 1, 2026 with $100 million in gifts and more than $50 million a year from the university. It is hiring 50 faculty, which brings AI-related hires since the RISE-AI initiative to more than 100.",
+        "sources": [
+          {
+            "url": "https://news.wisc.edu/uw-madison-names-remzi-arpaci-dusseau-founding-dean-of-college-of-computing-and-artificial-intelligence-announces-major-investment-in-colleges-launch/",
+            "outlet": "UW-Madison News"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "In January 2026 Sen. Tammy Baldwin said data-center developers must commit that communities will not bear their energy and water costs; Sen. Ron Johnson called the grid impact a \"very serious concern\". Reps. Mark Pocan and Tom Tiffany said developers, not ratepayers, should pay; Rep. Glenn Grothman, whose district includes Port Washington, said \"It varies in different situations.\"",
+        "sources": [
+          {
+            "url": "https://wisconsinwatch.org/2026/01/wisconsin-data-centers-politics-ai-port-washington-federal-lawmakers/",
+            "outlet": "Wisconsin Watch"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

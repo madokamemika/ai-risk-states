@@ -1,0 +1,32 @@
+{
+  "id": "robert-rodriguez",
+  "name": "Robert Rodriguez",
+  "office": "Colorado Senate Majority Leader",
+  "office_type": "state_senator",
+  "state": "CO",
+  "party": "D",
+  "committees": [],
+  "stance": "Sponsor of both the 2024 Colorado AI Act and its 2026 replacement; focus is algorithmic discrimination, not frontier risk.",
+  "statements": [
+    {
+      "date": "2026-05-14",
+      "arena": "state",
+      "kind": "action",
+      "text": "Sponsored SB 26-189, the replacement for his 2024 Colorado AI Act (SB 24-205).",
+      "target": null,
+      "joint": null,
+      "source": "https://www.carpedatumlaw.com/2026/05/colorados-ai-reset-two-weeks-a-white-house-callout-and-a-pivot-away-from-the-eu-model/",
+      "outlet": "Carpe Datum Law"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Colorado_State_Senator_Robert_Rodriguez_in_2023.jpg/250px-Colorado_State_Senator_Robert_Rodriguez_in_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Colorado_State_Senator_Robert_Rodriguez_in_2023.jpg",
+    "license": "Public domain",
+    "artist": "Colorado Senate GOP"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

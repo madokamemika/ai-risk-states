@@ -1,0 +1,44 @@
+{
+  "id": "barry-finegold",
+  "name": "Barry Finegold",
+  "office": "Massachusetts State Senator",
+  "office_type": "state_senator",
+  "state": "MA",
+  "party": "D",
+  "committees": [
+    "Joint Committee on Economic Development and Emerging Technologies (Senate chair)"
+  ],
+  "stance": "Sponsor of the Massachusetts Transparency in Frontier AI Act with independent audits; prefers a federal standard but says states must act if Congress will not.",
+  "statements": [
+    {
+      "date": "2026-07",
+      "arena": "state",
+      "kind": "action",
+      "text": "The Senate passed his economic development bill including frontier-AI provisions requiring catastrophic-risk frameworks, independent third-party safety audits every four months and Attorney General enforcement.",
+      "target": null,
+      "joint": "ma-frontier-ai-act",
+      "source": "https://malegislature.gov/PressRoom/Detail?pressReleaseId=1453",
+      "outlet": "Massachusetts Legislature"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "state",
+      "kind": "quote",
+      "text": "I understand that there's some concerns out there, and we can work through those concerns. But to not have audits and third-party verifications of making sure that things are being done the way they should be, I think is a mistake.",
+      "target": null,
+      "joint": "ma-frontier-ai-act",
+      "source": "https://www.bostonglobe.com/2026/09/22/business/finegold-trahan-ai-proposals-state-house/",
+      "outlet": "The Boston Globe"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Finegold_announcement.jpg/250px-Finegold_announcement.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Finegold_announcement.jpg",
+    "license": "CC BY-SA 2.5",
+    "artist": "The original uploader was ChronicallyUninspired at English Wikipedia."
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

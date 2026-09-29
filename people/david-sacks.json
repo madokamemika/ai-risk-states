@@ -1,0 +1,52 @@
+{
+  "id": "david-sacks",
+  "name": "David Sacks",
+  "office": "Co-chair, President's Council of Advisors on Science and Technology (former White House AI and Crypto Czar)",
+  "office_type": "federal_exec",
+  "state": null,
+  "party": "R",
+  "committees": [],
+  "stance": "Pushes federal preemption of state AI laws and accuses safety-focused labs of using catastrophic-risk arguments for regulatory capture.",
+  "statements": [
+    {
+      "date": "2025-10-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "sophisticated regulatory capture strategy based on fear-mongering",
+      "target": null,
+      "joint": null,
+      "source": "https://the-decoder.com/trumps-ai-advisor-accuses-anthropic-of-regulatory-capture/",
+      "outlet": "The Decoder"
+    },
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This was in response to a growing patchwork of 50 different state regulatory regimes that threaten to stifle innovation and jeopardize America's lead in the AI race.",
+      "target": null,
+      "joint": "wh-national-ai-legislative-framework-2026",
+      "source": "https://www.foxnews.com/politics/white-house-unveils-its-first-federal-ai-framework-pushes-congress-act-this-year",
+      "outlet": "Fox News"
+    },
+    {
+      "date": "2026-03-26",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Left the AI and crypto czar post at the 130-day special-government-employee limit and became co-chair of PCAST with Michael Kratsios.",
+      "target": null,
+      "joint": null,
+      "source": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+      "outlet": "TechCrunch"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/David_Sacks_in_March_2025.jpg/250px-David_Sacks_in_March_2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:David_Sacks_in_March_2025.jpg",
+    "license": "Public domain",
+    "artist": "The White House"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

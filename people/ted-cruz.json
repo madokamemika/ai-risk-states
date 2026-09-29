@@ -1,0 +1,74 @@
+{
+  "id": "ted-cruz",
+  "name": "Ted Cruz",
+  "office": "U.S. Senator from Texas",
+  "office_type": "us_senator",
+  "state": "TX",
+  "party": "R",
+  "committees": [
+    "Senate Commerce, Science, and Transportation (chair)"
+  ],
+  "stance": "Favours light-touch federal AI rules and preemption of state AI laws; in 2026 is negotiating a narrower frontier-risk bill with Thune and Klobuchar focused on biological and nuclear threats.",
+  "statements": [
+    {
+      "date": "2025-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "[The AI moratorium] preserves the rights of states to protect consumers and content creators without giving the Left a backdoor to push their woke social agenda through AI regulation.",
+      "target": null,
+      "joint": "reconciliation-ai-moratorium-2025",
+      "source": "https://www.nextgov.com/artificial-intelligence/2025/07/senate-overwhelmingly-passes-amendment-removing-state-ai-moratorium/406448/",
+      "outlet": "Nextgov/FCW"
+    },
+    {
+      "date": "2025-09-10",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Released an AI policy framework and introduced the SANDBOX Act (S. 2750), letting AI developers seek waivers from federal regulations.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.commerce.senate.gov/press/rep/release/sen-cruz-unveils-ai-policy-framework-to-strengthen-american-ai-leadership/",
+      "outlet": "Senate Commerce Committee"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is scary stuff, but we're also not going to be able to stick our head in the sand and pretend technology isn't happening.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.nextgov.com/artificial-intelligence/2026/09/hawley-launches-committee-investigation-openais-breach-hugging-face/415910/",
+      "outlet": "Nextgov/FCW"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Said he is working with Thune and Klobuchar on legislation to address catastrophic risks involving biological or nuclear threats.",
+      "target": null,
+      "joint": "thune-klobuchar-cruz-frontier-bill-2026",
+      "source": "https://www.semafor.com/article/09/10/2026/bipartisan-ai-safety-bill-gains-momentum-on-the-hill",
+      "outlet": "Semafor"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I would love to mark it up this month, if we can get bipartisan agreement.",
+      "target": null,
+      "joint": "thune-klobuchar-cruz-frontier-bill-2026",
+      "source": "https://www.semafor.com/article/09/16/2026/bipartisan-ai-safety-talks-accelerate-in-senate",
+      "outlet": "Semafor"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Ted_Cruz_senatorial_portrait.jpg/250px-Ted_Cruz_senatorial_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ted_Cruz_senatorial_portrait.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photographic Studio"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

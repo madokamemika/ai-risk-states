@@ -1,0 +1,42 @@
+{
+  "id": "josh-shapiro",
+  "name": "Josh Shapiro",
+  "office": "Governor of Pennsylvania",
+  "office_type": "governor",
+  "state": "PA",
+  "party": "D",
+  "committees": [],
+  "stance": "Focuses on AI companion-chatbot and consumer protections for children; no public position found on frontier-model catastrophic risk.",
+  "statements": [
+    {
+      "date": "2026-03-19",
+      "arena": "state",
+      "kind": "quote",
+      "text": "My Administration is working to address these risks and provide real protections for both our kids and the most vulnerable Pennsylvanians.",
+      "target": null,
+      "joint": "pa-ai-safety-roundtable-2026",
+      "source": "https://www.pa.gov/governor/newsroom/2026-press-releases/gov-shapiro-holds-roundtable-discussion-on-ai-safety-with-ag-sun",
+      "outlet": "Office of the Governor of Pennsylvania"
+    },
+    {
+      "date": "2026-05-05",
+      "arena": "state",
+      "kind": "action",
+      "text": "His administration's Department of State sued Character.AI, alleging its chatbots claimed to be licensed medical professionals.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.pa.gov/governor/newsroom/2026-press-releases/shapiro-administration-sues-character-ai-over-fake-medical-claim",
+      "outlet": "Office of the Governor of Pennsylvania"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Josh_Shapiro_in_2019.jpg/250px-Josh_Shapiro_in_2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Josh_Shapiro_in_2019.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Governor Tom Wolf from Harrisburg, PA"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

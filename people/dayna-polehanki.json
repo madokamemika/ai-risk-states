@@ -1,0 +1,26 @@
+{
+  "id": "dayna-polehanki",
+  "name": "Dayna Polehanki",
+  "office": "Michigan State Senator",
+  "office_type": "state_senator",
+  "state": "MI",
+  "party": "D",
+  "committees": [],
+  "stance": "Sponsors a ban on companion chatbots for minors that can encourage self-harm.",
+  "statements": [
+    {
+      "date": "2026-04-29",
+      "arena": "state",
+      "kind": "action",
+      "text": "Her SB 760, barring operators from offering minors companion chatbots, passed the Michigan Senate 20-17.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0760",
+      "outlet": "Michigan Legislature"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "katie-hobbs",
+  "name": "Katie Hobbs",
+  "office": "Governor of Arizona",
+  "office_type": "governor",
+  "state": "AZ",
+  "party": "D",
+  "committees": [],
+  "stance": "No frontier-AI position found; vetoed the Legislature's three 2026 AI bills in a mass veto without AI-specific rationale.",
+  "statements": [
+    {
+      "date": "2026-06-19",
+      "arena": "state",
+      "kind": "action",
+      "text": "Vetoed all three AI bills sent by the Legislature as part of an 88-bill veto day, citing no AI-specific rationale.",
+      "target": null,
+      "joint": null,
+      "source": "https://frameworkbysettra.substack.com/p/the-framework-newsletter-06302026",
+      "outlet": "The Framework (Settra newsletter)"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Katie_Hobbs_by_Gage_Skidmore.jpg/250px-Katie_Hobbs_by_Gage_Skidmore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Katie_Hobbs_by_Gage_Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Gage Skidmore"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

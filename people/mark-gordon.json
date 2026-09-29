@@ -1,0 +1,32 @@
+{
+  "id": "mark-gordon",
+  "name": "Mark Gordon",
+  "office": "Governor of Wyoming",
+  "office_type": "governor",
+  "state": "WY",
+  "party": "R",
+  "committees": [],
+  "stance": "Opposed the 2025 federal moratorium on state AI laws; no frontier-risk measure found.",
+  "statements": [
+    {
+      "date": "2025-07-01",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed a Republican governors' letter to Senate Majority Leader Thune and Speaker Johnson opposing the federal moratorium on state AI regulation, and welcomed its removal.",
+      "target": "John Thune and Mike Johnson",
+      "joint": null,
+      "source": "https://cowboystatedaily.com/2025/07/01/wyoming-legislators-cheer-removal-of-ban-on-states-regulating-ai-from-budget-bill/",
+      "outlet": "Cowboy State Daily"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Wyoming_Governor_Mark_Gordon_expands_partnership_with_Tunisia_to_enhance_agriculture_and_civil_protection_%284%29_%28cropped%29.jpg/250px-Wyoming_Governor_Mark_Gordon_expands_partnership_with_Tunisia_to_enhance_agriculture_and_civil_protection_%284%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wyoming_Governor_Mark_Gordon_expands_partnership_with_Tunisia_to_enhance_agriculture_and_civil_protection_(4)_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "Staff Sgt. Cesar Rivas"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

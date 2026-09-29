@@ -1,0 +1,44 @@
+{
+  "id": "chuck-schumer",
+  "name": "Chuck Schumer",
+  "office": "U.S. Senator from New York; Senate Democratic Leader",
+  "office_type": "us_senator",
+  "state": "NY",
+  "party": "D",
+  "committees": [
+    "Senate Democratic Leader"
+  ],
+  "stance": "Wants serious federal guardrails on frontier AI and has demanded the administration brief all senators on frontier-model testing and AI risks.",
+  "statements": [
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Demanded an immediate classified all-senators briefing from the Trump administration on its frontier AI testing framework, AI chip export controls, and defence against AI-enabled cyberattacks.",
+      "target": "Trump administration",
+      "joint": null,
+      "source": "https://www.democrats.senate.gov/newsroom/press-releases/as-ai-industry-leaders-sound-alarm-on-ai-risks-and-trump-dismisses-warnings-schumer-demands-immediate-classified-all-senators-briefing",
+      "outlet": "Senate Democrats"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Warning bells are ringing louder than they ever have – and the Trump administration is looking the other way.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.democrats.senate.gov/newsroom/press-releases/as-ai-industry-leaders-sound-alarm-on-ai-risks-and-trump-dismisses-warnings-schumer-demands-immediate-classified-all-senators-briefing",
+      "outlet": "Senate Democrats"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Chuck_Schumer_official_photo.jpg/250px-Chuck_Schumer_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chuck_Schumer_official_photo.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photographic Studio/Jeff McEvoy"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

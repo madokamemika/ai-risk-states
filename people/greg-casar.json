@@ -1,0 +1,44 @@
+{
+  "id": "greg-casar",
+  "name": "Greg Casar",
+  "office": "U.S. Representative, Texas 37th District",
+  "office_type": "us_rep",
+  "state": "TX",
+  "party": "D",
+  "committees": [
+    "Congressional Progressive Caucus (chair)"
+  ],
+  "stance": "Wants a ban on AI systems too powerful for humans to control and a pause on advanced AI development pending federal rules.",
+  "statements": [
+    {
+      "date": "2026-09-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress should immediately ban AI systems too powerful to control.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+      "outlet": "Office of Sen. Sanders"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the House version of the Ban Artificial Superintelligence Act with Sen. Sanders.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://rollcall.com/2026/09/23/ai-superintelligence-ban-proposed-by-casar-sanders/",
+      "outlet": "Roll Call"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Greg_Casar%2C_Austin_City_Council_Member%2C_District_4.jpg/250px-Greg_Casar%2C_Austin_City_Council_Member%2C_District_4.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Greg_Casar,_Austin_City_Council_Member,_District_4.jpg",
+    "license": "CC BY 3.0",
+    "artist": "Active Towns"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

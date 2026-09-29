@@ -1,0 +1,36 @@
+{
+  "id": "liz-larson",
+  "name": "Liz Larson",
+  "office": "South Dakota State Senator",
+  "office_type": "state_senator",
+  "state": "SD",
+  "party": "D",
+  "committees": [],
+  "stance": "Opposes a federal moratorium on state AI laws.",
+  "statements": [
+    {
+      "date": "2025-06-03",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led the letter of more than 260 state legislators asking Congress to drop the 10-year AI moratorium.",
+      "target": "Congress",
+      "joint": "state-legislators-letter-june-2025",
+      "source": "https://statescoop.com/state-lawmakers-push-back-federal-proposal-limit-ai-regulation/",
+      "outlet": "StateScoop"
+    },
+    {
+      "date": "2026-02-12",
+      "arena": "state",
+      "kind": "action",
+      "text": "Her SB 168, regulating minors’ use of chatbots, was deferred to the 41st legislative day (killed) in committee.",
+      "target": null,
+      "joint": null,
+      "source": "https://sdlegislature.gov/Session/Bill/26549",
+      "outlet": "South Dakota Legislature"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

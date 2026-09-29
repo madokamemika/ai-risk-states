@@ -1,0 +1,52 @@
+{
+  "id": "scott-wiener",
+  "name": "Scott Wiener",
+  "office": "California State Senator (District 11)",
+  "office_type": "state_senator",
+  "state": "CA",
+  "party": "D",
+  "committees": [],
+  "stance": "Author of SB 1047 and SB 53; wants binding catastrophic-risk safety rules on frontier developers and, after the 2026 OpenAI agent incident, a stronger SB 53.",
+  "statements": [
+    {
+      "date": "2025-09-29",
+      "arena": "state",
+      "kind": "action",
+      "text": "Authored SB 53, the Transparency in Frontier Artificial Intelligence Act, signed into law after his SB 1047 was vetoed in 2024.",
+      "target": null,
+      "joint": null,
+      "source": "https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/",
+      "outlet": "TechCrunch"
+    },
+    {
+      "date": "2026-09",
+      "arena": "state",
+      "kind": "quote",
+      "text": "We were called 'doomers' and 'decels,' and told that the risks we warned about were science fiction and not a serious risk we would see anytime soon. It turns out we were right, and the critics were wrong.",
+      "target": null,
+      "joint": null,
+      "source": "https://missionlocal.org/2026/09/california-ai-safety-law-sb-53-openai-hack-wiener-newsom/",
+      "outlet": "Mission Local"
+    },
+    {
+      "date": "2026-09",
+      "arena": "state",
+      "kind": "quote",
+      "text": "I believe this incident would have been covered by SB 1047 had it been signed into law, given the multiple state pathways to trigger the bill.",
+      "target": null,
+      "joint": null,
+      "source": "https://missionlocal.org/2026/09/california-ai-safety-law-sb-53-openai-hack-wiener-newsom/",
+      "outlet": "Mission Local"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Scott_Wiener.jpg/250px-Scott_Wiener.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Scott_Wiener.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Scott Wiener"
+  }
+}

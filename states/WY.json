@@ -1,0 +1,113 @@
+{
+  "code": "WY",
+  "xrisk": "adjacent",
+  "summary": "Nothing on frontier or catastrophic risk has been enacted; Gov. Gordon and legislators opposed the 2025 federal moratorium (one lawmaker citing AGI), and a 2026 interim committee is drafting a bill requiring human approval of consequential government AI decisions.",
+  "items": [
+    {
+      "date": "2025-07-01",
+      "type": "letter",
+      "title": "Republican governors' letter opposing the federal AI moratorium",
+      "status": "filed",
+      "text": "Gordon signed a GOP governors' letter to Thune and Johnson opposing the moratorium on state AI laws.",
+      "source": "https://cowboystatedaily.com/2025/07/01/wyoming-legislators-cheer-removal-of-ban-on-states-regulating-ai-from-budget-bill/",
+      "people": [
+        "mark-gordon"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "type": "bill",
+      "title": "Draft interim bill on government use of AI (27LSO-0034)",
+      "status": "pending",
+      "text": "Would bar AI from making consequential government decisions without human approval; committee postponed further work.",
+      "source": "https://www.wyomingpublicmedia.org/politics-government/2026-07-16/lawmakers-debate-how-to-regulate-government-use-of-ai",
+      "people": [
+        "chris-rothfuss",
+        "tara-nethercott"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Wyoming wants AI data centers for its gas and power, and one campus near Cheyenne alone would draw nearly triple the state's current power demand.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Mark Gordon signed Executive Order 2026-03, \"Data Centers the Wyoming Way\", in 2026. It sets eight priorities: water, wildlife, transparency, energy, grid protection, revenue, workforce and community investment. Gordon has argued for continuing to welcome data center investment rather than imposing a moratorium.",
+        "sources": [
+          {
+            "url": "https://wyofile.com/gov-gordon-demands-data-center-developers-do-it-the-wyoming-way/",
+            "outlet": "WyoFile"
+          },
+          {
+            "url": "https://www.wyomingpublicmedia.org/natural-resources-energy/2026-06-03/executive-order-paves-way-for-wyoming-data-centers-while-colorado-communities-hit-pause",
+            "outlet": "Wyoming Public Media"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Crusoe and Tallgrass announced a 1.8 GW AI data center south of Cheyenne in July 2025, powered by Wyoming natural gas with carbon capture and designed to scale to 10 GW. By January 2026 Cheyenne had approved the project, Project Jade, at up to 2.7 GW of self-generated power, nearly triple the whole state's demand. Meta is building on a 945-acre site outside Cheyenne.",
+        "sources": [
+          {
+            "url": "https://www.crusoe.ai/resources/newsroom/crusoe-and-tallgrass-announce-ai-data-center-in-wyoming",
+            "outlet": "Crusoe"
+          },
+          {
+            "url": "https://cowboystatedaily.com/2026/01/08/huge-cheyenne-data-center-grows-to-2-7-gigawatts-nearly-triple-state-power-use/",
+            "outlet": "Cowboy State Daily"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Residents petitioned for a 12- to 18-month moratorium on new data centers in Cheyenne to study water, air and infrastructure effects; the City Council rejected it 9-1 (2026). Cheyenne joined the national day of data center protests in July 2026, and Laramie residents organized against data centers in June 2026 although none are planned there.",
+        "sources": [
+          {
+            "url": "https://www.wyomingnews.com/news/local_news/gov-gordon-signs-executive-order-addressing-data-centers-in-wyoming/article_b5a4f53a-ed08-4cb7-8ab1-c0a9332da7e6.html",
+            "outlet": "Wyoming Tribune Eagle"
+          },
+          {
+            "url": "https://cowboystatedaily.com/2026/07/17/cheyenne-to-join-national-protest-against-data-centers-detractors-laugh-at-them/",
+            "outlet": "Cowboy State Daily"
+          },
+          {
+            "url": "https://cowboystatedaily.com/2026/06/03/laramie-has-no-data-center-plans-but-that-doesnt-stop-locals-from-opposing-them/",
+            "outlet": "Cowboy State Daily"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "A University of Wyoming AI commission began drafting campus guidelines on AI research and teaching in February 2026. UW's Advanced Research Computing Center launched two new high-performance clusters, SquareTop and GannettPeak, on August 25, 2026.",
+        "sources": [
+          {
+            "url": "https://www.wyomingpublicmedia.org/education/2026-02-06/a-new-ai-commission-at-uw-considers-research-and-learning-applications",
+            "outlet": "Wyoming Public Media"
+          },
+          {
+            "url": "https://www.uwyo.edu/news/2026/08/uw-launches-two-new-computing-clusters-to-expand-research-capabilities.html",
+            "outlet": "University of Wyoming"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Cynthia Lummis (R) introduced the RISE Act in June 2025; it would clarify liability when professionals use AI and require developers to publish model cards. She called demand for AI \"insatiable\" and said she has worked to make sure companies powering AI data centers know they can come to Wyoming. She has also introduced a bill on grid connections for very large power users. Sen. John Barrasso (R) called Wyoming \"America's energy breadbasket\" for AI.",
+        "sources": [
+          {
+            "url": "https://www.coindesk.com/policy/2025/06/13/cynthia-lummis-proposes-artificial-intelligence-bill-requiring-ai-firms-to-disclose-technicals",
+            "outlet": "CoinDesk"
+          },
+          {
+            "url": "https://cowboystatedaily.com/2026/08/23/a-data-center-is-proposed-for-public-lands-in-nevada-could-wyoming-be-next/",
+            "outlet": "Cowboy State Daily"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "andrew-gounardes",
+  "name": "Andrew Gounardes",
+  "office": "New York State Senator",
+  "office_type": "state_senator",
+  "state": "NY",
+  "party": "D",
+  "committees": [],
+  "stance": "Senate sponsor of the RAISE Act requiring safety plans and incident reporting from the largest frontier-model developers.",
+  "statements": [
+    {
+      "date": "2025-12-19",
+      "arena": "state",
+      "kind": "quote",
+      "text": "This is an enormous win for the safety of our communities, the growth of our economy and the future of our society.",
+      "target": null,
+      "joint": "ny-raise-act",
+      "source": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-require-ai-frameworks-ai-frontier-models",
+      "outlet": "Office of the Governor of New York"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Andrew_Gounardes.jpg/250px-Andrew_Gounardes.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Andrew_Gounardes.jpg",
+    "license": "CC BY 2.0",
+    "artist": "NY Senate"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

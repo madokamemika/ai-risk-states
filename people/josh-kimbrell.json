@@ -1,0 +1,26 @@
+{
+  "id": "josh-kimbrell",
+  "name": "Josh Kimbrell",
+  "office": "South Carolina State Senator",
+  "office_type": "state_senator",
+  "state": "SC",
+  "party": "R",
+  "committees": [],
+  "stance": "Lead sponsor of the Protecting Children from Chatbots Act.",
+  "statements": [
+    {
+      "date": "2026-03-19",
+      "arena": "state",
+      "kind": "action",
+      "text": "Introduced S. 1037, the Protecting Children from Chatbots Act, requiring age verification, a limited-access mode for minors and incident reports to the attorney general.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1037.htm",
+      "outlet": "South Carolina Legislature"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "brett-guthrie",
+  "name": "Brett Guthrie",
+  "office": "U.S. Representative, Kentucky 2nd District",
+  "office_type": "us_rep",
+  "state": "KY",
+  "party": "R",
+  "committees": [
+    "House Energy and Commerce (chair)"
+  ],
+  "stance": "Wants federal preemption of state AI laws to avoid a patchwork of state rules; his committee wrote the 2025 moratorium.",
+  "statements": [
+    {
+      "date": "2025-05-14",
+      "arena": "federal",
+      "kind": "action",
+      "text": "As Energy and Commerce chair, advanced the reconciliation text containing a 10-year moratorium on state and local AI laws out of committee on a party-line vote.",
+      "target": null,
+      "joint": "reconciliation-ai-moratorium-2025",
+      "source": "https://iapp.org/news/a/proposed-federal-moratorium-on-us-state-level-ai-regulation-passes-house-committee",
+      "outlet": "IAPP"
+    },
+    {
+      "date": "2025-07-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I was fine with it being shorter. Ten years was a long time.",
+      "target": null,
+      "joint": "reconciliation-ai-moratorium-2025",
+      "source": "https://punchbowl.news/article/tech/guthrie-ai-freeze-fight/",
+      "outlet": "Punchbowl News"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Brett_Guthrie%2C_Official_Photo.jpg/250px-Brett_Guthrie%2C_Official_Photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brett_Guthrie,_Official_Photo.jpg",
+    "license": "Public domain",
+    "artist": "United States House of Representatives"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

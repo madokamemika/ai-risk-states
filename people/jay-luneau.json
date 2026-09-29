@@ -1,0 +1,26 @@
+{
+  "id": "jay-luneau",
+  "name": "Jay Luneau",
+  "office": "Louisiana State Senator",
+  "office_type": "state_senator",
+  "state": "LA",
+  "party": "D",
+  "committees": [],
+  "stance": "Shelved his AI-in-health-insurance bill over fear it conflicts with Trump's AI executive order.",
+  "statements": [
+    {
+      "date": "2026-04-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There is a concern that it is in violation of the president's executive order dealing with AI and it could jeopardize some funding with the state of Louisiana.",
+      "target": null,
+      "joint": "la-ai-bills-shelved-2026",
+      "source": "https://www.wwno.org/coastal-desk/2026-04-01/louisiana-scraps-some-but-not-all-ai-proposals-after-trump-threats",
+      "outlet": "WWNO / Louisiana Illuminator"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

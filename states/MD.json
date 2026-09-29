@@ -1,0 +1,104 @@
+{
+  "code": "MD",
+  "summary": "Gov. Wes Moore's Sept 2026 AI framework calls for developing regulations for frontier AI companies in the 2027 session, alongside child-safety and algorithmic-accountability measures. AG Anthony Brown co-signed the Sept 2026 state-AG letter urging federal frontier-AI rules.",
+  "xrisk": "direct",
+  "items": [
+    {
+      "date": "2026-09-22",
+      "type": "statement",
+      "title": "Moore AI framework (includes frontier AI company regulation)",
+      "status": "pending",
+      "text": "The governor announced plans to seek regulations for frontier AI companies when the General Assembly returns in January 2027.",
+      "source": "https://mocoshow.com/2026/09/22/governor-moore-announces-new-ai-framework-for-maryland/",
+      "people": [
+        "wes-moore"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI safety",
+      "status": "filed",
+      "text": "The Maryland attorney general signed the letter urging Congress to adopt federal frontier-AI safety rules and to bar preemption of state AI laws.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "anthony-brown"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Maryland is home to a 2,100-acre data-center site near Frederick, and its governor is now adding review and trying to end the tax break.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "In September 2026 Gov. Wes Moore signed an executive order creating a task force to review data centers over 25 MW that seek state permits or incentives, and a public dashboard of their power and water use. He also plans to seek repeal of the 2020 data-center sales tax exemption, reported to have cost $22 million in 2026.",
+        "sources": [
+          {
+            "url": "https://hoodline.com/2026/09/moore-orders-new-data-center-task-force-wants-maryland-s-22m-tax-break-gone/",
+            "outlet": "Hoodline"
+          },
+          {
+            "url": "https://www.thebanner.com/politics-power/state-government/wes-moore-data-center-announcement-2YXDTFTQJBFXPHGQBXYPDQ4ROY/",
+            "outlet": "The Baltimore Banner"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Quantum Frederick is a 2,100-acre data-center campus under construction on the former Eastalco aluminum site near Adamstown; Amazon Web Services has a 777,000-square-foot facility there (reported September 2026).",
+        "sources": [
+          {
+            "url": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/",
+            "outlet": "Nature Forward"
+          },
+          {
+            "url": "https://www.baltimoresun.com/2026/09/02/gov-wes-moore-evolves-on-data-centers-as-amazon-project-surges-ahead/",
+            "outlet": "Baltimore Sun"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Baltimore County extended its data-center moratorium through December 2027, and Harford County approved an indefinite ban in June 2026.",
+        "sources": [
+          {
+            "url": "https://hoodline.com/2026/09/moore-orders-new-data-center-task-force-wants-maryland-s-22m-tax-break-gone/",
+            "outlet": "Hoodline"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Johns Hopkins began building its Data Science and AI Institute on the Homewood campus in January 2026: about 476,000 square feet for 80 new faculty, with occupancy expected in 2029.",
+        "sources": [
+          {
+            "url": "https://hub.jhu.edu/2026/01/02/hopkins-data-science-ai-institute-wyman-park-drive-closure/",
+            "outlet": "JHU Hub"
+          },
+          {
+            "url": "https://www.tradelineinc.com/news/2025-2/johns-hopkins-university-plans-data-science-and-ai-facility",
+            "outlet": "Tradeline"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Chris Van Hollen introduced the Power for the People Act on January 15, 2026, cosponsored by Sen. Angela Alsobrooks, to make data centers pay for the transmission upgrades they need. In March 2026 he joined Sens. Whitehouse and Heinrich in questioning eight AI firms about gas-powered data centers.",
+        "sources": [
+          {
+            "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+            "outlet": "Sen. Van Hollen"
+          },
+          {
+            "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-whitehouse-heinrich-probe-ai-companies-about-plans-for-colossal-gas-powered-data-centers",
+            "outlet": "Sen. Van Hollen"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

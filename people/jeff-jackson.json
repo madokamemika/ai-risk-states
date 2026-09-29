@@ -1,0 +1,64 @@
+{
+  "id": "jeff-jackson",
+  "name": "Jeff Jackson",
+  "office": "Attorney General of North Carolina",
+  "office_type": "state_ag",
+  "state": "NC",
+  "party": "D",
+  "committees": [
+    "Co-chair, Attorney General Alliance AI Task Force"
+  ],
+  "stance": "Presses AI companies on child safety through multistate AG action.",
+  "statements": [
+    {
+      "date": "2025-08-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led the 44-AG NAAG letter warning AI companies they will answer for harms to children.",
+      "target": "AI companies",
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-state-attorneys-general-issues-letter-to-ai-industry-leaders-on-child-safety/",
+      "outlet": "NAAG"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI technology is developing fast, and we can't let it go unchecked. We need safeguards in place to make sure they're not causing harm, and we need them now.",
+      "target": null,
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://www.wbtv.com/2026/09/26/north-carolina-attorney-general-pushes-congress-national-ai-guardrails-safety-concerns-mount/",
+      "outlet": "WBTV"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed the 26-attorney-general letter asking Congress for mandatory federal oversight of frontier-AI safety testing, government-led incident response, international cooperation to prevent harmful superintelligence, and a ban on preempting state law.",
+      "target": "Congress (Johnson, Thune, Jeffries, Schumer)",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "outlet": "Coalition letter (California AG host)"
+    },
+    {
+      "date": "2025-08-25",
+      "arena": "state",
+      "kind": "action",
+      "text": "Co-led the 44-AG letter warning AI companies over chatbot harms to children.",
+      "target": null,
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-state-attorneys-general-issues-letter-to-ai-industry-leaders-on-child-safety/",
+      "outlet": "NAAG"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Rep._Jeff_Jackson_-_118th_Congress_%28Updated%29.jpg/250px-Rep._Jeff_Jackson_-_118th_Congress_%28Updated%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Jeff_Jackson_-_118th_Congress_(Updated).jpg",
+    "license": "Public domain",
+    "artist": "Ike Hayman"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

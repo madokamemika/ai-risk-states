@@ -1,0 +1,52 @@
+{
+  "id": "nathaniel-moran",
+  "name": "Nathaniel Moran",
+  "office": "U.S. Representative, Texas 1st District",
+  "office_type": "us_rep",
+  "state": "TX",
+  "party": "R",
+  "committees": [],
+  "stance": "Co-sponsor of a bipartisan requirement that frontier AI developers keep a government-ordered shutdown capability.",
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced the AI Kill Switch Act (H.R. 9917) with Rep. Lieu.",
+      "target": null,
+      "joint": "ai-kill-switch-act",
+      "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+      "outlet": "Office of Rep. Lieu"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Stewardship means making sure humans keep the capability to control the technology we build.",
+      "target": null,
+      "joint": "ai-kill-switch-act",
+      "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+      "outlet": "Office of Rep. Lieu"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Just like when you go back to the Cold War, when the United States was engaging with the Soviet Union on ICBMs and nuclear weapons, we wanted to make sure that we were talking with our adversary on a technology that could be very dangerous and making sure that we are in agreement on how to preserve safety for all of humanity. We certainly should be doing that with China.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.breitbart.com/clips/2026/09/15/gop-rep-moran-we-have-leverage-for-ai-deal-on-china-they-depend-on-our-chips/",
+      "outlet": "Breitbart (NewsNation clip)"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Rep._Nathaniel_Moran_official_photo%2C_118th_Congress.jpg/250px-Rep._Nathaniel_Moran_official_photo%2C_118th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Nathaniel_Moran_official_photo,_118th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

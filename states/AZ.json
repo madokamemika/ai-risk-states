@@ -1,0 +1,108 @@
+{
+  "code": "AZ",
+  "xrisk": "direct",
+  "summary": "AG Kris Mayes signed the 2026 multistate frontier-AI letter and called for a pause on new AI data centers; Gov. Hobbs vetoed the Legislature's three 2026 AI bills without an AI-specific rationale.",
+  "items": [
+    {
+      "date": "2026-06-19",
+      "type": "veto",
+      "title": "2026 legislative AI bills (three)",
+      "status": "vetoed",
+      "text": "Hobbs vetoed all three AI bills as part of an 88-bill veto day.",
+      "source": "https://frameworkbysettra.substack.com/p/the-framework-newsletter-06302026",
+      "people": [
+        "katie-hobbs"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI",
+      "status": "filed",
+      "text": "Mayes joined AGs urging strict federal oversight of frontier AI.",
+      "source": "https://www.azag.gov/press-release/attorney-general-mayes-urges-congress-protect-americans-unchecked-ai-development",
+      "people": [
+        "kris-mayes"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Arizona is one of the top two data center markets in the world, and in 2026 it paused the tax break that drew them there.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Katie Hobbs signed HB 4168 on June 13, 2026. It stops the Arizona Commerce Authority from accepting data center sales-tax incentive applications from July 1, 2026 to June 30, 2029. Hobbs said Arizona is in the \"Top Two market in the world for data centers\". Her proposed data center water-use fee was left out of the budget. In September 2026 she declined calls to pause data center development itself.",
+        "sources": [
+          {
+            "url": "https://azcapitoltimes.com/news/2026/07/09/data-centers-dominated-2026-session-lawmakers-answered-with-3-year-tax-incentive-pause/",
+            "outlet": "Arizona Capitol Times"
+          },
+          {
+            "url": "https://www.kjzz.org/politics/2026-09-03/gov-hobbs-wont-pause-arizona-data-center-development-despite-calls-to-do-so",
+            "outlet": "KJZZ"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Microsoft is expanding its five-building, $1.5 billion campus in Goodyear, and in May 2026 it paid more than $131 million for 100 more acres there. Project Blue, a $3.6 billion, 290-acre data center complex near Tucson, won Arizona Corporation Commission approval (4-1) for TEP to supply its power in December 2025. Amazon later withdrew from the project.",
+        "sources": [
+          {
+            "url": "https://www.costar.com/article/98998770/microsoft-scoops-up-100-acres-to-expand-phoenix-data-center-footprint",
+            "outlet": "CoStar"
+          },
+          {
+            "url": "https://www.kjzz.org/fronteras-desk/2025-12-05/project-blue-electricity-plan-approved-paving-the-way-for-controversial-tucson-data-center",
+            "outlet": "KJZZ"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Tucson's City Council rejected Project Blue in August 2025 over water and power; Pima County approved the land sale and rezoning, and Attorney General Kris Mayes moved to block its utility deal. On December 11, 2025, Chandler's council voted 7-0 against a $2 billion AI data center after residents sent more than 250 emails.",
+        "sources": [
+          {
+            "url": "https://azluminaria.org/2025/08/06/tucson-city-council-rejects-project-blue-amid-intense-community-pressure/",
+            "outlet": "Arizona Luminaria"
+          },
+          {
+            "url": "https://www.kjzz.org/the-show/2025-12-09/rejected-by-tucson-and-abandoned-by-amazon-project-blue-data-center-moves-forward",
+            "outlet": "KJZZ"
+          },
+          {
+            "url": "https://www.fox10phoenix.com/news/chandler-data-center-proposal-draws-heavy-opposition-council-meeting",
+            "outlet": "FOX 10 Phoenix"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Arizona State University was OpenAI's first university partner, in January 2024. In September 2025 the partnership was expanded to give ChatGPT Edu with GPT-5 to every ASU student, faculty member, researcher and staff member at no cost to them.",
+        "sources": [
+          {
+            "url": "https://tech.asu.edu/features/asu-and-openai-expand-collaboration-scaling-ai",
+            "outlet": "ASU"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "In September 2026 Sens. Mark Kelly and Ruben Gallego and Reps. Greg Stanton, Yassamin Ansari and Adelita Grijalva (all D) asked Interior Secretary Doug Burgum about 12 data center projects proposed on more than 17,600 acres of federal land in six Western states, four of them in Arizona. Kelly's \"AI for America\" plan (September 2025) proposes an AI Horizon Fund, paid into by AI companies, for worker training and power and water infrastructure.",
+        "sources": [
+          {
+            "url": "https://www.kelly.senate.gov/newsroom/press-releases/kelly-gallego-stanton-ansari-grijalva-press-trump-administration-for-answers-on-proposed-data-center-on-public-lands/",
+            "outlet": "Sen. Kelly"
+          },
+          {
+            "url": "https://ktar.com/arizona-technology-news/ai-for-america-mark-kelly/5848402/",
+            "outlet": "KTAR"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

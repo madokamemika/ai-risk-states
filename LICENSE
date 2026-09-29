@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+WHAT IT DOES NOT COVER
+
+It covers what we wrote: the code, the schemas, the summaries, briefs and
+paraphrased statements, and the structure linking them. It does not cover:
+
+- quoted words, which belong to the people who said them and appear here as
+  short, attributed excerpts;
+- portraits, each under the licence recorded beside it in people/*.json;
+- bill data derived from LegiScan, which is provided by LegiScan under its own
+  terms and must stay credited.

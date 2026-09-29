@@ -1,0 +1,65 @@
+{
+  "id": "richard-blumenthal",
+  "name": "Richard Blumenthal",
+  "office": "U.S. Senator from Connecticut",
+  "office_type": "us_senator",
+  "state": "CT",
+  "party": "D",
+  "committees": [
+    "Senate Judiciary",
+    "Senate Armed Services"
+  ],
+  "stance": "Wants mandatory independent testing and federal oversight of frontier AI models, as in his AI Risk Evaluation Act with Hawley.",
+  "statements": [
+    {
+      "date": "2025-09-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced the Artificial Intelligence Risk Evaluation Act (S. 2938) with Sen. Hawley.",
+      "target": null,
+      "joint": "ai-risk-evaluation-act",
+      "source": "https://www.govtrack.us/congress/bills/119/s2938/text",
+      "outlet": "GovTrack"
+    },
+    {
+      "date": "2025-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI companies have rushed to market with products that are unsafe for the public and often lack basic due diligence and testing.",
+      "target": null,
+      "joint": "ai-risk-evaluation-act",
+      "source": "https://fedscoop.com/energy-department-ai-risk-evaluation-bill/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "In the face of a stunning failure, OpenAI appears to be taking steps that prioritize the performance and profit of its A.I. models with the knowledge that those changes could be detrimental to public safety.",
+      "target": "Sam Altman, OpenAI",
+      "joint": "openai-hugging-face-letters-2026",
+      "source": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sam-altman-after-new-reporting-reveals-how-ai-agents-went-rogue-to-conduct-major-cyber-breach-and-conceal-their-operations",
+      "outlet": "Office of Sen. Blumenthal"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Sent OpenAI eight questions on containment failures in the Hugging Face breach and on the release of a less-monitorable model, with a September 24, 2026 deadline.",
+      "target": "Sam Altman, OpenAI",
+      "joint": "openai-hugging-face-letters-2026",
+      "source": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sam-altman-after-new-reporting-reveals-how-ai-agents-went-rogue-to-conduct-major-cyber-breach-and-conceal-their-operations",
+      "outlet": "Office of Sen. Blumenthal"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Richard_Blumenthal_Official_Portrait.jpg/250px-Richard_Blumenthal_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Richard_Blumenthal_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

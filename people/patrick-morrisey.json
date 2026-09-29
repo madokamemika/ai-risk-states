@@ -1,0 +1,32 @@
+{
+  "id": "patrick-morrisey",
+  "name": "Patrick Morrisey",
+  "office": "Governor of West Virginia",
+  "office_type": "governor",
+  "state": "WV",
+  "party": "R",
+  "committees": [],
+  "stance": "Promotes West Virginia as an AI compute and energy hub; no public position found on AI safety regulation.",
+  "statements": [
+    {
+      "date": "2026-08-27",
+      "arena": "state",
+      "kind": "quote",
+      "text": "West Virginia has powered America for generations, and now we have an opportunity to power the AI revolution.",
+      "target": null,
+      "joint": null,
+      "source": "https://governor.wv.gov/article/governor-morriseys-ai-strategy-positions-west-virginia-reported-45-billion-agreement",
+      "outlet": "Office of the Governor of West Virginia"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Patrick_Morrisey_by_Gage_Skidmore.jpg/250px-Patrick_Morrisey_by_Gage_Skidmore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Patrick_Morrisey_by_Gage_Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Gage Skidmore"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "phil-weiser",
+  "name": "Phil Weiser",
+  "office": "Attorney General of Colorado",
+  "office_type": "state_ag",
+  "state": "CO",
+  "party": "D",
+  "committees": [],
+  "stance": "Opposes federal preemption of state AI laws by Congress or the FCC; defends Colorado's AI Act against the xAI/DOJ challenge.",
+  "statements": [
+    {
+      "date": "2025-05-16",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led the 40-AG letter asking Congress to reject the 10-year moratorium on state AI enforcement.",
+      "target": "Congress",
+      "joint": "ag-letter-moratorium-may-2025",
+      "source": "https://ago.vermont.gov/blog/2025/05/16/attorney-general-clark-leads-bipartisan-letter-congress-opposing-budget-amendment-prohibiting-states",
+      "outlet": "Vermont Attorney General"
+    },
+    {
+      "date": "2025-12-17",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Led 23 attorneys general in telling the FCC it lacks authority to preempt state AI laws.",
+      "target": "FCC",
+      "joint": "ag-fcc-preemption-comment-2025",
+      "source": "https://broadbandbreakfast.com/state-attorneys-general-to-fcc-dont-preempt-ai-laws/",
+      "outlet": "Broadband Breakfast"
+    },
+    {
+      "date": "2026-04-24",
+      "arena": "state",
+      "kind": "action",
+      "text": "Is the named defendant in xAI v. Weiser, in which the Justice Department intervened against Colorado's AI Act.",
+      "target": null,
+      "joint": "xai-v-weiser-doj-intervention",
+      "source": "https://btlaw.com/en/insights/alerts/2026/doj-intervenes-in-lawsuit-challenging-colorados-algorithmic-discrimination-law",
+      "outlet": "Barnes & Thornburg"
+    },
+    {
+      "date": "2026-04",
+      "arena": "state",
+      "kind": "action",
+      "text": "Agreed in a joint motion with xAI and DOJ to pause the lawsuit and said he would not enforce SB 24-205 or any replacement law until after rulemaking concludes.",
+      "target": null,
+      "joint": null,
+      "source": "https://statescoop.com/colorado-ag-delaying-ai-law-xai-lawsuit/",
+      "outlet": "StateScoop"
+    },
+    {
+      "date": "2025-05-16",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led a bipartisan letter of 40 attorneys general urging Congress to reject a moratorium on state AI regulation.",
+      "target": "Congress",
+      "joint": null,
+      "source": "https://coag.gov/press-releases/attorney-general-phil-weiser-bipartisan-ag-letter-congress-artificial-intelligence-regulations-5-16-25/",
+      "outlet": "Colorado Attorney General"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed the 26-AG letter urging Congress to immediately establish comprehensive federal regulation and safety protocols for frontier AI, including mandatory federal oversight of safety testing, and to prohibit preemption of state law.",
+      "target": "Congressional leadership (Johnson, Thune, Jeffries, Schumer)",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "outlet": "California Attorney General (letter PDF)"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/AG_Phil_Weiser_3.png/250px-AG_Phil_Weiser_3.png",
+    "page": "https://commons.wikimedia.org/wiki/File:AG_Phil_Weiser_3.png",
+    "license": "Public domain",
+    "artist": "Phil Photos"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

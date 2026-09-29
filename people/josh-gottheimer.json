@@ -1,0 +1,44 @@
+{
+  "id": "josh-gottheimer",
+  "name": "Josh Gottheimer",
+  "office": "U.S. Representative, New Jersey 5th District",
+  "office_type": "us_rep",
+  "state": "NJ",
+  "party": "D",
+  "committees": [
+    "House Permanent Select Committee on Intelligence"
+  ],
+  "stance": "Wants federal security standards for deploying AI agents after rogue-agent incidents.",
+  "statements": [
+    {
+      "date": "2026-09-03",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the Stop Rogue AI Act with Rep. Lawler, directing NIST to publish standards for securely deploying AI agents.",
+      "target": null,
+      "joint": "stop-rogue-ai-act",
+      "source": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6424",
+      "outlet": "Office of Rep. Lawler"
+    },
+    {
+      "date": "2026-09-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Right now, AI agents are running loose in our networks, and nobody can see them or verify who built them — making it increasingly hard to stop them. That's a five-alarm security risk.",
+      "target": null,
+      "joint": "stop-rogue-ai-act",
+      "source": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6424",
+      "outlet": "Office of Rep. Lawler"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Josh_Gottheimer_Photo.jpg/250px-Josh_Gottheimer_Photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Josh_Gottheimer_Photo.jpg",
+    "license": "Public domain",
+    "artist": "Kristie Boyd; U.S. House Office of Photography"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

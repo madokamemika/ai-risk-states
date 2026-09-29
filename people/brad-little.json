@@ -1,0 +1,32 @@
+{
+  "id": "brad-little",
+  "name": "Brad Little",
+  "office": "Governor of Idaho",
+  "office_type": "governor",
+  "state": "ID",
+  "party": "R",
+  "committees": [],
+  "stance": "Promotes AI adoption in schools; no frontier-risk position found.",
+  "statements": [
+    {
+      "date": "2026-03-26",
+      "arena": "state",
+      "kind": "quote",
+      "text": "You can make the argument that the AI genie is out of the bottle. Nobody's putting that genie back in the bottle.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.idahoednews.org/news/the-genies-out-of-the-bottle-little-signs-artificial-intelligence-education-bill/",
+      "outlet": "Idaho Education News"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Brad_Little_official_photo.jpg/250px-Brad_Little_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brad_Little_official_photo.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Phil White/Office of the Governor of Idaho."
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

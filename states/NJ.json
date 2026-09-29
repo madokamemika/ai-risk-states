@@ -1,0 +1,108 @@
+{
+  "code": "NJ",
+  "summary": "A frontier-model catastrophic-risk disclosure bill (S4446, Sen. Raj Mukherji) was introduced in June 2026 and is pending. AG Jennifer Davenport co-led the Sept 2026 state-AG letter urging federal frontier-AI safety rules.",
+  "xrisk": "direct",
+  "items": [
+    {
+      "date": "2026-06-11",
+      "type": "bill",
+      "title": "S4446 — Artificial Intelligence Safety",
+      "status": "introduced",
+      "text": "Would require large frontier developers to file catastrophic-risk management and pre-deployment model risk disclosures with the Attorney General.",
+      "source": "https://pub.njleg.gov/Bills/2026/S4500/4446_I1.HTM",
+      "people": [
+        "raj-mukherji"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI safety",
+      "status": "filed",
+      "text": "Davenport co-led the coalition urging Congress to regulate frontier AI and preserve state enforcement authority.",
+      "source": "https://www.njoag.gov/attorney-general-davenport-urges-congress-to-protect-americans-from-uncontrolled-artificial-intelligence-models/",
+      "people": [
+        "jennifer-davenport"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "New Jersey has a state-backed AI hub at Princeton, and its new governor wants data centers to pay their own way on power.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "The NJ AI Hub opened in West Windsor in March 2025 with Princeton, Microsoft and CoreWeave committing $72 million and the state economic development authority up to $25 million. On May 27, 2026 Gov. Mikie Sherrill announced a data-center plan: fair-share rules requiring new clean power and grid funding, energy and water reporting, statewide community-benefit standards and prevailing wages.",
+        "sources": [
+          {
+            "url": "https://www.njeda.gov/governor-murphy-princeton-university-microsoft-coreweave-cut-ribbon-on-major-artificial-intelligence-hub/",
+            "outlet": "NJEDA"
+          },
+          {
+            "url": "https://nj.gov/governor/news/2026/20260527a.shtml",
+            "outlet": "Governor's office"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Princeton University is a founding partner of the NJ AI Hub and provides its building on Route 1; the hub runs research, startup and workforce programs with state universities and community colleges.",
+        "sources": [
+          {
+            "url": "https://www.njeda.gov/governor-murphy-princeton-university-microsoft-coreweave-cut-ribbon-on-major-artificial-intelligence-hub/",
+            "outlet": "NJEDA"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sens. Cory Booker and Andy Kim led seven members of the state's House delegation in a letter to grid operator PJM about capacity-price increases tied to data-center demand. Booker cosponsored Sen. Van Hollen's Power for the People Act (January 2026), which would make data centers pay for the grid upgrades they require.",
+        "sources": [
+          {
+            "url": "https://www.booker.senate.gov/news/press/booker-kim-lead-members-of-nj-congressional-delegation-in-letter-to-pjm-interconnection-pjm-raising-serious-concerns-over-rate-increase-impacting-new-jersey-families",
+            "outlet": "Sen. Booker"
+          },
+          {
+            "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+            "outlet": "Sen. Van Hollen"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "In September 2025 CoreWeave began building a data center of about $1.8 billion and up to 250 MW at the former Merck campus in Kenilworth, due to open in early 2027. In November 2025 it received the first award under the state's Next New Jersey AI program: a $250 million tax credit, the program maximum. The DataOne center in Vineland began operating in late 2025 and is planned at 2.6 million square feet and 300 MW. The state later fined it $1.07 million for running 62 gas generators without proper permits.",
+        "sources": [
+          {
+            "url": "https://insideclimatenews.org/news/26022026/new-jersey-data-center-tax-break/",
+            "outlet": "Inside Climate News"
+          },
+          {
+            "url": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/",
+            "outlet": "ROI-NJ / Real Estate NJ"
+          },
+          {
+            "url": "https://njmonthly.com/articles/news/new-jerseys-ai-data-center-boom-sparks-pushback-from-residents/",
+            "outlet": "New Jersey Monthly"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "By June 2026 at least 10 New Jersey towns had passed data-center bans or moratoriums, including Pemberton, Monroe, Millville, Andover, Red Bank and Warren; East Brunswick and North Brunswick followed in August 2026. In May 2026 more than 60 groups asked Gov. Mikie Sherrill for a statewide moratorium. She instead proposed a four-part plan that includes developer-funded grid upgrades and twice-yearly reporting of energy and water use. She signed its reporting bill, S3379, in August 2026. An April 2026 Fairleigh Dickinson poll found 65% support for a temporary moratorium.",
+        "sources": [
+          {
+            "url": "https://www.govtech.com/artificial-intelligence/data-center-bans-emerge-in-4-more-new-jersey-communities",
+            "outlet": "GovTech"
+          },
+          {
+            "url": "https://www.foodandwaterwatch.org/2026/08/27/concerned-residents-and-advocates-confront-sherrill-call-for-statewide-data-center-moratorium/",
+            "outlet": "Food & Water Watch"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

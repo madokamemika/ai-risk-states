@@ -1,0 +1,34 @@
+{
+  "id": "james-maroney",
+  "name": "James Maroney",
+  "office": "Connecticut State Senator",
+  "office_type": "state_senator",
+  "state": "CT",
+  "party": "D",
+  "committees": [
+    "General Law Committee (co-chair)"
+  ],
+  "stance": "Author of Connecticut's comprehensive AI bills; the 2026 version enacted chatbot and hiring protections rather than frontier-model rules.",
+  "statements": [
+    {
+      "date": "2026-06-02",
+      "arena": "state",
+      "kind": "quote",
+      "text": "This bill safeguards children from the dangers of unregulated AI chatbots",
+      "target": null,
+      "joint": "ct-sb-5-2026",
+      "source": "https://portal.ct.gov/governor/news/press-releases/2026/06-2026/governor-lamont-signs-legislation-establishing-youth-online-safety-protections",
+      "outlet": "Office of the Governor of Connecticut"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/James_Maroney_%28cropped%29.jpg/250px-James_Maroney_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:James_Maroney_(cropped).jpg",
+    "license": "CC BY 4.0",
+    "artist": "Mikeycdiamond"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

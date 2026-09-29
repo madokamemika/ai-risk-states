@@ -1,0 +1,26 @@
+{
+  "id": "lisa-wellman",
+  "name": "Lisa Wellman",
+  "office": "Washington State Senator",
+  "office_type": "state_senator",
+  "state": "WA",
+  "party": "D",
+  "committees": [],
+  "stance": "Sponsors AI companion-chatbot safeguards for minors (child-safety, not frontier risk).",
+  "statements": [
+    {
+      "date": "2026-01-12",
+      "arena": "state",
+      "kind": "quote",
+      "text": "We want to be ahead of any further damage and harm that can be done by a technology that is on the market.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.opb.org/article/2026/01/12/washington-governor-bob-ferguson-calls-ai-chatbot-regulations/",
+      "outlet": "OPB"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

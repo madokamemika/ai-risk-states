@@ -1,0 +1,26 @@
+{
+  "id": "louis-blessing",
+  "name": "Louis Blessing III",
+  "office": "Ohio State Senator",
+  "office_type": "state_senator",
+  "state": "OH",
+  "party": "R",
+  "committees": [],
+  "stance": "Opposes federal preemption of state laws on AI model development.",
+  "statements": [
+    {
+      "date": "2026-06-16",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led 203 state lawmakers asking Congress to reject the Great American AI Act's three-year preemption of state AI-development laws.",
+      "target": "Congress",
+      "joint": "state-legislators-letter-gaaia-june-2026",
+      "source": "https://ari.us/over-200-state-lawmakers-call-on-congress-to-oppose-great-american-ai-act-preemption-proposal/",
+      "outlet": "Americans for Responsible Innovation"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

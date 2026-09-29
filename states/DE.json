@@ -1,0 +1,121 @@
+{
+  "code": "DE",
+  "summary": "AG Kathy Jennings conditioned approval of OpenAI's 2025 recapitalization on nonprofit control and a Safety and Security Committee able to halt model releases, and she co-signed the Sept 2026 state-AG frontier-AI letter. Delaware's 2026 legislation covers chatbot disclosure and AI impersonation fraud.",
+  "xrisk": "direct",
+  "items": [
+    {
+      "date": "2025-10-28",
+      "type": "statement",
+      "title": "Delaware AG review of OpenAI recapitalization",
+      "status": "enacted",
+      "text": "Jennings approved OpenAI's restructuring on conditions preserving nonprofit control and a safety committee with authority to halt model releases.",
+      "source": "https://news.delaware.gov/2025/10/28/ag-jennings-completes-review-of-openai-recapitalization/",
+      "people": [
+        "kathy-jennings"
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "type": "bill",
+      "title": "AI chatbot transparency and AI impersonation theft bills",
+      "status": "pending",
+      "text": "The House passed bills increasing penalties for AI family-impersonation theft and requiring disclosure in consumer chatbot interactions.",
+      "source": "https://housedems.delaware.gov/2026/05/06/house-passes-bills-to-increase-transparency-and-reduce-the-risk-of-negative-outcomes-during-interactions-with-ai/",
+      "people": []
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI safety",
+      "status": "filed",
+      "text": "The Delaware attorney general signed the letter urging Congress to adopt federal frontier-AI safety rules and to bar preemption of state AI laws.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "kathy-jennings"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Delaware's biggest data-center proposal, a 1.2 GW campus in Delaware City, was blocked by the state's coastal-protection law.",
+    "sections": [
+      {
+        "topic": "compute",
+        "text": "Starwood Digital Ventures proposed Project Washington, a 6-million-square-foot, 1.2 GW data center in Delaware City with 516 backup diesel generators.",
+        "sources": [
+          {
+            "url": "https://spotlightdelaware.org/2026/02/04/delaware-city-data-center-faces-major-setback-after-environmental-denial/",
+            "outlet": "Spotlight Delaware"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "In February 2026 DNREC ruled Project Washington barred by the Coastal Zone Act, largely over its diesel generators. New Castle County Council adopted data-center rules in March 2026, and Starwood dropped its appeal in August 2026, so the project will not proceed as planned.",
+        "sources": [
+          {
+            "url": "https://spotlightdelaware.org/2026/02/04/delaware-city-data-center-faces-major-setback-after-environmental-denial/",
+            "outlet": "Spotlight Delaware"
+          },
+          {
+            "url": "https://spotlightdelaware.org/2026/03/11/after-months-of-debate-the-new-castle-county-council-agrees-to-regulate-the-data-center-industry/",
+            "outlet": "Spotlight Delaware"
+          },
+          {
+            "url": "https://spotlightdelaware.org/2026/08/28/delaware-city-data-center-will-not-move-forward-under-current-plans/",
+            "outlet": "Spotlight Delaware"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "On September 18, 2026 Sen. Lisa Blunt Rochester and Sen. John Curtis asked Senate Commerce Committee leaders to hold a hearing with AI company executives on the capabilities and safety of their systems.",
+        "sources": [
+          {
+            "url": "https://www.bluntrochester.senate.gov/news/press-releases/icymi-blunt-rochester-curtis-call-for-ai-hearings-regulation/",
+            "outlet": "Sen. Blunt Rochester"
+          }
+        ]
+      },
+      {
+        "topic": "state_push",
+        "text": "Gov. Matt Meyer signed HB 16 amending the state AI Commission law in May 2025, and in July 2025 signed a joint resolution to develop an AI Sandbox for corporate governance, biotech, healthcare, chemicals and finance, to give \"space for visionaries and risk-takers to responsibly test cutting-edge artificial intelligence technologies in Delaware.\" His FY26 budget included $150,000 for AI career and technical education. In March 2026 the state launched a Responsible AI training course for state employees.",
+        "sources": [
+          {
+            "url": "https://news.delaware.gov/2025/07/23/delaware-launches-bold-ai-sandbox-initiative-cementing-its-role-as-a-national-leader-in-responsible-tech-innovation/",
+            "outlet": "State of Delaware"
+          },
+          {
+            "url": "https://ai.delaware.gov/wp-content/blogs.dir/229/files/sites/229/2025/12/Delaware-Artificial-Intelligence-Commission-Annual-Report-2025.pdf",
+            "outlet": "Delaware AI Commission"
+          },
+          {
+            "url": "https://news.delaware.gov/2025/03/27/governor-meyer-announces-fiscal-year-2026-budget-reset/",
+            "outlet": "State of Delaware"
+          },
+          {
+            "url": "https://news.delaware.gov/2026/03/19/delaware-launches-new-statewide-ai-training-for-state-employees/",
+            "outlet": "State of Delaware"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The University of Delaware opened the First State AI Institute in June 2025, led by Sunita Chandrasekaran, to build open-source research tools, with Unidel Foundation funding for AI hardware. In July 2026 NSF awarded UD $21.5 million over five years to lead the NSF AI Institute for Human-AI Cooperation, directed by Cathy Wu, with Delaware State, Penn, Florida and Princeton, focused on AI in physical therapy and rehabilitation.",
+        "sources": [
+          {
+            "url": "https://www.udel.edu/udaily/2025/june/artificial-intelligence-first-state-ai-institute-sunita-chandrasekaran/",
+            "outlet": "UDaily"
+          },
+          {
+            "url": "https://www.udel.edu/udaily/2026/july/nsf-haic-institute-human-ai-cooperation-personalized-care-mobility/",
+            "outlet": "UDaily"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

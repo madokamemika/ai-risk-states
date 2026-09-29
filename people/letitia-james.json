@@ -1,0 +1,62 @@
+{
+  "id": "letitia-james",
+  "name": "Letitia James",
+  "office": "Attorney General of New York",
+  "office_type": "state_ag",
+  "state": "NY",
+  "party": "D",
+  "committees": [],
+  "stance": "Wants Congress to regulate frontier AI development with safety testing and incident response, without preempting state laws.",
+  "statements": [
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Every state should be able to enact and enforce its own AI regulations to protect its residents.",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://ag.ny.gov/press-release/2025/attorney-general-james-leads-bipartisan-coalition-urging-congress-reject",
+      "outlet": "New York Attorney General"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Artificial intelligence may show great promise, but we have a duty to ensure that this technology does not risk Americans' safety.",
+      "target": "Congress",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://ag.ny.gov/press-release/2026/attorney-general-james-calls-congress-protect-americans-unchecked-ai-development",
+      "outlet": "New York Attorney General"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led the 26-attorney-general letter asking Congress for mandatory federal oversight of frontier-AI safety testing, government-led incident investigations and a prohibition on preempting state AI laws.",
+      "target": "Congressional leadership",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "outlet": "California Attorney General (letter PDF)"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined the bipartisan 36-attorney-general NAAG letter urging Congress to reject a federal moratorium preempting state AI laws.",
+      "target": "Congressional leadership",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-36-state-attorneys-general-opposes-federal-ban-on-state-ai-laws/",
+      "outlet": "National Association of Attorneys General"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Letitia_James_Interview_Feb_2020.png/250px-Letitia_James_Interview_Feb_2020.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Letitia_James_Interview_Feb_2020.png",
+    "license": "CC BY 3.0",
+    "artist": "WBLS"
+  }
+}

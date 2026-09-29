@@ -1,0 +1,26 @@
+{
+  "id": "christopher-warwick",
+  "name": "Christopher Warwick",
+  "office": "Missouri State Representative",
+  "office_type": "state_rep",
+  "state": "MO",
+  "party": "R",
+  "committees": [],
+  "stance": "Wants AI rules focused on protecting children.",
+  "statements": [
+    {
+      "date": "2026-05-25",
+      "arena": "state",
+      "kind": "quote",
+      "text": "My heart is to make sure that we're protecting our kids",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kfvs12.com/2026/05/25/missouri-lawmakers-fail-pass-ai-regulations-during-2026-legislative-session/",
+      "outlet": "KFVS12"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

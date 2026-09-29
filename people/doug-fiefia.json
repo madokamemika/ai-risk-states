@@ -1,0 +1,36 @@
+{
+  "id": "doug-fiefia",
+  "name": "Doug Fiefia",
+  "office": "Utah State Representative",
+  "office_type": "state_rep",
+  "state": "UT",
+  "party": "R",
+  "committees": [],
+  "stance": "Sponsored HB 286 requiring large AI developers to assess catastrophic risks, publish safety plans and report incidents; says safety and innovation can coexist.",
+  "statements": [
+    {
+      "date": "2026-02",
+      "arena": "state",
+      "kind": "action",
+      "text": "Sponsored HB 286, requiring large AI companies to assess catastrophic risks and harms to minors, post safety plans and report safety incidents to Utah's AI policy office; it stalled in the House after a White House memo opposed it.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kuer.org/politics-government/2026-02-19/trump-is-pressuring-utah-on-an-ai-bill-gov-cox-says-states-should-lead-on-policy",
+      "outlet": "KUER"
+    },
+    {
+      "date": "2026-02-19",
+      "arena": "state",
+      "kind": "quote",
+      "text": "I think there's a way to thread that needle.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kuer.org/politics-government/2026-02-19/trump-is-pressuring-utah-on-an-ai-bill-gov-cox-says-states-should-lead-on-policy",
+      "outlet": "KUER"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "code": "MT",
+  "xrisk": "acted",
+  "summary": "AG Knudsen leads a 16-state consumer-protection investigation of OpenAI over its escaped agent and demanded a halt to the testing involved; Montana's 2025 Right to Compute Act limits state restrictions on computation but requires human-control shutdown for AI-run critical infrastructure.",
+  "items": [
+    {
+      "date": "2025-04-16",
+      "type": "law",
+      "title": "SB 212 — Right to Compute Act",
+      "status": "in_force",
+      "text": "Protects private use of computational resources and requires shutdown-to-human-control mechanisms and annual risk reviews for AI-controlled critical infrastructure.",
+      "source": "https://projects.montanafreepress.org/capitol-tracker-2025/bills/sb-212/",
+      "people": [
+        "greg-gianforte",
+        "daniel-zolnikov"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "type": "letter",
+      "title": "Republican AGs' preservation demand to OpenAI",
+      "status": "filed",
+      "text": "Knudsen co-signed the demand.",
+      "source": "https://www.iowaattorneygeneral.gov/media/cms/08_5392C9E17791C.pdf",
+      "people": [
+        "austin-knudsen"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "type": "lawsuit",
+      "title": "Civil investigative demand to OpenAI",
+      "status": "filed",
+      "text": "Knudsen demanded Hugging Face breach records and a stop to the testing that led to it; announced with 15 other AGs on September 1.",
+      "source": "https://www.montanarightnow.com/missoula/investigation-opened-on-openai-by-attorney-general-austin-knudsen-following-data-breach/article_24653cc1-2660-4caf-8d07-f4e1afde8642.html",
+      "people": [
+        "austin-knudsen"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Montana passed the first \"right to compute\" law, and residents in two counties are now trying to put data centers to a public vote.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Greg Gianforte signed SB 212, the Right to Compute Act, in April 2025. It applies strict scrutiny to government limits on computing resources, including data centers, and requires AI-controlled critical infrastructure to allow human takeover. Gianforte also signed the Ratepayer Protection Pledge, meant to protect household power bills from data center costs.",
+        "sources": [
+          {
+            "url": "https://www.multistate.ai/updates/vol-59-montana-right-to-compute-law",
+            "outlet": "MultiState"
+          },
+          {
+            "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2327229/montana-governor-gianforte-signs-right-to-compute-ai-bill",
+            "outlet": "MLex"
+          },
+          {
+            "url": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+            "outlet": "Montana Free Press"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Three large data centers have been proposed in Bonner, Butte and Broadview (February 2026). The largest is Quantica's 5,000-acre Big Sky Digital Infrastructure Campus near Broadview, north of Billings, planned with 1,100 MW of generation and likely to use coal power from the Colstrip transmission lines, at least at first.",
+        "sources": [
+          {
+            "url": "https://montanafreepress.org/2026/02/12/as-ai-investors-eye-montana-for-new-data-centers-communities-brace-for-water-impacts/",
+            "outlet": "Montana Free Press"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "In 2026, citizen initiatives in Butte-Silver Bow and Yellowstone counties sought to let voters approve or reject new or expanded data centers (June 2026).",
+        "sources": [
+          {
+            "url": "https://montanafreepress.org/2026/06/18/how-some-montanans-are-taking-data-center-regulation-into-their-own-hands/",
+            "outlet": "Montana Free Press"
+          },
+          {
+            "url": "https://billingsgazette.com/news/local/government-politics/article_35b45bc1-65bd-4e62-bb1d-14c86d85831c.html",
+            "outlet": "Billings Gazette"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Montana State University's Interdisciplinary Institute on Artificial Intelligence hosts \"The Future of AI\" conference on October 1-2, 2026. The University of Montana's AI initiative, the Future Project, won a 2026 CIO 100 Award.",
+        "sources": [
+          {
+            "url": "https://www.montana.edu/ai/the-future-of-ai/",
+            "outlet": "Montana State University"
+          },
+          {
+            "url": "https://www.umt.edu/news/2026/04/040126cio1.php",
+            "outlet": "University of Montana"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sens. Steve Daines and Tim Sheehy were part of the 99-1 Senate vote in July 2025 that removed a 10-year moratorium on state AI laws from the budget bill. In August 2026 Sheehy criticized calls for a data-center moratorium, saying \"First they killed our timber mills, then our mines, then our factories — now data centers.\" In September 2026 Daines, who is not running again, questioned whether members of Congress should be the ones regulating AI. No AI statements were found from Reps. Ryan Zinke or Troy Downing.",
+        "sources": [
+          {
+            "url": "https://time.com/7299044/senators-reject-10-year-ban-on-state-level-ai-regulation-in-blow-to-big-tech/",
+            "outlet": "TIME"
+          },
+          {
+            "url": "https://townhall.com/news/dmitri-bolt/2026/08/24/long-live-the-luddites-n2681779",
+            "outlet": "Townhall"
+          },
+          {
+            "url": "https://www.dailywire.com/news/communist-lobbying-sheehy-blasts-left-wing-push-to-kill-data-centers",
+            "outlet": "Daily Wire"
+          },
+          {
+            "url": "https://www.mtpr.org/podcast/campaign-beat/2026-09-18/ai-enters-the-chat-poll-results-reveal-surprises-new-ads-probably-sound-familiar",
+            "outlet": "Montana Public Radio"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

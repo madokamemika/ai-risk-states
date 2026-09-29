@@ -1,0 +1,32 @@
+{
+  "id": "sarah-vance",
+  "name": "Sarah Vance",
+  "office": "Alaska State Representative",
+  "office_type": "state_rep",
+  "state": "AK",
+  "party": "R",
+  "committees": [],
+  "stance": "Sponsors limits on AI-generated sexual imagery and minors' social media use (adjacent, not frontier risk).",
+  "statements": [
+    {
+      "date": "2026-02-27",
+      "arena": "state",
+      "kind": "action",
+      "text": "Sponsored HB 47, criminalizing AI-generated child sexual abuse material and nonconsensual deepfakes and restricting minors' social media use; it passed the House unanimously.",
+      "target": null,
+      "joint": null,
+      "source": "https://alaskapublic.org/news/politics/alaska-legislature/2026-02-27/alaska-house-passes-bill-limiting-ai-sexual-imagery-and-child-social-media-use",
+      "outlet": "Alaska Public Media"
+    }
+  ],
+  "photo": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sarah_Vance_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sarah_Vance_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "AKSenMajority"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

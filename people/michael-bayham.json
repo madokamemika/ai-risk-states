@@ -1,0 +1,26 @@
+{
+  "id": "michael-bayham",
+  "name": "Michael Bayham",
+  "office": "Louisiana State Representative",
+  "office_type": "state_rep",
+  "state": "LA",
+  "party": "R",
+  "committees": [],
+  "stance": "Kept pressing AI bills despite the federal funding threat.",
+  "statements": [
+    {
+      "date": "2026-04-01",
+      "arena": "state",
+      "kind": "quote",
+      "text": "Eventually, there is going to be AI regulation enacted into statute. The question is when.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.wwno.org/coastal-desk/2026-04-01/louisiana-scraps-some-but-not-all-ai-proposals-after-trump-threats",
+      "outlet": "WWNO / Louisiana Illuminator"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

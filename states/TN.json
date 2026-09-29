@@ -1,0 +1,137 @@
+{
+  "code": "TN",
+  "xrisk": "adjacent",
+  "summary": "Tennessee enacted SB 1580 (AI cannot be marketed as a mental health professional) and SB 1493, cut down from a felony ban on companion chatbots to a TACIR study of AI safety and regulation due January 2027. Its AG led the 44-AG child-safety letter; nothing enacted on frontier or catastrophic risk.",
+  "items": [
+    {
+      "date": "2026-05-27",
+      "type": "law",
+      "title": "SB 1493 / HB 1455 — AI study (Public Chapter 1066)",
+      "status": "signed",
+      "text": "Originally a felony for training human-simulating companion AI; enacted as a TACIR study of AI systems, safety and state protections due January 31, 2027.",
+      "source": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1493&ga=114",
+      "people": [
+        "becky-massey",
+        "bill-lee"
+      ]
+    },
+    {
+      "date": "2026-04-06",
+      "type": "law",
+      "title": "SB 1580 / HB 1470 — AI and mental health representation (Public Chapter 647)",
+      "status": "signed",
+      "text": "Bars developers and deployers from representing an AI system as a qualified mental health professional; effective July 1, 2026.",
+      "source": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1580&ga=114",
+      "people": [
+        "page-walley",
+        "bill-lee"
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "type": "letter",
+      "title": "44-AG letter to AI companies on child safety",
+      "status": "filed",
+      "text": "Led by Skrmetti with NC, SC and IL attorneys general.",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-state-attorneys-general-issues-letter-to-ai-industry-leaders-on-child-safety/",
+      "people": [
+        "jonathan-skrmetti"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Memphis hosts xAI's Colossus supercomputers, and the fight over their gas turbines has made Tennessee a test of who pays for AI power and pollution.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Bill Lee set aside $50 million in his February 2026 State of the State address to continue Tennessee's push on AI adoption. He signed HB 1847/SB 2128, effective May 7, 2026, which requires data centers with at least 50 MW of peak demand to pay the full cost of the electrical infrastructure serving them and bars utilities from raising other customers' rates for it. In July 2026 Lee signed on to the federal ratepayer protection pledge with TVA.",
+        "sources": [
+          {
+            "url": "https://www.tn.gov/governor/news/2026/2/2/gov-lee-delivers-2026-state-of-the-state-address.html",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://www.wkrn.com/news/tennessee-politics/new-data-center-electricity-infrastructure-law/",
+            "outlet": "WKRN"
+          },
+          {
+            "url": "https://tennesseelookout.com/2026/07/27/lee-signs-onto-trump-data-center-cost-protection-pledge-as-local-communities-push-for-regulation/",
+            "outlet": "Tennessee Lookout"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "xAI runs Colossus in a former Electrolux factory in Memphis and Colossus 2 on Tulane Road, with a third site across the state line in Southaven, Mississippi. The Shelby County Health Department permitted 15 gas turbines producing 247.2 MW at the South Memphis site through January 1, 2027.",
+        "sources": [
+          {
+            "url": "https://x.ai/memphis",
+            "outlet": "xAI"
+          },
+          {
+            "url": "https://www.datacenterdynamics.com/en/news/elon-musk-xai-gas-turbines-memphis/",
+            "outlet": "DatacenterDynamics"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "The Southern Environmental Law Center, for the NAACP and Young, Gifted & Green, appealed the county's xAI air permit over dozens of unpermitted turbines. In June 2026 the U.S. Justice Department asked a court to dismiss the NAACP's Clean Air Act suit against xAI, citing national security. Nearby residents filed a noise class action. On August 18, 2026 the Memphis City Council passed the first reading of a 12-month pause on new data centers; final vote October 6.",
+        "sources": [
+          {
+            "url": "https://www.selc.org/press-release/groups-appeal-permit-for-xais-south-memphis-data-center-decisions-around-unpermitted-methane-gas-turbines/",
+            "outlet": "Southern Environmental Law Center"
+          },
+          {
+            "url": "https://www.utilitydive.com/news/doj-intervenes-xai-data-center-gas-turbine-lawsuit/823267/",
+            "outlet": "Utility Dive"
+          },
+          {
+            "url": "https://www.actionnews5.com/2026/08/18/memphis-city-council-committee-advances-data-center-moratorium-proposal/",
+            "outlet": "Action News 5"
+          },
+          {
+            "url": "https://wpln.org/post/tennessee-communities-are-blocking-data-centers-nashville-could-be-next/",
+            "outlet": "WPLN"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Vanderbilt University opened the Amplify Generative AI Innovation Center in its College of Connected Computing in February 2026, after making ChatGPT Edu available to all students and staff in January, and is launching an online Master of Science in AI.",
+        "sources": [
+          {
+            "url": "https://news.vanderbilt.edu/2026/02/02/vanderbilt-launches-amplify-generative-ai-innovation-center-within-college-of-connected-computing/",
+            "outlet": "Vanderbilt University"
+          },
+          {
+            "url": "https://news.vanderbilt.edu/2026/01/12/vanderbilt-expands-multi-tool-ai-strategy-with-chatgpt-edu-amplify-2-0-and-more/",
+            "outlet": "Vanderbilt University"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Marsha Blackburn voted against the state AI-law moratorium in 2025. In March 2026 she released a draft national AI framework that would preempt state law, except state laws giving minors greater protection. In June and July 2026 she negotiated with the White House over narrow preemption in exchange for children's-safety bills such as KOSA and the NO FAKES Act, and pitched it to President Trump in the Oval Office.",
+        "sources": [
+          {
+            "url": "https://www.blackburn.senate.gov/2026/3/technology/blackburn-releases-discussion-draft-of-national-policy-framework-for-artificial-intelligence/3b3b6458-b6c7-478b-9859-374949586765",
+            "outlet": "Sen. Blackburn's office"
+          },
+          {
+            "url": "https://www.globalpolicywatch.com/2026/03/white-house-blackburn-introduce-visions-of-comprehensive-federal-ai-policy/",
+            "outlet": "Global Policy Watch (Covington)"
+          },
+          {
+            "url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/07/21/ai-tech-brief-blackburns-ai-meeting-oval-office/",
+            "outlet": "Washington Post"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

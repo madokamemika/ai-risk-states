@@ -1,0 +1,82 @@
+{
+  "id": "donald-trump",
+  "name": "Donald Trump",
+  "office": "President of the United States",
+  "office_type": "federal_exec",
+  "state": null,
+  "party": "R",
+  "committees": [],
+  "stance": "Wants one light-touch federal AI standard that preempts state AI laws, rejects catastrophic-risk warnings as a hoax, while backing voluntary pre-release security review of the most capable frontier models.",
+  "statements": [
+    {
+      "date": "2025-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "The White House released America's AI Action Plan, which says federal AI funding should not go to states with burdensome AI regulations and tasks OMB with weighing state regulatory climates in funding decisions.",
+      "target": null,
+      "joint": "ai-action-plan-2025",
+      "source": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf",
+      "outlet": "The White House"
+    },
+    {
+      "date": "2025-11-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We MUST have one Federal Standard instead of a patchwork of 50 State Regulatory Regimes.",
+      "target": "Congress",
+      "joint": null,
+      "source": "https://www.foxnews.com/politics/trump-calls-federal-ai-standards-end-state-patchwork-regulations-threatening-economic-growth",
+      "outlet": "Fox News"
+    },
+    {
+      "date": "2025-12-11",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Signed Executive Order 14365, directing an AI Litigation Task Force at DOJ to challenge state AI laws, a Commerce list of onerous state laws, BEAD non-deployment funding conditions, and a legislative recommendation for preemption with a child-safety carve-out.",
+      "target": null,
+      "joint": "eo-14365-state-ai-laws",
+      "source": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
+      "outlet": "The White House"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Signed the executive order Promoting Advanced Artificial Intelligence Innovation and Security, creating a classified benchmark for covered frontier models with advanced cyber capabilities and a voluntary government review up to 30 days before release, expressly without a licensing requirement.",
+      "target": null,
+      "joint": "eo-frontier-ai-security-2026",
+      "source": "https://www.skadden.com/insights/publications/2026/06/new-ai-executive-order",
+      "outlet": "Skadden"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI taking over the World, destroying Humanity, and all other things bad, is a HOAX.",
+      "target": null,
+      "joint": null,
+      "source": "https://reason.com/2026/09/15/hoax/",
+      "outlet": "Reason"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "At the UN General Assembly, called proposals for international AI oversight a globalist scheme and said he would not stifle the industry's growth.",
+      "target": "UN member states",
+      "joint": null,
+      "source": "https://fortune.com/2026/09/23/trump-un-ai-globalist-scheme-altman-amodei-security-council/",
+      "outlet": "Fortune"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/250px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+    "license": "Public domain",
+    "artist": "Daniel Torok"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

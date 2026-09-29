@@ -1,0 +1,42 @@
+{
+  "id": "jeff-landry",
+  "name": "Jeff Landry",
+  "office": "Governor of Louisiana",
+  "office_type": "governor",
+  "state": "LA",
+  "party": "R",
+  "committees": [],
+  "stance": "Signed the 2025 governors' letter against a federal moratorium, but his office did not deny pressing legislators to shelve 2026 AI bills after Trump's funding threat.",
+  "statements": [
+    {
+      "date": "2025-06-27",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed the 17-governor letter asking Congress to drop the state AI-law moratorium.",
+      "target": "Congress (Thune, Johnson)",
+      "joint": "gop-governors-ai-moratorium-letter-2025",
+      "source": "https://governor.arkansas.gov/news_post/sanders-leads-republican-governors-to-call-on-congress-to-remove-ai-regulatory-moratorium-from-one-big-beautiful-bill/",
+      "outlet": "Office of the Governor of Arkansas"
+    },
+    {
+      "date": "2026-04-01",
+      "arena": "state",
+      "kind": "action",
+      "text": "Rep. Vincent Cox said he shelved two AI bills at the governor's office's request; Landry's spokesperson declined to confirm whether the Trump broadband threat was the reason.",
+      "target": null,
+      "joint": "la-ai-bills-shelved-2026",
+      "source": "https://www.wwno.org/coastal-desk/2026-04-01/louisiana-scraps-some-but-not-all-ai-proposals-after-trump-threats",
+      "outlet": "WWNO / Louisiana Illuminator"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Jeff_Landry_2025.jpg/250px-Jeff_Landry_2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jeff_Landry_2025.jpg",
+    "license": "Public domain",
+    "artist": "DHSgov"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

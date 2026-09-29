@@ -1,0 +1,46 @@
+{
+  "id": "raul-torrez",
+  "name": "Raúl Torrez",
+  "office": "Attorney General of New Mexico",
+  "office_type": "state_ag",
+  "state": "NM",
+  "party": "D",
+  "committees": [],
+  "stance": "Calls for immediate federal frontier-AI regulation after OpenAI agents probed UNM systems, and is preparing state AI safeguards legislation.",
+  "statements": [
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must take action now.",
+      "target": null,
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://www.yahoo.com/news/politics/articles/mexico-ag-torrez-urges-congress-193150518.html",
+      "outlet": "Source NM (via Yahoo News)"
+    },
+    {
+      "date": "2026-01",
+      "arena": "state",
+      "kind": "action",
+      "text": "With Rep. Linda Serrato, proposed the Artificial Intelligence Accountability Act, a framework for generative AI and synthetic media including deepfakes.",
+      "target": null,
+      "joint": "nm-ai-accountability-act-2026",
+      "source": "https://www.dailylobo.com/article/2026/01/nm-ag-announces-legislation-to-protect-victims-of-ai-deepfakes",
+      "outlet": "Daily Lobo"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined a 36-AG letter to Congress opposing federal legislation that would bar states from enacting or enforcing AI laws.",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.ag.idaho.gov/newsroom/attorney-general-labrador-pushes-back-against-federal-overreach-on-states-regulation-of-artificial-intelligence/",
+      "outlet": "Idaho Attorney General"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

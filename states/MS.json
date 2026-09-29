@@ -1,0 +1,113 @@
+{
+  "code": "MS",
+  "xrisk": "none",
+  "summary": "Nothing on frontier or catastrophic AI risk. The nearest activity is the governor's May 2026 Statewide AI Framework (AI literacy and workforce skills), a legislative AI regulation task force created in 2025, and the AG signing the 44-AG child-safety letter.",
+  "items": [
+    {
+      "date": "2026-05-21",
+      "type": "executive_order",
+      "title": "Mississippi Statewide AI Framework",
+      "status": "in_force",
+      "text": "A non-binding guide to AI skills from K-12 through workforce training.",
+      "source": "https://governorreeves.ms.gov/governor-reeves-announces-launch-of-mississippi-statewide-ai-framework/",
+      "people": [
+        "tate-reeves"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Mississippi has taken in more than $40 billion of AI data-center pledges from Amazon and xAI, and the governor has sided with xAI in court over its gas turbines.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Tate Reeves signed the state's first AI executive order in January 2025, directing an inventory and policies for AI use in agencies. In June 2025 Mississippi signed an agreement with NVIDIA on AI training and research across its colleges. Reeves released a Statewide AI Framework in May 2026. He joined the Justice Department in asking a court to dismiss the NAACP's suit over xAI's Southaven turbines, arguing that stopping them would threaten national security.",
+        "sources": [
+          {
+            "url": "https://governorreeves.ms.gov/governor-reeves-issues-executive-order-to-foster-stakeholder-collaboration-and-harness-artificial-intelligence-ai/",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://governorreeves.ms.gov/state-of-mississippi-to-advance-artificial-intelligence-education-innovation-and-workforce-development-with-nvidia/",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://mississippitoday.org/2026/05/25/artificial-intelligence-mississippi-ai/",
+            "outlet": "Mississippi Today"
+          },
+          {
+            "url": "https://mississippitoday.org/2026/06/16/department-of-justice-elon-musk-mississippi/",
+            "outlet": "Mississippi Today"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "xAI announced on January 8, 2026 an investment of more than $20 billion in a Southaven data center, the largest private investment in state history, bringing its computing to nearly 2 gigawatts. It qualified for a state sales-tax exemption on computing equipment. Amazon Web Services is building a $10 billion data-center campus in Madison County, plus a planned $11 billion expansion there.",
+        "sources": [
+          {
+            "url": "https://governorreeves.ms.gov/tech-leader-xai-investing-more-than-20-billion-in-southaven/",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://governorreeves.ms.gov/amazon-continues-mississippi-expansion-announcing-plans-to-invest-a-total-of-25-billion-across-the-magnolia-state/",
+            "outlet": "Governor's office"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "About 200 Southaven residents attended a February 17, 2026 hearing opposing xAI's power plant. A petition to shut it down drew more than 900 signatures, over noise and emissions. The state Department of Environmental Quality approved a permit for 41 permanent turbines in March 2026. On April 9, 2026 the NAACP sued xAI under the Clean Air Act for running 27 turbines before they had a permit.",
+        "sources": [
+          {
+            "url": "https://www.mississippifreepress.org/xai-faces-fierce-opposition-over-southaven-mississippi-power-plant-permit/",
+            "outlet": "Mississippi Free Press"
+          },
+          {
+            "url": "https://naacp.org/articles/naacp-sues-xai-illegal-pollution-data-center-power-plant",
+            "outlet": "NAACP"
+          },
+          {
+            "url": "https://www.wsmv.com/2026/04/14/naacp-sues-xai-alleging-unlawful-operation-gas-turbines-southaven/",
+            "outlet": "WSMV"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The state's NVIDIA agreement runs through the Mississippi Artificial Intelligence Network (MAIN), bringing AI programs to community colleges and universities, with a goal of training at least 10,000 Mississippians. In April 2026 Alcorn State described itself as the first HBCU to fully implement AI through a partnership.",
+        "sources": [
+          {
+            "url": "https://www.govtech.com/artificial-intelligence/mississippis-ai-ambitions-take-shape-with-nvidia-partnership",
+            "outlet": "GovTech"
+          },
+          {
+            "url": "https://www.wlbt.com/2026/04/08/alcorn-state-becomes-first-hbcu-fully-implement-ai-through-partnership/",
+            "outlet": "WLBT"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "In July 2025 Sens. Roger Wicker and Cindy Hyde-Smith were part of the 99-1 Senate vote that removed a 10-year moratorium on state AI laws from the budget bill. In December 2025 Wicker, as Senate Armed Services chairman, released the final FY2026 defense bill text, which left out federal preemption of state AI laws. In March 2026 Wicker and Sen. Peter Welch introduced the Research and Oversight of AI in Courts Act, creating a 15-member task force to study AI speech-to-text in federal courts. No statements on AI risk were found from Reps. Thompson, Guest, Ezell or Kelly.",
+        "sources": [
+          {
+            "url": "https://time.com/7299044/senators-reject-10-year-ban-on-state-level-ai-regulation-in-blow-to-big-tech/",
+            "outlet": "TIME"
+          },
+          {
+            "url": "https://ari.us/ai-law-preemption-dropped-from-ndaa/",
+            "outlet": "Americans for Responsible Innovation"
+          },
+          {
+            "url": "https://www.welch.senate.gov/wicker-welch-hageman-introduce-bipartisan-bill-to-examine-use-of-ai-speech-to-text-technologies-in-federal-courts/",
+            "outlet": "Office of Sen. Peter Welch"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

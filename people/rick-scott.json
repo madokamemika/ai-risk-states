@@ -1,0 +1,28 @@
+{
+  "id": "rick-scott",
+  "name": "Rick Scott",
+  "office": "U.S. Senator from Florida",
+  "office_type": "us_senator",
+  "state": "FL",
+  "party": "R",
+  "committees": [
+    "Senate Special Committee on Aging"
+  ],
+  "stance": "Says frontier AI companies should slow down now, citing their own warnings that the technology could kill mankind.",
+  "statements": [
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "These companies have said what they are building could kill mankind. Seems pretty obvious they need to slow down now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenRickScott/status/2099557655127756985",
+      "outlet": "X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

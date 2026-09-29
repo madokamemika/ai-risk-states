@@ -1,0 +1,32 @@
+{
+  "id": "kim-reynolds",
+  "name": "Kim Reynolds",
+  "office": "Governor of Iowa",
+  "office_type": "governor",
+  "state": "IA",
+  "party": "R",
+  "committees": [],
+  "stance": "Signed Iowa’s conversational-AI safety law for minors.",
+  "statements": [
+    {
+      "date": "2026-05",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed SF 2417, requiring chatbots to disclose they are not human to minors and adopt self-harm protocols.",
+      "target": null,
+      "joint": "ia-sf2417",
+      "source": "https://privacy-daily.com/article/2026/05/05/iowa-governor-signs-chatbots-bill-2605050045",
+      "outlet": "Privacy Daily"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Kim_Reynolds_-_Official_Portrait_-_83rd_GA.jpg/250px-Kim_Reynolds_-_Official_Portrait_-_83rd_GA.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kim_Reynolds_-_Official_Portrait_-_83rd_GA.jpg",
+    "license": "Copyrighted free use",
+    "artist": "Iowa General Assembly"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

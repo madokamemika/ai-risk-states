@@ -1,0 +1,52 @@
+{
+  "id": "jb-pritzker",
+  "name": "JB Pritzker",
+  "office": "Governor of Illinois",
+  "office_type": "governor",
+  "state": "IL",
+  "party": "D",
+  "committees": [],
+  "stance": "Signed a frontier-model catastrophic-risk law (SB 315) and argues states must act because Congress will not.",
+  "statements": [
+    {
+      "date": "2026-07-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress and the president ought to be passing similar legislation, but they've so far been unwilling, because many are captive to special interests that profit from the industry having no regulation",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolnewsillinois.com/news/pritzker-signs-landmark-ai-regulation-bill-that-aims-to-mitigate-risks/",
+      "outlet": "Capitol News Illinois"
+    },
+    {
+      "date": "2026-07-06",
+      "arena": "state",
+      "kind": "quote",
+      "text": "People want protections from the risks of AI and Illinois is stepping up with a bipartisan, first- and most-protective-in-the-nation law.",
+      "target": null,
+      "joint": "il-sb315",
+      "source": "https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law",
+      "outlet": "Office of the Governor (Illinois)"
+    },
+    {
+      "date": "2025-08-01",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed HB 1806, the Wellness and Oversight for Psychological Resources Act, barring AI from providing therapy or therapeutic decision-making in Illinois.",
+      "target": null,
+      "joint": null,
+      "source": "https://idfpr.illinois.gov/news/2025/gov-pritzker-signs-state-leg-prohibiting-ai-therapy-in-il.html",
+      "outlet": "Illinois Department of Financial and Professional Regulation"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/J.B._Pritzker_April_2023.jpg/250px-J.B._Pritzker_April_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:J.B._Pritzker_April_2023.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Maryland GovPics"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

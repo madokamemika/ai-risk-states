@@ -1,0 +1,21 @@
+name: check
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install jsonschema
+      - run: python3 -m tools.validate
+      - run: python3 -m tools.build --check
+      - name: Quotes in changed files appear verbatim at their sources
+        if: github.event_name == 'pull_request'
+        run: |
+          files=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- people/)
+          [ -z "$files" ] && echo "no people files changed" || python3 -m tools.check_quotes $files

@@ -1,0 +1,127 @@
+{
+  "code": "ID",
+  "xrisk": "direct",
+  "summary": "AG Labrador co-signed the August 2026 Republican AG demand that OpenAI preserve evidence and halt risky exploitation testing after its agent escaped containment, and opposes federal bans on state AI laws; Idaho's own 2026 AI law is about K-12 education.",
+  "items": [
+    {
+      "date": "2025-11-25",
+      "type": "letter",
+      "title": "36-AG letter opposing federal preemption of state AI laws",
+      "status": "filed",
+      "text": "Labrador and 35 AGs urged Congress not to ban state AI laws.",
+      "source": "https://www.ag.idaho.gov/newsroom/attorney-general-labrador-pushes-back-against-federal-overreach-on-states-regulation-of-artificial-intelligence/",
+      "people": [
+        "raul-labrador"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "type": "law",
+      "title": "SB 1227 — generative AI in K-12 education",
+      "status": "signed",
+      "text": "Directs a statewide framework for classroom use of generative AI.",
+      "source": "https://www.idahoednews.org/news/the-genies-out-of-the-bottle-little-signs-artificial-intelligence-education-bill/",
+      "people": [
+        "brad-little"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "type": "letter",
+      "title": "Republican AGs' preservation demand to OpenAI",
+      "status": "filed",
+      "text": "Labrador co-signed the demand after OpenAI's agent breached Hugging Face.",
+      "source": "https://www.iowaattorneygeneral.gov/media/cms/08_5392C9E17791C.pdf",
+      "people": [
+        "raul-labrador"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Idaho has one of Meta's AI data centers running, and a plan to build a far larger one on public land outside Boise is drawing opposition.",
+    "sections": [
+      {
+        "topic": "compute",
+        "text": "Meta's Kuna data center, a $1.2 billion investment and the company's second AI-optimized facility, began serving traffic in September 2026. Rhea Data, a Nevada company, has applied to build a 4-million-square-foot, 600 MW data center and a roughly 450 MW gas plant on up to 3,700 acres of BLM land south of Boise; an environmental impact study is under way (September 2026).",
+        "sources": [
+          {
+            "url": "https://datacenters.atmeta.com/2026/09/kuna-we-are-online/",
+            "outlet": "Meta"
+          },
+          {
+            "url": "https://www.boisestatepublicradio.org/politics-government/2026-09-21/idaho-data-center-blacks-creek-blm",
+            "outlet": "Boise State Public Radio"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "In September 2026 Boise Mayor Lauren McLean called public-land sales for mega data centers \"shortsighted\" and asked for a state framework. The Idaho Sierra Club called the Blacks Creek plan \"unacceptable\".",
+        "sources": [
+          {
+            "url": "https://www.spokesman.com/stories/2026/sep/23/boise-mayor-blasts-shortsighted-push-for-mega-data/",
+            "outlet": "Spokesman-Review"
+          },
+          {
+            "url": "https://www.idahopress.com/news/local/proposal-for-mega-data-center-draws-ire-from-boise-officials/article_d36d26cd-8832-4947-a356-44ff9cf7d6b0.html",
+            "outlet": "Idaho Press"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The University of Idaho offers bachelor's and master's degrees in AI from fall 2026; Boise State launched an AI major in 2025. The Lemhi supercomputer, shared by Idaho National Laboratory and the state's research universities, supports AI and energy research, and Boise State is to take over its operation in late 2026.",
+        "sources": [
+          {
+            "url": "https://www.uidaho.edu/newsroom/ai-degrees",
+            "outlet": "University of Idaho"
+          },
+          {
+            "url": "https://www.boisestate.edu/news/2026/02/24/lemhi-supercomputer-expands-idaho-research-capacity/",
+            "outlet": "Boise State University"
+          }
+        ]
+      },
+      {
+        "topic": "state_push",
+        "text": "Gov. Brad Little's January 2025 SPEED Act executive order set up a council to speed state permits for large projects, naming data centers among them. In 2026 he signed SB 1227, requiring a statewide framework for generative AI in K-12 schools from July 1, 2026. In March 2026 Little and Superintendent Debbie Critchfield announced an AI education partnership with Idaho National Laboratory, Microsoft, Micron and others; Micron pledged to reach 40,000 learners and educators by 2029.",
+        "sources": [
+          {
+            "url": "https://capitalpress.com/2025/01/30/idaho-executive-order-streamlines-energy-permitting/",
+            "outlet": "Capital Press"
+          },
+          {
+            "url": "https://www.krem.com/article/news/local/idaho/idaho-governor-law-ai-literacy-standards-k-12-schools/293-14dbdea5-11fd-48ad-abdc-01e7967e7019",
+            "outlet": "KREM"
+          },
+          {
+            "url": "https://www.sde.idaho.gov/wp-content/uploads/2026/03/03-26-2026-Governor-Little-and-Superintendent-Critchfield-Announce-First-of-its-Kind-Public-Private-Partnership-for-Artificial-Intelligence-Education.pdf",
+            "outlet": "Idaho Department of Education"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "The delegation's public AI statements are few and promotional. Rep. Mike Simpson posted in September 2025 that Idaho National Laboratory would play a critical role in the global AI race, as DOE sought AI data center proposals on INL land. In July 2026 Sens. Crapo and Risch and Reps. Simpson and Fulcher put a Micron AI memory chip in the national time capsule. None of Crapo, Risch or Fulcher answered press questions on a proposed data center on BLM land near Boise (September 2026).",
+        "sources": [
+          {
+            "url": "https://www.mtexpress.com/news/state_regional/department-of-energy-issues-formal-request-for-arco-area-data-center-proposals/article_f0977a1b-f287-4d00-810c-848d7903995e.html",
+            "outlet": "Idaho Mountain Express"
+          },
+          {
+            "url": "https://www.crapo.senate.gov/media/newsreleases/idaho-delegation-submits-time-capsule-items-for-americas-250th-anniversary",
+            "outlet": "Office of Sen. Crapo"
+          },
+          {
+            "url": "https://www.boisestatepublicradio.org/politics-government/2026-09-21/idaho-data-center-blacks-creek-blm",
+            "outlet": "Boise State Public Radio"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

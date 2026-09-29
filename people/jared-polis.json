@@ -1,0 +1,52 @@
+{
+  "id": "jared-polis",
+  "name": "Jared Polis",
+  "office": "Governor of Colorado",
+  "office_type": "governor",
+  "state": "CO",
+  "party": "D",
+  "committees": [],
+  "stance": "Signed and then narrowed Colorado's algorithmic-discrimination AI law, and supports federal preemption of state AI laws for several years in favor of a national framework.",
+  "statements": [
+    {
+      "date": "2025-05-22",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Through a spokeswoman, backed a federal moratorium preempting state AI laws for several years so Congress can create a 50-state solution, while preferring a period shorter than ten years.",
+      "target": "Congress",
+      "joint": null,
+      "source": "https://www.cpr.org/2025/05/22/trump-congress-big-beautiful-bill-colorado-ai-law/",
+      "outlet": "Colorado Public Radio"
+    },
+    {
+      "date": "2025-08",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed SB 25B-004 in a special session, delaying the Colorado AI Act's effective date from February 1 to June 30, 2026.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.bakerbotts.com/thought-leadership/publications/2025/september/colorado-ai-act-implementation-delayed",
+      "outlet": "Baker Botts"
+    },
+    {
+      "date": "2026-05-14",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed SB 26-189, replacing the 2024 Colorado AI Act with a narrower notice-and-disclosure law for automated decision-making, effective January 1, 2027.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hklaw.com/en/insights/publications/2026/05/colorado-governor-signs-sb-189",
+      "outlet": "Holland & Knight"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Jared_Polis_Official_2012.jpg/250px-Jared_Polis_Official_2012.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jared_Polis_Official_2012.jpg",
+    "license": "Public domain",
+    "artist": "Office of Congressman Jared Polis"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

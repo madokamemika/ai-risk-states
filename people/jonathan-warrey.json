@@ -1,0 +1,38 @@
+{
+  "id": "jonathan-warrey",
+  "name": "Jonathan Warrey",
+  "office": "North Dakota State Representative",
+  "office_type": "state_rep",
+  "state": "ND",
+  "party": "R",
+  "committees": [
+    "Legislative Management Artificial Intelligence and Data Center Committee (chairman)"
+  ],
+  "stance": "Chairs an interim study that includes federal preemption and a possible statutory ban on AI showing signs of exceeding human control.",
+  "statements": [
+    {
+      "date": "2025-04-11",
+      "arena": "state",
+      "kind": "action",
+      "text": "Prime sponsor of HB 1167 requiring AI disclosure statements on political content, signed by the governor.",
+      "target": null,
+      "joint": null,
+      "source": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1167.html",
+      "outlet": "North Dakota Legislative Branch"
+    },
+    {
+      "date": "2026-07-15",
+      "arena": "state",
+      "kind": "action",
+      "text": "Chairs the interim AI committee whose assignment includes reviewing federal preemption attempts and considering a statutory prohibition of AI designed to or showing signs of exceeding human control.",
+      "target": null,
+      "joint": null,
+      "source": "https://ndlegis.gov/assembly/69-2025/committees/interim/artificial-intelligence-and-data-center-committee",
+      "outlet": "North Dakota Legislative Branch"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ed-markey",
+  "name": "Ed Markey",
+  "office": "U.S. Senator from Massachusetts",
+  "office_type": "us_senator",
+  "state": "MA",
+  "party": "D",
+  "committees": [
+    "Senate Commerce, Science, and Transportation"
+  ],
+  "stance": "Opposes preempting state AI laws and wants independent federal investigation of AI-enabled cyber incidents.",
+  "statements": [
+    {
+      "date": "2025-07-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This 99-1 vote sent a clear message that Congress will not sell out our kids and local communities in order to pad the pockets of Big Tech billionaires.",
+      "target": null,
+      "joint": "moratorium-strike-amendment-2025",
+      "source": "https://www.nextgov.com/artificial-intelligence/2025/07/senate-overwhelmingly-passes-amendment-removing-state-ai-moratorium/406448/",
+      "outlet": "Nextgov/FCW"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the Cybersecurity and AI Board of Investigations Act, an NTSB-style board to investigate major cyber incidents including those carried out by AI agents, prompted by the Hugging Face breach.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.markey.senate.gov/news/press-releases/as-ai-agents-carry-out-attacks-senator-markey-introduces-legislation-establishing-independent-body-to-investigate-cyber-hacks-assisted-by-artificial-intelligence",
+      "outlet": "Office of Sen. Markey"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Building stronger defenses requires a full accounting of what goes wrong, and we cannot depend on companies with little incentive to disclose their failures to give us one.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.markey.senate.gov/news/press-releases/as-ai-agents-carry-out-attacks-senator-markey-introduces-legislation-establishing-independent-body-to-investigate-cyber-hacks-assisted-by-artificial-intelligence",
+      "outlet": "Office of Sen. Markey"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Ed_Markey%2C_Official_Portrait%2C_112th_Congress_2.jpg/250px-Ed_Markey%2C_Official_Portrait%2C_112th_Congress_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ed_Markey,_Official_Portrait,_112th_Congress_2.jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

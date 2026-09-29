@@ -1,0 +1,32 @@
+{
+  "id": "raj-mukherji",
+  "name": "Raj Mukherji",
+  "office": "New Jersey State Senator",
+  "office_type": "state_senator",
+  "state": "NJ",
+  "party": "D",
+  "committees": [],
+  "stance": "Sponsor of a New Jersey bill requiring large frontier developers to file catastrophic-risk disclosures with the Attorney General.",
+  "statements": [
+    {
+      "date": "2026-06-11",
+      "arena": "state",
+      "kind": "action",
+      "text": "Introduced S4446, requiring large frontier developers to file annual catastrophic-risk management and pre-deployment model risk disclosures with the Attorney General, with $100,000 penalties per violation.",
+      "target": null,
+      "joint": null,
+      "source": "https://pub.njleg.gov/Bills/2026/S4500/4446_I1.HTM",
+      "outlet": "New Jersey Legislature"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/207-DP-10267B_20121116-20121201-SOHUD-NY-Trip102_Raj_Mukherji.jpg/250px-207-DP-10267B_20121116-20121201-SOHUD-NY-Trip102_Raj_Mukherji.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:207-DP-10267B_20121116-20121201-SOHUD-NY-Trip102_Raj_Mukherji.jpg",
+    "license": "Public domain",
+    "artist": "Department of Housing and Urban Development"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

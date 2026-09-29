@@ -1,0 +1,42 @@
+{
+  "id": "james-lankford",
+  "name": "James Lankford",
+  "office": "U.S. Senator from Oklahoma",
+  "office_type": "us_senator",
+  "state": "OK",
+  "party": "R",
+  "committees": [],
+  "stance": "Wants mandatory public disclosure of AI model capabilities and safeguards, including against autonomous loss of control, enforced by the FTC.",
+  "statements": [
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced the bipartisan AI Systems Transparency Act, requiring AI companies to disclose data practices and safeguards for child safety, cybersecurity, disaster risk and autonomous loss of control.",
+      "target": null,
+      "joint": "ai-systems-transparency-act",
+      "source": "https://www.coons.senate.gov/news/press-releases/senators-coons-britt-schatz-and-lankford-introduce-bipartisan-ai-safety-and-transparency-legislation",
+      "outlet": "Office of Sen. Coons"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trust has to be earned, and right now families are being asked to trust AI companies with very little information.",
+      "target": null,
+      "joint": "ai-systems-transparency-act",
+      "source": "https://www.coons.senate.gov/news/press-releases/senators-coons-britt-schatz-and-lankford-introduce-bipartisan-ai-safety-and-transparency-legislation",
+      "outlet": "Office of Sen. Coons"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/James_Lankford%2C_Official_Portrait%2C_112th_Congress.jpg/250px-James_Lankford%2C_Official_Portrait%2C_112th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:James_Lankford,_Official_Portrait,_112th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "US House of Representatives"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

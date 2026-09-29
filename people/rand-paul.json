@@ -1,0 +1,44 @@
+{
+  "id": "rand-paul",
+  "name": "Rand Paul",
+  "office": "U.S. Senator from Kentucky",
+  "office_type": "us_senator",
+  "state": "KY",
+  "party": "R",
+  "committees": [
+    "Senate Homeland Security and Governmental Affairs (chair)"
+  ],
+  "stance": "Opposes broad AI mandates before Congress understands the technology; offered a bipartisan study committee on superintelligent AI instead of a kill-switch requirement.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Objected to unanimous consent for Sen. Kennedy's AI Emergency Button Act and proposed instead a bipartisan committee to study the threat posed by superintelligent AI.",
+      "target": null,
+      "joint": "ai-emergency-button-act",
+      "source": "https://www.kennedy.senate.gov/2026/09/16/senate-blocks-kennedy-bill-to-require-ai-developers-to-install-an-emergency-kill-switch/",
+      "outlet": "Office of Sen. Kennedy"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Are they going to have to redesign all search engines immediately if this passes and put kill switches in your search engine?",
+      "target": null,
+      "joint": "ai-emergency-button-act",
+      "source": "http://www.washingtonexaminer.com/news/senate/4730945/gop-ai-kill-switch-bill-killed-by-rand-paul/",
+      "outlet": "Washington Examiner"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Rand_Paul_Portrait.jpg/250px-Rand_Paul_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rand_Paul_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "US Senate Photography Office"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

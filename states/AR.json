@@ -1,0 +1,113 @@
+{
+  "code": "AR",
+  "xrisk": "adjacent",
+  "summary": "Arkansas's governor led the 2025 Republican governors' revolt against a federal moratorium on state AI laws; the state's own AI laws cover likeness, non-consensual images and AI child-abuse material. Nothing on frontier or catastrophic risk.",
+  "items": [
+    {
+      "date": "2025-06-27",
+      "type": "letter",
+      "title": "Governors' letter against the federal state-AI-law moratorium",
+      "status": "filed",
+      "text": "Sanders led 17 Republican governors asking Congress to remove the moratorium from the reconciliation bill.",
+      "source": "https://governor.arkansas.gov/news_post/sanders-leads-republican-governors-to-call-on-congress-to-remove-ai-regulatory-moratorium-from-one-big-beautiful-bill/",
+      "people": [
+        "sarah-huckabee-sanders"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Arkansas's governor calls data centers the largest investments in state history, while the county around Little Rock has fought over pausing them.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Sarah Huckabee Sanders launched an AI working group in June 2024; its AI and Analytics Center of Excellence delivered recommendations and a state AI use policy in February 2026. Sanders called the $6 billion AVAIO data center in Pulaski County \"the largest investment in Arkansas history\" (January 2026).",
+        "sources": [
+          {
+            "url": "https://governor.arkansas.gov/news_post/governor-sanders-launches-ai-working-group/",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://governor.arkansas.gov/news_post/governor-sanders-receives-report-from-arkansas-ai-and-analytics-center-of-excellence/",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://www.axios.com/local/nw-arkansas/2026/01/12/arkansas-lands-6b-data-center-deal",
+            "outlet": "Axios NW Arkansas"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Google began a $4 billion data center on 1,100 acres outside West Memphis in October 2025, to be spent through 2027 and powered in part by a new 600 MW Entergy Arkansas solar project with 350 MW of storage. AVAIO plans a $6 billion data center in Pulaski County (January 2026), and a $6.6 billion project was proposed in the Arkansas River Valley (July 2026).",
+        "sources": [
+          {
+            "url": "https://arkansasadvocate.com/2025/10/02/google-state-and-local-officials-mark-start-of-4-billion-ai-data-center-in-west-memphis/",
+            "outlet": "Arkansas Advocate"
+          },
+          {
+            "url": "https://www.entergy.com/news/entergy-arkansas-powers-googles-4b-investment-in-the-state",
+            "outlet": "Entergy"
+          },
+          {
+            "url": "https://arkansasadvocate.com/2026/07/20/mixed-opinions-limited-information-about-6-6-billion-data-center-in-arkansas-river-valley/",
+            "outlet": "Arkansas Advocate"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Pulaski County's Quorum Court approved a one-year data-center moratorium in May 2026 with an exemption, amid opposition to the AVAIO project. In September 2026 County Judge Barry Hyde vetoed new data-center rules the court had passed. Carroll County imposed a 12-month pause on June 16, 2026, and Union County a one-year moratorium from July 10, 2026. Little Rock passed its own data-center ordinance in June 2026.",
+        "sources": [
+          {
+            "url": "https://arkansasadvocate.com/2026/05/27/arkansas-most-populous-county-approves-data-center-moratorium-but-with-exemption/",
+            "outlet": "Arkansas Advocate"
+          },
+          {
+            "url": "https://arkansasadvocate.com/2026/09/28/official-vetoes-proposed-new-regulations-on-data-centers-in-arkansas-most-populous-county/",
+            "outlet": "Arkansas Advocate"
+          },
+          {
+            "url": "https://arkansasadvocate.com/2026/06/03/arkansas-largest-city-approves-new-data-center-ordinance/",
+            "outlet": "Arkansas Advocate"
+          },
+          {
+            "url": "https://servercountry.org/policy/arkansas/",
+            "outlet": "Server Country"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "In August 2026 the University of Arkansas, Fayetteville launched the Arkansas Materials Institute, with artificial intelligence among its five research areas. In April 2026 the University of Arkansas at Pine Bluff opened a university-wide Center for Artificial Intelligence and Data Analytics.",
+        "sources": [
+          {
+            "url": "https://www.nwaonline.com/news/2026/aug/20/university-of-arkansas-fayetteville-announces/",
+            "outlet": "Northwest Arkansas Democrat-Gazette"
+          },
+          {
+            "url": "https://jbhe.com/2026/04/univesity-of-arkansas-at-pine-bluff-launches-new-ai-and-data-analytics-center/",
+            "outlet": "Journal of Blacks in Higher Education"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "In January 2026 Sen. Tom Cotton filed the DATA Act, which would let data-center operators build and finance their own off-grid power plants so costs are not passed to residential customers. He said America \"needs data centers to win the AI race against Communist China\" but \"we can't let data centers increase energy prices.\" In June 2026, as chair of the Senate Intelligence Committee, he asked the Justice Department to investigate what he called a Chinese Communist Party-led effort to shape U.S. opinion on data centers.",
+        "sources": [
+          {
+            "url": "https://katv.com/news/local/cotton-introduces-bill-to-shield-arkansans-from-data-center-driven-electric-rate-hi-artificial-intelligence-ai-entergy-senator-tom-cotton-trump-electric-bill-power-plant-google-avaio-little-rock-meta-aws-public-service-commission-danni-hoefer-data-act",
+            "outlet": "KATV"
+          },
+          {
+            "url": "https://www.washingtontimes.com/news/2026/jun/11/senate-intelligence-chairman-seeks-federal-probe-chinese-ai-related/",
+            "outlet": "Washington Times"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

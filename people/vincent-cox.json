@@ -1,0 +1,26 @@
+{
+  "id": "vincent-cox",
+  "name": "Vincent Cox",
+  "office": "Louisiana State Representative",
+  "office_type": "state_rep",
+  "state": "LA",
+  "party": "R",
+  "committees": [],
+  "stance": "Withdrew his AI bills to protect federal broadband funding after the Trump administration threatened states that regulate AI.",
+  "statements": [
+    {
+      "date": "2026-04-01",
+      "arena": "state",
+      "kind": "quote",
+      "text": "As much as I like the bill, rural Louisiana needs that broadband money. I'm not going to jeopardize that.",
+      "target": null,
+      "joint": "la-ai-bills-shelved-2026",
+      "source": "https://www.wwno.org/coastal-desk/2026-04-01/louisiana-scraps-some-but-not-all-ai-proposals-after-trump-threats",
+      "outlet": "WWNO / Louisiana Illuminator"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

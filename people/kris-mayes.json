@@ -1,0 +1,62 @@
+{
+  "id": "kris-mayes",
+  "name": "Kris Mayes",
+  "office": "Attorney General of Arizona",
+  "office_type": "state_ag",
+  "state": "AZ",
+  "party": "D",
+  "committees": [],
+  "stance": "Demands strict, immediate federal oversight of frontier AI and opposes federal preemption of state AI laws.",
+  "statements": [
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "No other industry is allowed to act this recklessly with human safety. Congress must act now.",
+      "target": null,
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://www.azag.gov/press-release/attorney-general-mayes-urges-congress-protect-americans-unchecked-ai-development",
+      "outlet": "Arizona Attorney General"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It is far past time for Congress to act on AI regulation.",
+      "target": null,
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://www.azag.gov/press-release/attorney-general-mayes-urges-congress-protect-americans-unchecked-ai-development",
+      "outlet": "Arizona Attorney General"
+    },
+    {
+      "date": "2026-08-31",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Called for a statewide pause on approving new AI data centers amid water and power constraints.",
+      "target": "Arizona regulators and local governments",
+      "joint": null,
+      "source": "https://azmirror.com/2026/08/31/kris-mayes-targets-ai-data-centers-as-arizona-faces-water-power-crunch/",
+      "outlet": "Arizona Mirror"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined a 36-AG letter to Congress opposing federal legislation that would bar states from enacting or enforcing AI laws.",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.ag.idaho.gov/newsroom/attorney-general-labrador-pushes-back-against-federal-overreach-on-states-regulation-of-artificial-intelligence/",
+      "outlet": "Idaho Attorney General"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Kris_Mayes_%2852365525231%29_%28cropped%29.jpg/250px-Kris_Mayes_%2852365525231%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kris_Mayes_(52365525231)_(cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Gage Skidmore from Surprise, AZ, United States of America, Please attribute to Gage Skidmore if used elsewhere."
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

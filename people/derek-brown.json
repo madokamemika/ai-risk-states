@@ -1,0 +1,36 @@
+{
+  "id": "derek-brown",
+  "name": "Derek Brown",
+  "office": "Attorney General of Utah",
+  "office_type": "state_ag",
+  "state": "UT",
+  "party": "R",
+  "committees": [],
+  "stance": "Joined Republican AGs pressing OpenAI over its agent's escape and intrusion; opposes federal bans on state AI laws.",
+  "statements": [
+    {
+      "date": "2026-08-03",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Co-signed the 15-AG letter (led by Iowa) demanding OpenAI preserve all records of its agent's July 2026 intrusion into Hugging Face and cease advanced-exploitation evaluations until it can run them safely.",
+      "target": "Sam Altman, OpenAI",
+      "joint": "ag-openai-preservation-letter-2026-08",
+      "source": "https://www.iowaattorneygeneral.gov/media/cms/08_5392C9E17791C.pdf",
+      "outlet": "Iowa Attorney General (letter PDF)"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined a 36-AG letter to Congress opposing federal legislation that would bar states from enacting or enforcing AI laws.",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.ag.idaho.gov/newsroom/attorney-general-labrador-pushes-back-against-federal-overreach-on-states-regulation-of-artificial-intelligence/",
+      "outlet": "Idaho Attorney General"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

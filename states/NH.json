@@ -1,0 +1,106 @@
+{
+  "code": "NH",
+  "summary": "New Hampshire's AI laws target harms to children, such as HB 143 on chatbots encouraging minors toward self-harm, sex or violence (effective Jan 2026), and deepfakes. No frontier or catastrophic-risk action was found; AG John Formella opposed federal preemption in 2025 but did not sign the 2026 frontier letter.",
+  "xrisk": "adjacent",
+  "items": [
+    {
+      "date": "2025-08-01",
+      "type": "law",
+      "title": "HB 143 — AI chatbots and child endangerment",
+      "status": "signed",
+      "text": "Makes it child endangerment for chatbot operators to encourage minors toward sexual conduct, drugs, self-harm or violence, with AG civil enforcement.",
+      "source": "https://regulations.ai/regulations/RAI-US-NH-HB14300-2025",
+      "people": []
+    },
+    {
+      "date": "2025-11-25",
+      "type": "letter",
+      "title": "36-AG NAAG letter opposing federal preemption of state AI laws",
+      "status": "filed",
+      "text": "The New Hampshire attorney general joined the bipartisan letter urging Congress to reject a moratorium on state AI laws.",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-36-state-attorneys-general-opposes-federal-ban-on-state-ai-laws/",
+      "people": [
+        "john-formella"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "New Hampshire's Republican governor and Legislature now want a multi-year moratorium on AI data centers.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Kelly Ayotte said on September 2, 2026 that she opposes a proposed data center in Bow and will put a multi-year data-center moratorium in her next budget, which could take effect no earlier than July 2027. Senate President Sharon Carson said on September 18, 2026 that the Senate would pursue a moratorium too.",
+        "sources": [
+          {
+            "url": "https://www.nhpr.org/nh-news/2026-09-02/ayotte-opposes-potential-bow-data-center-plans-to-propose-moratorium-on-data-centers-in-state",
+            "outlet": "NHPR"
+          },
+          {
+            "url": "https://www.nhpr.org/politics/2026-09-18/datacenters-nh-republicans-moratorium-ai-data-centers",
+            "outlet": "NHPR"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Dartmouth partnered with Anthropic and AWS in December 2025 to give students and staff campus-wide access to Claude, the first Ivy League deployment at that scale.",
+        "sources": [
+          {
+            "url": "https://home.dartmouth.edu/news/2025/12/dartmouth-announces-ai-partnership-anthropic-and-aws",
+            "outlet": "Dartmouth"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Rep. Chris Pappas, running for Senate, said in September 2026 that \"New Hampshire is not the right place for AI data centers.\"",
+        "sources": [
+          {
+            "url": "https://spectrumnews1.com/ma/worcester/news/2026/09/08/new-hampshire-data-centers-shaheen-pappas-ayotte",
+            "outlet": "Spectrum News"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "New Hampshire has no hyperscale AI campus under construction. In April 2026 a federal filing pointed to a possible 350 MW data center at the former Merrimack Station coal plant in Bow, a 343-acre site owned by Granite Shore Power. As of September 2026 Eversource was running a feasibility study at the company's request.",
+        "sources": [
+          {
+            "url": "https://www.concordmonitor.com/2026/09/01/bow-ai-data-center-talks/",
+            "outlet": "Concord Monitor"
+          },
+          {
+            "url": "https://www.nhpr.org/nh-news/2026-09-02/ayotte-opposes-potential-bow-data-center-plans-to-propose-moratorium-on-data-centers-in-state",
+            "outlet": "NHPR"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "In May 2026 a plan to turn a Nottingham warehouse into a data center was withdrawn after opposition. On September 9, 2026, Nottingham voters approved a 12-month data-center moratorium, 1,335 to 143. In September 2026 Gov. Kelly Ayotte said she opposes \"putting any data center in the state of New Hampshire\" and would put a multi-year moratorium in her budget, effective July 2027 at the earliest. Senate President Sharon Carson backed exploring a moratorium, and House Democrats proposed a 24-month pause.",
+        "sources": [
+          {
+            "url": "https://www.nhpr.org/politics/2026-09-09/nottingham-voters-approve-moratorium-data-centers-nh-newhampshire",
+            "outlet": "NHPR"
+          },
+          {
+            "url": "https://www.nhpr.org/nh-news/2026-09-02/ayotte-opposes-potential-bow-data-center-plans-to-propose-moratorium-on-data-centers-in-state",
+            "outlet": "NHPR"
+          },
+          {
+            "url": "https://www.nhpr.org/politics/2026-09-18/datacenters-nh-republicans-moratorium-ai-data-centers",
+            "outlet": "NHPR"
+          },
+          {
+            "url": "https://newhampshirebulletin.com/2026/05/29/how-a-data-center-proposal-ignited-opposition-in-nottingham-and-surrounding-communities/",
+            "outlet": "New Hampshire Bulletin"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

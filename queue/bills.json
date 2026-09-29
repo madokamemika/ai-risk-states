@@ -1,0 +1,92 @@
+[
+  {
+    "state": "MN",
+    "date": "2026-03-23",
+    "title": "HF 4532 — Artificial intelligence safety and disclosure requirements established, and civil remedies provided.",
+    "status": "introduced",
+    "summary": "Artificial intelligence safety and disclosure requirements established, and civil remedies provided.",
+    "source": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4532/",
+    "found": "2026-09-29"
+  },
+  {
+    "state": "MN",
+    "date": "2026-03-17",
+    "title": "SF 4509 — Artificial intelligence safety and disclosure requirements establishment (RAISE Act)",
+    "status": "introduced",
+    "summary": "Artificial intelligence safety and disclosure requirements establishment (RAISE Act)",
+    "source": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4509/",
+    "found": "2026-09-29"
+  },
+  {
+    "state": "CA",
+    "date": "2026-02-10",
+    "title": "SB 1011 — Energy: Utility Infrastructure AI Safety, Oversight, and Workforce Protection Act.",
+    "status": "introduced",
+    "summary": "An act to add Chapter 12 (commencing with Section 8510) to Division 4.1 of the Public Utilities Code, relating to energy.",
+    "source": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1011",
+    "found": "2026-09-29"
+  },
+  {
+    "state": "IL",
+    "date": "2026-02-03",
+    "title": "SB 3261 — ARTIFICIAL INTELLIGENCE SAFETY",
+    "status": "introduced",
+    "summary": "Creates the Artificial Intelligence Public Safety and Child Protection Transparency Act. Provides that a frontier artificial intelligence model developer or large chatbot provider shall write, implement, comply with, and clearly and conspicuously publish on its website a public safety and child…",
+    "source": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3261&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+    "found": "2026-09-29"
+  },
+  {
+    "state": "IL",
+    "date": "2026-01-29",
+    "title": "HB 4705 — ARTIFICIAL INTELLIGENCE SAFETY",
+    "status": "introduced",
+    "summary": "Creates the Artificial Intelligence Public Safety and Child Protection Transparency Act. Provides that a frontier artificial intelligence model developer or large chatbot provider shall write, implement, comply with, and clearly and conspicuously publish on its website a public safety and child…",
+    "source": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4705&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+    "found": "2026-09-29"
+  },
+  {
+    "state": "HI",
+    "date": "2026-01-23",
+    "title": "SB 2923 — Relating To Artificial Intelligence.",
+    "status": "introduced",
+    "summary": "Establishes the Office of Artificial Intelligence Safety and Regulation within the Department of Commerce and Consumer Affairs to regulate the development, deployment, and use of artificial intelligence technologies in the State. Prohibits the deployment of artificial intelligence products in the…",
+    "source": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2923&year=2026",
+    "found": "2026-09-29"
+  },
+  {
+    "state": "NY",
+    "date": "2025-03-05",
+    "title": "A 06453 — Relates to the training and use of artificial intelligence frontier models; defines terms; establishes remedies for violations.",
+    "status": "introduced",
+    "summary": "Relates to the training and use of artificial intelligence frontier models; defines terms; establishes remedies for violations.",
+    "source": "https://www.nysenate.gov/legislation/bills/2025/A6453",
+    "found": "2026-09-29"
+  },
+  {
+    "state": "NC",
+    "date": "2025-03-05",
+    "title": "H 301 — Social Media & AI Safety",
+    "status": "engrossed",
+    "summary": "Social Media & AI Safety",
+    "source": "https://www.ncleg.gov/BillLookUp/2025/H301",
+    "found": "2026-09-29"
+  },
+  {
+    "state": "NY",
+    "date": "2025-01-27",
+    "title": "A 03356 — Enacts the \"advanced artificial intelligence licensing act\"; providing for regulation of advanced artificial intelligence systems (Part A); requires registration and licensing of high-risk advanced artificial intelligence systems and related provisions regarding the operation of such systems (Part B); establishes the advanced artificial intelligence ethical code of conduct (Part C); prohibits the development and operation of certain artificial intelligence systems (Part D).",
+    "status": "introduced",
+    "summary": "Enacts the \"advanced artificial intelligence licensing act\"; providing for regulation of advanced artificial intelligence systems (Part A); requires registration and licensing of high-risk advanced artificial intelligence systems and related provisions regarding the operation of such systems (Part…",
+    "source": "https://www.nysenate.gov/legislation/bills/2025/A3356",
+    "found": "2026-09-29"
+  },
+  {
+    "state": "NY",
+    "date": "2025-01-09",
+    "title": "A 01342 — Requires the collection of oaths of responsible use from users of certain generative or surveillance advanced artificial intelligence systems by the operators of such systems, and transmission of such oaths to the attorney general.",
+    "status": "introduced",
+    "summary": "Requires the collection of oaths of responsible use from users of certain generative or surveillance advanced artificial intelligence systems by the operators of such systems, and transmission of such oaths to the attorney general.",
+    "source": "https://www.nysenate.gov/legislation/bills/2025/A1342",
+    "found": "2026-09-29"
+  }
+]

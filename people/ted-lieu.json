@@ -1,0 +1,54 @@
+{
+  "id": "ted-lieu",
+  "name": "Ted Lieu",
+  "office": "U.S. Representative, California 36th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "committees": [
+    "House Judiciary"
+  ],
+  "stance": "Wants frontier developers required to maintain a kill switch that DHS can order used when a model loses human control.",
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the AI Kill Switch Act (H.R. 9917) with Rep. Moran, letting DHS order a shutdown of a covered frontier model after a loss-of-control event.",
+      "target": null,
+      "joint": "ai-kill-switch-act",
+      "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+      "outlet": "Office of Rep. Lieu"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We are moving from AI that answers questions to AI that takes actions, whether that be executing financial transactions or controlling transportation systems.",
+      "target": null,
+      "joint": "ai-kill-switch-act",
+      "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+      "outlet": "Office of Rep. Lieu"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It's based on a very simple principle, which is that humans must be in control of AI",
+      "target": null,
+      "joint": "ai-kill-switch-act",
+      "source": "https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/",
+      "outlet": "Roll Call"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Congressman_Ted_W._Lieu_Official_Photo.jpg/250px-Congressman_Ted_W._Lieu_Official_Photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Congressman_Ted_W._Lieu_Official_Photo.jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

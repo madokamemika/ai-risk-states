@@ -1,0 +1,32 @@
+{
+  "id": "daniel-zolnikov",
+  "name": "Daniel Zolnikov",
+  "office": "Montana State Senator",
+  "office_type": "state_senator",
+  "state": "MT",
+  "party": "R",
+  "committees": [],
+  "stance": "Sponsor of Montana's Right to Compute Act; favors limits on government restriction of computation.",
+  "statements": [
+    {
+      "date": "2025-04-16",
+      "arena": "state",
+      "kind": "action",
+      "text": "Sponsored SB 212, the Right to Compute Act.",
+      "target": null,
+      "joint": null,
+      "source": "https://projects.montanafreepress.org/capitol-tracker-2025/bills/sb-212/",
+      "outlet": "Montana Free Press"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Daniel_Zolnikov_by_Gage_Skidmore.jpg/250px-Daniel_Zolnikov_by_Gage_Skidmore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Daniel_Zolnikov_by_Gage_Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Gage Skidmore"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

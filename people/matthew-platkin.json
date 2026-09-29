@@ -1,0 +1,26 @@
+{
+  "id": "matthew-platkin",
+  "name": "Matthew Platkin",
+  "office": "Former Attorney General of New Jersey (2022-2026)",
+  "office_type": "state_ag",
+  "state": "NJ",
+  "party": "D",
+  "committees": [],
+  "stance": "As AG, pressed AI companies to test and audit chatbots for harmful outputs.",
+  "statements": [
+    {
+      "date": "2025-12-10",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Led 42 attorneys general asking 13 AI companies to adopt third-party audits, pre-release safety testing and incident reporting for sycophantic and delusional outputs.",
+      "target": "AI companies",
+      "joint": "naag-delusional-outputs-letter-dec-2025",
+      "source": "https://www.njoag.gov/ag-platkin-leads-bipartisan-coalition-demanding-that-tech-companies-put-a-stop-to-harmful-ai-chatbots/",
+      "outlet": "New Jersey Attorney General"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

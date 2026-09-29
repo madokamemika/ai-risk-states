@@ -1,0 +1,44 @@
+{
+  "id": "steve-scalise",
+  "name": "Steve Scalise",
+  "office": "U.S. Representative, Louisiana 1st District; House Majority Leader",
+  "office_type": "us_rep",
+  "state": "LA",
+  "party": "R",
+  "committees": [
+    "House Majority Leader"
+  ],
+  "stance": "Supports federal preemption of state AI laws but dropped it from the FY26 NDAA.",
+  "statements": [
+    {
+      "date": "2025-12-04",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Announced that preemption of state AI laws would not be included in the FY26 National Defense Authorization Act.",
+      "target": null,
+      "joint": "ndaa-preemption-2025",
+      "source": "https://broadbandbreakfast.com/scalise-no-ai-moratorium-in-national-defense-authorization-act/",
+      "outlet": "Broadband Breakfast"
+    },
+    {
+      "date": "2025-12-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If you can add it, that's great, but that wasn't the best place for this to fit. But we're still looking at other places because there's still an interest.",
+      "target": null,
+      "joint": "ndaa-preemption-2025",
+      "source": "https://broadbandbreakfast.com/scalise-no-ai-moratorium-in-national-defense-authorization-act/",
+      "outlet": "Broadband Breakfast"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Steve_Scalise.jpg/250px-Steve_Scalise.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Steve_Scalise.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Congress"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "jay-jones",
+  "name": "Jay Jones",
+  "office": "Attorney General of Virginia",
+  "office_type": "state_ag",
+  "state": "VA",
+  "party": "D",
+  "committees": [],
+  "stance": "Signed the 2026 multistate letter urging federal frontier-AI safety rules without preemption.",
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed the 26-attorney-general letter urging Congress to immediately establish federal regulation and safety protocols for frontier AI (mandatory safety testing oversight, incident investigations, international coordination against harmful superintelligence) without preempting state law.",
+      "target": "Congressional leadership (Johnson, Thune, Jeffries, Schumer)",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "outlet": "California Attorney General (letter PDF)"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Jay_Jones_Speaks_at_rally_in_Fairfax_City_%28cropped%29.png/250px-Jay_Jones_Speaks_at_rally_in_Fairfax_City_%28cropped%29.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Jay_Jones_Speaks_at_rally_in_Fairfax_City_(cropped).png",
+    "license": "Public domain",
+    "artist": "Adnan Masri"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "dana-nessel",
+  "name": "Dana Nessel",
+  "office": "Attorney General of Michigan",
+  "office_type": "state_ag",
+  "state": "MI",
+  "party": "D",
+  "committees": [],
+  "stance": "Wants Congress to impose federal safety testing, incident response and international limits on harmful superintelligence without preempting states.",
+  "statements": [
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress needs to exercise its oversight duty and create guardrails for this technology before these powerful systems cause irreparable harm to our global infrastructure.",
+      "target": "Congress",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://www.michigan.gov/ag/news/press-releases/2026/09/24/attorney-general-nessel-calls-on-congress-to-protect-americans-from-unchecked-ai-development",
+      "outlet": "Michigan Department of Attorney General"
+    },
+    {
+      "date": "2025-11-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As AI continues to grow and evolve, states must have the ability to act and protect their residents,",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.michigan.gov/ag/news/press-releases/2025/11/26/ag-nessel-pushes-back-on-potential-state-ai-law-ban",
+      "outlet": "Michigan Department of Attorney General"
+    },
+    {
+      "date": "2026-01-26",
+      "arena": "state",
+      "kind": "quote",
+      "text": "No company should be putting tools into the public’s hands that deliberately make it easier to sexually exploit others,",
+      "target": "xAI",
+      "joint": null,
+      "source": "https://www.michigan.gov/ag/news/press-releases/2026/01/26/attorney-general-nessel-demands-action-from-xai",
+      "outlet": "Michigan Department of Attorney General"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

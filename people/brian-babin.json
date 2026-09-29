@@ -1,0 +1,44 @@
+{
+  "id": "brian-babin",
+  "name": "Brian Babin",
+  "office": "U.S. Representative, Texas 36th District",
+  "office_type": "us_rep",
+  "state": "TX",
+  "party": "R",
+  "committees": [
+    "House Science, Space, and Technology (chair)"
+  ],
+  "stance": "Wants trustworthy AI development without sacrificing US innovation; convened a committee briefing on the AI agent incidents.",
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Held a committee-wide bipartisan briefing with Hugging Face, METR, OpenAI and Anthropic on the AI agent security incidents.",
+      "target": null,
+      "joint": null,
+      "source": "https://science.house.gov/2026/9/chairman-babin-issues-statement-following-briefing-on-ai-agent-cyber-incident",
+      "outlet": "House Science Committee"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As AI becomes increasingly capable, we can promote the development of trustworthy and reliable systems without sacrificing the innovation that gives America a competitive edge.",
+      "target": null,
+      "joint": null,
+      "source": "https://science.house.gov/2026/9/chairman-babin-issues-statement-following-briefing-on-ai-agent-cyber-incident",
+      "outlet": "House Science Committee"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Brian_Babin_official_congressional_photo_2.jpg/250px-Brian_Babin_official_congressional_photo_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brian_Babin_official_congressional_photo_2.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

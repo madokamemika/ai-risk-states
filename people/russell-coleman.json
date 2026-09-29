@@ -1,0 +1,52 @@
+{
+  "id": "russell-coleman",
+  "name": "Russell Coleman",
+  "office": "Attorney General of Kentucky",
+  "office_type": "state_ag",
+  "state": "KY",
+  "party": "R",
+  "committees": [],
+  "stance": "First state AG to sue an AI chatbot company over harms to children; favors US AI leadership with child safety.",
+  "statements": [
+    {
+      "date": "2026-01-08",
+      "arena": "state",
+      "kind": "quote",
+      "text": "The United States must be a leader in the development of AI, but it can't come at the expense of our kids' lives.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kentucky.gov/Pages/Activity-stream.aspx?n=AttorneyGeneral&prId=1857",
+      "outlet": "Kentucky Attorney General"
+    },
+    {
+      "date": "2026-01-08",
+      "arena": "state",
+      "kind": "action",
+      "text": "Sued Character Technologies (Character.AI) in Franklin Circuit Court under Kentucky's consumer-protection and data-protection laws.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kentucky.gov/Pages/Activity-stream.aspx?n=AttorneyGeneral&prId=1857",
+      "outlet": "Kentucky Attorney General"
+    },
+    {
+      "date": "2025-08-25",
+      "arena": "state",
+      "kind": "action",
+      "text": "Kentucky joined the 44-AG letter warning AI companies over chatbot harms to children.",
+      "target": null,
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-state-attorneys-general-issues-letter-to-ai-industry-leaders-on-child-safety/",
+      "outlet": "NAAG"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Russell_Coleman_official_photo.jpg/250px-Russell_Coleman_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Russell_Coleman_official_photo.jpg",
+    "license": "Public domain",
+    "artist": "United States Department of Justice"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "austin-harris",
+  "name": "Austin Harris",
+  "office": "Iowa State Representative",
+  "office_type": "state_rep",
+  "state": "IA",
+  "party": "R",
+  "committees": [],
+  "stance": "Floor manager of SF 2417 on chatbot safety for minors.",
+  "statements": [
+    {
+      "date": "2026-04-16",
+      "arena": "state",
+      "kind": "quote",
+      "text": "There have been several instances where AI chatbots have been encouraging people who are seeking mental health advice and encouraging them to commit self-harm.",
+      "target": null,
+      "joint": "ia-sf2417",
+      "source": "https://www.govtech.com/artificial-intelligence/iowa-bill-restricting-ai-chatbots-heads-to-governors-desk",
+      "outlet": "GovTech"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Austin_Harris.jpg/250px-Austin_Harris.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Austin_Harris.jpg",
+    "license": "Copyrighted free use",
+    "artist": "Iowa General Assembly"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

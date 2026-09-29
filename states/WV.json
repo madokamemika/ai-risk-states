@@ -1,0 +1,110 @@
+{
+  "code": "WV",
+  "summary": "No frontier or catastrophic-risk action was found. AG JB McCuskey co-led a 2025 multistate chatbot-safety letter to AI companies but did not join the anti-preemption or 2026 frontier-AI letters, and Gov. Morrisey promotes the state as an AI compute hub (a reported $45B Anthropic compute deal at Nscale's campus).",
+  "xrisk": "adjacent",
+  "items": [
+    {
+      "date": "2025-12-10",
+      "type": "letter",
+      "title": "42-AG letter to AI companies on chatbot safeguards",
+      "status": "filed",
+      "text": "McCuskey co-led the letter demanding quality control and safeguards on chatbots for children and vulnerable users.",
+      "source": "https://ago.wv.gov/article/west-virginia-sends-letter-ai-software-companies-demanding-safeguards-protect-vulnerable",
+      "people": [
+        "jb-mccuskey",
+        "dave-sunday",
+        "andrea-campbell"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "type": "statement",
+      "title": "Reported $45B Anthropic compute agreement at Nscale West Virginia campus",
+      "status": "enacted",
+      "text": "Morrisey hailed the reported agreement as validation of the state's energy and siting strategy.",
+      "source": "https://governor.wv.gov/article/governor-morriseys-ai-strategy-positions-west-virginia-reported-45-billion-agreement",
+      "people": [
+        "patrick-morrisey"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "West Virginia removed local control over data-center power sites to attract them, and landed a $45 billion Anthropic computing deal as counties organize against it.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Patrick Morrisey signed HB 2014 on April 30, 2025, allowing off-grid microgrid districts for data centers and barring county and city ordinances over them. His August 2026 20-year data-center plan proposes an advisory council and setbacks, but a legislator noted \"nothing has the force of law.\"",
+        "sources": [
+          {
+            "url": "https://www.theintermountain.com/news/local-news/2025/05/morrisey-signs-data-center-microgrid-bill/",
+            "outlet": "The Inter-Mountain"
+          },
+          {
+            "url": "https://mountainstatespotlight.org/2026/09/13/data-center-plan/",
+            "outlet": "Mountain State Spotlight"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "In August 2026 Morrisey announced that Anthropic agreed to spend about $45 billion over six years for 460 MW of computing at Nscale's microgrid campus in Mason County. Starwood Digital Ventures plans a $12 billion, 2.16 GW campus in the same county, and Penzance Management a $4 billion campus.",
+        "sources": [
+          {
+            "url": "https://www.wdtv.com/2026/08/27/west-virginia-data-center-lands-reported-45-billion-ai-agreement-morrisey-says/",
+            "outlet": "WDTV"
+          },
+          {
+            "url": "https://westvirginiawatch.com/2026/09/08/new-data-center-project-coming-to-mason-county-wv-spearheaded-by-florida-based-real-estate-group/",
+            "outlet": "West Virginia Watch"
+          },
+          {
+            "url": "https://governor.wv.gov/article/governor-morrisey-announces-4-billion-private-investment-west-virginias-first-high-impact",
+            "outlet": "Governor's office"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Residents formed Tucker United against a data center and power plant near Thomas and Davis, and Mason County United in Point Pleasant. In Mingo County, residents organized against TransGas mountaintop data centers (May 2026). Mason County's commission president said: \"They can come into your county...And we can't do anything.\"",
+        "sources": [
+          {
+            "url": "https://mountainstatespotlight.org/2026/09/13/data-center-plan/",
+            "outlet": "Mountain State Spotlight"
+          },
+          {
+            "url": "https://mountainstatespotlight.org/2026/05/03/mingo-county-data-centers/",
+            "outlet": "Mountain State Spotlight"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "West Virginia University leads, with Pitt and Carnegie Mellon, an NSF industrial energy innovation hub funded at more than $320 million (July 2026), covering AI infrastructure among other work.",
+        "sources": [
+          {
+            "url": "https://wvutoday.wvu.edu/stories/2026/07/14/powering-up-economies-wvu-with-pitt-and-carnegie-mellon-will-recharge-energy-security-and-resilience-with-320m-for-new-technology-ai-infrastructure-and-jobs",
+            "outlet": "WVU Today"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Jim Justice told the state Chamber of Commerce in September 2026 not to fear data centers but that companies must take care of water, power bills and noise. Sen. Shelley Moore Capito said she backs the Ratepayer Protection Act and wants early community engagement from data-center developers.",
+        "sources": [
+          {
+            "url": "https://www.capito.senate.gov/news/in-the-news/capito-justice-focus-remarks-on-energy-at-90th-annual-wva-chamber-meeting",
+            "outlet": "Sen. Capito"
+          },
+          {
+            "url": "https://wvmetronews.com/2026/09/24/senate-could-vote-on-data-center-utility-costs-bill-but-might-delay-permitting-reform/",
+            "outlet": "WV MetroNews"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

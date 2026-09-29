@@ -1,0 +1,32 @@
+{
+  "id": "todd-blanche",
+  "name": "Todd Blanche",
+  "office": "Attorney General of the United States",
+  "office_type": "federal_exec",
+  "state": null,
+  "party": "R",
+  "committees": [],
+  "stance": "Leads the Justice Department whose AI Litigation Task Force challenges state AI laws in court.",
+  "statements": [
+    {
+      "date": "2026-04-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "The Justice Department, then under Blanche as acting Attorney General, intervened in xAI's suit against Colorado's AI Act, its first intervention in a challenge to a state AI law.",
+      "target": null,
+      "joint": "xai-v-weiser-doj-intervention",
+      "source": "https://btlaw.com/en/insights/alerts/2026/doj-intervenes-in-lawsuit-challenging-colorados-algorithmic-discrimination-law",
+      "outlet": "Barnes & Thornburg"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/AG_Todd_Blanche_Official_Portrait.jpg/250px-AG_Todd_Blanche_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:AG_Todd_Blanche_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "Ryan M. Biller"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

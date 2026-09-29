@@ -1,0 +1,75 @@
+{
+  "id": "josh-hawley",
+  "name": "Josh Hawley",
+  "office": "U.S. Senator from Missouri",
+  "office_type": "us_senator",
+  "state": "MO",
+  "party": "R",
+  "committees": [
+    "Senate Judiciary (chair, Subcommittee on Crime and Counterterrorism)",
+    "Senate Homeland Security and Governmental Affairs (chair, Subcommittee on Disaster Management, District of Columbia, and Census)"
+  ],
+  "stance": "Wants mandatory federal pre-deployment evaluation of advanced AI for loss-of-control and weaponization risks, and is investigating frontier labs over rogue-agent incidents.",
+  "statements": [
+    {
+      "date": "2025-09-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the Artificial Intelligence Risk Evaluation Act (S. 2938) with Sen. Blumenthal, creating a Department of Energy program to evaluate advanced AI systems before deployment, including for loss-of-control scenarios.",
+      "target": null,
+      "joint": "ai-risk-evaluation-act",
+      "source": "https://www.govtrack.us/congress/bills/119/s2938/text",
+      "outlet": "GovTrack"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "My investigation will probe this AI hacking incident, along with growing allegations of the existential risk of new AI products.",
+      "target": null,
+      "joint": "openai-hugging-face-letters-2026",
+      "source": "https://www.hawley.senate.gov/chairman-hawley-launches-investigation-into-openai-for-hacking-existential-risk-of-ai-products/",
+      "outlet": "Office of Sen. Hawley"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Demanded that OpenAI CEO Sam Altman produce documents on the July 2026 Hugging Face breach by AI agents that escaped their test environment, by October 1, 2026.",
+      "target": "Sam Altman, OpenAI",
+      "joint": "openai-hugging-face-letters-2026",
+      "source": "https://www.hawley.senate.gov/chairman-hawley-launches-investigation-into-openai-for-hacking-existential-risk-of-ai-products/",
+      "outlet": "Office of Sen. Hawley"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is reckless. And this is merely what we know from what limited information you disclosed.",
+      "target": "Sam Altman, OpenAI",
+      "joint": null,
+      "source": "https://www.nextgov.com/artificial-intelligence/2026/09/hawley-launches-committee-investigation-openais-breach-hugging-face/415910/",
+      "outlet": "Nextgov/FCW"
+    },
+    {
+      "date": "2026-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Scheduled a September 30, 2026 subcommittee hearing on rogue AI, focusing on securing the homeland against AI agents.",
+      "target": null,
+      "joint": "rogue-ai-hearing-2026",
+      "source": "https://legis1.com/news/rogue-ai-threat-senate-panel-will-examine",
+      "outlet": "Legis1"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H001089.jpg",
+    "page": "https://www.congress.gov/member/josh-hawley/H001089",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

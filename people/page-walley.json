@@ -1,0 +1,26 @@
+{
+  "id": "page-walley",
+  "name": "Page Walley",
+  "office": "Tennessee State Senator (District 26)",
+  "office_type": "state_senator",
+  "state": "TN",
+  "party": "R",
+  "committees": [],
+  "stance": "Sponsor of the law barring AI from posing as a mental health professional.",
+  "statements": [
+    {
+      "date": "2026-02-09",
+      "arena": "state",
+      "kind": "action",
+      "text": "Sponsored SB 1580, which passed the Senate 32-0 and the House 94-0.",
+      "target": null,
+      "joint": null,
+      "source": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1580&ga=114",
+      "outlet": "Tennessee General Assembly"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

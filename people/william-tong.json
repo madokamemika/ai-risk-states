@@ -1,0 +1,52 @@
+{
+  "id": "william-tong",
+  "name": "William Tong",
+  "office": "Attorney General of Connecticut",
+  "office_type": "state_ag",
+  "state": "CT",
+  "party": "D",
+  "committees": [],
+  "stance": "Opposes federal preemption of state AI laws and backs federal frontier-AI safety rules.",
+  "statements": [
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This legislation is a handout to Big Tech seeking free reign to reshape our society with zero oversight or accountability.",
+      "target": null,
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://portal.ct.gov/ag/press-releases/2025-press-releases/attorney-general-tong-pushes-back-on-potential-state-ai-law-ban",
+      "outlet": "Connecticut Attorney General"
+    },
+    {
+      "date": "2026-05-01",
+      "arena": "state",
+      "kind": "quote",
+      "text": "Artificial intelligence is exploding everywhere, with potential for good intertwined with severe risks.",
+      "target": null,
+      "joint": "ct-sb-5-2026",
+      "source": "https://ctmirror.org/2026/05/01/artificial-intelligence-house-regulation-passage-ct/",
+      "outlet": "CT Mirror"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed the 26-attorney-general letter urging Congress to immediately establish federal regulation and safety protocols for frontier AI (mandatory safety testing oversight, incident investigations, international coordination against harmful superintelligence) without preempting state law.",
+      "target": "Congressional leadership (Johnson, Thune, Jeffries, Schumer)",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "outlet": "California Attorney General (letter PDF)"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Richard_Blumenthal_and_William_Tong_%28cropped%29.jpg/250px-Richard_Blumenthal_and_William_Tong_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Richard_Blumenthal_and_William_Tong_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "Sen. Richard Blumenthal"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

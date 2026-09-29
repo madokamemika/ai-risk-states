@@ -1,0 +1,28 @@
+{
+  "id": "jason-anavitarte",
+  "name": "Jason Anavitarte",
+  "office": "Georgia State Senator (District 31), Senate Majority Leader",
+  "office_type": "state_senator",
+  "state": "GA",
+  "party": "R",
+  "committees": [
+    "Senate Majority Leader"
+  ],
+  "stance": "Sponsor of SB 540, Georgia's chatbot child-safety law.",
+  "statements": [
+    {
+      "date": "2026-05-15",
+      "arena": "state",
+      "kind": "quote",
+      "text": "SB 540 establishes common-sense guardrails that allow innovation to continue while addressing risks these systems pose to young people.",
+      "target": null,
+      "joint": null,
+      "source": "https://senatepress.net/majority-leader-jason-anavitarte-applauds-signing-of-sb-540-to-protect-children-online.html",
+      "outlet": "Georgia Senate Press Office"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

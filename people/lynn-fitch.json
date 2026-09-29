@@ -1,0 +1,32 @@
+{
+  "id": "lynn-fitch",
+  "name": "Lynn Fitch",
+  "office": "Attorney General of Mississippi",
+  "office_type": "state_ag",
+  "state": "MS",
+  "party": "R",
+  "committees": [],
+  "stance": "Joined the multistate AG warning to AI companies on child safety; no frontier-risk action found.",
+  "statements": [
+    {
+      "date": "2025-08-25",
+      "arena": "state",
+      "kind": "action",
+      "text": "Mississippi joined the 44-AG letter warning AI companies over chatbot harms to children.",
+      "target": null,
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-state-attorneys-general-issues-letter-to-ai-industry-leaders-on-child-safety/",
+      "outlet": "NAAG"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/White_House_Meeting_on_Protecting_Consumers_from_Social_Media_Abuse_%2850380288396%29_%28cropped%29.jpg/250px-White_House_Meeting_on_Protecting_Consumers_from_Social_Media_Abuse_%2850380288396%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:White_House_Meeting_on_Protecting_Consumers_from_Social_Media_Abuse_(50380288396)_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "The White House from Washington, DC"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

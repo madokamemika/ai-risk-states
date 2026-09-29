@@ -1,0 +1,122 @@
+{
+  "code": "VT",
+  "summary": "Vermont's 2026 AI law (H.816, Act 156) bans AI therapy chatbots from independently providing mental health care, which is not frontier-risk law. AG Charity Clark co-signed the Sept 2026 state-AG letter urging federal frontier-AI rules.",
+  "xrisk": "adjacent",
+  "items": [
+    {
+      "date": "2026-06-17",
+      "type": "law",
+      "title": "H.816 (Act 156) — AI in mental health care",
+      "status": "signed",
+      "text": "Prohibits AI systems from independently providing mental health services, diagnoses or treatment plans.",
+      "source": "https://intellisee.com/legislation/vermont-ai-therapy-chatbot-ban-h-816-act-156-2026/",
+      "people": []
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI safety",
+      "status": "filed",
+      "text": "The Vermont attorney general signed the letter urging Congress to adopt federal frontier-AI safety rules and to bar preemption of state AI laws.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "charity-clark"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Vermont's Legislature passed strict data-center rules before any project arrived, and the governor vetoed them.",
+    "sections": [
+      {
+        "topic": "pushback",
+        "text": "The Legislature passed H.727, regulating data centers of 20 MW or more, 26-3 in the Senate. Gov. Phil Scott vetoed it on May 28, 2026, saying existing permitting already covers data centers; a House override failed 83-52, short of two-thirds.",
+        "sources": [
+          {
+            "url": "https://www.wcax.com/2026/05/28/gov-scott-vetoes-ai-data-center-bill/",
+            "outlet": "WCAX"
+          },
+          {
+            "url": "https://www.clf.org/newsroom/vermont-legislature-passes-one-of-the-nations-strongest-data-center-laws/",
+            "outlet": "Conservation Law Foundation"
+          },
+          {
+            "url": "https://broadbandbreakfast.com/vermont-blocks-ai-data-center-bill/",
+            "outlet": "Broadband Breakfast"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Bernie Sanders introduced the AI Data Center Moratorium Act (S. 4214) in March 2026 to halt new AI data centers until Congress passes safety, labor and environmental safeguards. Sen. Peter Welch cosponsored the Power for the People Act (January 2026) on data-center grid costs.",
+        "sources": [
+          {
+            "url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act/",
+            "outlet": "Sen. Sanders"
+          },
+          {
+            "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leads-new-bill-to-ensure-americans-arent-footing-the-bill-for-big-data-centers",
+            "outlet": "Sen. Van Hollen"
+          }
+        ]
+      },
+      {
+        "topic": "state_push",
+        "text": "Gov. Phil Scott signed Executive Order 04-26 in May 2026 creating a Vermont AI Economic Task Force chaired by Neale Lunderville, with 18 members named in August 2026. His office said \"AI is the first technology in a generation that gives small Vermont employers the same tools the biggest companies use.\" In May 2026 he vetoed H.727, a bill regulating AI data centers, citing Act 250. In August 2026 he called on Congress to set national AI guardrails, saying \"State governments alone can't do this.\"",
+        "sources": [
+          {
+            "url": "https://governor.vermont.gov/press-release/governor-phil-scott-establishes-vermont-ai-economic-task-force",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://vermontbiz.com/news/2026/august/06/governor-announces-members-vermont-ai-economic-taskforce",
+            "outlet": "Vermont Business Magazine"
+          },
+          {
+            "url": "https://www.wcax.com/2026/05/28/gov-scott-vetoes-ai-data-center-bill/",
+            "outlet": "WCAX"
+          },
+          {
+            "url": "https://www.wcax.com/2026/08/06/gov-scott-calls-congress-regulate-ai/",
+            "outlet": "WCAX"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "No AI data center had been proposed in Vermont as of May 2026. Lawmakers still moved bills in 2026: H.727 on siting and ratepayer protection, vetoed in May 2026, and S.205, a moratorium on AI data centers needing over 100 MW until July 2030.",
+        "sources": [
+          {
+            "url": "https://www.wcax.com/2026/05/28/gov-scott-vetoes-ai-data-center-bill/",
+            "outlet": "WCAX"
+          },
+          {
+            "url": "https://legislature.vermont.gov/bill/status/2026/S.205",
+            "outlet": "Vermont Legislature"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The University of Vermont received a $2.1 million NSF grant (July 2025) for IceCore, an AI supercomputer at the Vermont Advanced Computing Center for about 1,000 researchers, with research uses including analysis of large language model behavior. A second phase in 2026 adds NVIDIA H200 and RTX PRO 6000 GPUs. UVM also runs an AI Taskforce with seven working groups and a small-grant AI Innovation Fund.",
+        "sources": [
+          {
+            "url": "https://www.uvm.edu/uvmnews/news/uvm-attracts-55m-nsf-ai-supercomputer-underground-robots-health-science",
+            "outlet": "UVM News"
+          },
+          {
+            "url": "https://www.uvm.edu/cems/news/icecore-advances-new-era-discovery-uvm",
+            "outlet": "UVM CEMS"
+          },
+          {
+            "url": "https://www.uvm.edu/it/news/update-ai-taskforce-efforts-spring-2026",
+            "outlet": "UVM IT"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "lori-urso",
+  "name": "Lori Urso",
+  "office": "Rhode Island State Senator",
+  "office_type": "state_senator",
+  "state": "RI",
+  "party": "D",
+  "committees": [],
+  "stance": "Sponsor of Rhode Island's 2026 AI companion-chatbot safety law.",
+  "statements": [
+    {
+      "date": "2026-06-23",
+      "arena": "state",
+      "kind": "quote",
+      "text": "It is time to put safeguards in place to protect Rhode Islanders of all ages from this rapidly expanding technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.rilegislature.gov/pressrelease/Lists/PressReleases/DispForm.aspx?ID=376765",
+      "outlet": "Rhode Island General Assembly"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/RI_State_Senator_Lori_Urso.jpg/250px-RI_State_Senator_Lori_Urso.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:RI_State_Senator_Lori_Urso.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Kenneth C. Zirkel"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

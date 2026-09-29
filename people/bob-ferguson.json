@@ -1,0 +1,42 @@
+{
+  "id": "bob-ferguson",
+  "name": "Bob Ferguson",
+  "office": "Governor of Washington",
+  "office_type": "governor",
+  "state": "WA",
+  "party": "D",
+  "committees": [],
+  "stance": "Focuses on AI companion-chatbot safeguards for minors; no frontier-model measure of his own found.",
+  "statements": [
+    {
+      "date": "2026-01-12",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Asked legislators to introduce a bill setting safeguards on AI companion chatbots, particularly for minors.",
+      "target": "Washington Legislature",
+      "joint": null,
+      "source": "https://www.opb.org/article/2026/01/12/washington-governor-bob-ferguson-calls-ai-chatbot-regulations/",
+      "outlet": "OPB"
+    },
+    {
+      "date": "2026-03-24",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed HB 2225, regulating AI companion chatbots with protections for minors, effective January 1, 2027.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/washington-state-enacts-law-regulating-ai-companion-chatbots-with-private-right-of-action",
+      "outlet": "Hunton Andrews Kurth"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Bob_Ferguson_03_crop.jpg/250px-Bob_Ferguson_03_crop.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bob_Ferguson_03_crop.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Joe Mabel\nderivative work: MagentaGreen"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

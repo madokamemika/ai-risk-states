@@ -1,0 +1,32 @@
+{
+  "id": "daniel-singh",
+  "name": "Daniel Singh",
+  "office": "Wyoming State Representative",
+  "office_type": "state_rep",
+  "state": "WY",
+  "party": "R",
+  "committees": [],
+  "stance": "Opposed the federal moratorium partly on the ground that it would have put control of artificial general intelligence in Washington's hands.",
+  "statements": [
+    {
+      "date": "2025-07-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Had the 10-year moratorium passed, we could have seen one of the greatest technological leaps in human history—the invention of Artificial General Intelligence—placed under the control of Congress in Washington, D.C.",
+      "target": null,
+      "joint": null,
+      "source": "https://cowboystatedaily.com/2025/07/01/wyoming-legislators-cheer-removal-of-ban-on-states-regulating-ai-from-budget-bill/",
+      "outlet": "Cowboy State Daily"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Daniel_Singh_by_Gage_Skidmore.jpg/250px-Daniel_Singh_by_Gage_Skidmore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Daniel_Singh_by_Gage_Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Gage Skidmore"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "sarah-huckabee-sanders",
+  "name": "Sarah Huckabee Sanders",
+  "office": "Governor of Arkansas",
+  "office_type": "governor",
+  "state": "AR",
+  "party": "R",
+  "committees": [],
+  "stance": "Backs the administration's AI agenda but opposes stripping states of power to regulate AI.",
+  "statements": [
+    {
+      "date": "2025-06-27",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Led 17 Republican governors in asking Senate Majority Leader Thune and Speaker Johnson to remove the 10-year AI moratorium from the One Big Beautiful Bill; the letter said people will be at risk until basic rules ensuring safety and fairness can go into effect.",
+      "target": "John Thune; Mike Johnson",
+      "joint": "gop-governors-ai-moratorium-letter-2025",
+      "source": "https://governor.arkansas.gov/news_post/sanders-leads-republican-governors-to-call-on-congress-to-remove-ai-regulatory-moratorium-from-one-big-beautiful-bill/",
+      "outlet": "Governor of Arkansas"
+    },
+    {
+      "date": "2025-06-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is already deeply entrenched in American industry and society; people will be at risk until basic rules ensuring safety and fairness can go into effect.",
+      "target": null,
+      "joint": "gop-governors-ai-moratorium-letter-2025",
+      "source": "https://governor.arkansas.gov/news_post/sanders-leads-republican-governors-to-call-on-congress-to-remove-ai-regulatory-moratorium-from-one-big-beautiful-bill/",
+      "outlet": "Office of the Governor of Arkansas"
+    },
+    {
+      "date": "2025-06-27",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Led 17 Republican governors in asking Thune and Johnson to strip the 10-year state AI-law moratorium from the reconciliation bill.",
+      "target": "Congress (Thune, Johnson)",
+      "joint": "gop-governors-ai-moratorium-letter-2025",
+      "source": "https://governor.arkansas.gov/news_post/sanders-leads-republican-governors-to-call-on-congress-to-remove-ai-regulatory-moratorium-from-one-big-beautiful-bill/",
+      "outlet": "Office of the Governor of Arkansas"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sarah_Huckabee_Sanders_2023.jpg/250px-Sarah_Huckabee_Sanders_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sarah_Huckabee_Sanders_2023.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Gage Skidmore from Surprise, AZ, United States of America"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "erin-maye-quade",
+  "name": "Erin Maye Quade",
+  "office": "Minnesota State Senator",
+  "office_type": "state_senator",
+  "state": "MN",
+  "party": "D",
+  "committees": [],
+  "stance": "Authored the first state ban on AI nudification tools and a proposed ban on AI companions for minors.",
+  "statements": [
+    {
+      "date": "2026-04-29",
+      "arena": "state",
+      "kind": "action",
+      "text": "Carried HF 1606, banning AI nudification technology, which passed the Senate 65-0.",
+      "target": null,
+      "joint": "mn-hf1606",
+      "source": "https://www.minnpost.com/state-government/2026/05/nudification-apps-minnesota-passes-the-nations-first-ban/",
+      "outlet": "MinnPost"
+    },
+    {
+      "date": "2026-03",
+      "arena": "state",
+      "kind": "action",
+      "text": "Introduced a bill to bar companies from letting people under 18 use AI companion chatbots.",
+      "target": null,
+      "joint": null,
+      "source": "http://www.minnpost.com/state-government/2026/03/citing-suicides-minnesota-lawmakers-want-to-end-minors-access-to-ai-companions/",
+      "outlet": "MinnPost"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "mary-edly-allen",
+  "name": "Mary Edly-Allen",
+  "office": "Illinois State Senator",
+  "office_type": "state_senator",
+  "state": "IL",
+  "party": "D",
+  "committees": [],
+  "stance": "Senate sponsor of SB 315, arguing states should not wait for Congress on catastrophic AI risk.",
+  "statements": [
+    {
+      "date": "2026-07-06",
+      "arena": "state",
+      "kind": "quote",
+      "text": "We are not willing to wait for Congress to act",
+      "target": null,
+      "joint": "il-sb315",
+      "source": "https://capitolnewsillinois.com/news/pritzker-signs-landmark-ai-regulation-bill-that-aims-to-mitigate-risks/",
+      "outlet": "Capitol News Illinois"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/%284-27-25%29_Mary_Edly-Allen.jpg/250px-%284-27-25%29_Mary_Edly-Allen.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:(4-27-25)_Mary_Edly-Allen.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Paul Goyette"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

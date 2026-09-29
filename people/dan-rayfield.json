@@ -1,0 +1,42 @@
+{
+  "id": "dan-rayfield",
+  "name": "Dan Rayfield",
+  "office": "Attorney General of Oregon",
+  "office_type": "state_ag",
+  "state": "OR",
+  "party": "D",
+  "committees": [],
+  "stance": "Backs federal frontier-AI safety regulation that preserves state enforcement authority.",
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed the 26-AG letter urging Congress to immediately establish comprehensive federal regulation and safety protocols for frontier AI, including mandatory federal oversight of safety testing, and to prohibit preemption of state law.",
+      "target": "Congressional leadership (Johnson, Thune, Jeffries, Schumer)",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "outlet": "California Attorney General (letter PDF)"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined a 36-AG letter to Congress opposing federal legislation that would bar states from enacting or enforcing AI laws.",
+      "target": "Congress",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.ag.idaho.gov/newsroom/attorney-general-labrador-pushes-back-against-federal-overreach-on-states-regulation-of-artificial-intelligence/",
+      "outlet": "Idaho Attorney General"
+    }
+  ],
+  "photo": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Dan_Rayfield_-_Oregon_Attorney.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dan_Rayfield_-_Oregon_Attorney.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "StreetsaheadOR"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

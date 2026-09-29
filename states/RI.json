@@ -1,0 +1,96 @@
+{
+  "code": "RI",
+  "summary": "Rhode Island enacted AI companion-chatbot safety and AI-in-mental-health laws in June 2026, which address chatbot harms rather than catastrophic risk. AG Peter Neronha co-signed the Sept 2026 state-AG letter urging federal frontier-AI rules.",
+  "xrisk": "adjacent",
+  "items": [
+    {
+      "date": "2026-06-23",
+      "type": "law",
+      "title": "S 2195/H 7350 — AI companion chatbot safeguards",
+      "status": "signed",
+      "text": "Requires chatbot suicide/self-harm detection, periodic AI disclosure and annual reports to the Attorney General.",
+      "source": "https://www.rilegislature.gov/pressrelease/Lists/PressReleases/DispForm.aspx?ID=376765",
+      "people": [
+        "lori-urso"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "type": "letter",
+      "title": "26-AG letter to Congress on frontier AI safety",
+      "status": "filed",
+      "text": "The Rhode Island attorney general signed the letter urging Congress to adopt federal frontier-AI safety rules and to bar preemption of state AI laws.",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "peter-neronha"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Rhode Island is focused on using AI inside state government, with a task force roadmap and a federally funded AI institute at Brown.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Gov. Dan McKee's Executive Order 24-06 (February 2024) created an AI Task Force chaired by former Rep. Jim Langevin. Its January 2026 roadmap recommended AI workforce training, state-service pilots, a central AI guidance body and an AI-RI collaboration hub.",
+        "sources": [
+          {
+            "url": "https://governor.ri.gov/press-releases/governor-mckee-signs-executive-order-establishing-artificial-intelligence-task-force",
+            "outlet": "Governor's office"
+          },
+          {
+            "url": "https://www.route-fifty.com/artificial-intelligence/2026/01/rhode-island-releases-its-roadmap-ai-some-boundaries-have-yet-be-drawn/411042/",
+            "outlet": "Route Fifty"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Brown University leads ARIA, a $20 million NSF AI research institute announced July 2025 and led by Ellie Pavlick, developing trustworthy AI assistants with mental-health care as the target use.",
+        "sources": [
+          {
+            "url": "https://www.brown.edu/news/2025-07-29/aria-ai-institute-brown",
+            "outlet": "Brown University"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Sheldon Whitehouse, with Sens. Van Hollen and Heinrich, opened an inquiry on March 13, 2026 into eight companies including Meta, OpenAI and xAI over gas-powered data-center projects.",
+        "sources": [
+          {
+            "url": "https://www.epw.senate.gov/public/index.cfm/2026/3/whitehouse-heinrich-and-van-hollen-probe-ai-companies-about-plans-for-colossal-gas-powered-data-centers",
+            "outlet": "Senate EPW Committee"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "No large AI data center has been built or approved in Rhode Island. The main proposal is a business complex with a data center near the Fidelity campus in Smithfield. It is backed by Hanton City Investments LLC, a partnership that includes Revity Energy's Ryan Polumbo, and projects $59 million in revenue for the town over 30 years. The developer filed its application on May 4, 2026.",
+        "sources": [
+          {
+            "url": "https://www.oceanstatemedia.org/technology/proposed-data-center-still-looms-over-smithfield-even-after-town-council-enacts-ban",
+            "outlet": "Ocean State Media"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "On May 5, 2026, the Smithfield Town Council voted 4-1 to bar data centers from every zoning district. Residents raised concerns about noise, water, electricity and conservation land. Because the Hanton City application was filed a day earlier, it may still be reviewed under the old rules. At the state level, six data-center bills were introduced in the 2026 session and none cleared committee.",
+        "sources": [
+          {
+            "url": "https://www.oceanstatemedia.org/technology/proposed-data-center-still-looms-over-smithfield-even-after-town-council-enacts-ban",
+            "outlet": "Ocean State Media"
+          },
+          {
+            "url": "https://rhodeislandcurrent.com/2026/07/15/what-rhode-island-lawmakers-did-and-didnt-do-on-ai-crypto-and-data-centers/",
+            "outlet": "Rhode Island Current"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

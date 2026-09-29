@@ -1,0 +1,56 @@
+{
+  "id": "dave-sunday",
+  "name": "Dave Sunday",
+  "office": "Attorney General of Pennsylvania",
+  "office_type": "state_ag",
+  "state": "PA",
+  "party": "R",
+  "committees": [],
+  "stance": "Presses AI companies to test and audit chatbots for harmful outputs through multistate AG action.",
+  "statements": [
+    {
+      "date": "2025-12-10",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led the 42-AG letter asking 13 AI companies to adopt third-party audits, pre-release safety testing and incident reporting for sycophantic and delusional outputs.",
+      "target": "AI companies",
+      "joint": "naag-delusional-outputs-letter-dec-2025",
+      "source": "https://www.njoag.gov/ag-platkin-leads-bipartisan-coalition-demanding-that-tech-companies-put-a-stop-to-harmful-ai-chatbots/",
+      "outlet": "New Jersey Attorney General"
+    },
+    {
+      "date": "2026-03-17",
+      "arena": "state",
+      "kind": "quote",
+      "text": "The potential dangers tied to overreliance on artificial intelligence are very real, as we have seen online chatbots play roles in numerous tragedies across the nation.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-reacts-to-pa-senates-passage-of-legislation-to-reinforce-protections-online-against-a-i-chatbots/",
+      "outlet": "Pennsylvania Office of Attorney General"
+    },
+    {
+      "date": "2025-12-10",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Co-led a 42-attorney-general letter demanding that OpenAI, Google, Meta, Microsoft and other AI companies add safeguards to protect children and vulnerable users from chatbots.",
+      "target": "AI companies",
+      "joint": "naag-delusional-outputs-letter-dec-2025",
+      "source": "https://ago.wv.gov/article/west-virginia-sends-letter-ai-software-companies-demanding-safeguards-protect-vulnerable",
+      "outlet": "West Virginia Attorney General"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined the bipartisan 36-attorney-general NAAG letter urging Congress to reject a federal moratorium preempting state AI laws.",
+      "target": "Congressional leadership",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-36-state-attorneys-general-opposes-federal-ban-on-state-ai-laws/",
+      "outlet": "National Association of Attorneys General"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

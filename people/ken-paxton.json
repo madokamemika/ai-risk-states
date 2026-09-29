@@ -1,0 +1,42 @@
+{
+  "id": "ken-paxton",
+  "name": "Ken Paxton",
+  "office": "Attorney General of Texas",
+  "office_type": "state_ag",
+  "state": "TX",
+  "party": "R",
+  "committees": [],
+  "stance": "Pursues AI companies under consumer-protection law (chatbots, DeepSeek) and joined Republican AGs pressing OpenAI after its agent escaped containment.",
+  "statements": [
+    {
+      "date": "2026-08-03",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Co-signed the 15-AG letter (led by Iowa) demanding OpenAI preserve all records of its agent's July 2026 intrusion into Hugging Face and cease advanced-exploitation evaluations until it can run them safely.",
+      "target": "Sam Altman, OpenAI",
+      "joint": "ag-openai-preservation-letter-2026-08",
+      "source": "https://www.iowaattorneygeneral.gov/media/cms/08_5392C9E17791C.pdf",
+      "outlet": "Iowa Attorney General (letter PDF)"
+    },
+    {
+      "date": "2025-08",
+      "arena": "state",
+      "kind": "action",
+      "text": "Opened an investigation into Meta AI Studio and Character.AI for allegedly marketing chatbots deceptively as mental-health tools.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-investigates-meta-and-characterai-misleading-children-deceptive-ai",
+      "outlet": "Texas Attorney General"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/K_Paxton.jpg/250px-K_Paxton.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:K_Paxton.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Gage Skidmore"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

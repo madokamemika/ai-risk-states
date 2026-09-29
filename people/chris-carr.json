@@ -1,0 +1,32 @@
+{
+  "id": "chris-carr",
+  "name": "Chris Carr",
+  "office": "Attorney General of Georgia",
+  "office_type": "state_ag",
+  "state": "GA",
+  "party": "R",
+  "committees": [],
+  "stance": "Joined the bipartisan AG coalition warning AI companies over chatbot harms to children; no frontier-risk action found.",
+  "statements": [
+    {
+      "date": "2025-08-25",
+      "arena": "state",
+      "kind": "action",
+      "text": "Georgia joined the 44-AG letter warning AI companies that they will be held accountable for chatbot harms to children.",
+      "target": null,
+      "joint": "naag-ai-child-safety-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-state-attorneys-general-issues-letter-to-ai-industry-leaders-on-child-safety/",
+      "outlet": "NAAG"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Christopher_M._Carr.jpg/250px-Christopher_M._Carr.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Christopher_M._Carr.jpg",
+    "license": "Public domain",
+    "artist": "The United States Senate - Office of Senator Kelly Loeffler"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

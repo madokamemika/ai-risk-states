@@ -1,0 +1,42 @@
+{
+  "id": "greg-abbott",
+  "name": "Greg Abbott",
+  "office": "Governor of Texas",
+  "office_type": "governor",
+  "state": "TX",
+  "party": "R",
+  "committees": [],
+  "stance": "Signed TRAIGA but said Texas would yield to a federal ban on state AI enforcement rather than risk federal funding.",
+  "statements": [
+    {
+      "date": "2025-06-22",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed HB 149, the Texas Responsible Artificial Intelligence Governance Act, effective January 1, 2026.",
+      "target": null,
+      "joint": null,
+      "source": "https://iapp.org/news/a/governor-signs-texas-responsible-artificial-intelligence-governance-act",
+      "outlet": "IAPP"
+    },
+    {
+      "date": "2025-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But if federal law does ultimately prohibit state enforcement of rules in the AI space, my instruction to executive agencies will be to take action necessary to ensure federal funding will not be compromised.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govtech.com/policy/with-federal-ban-near-texas-governor-signs-ai-bills",
+      "outlet": "GovTech"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Greg_Abbott_at_NASA_2024_%28cropped%29.jpg/250px-Greg_Abbott_at_NASA_2024_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Greg_Abbott_at_NASA_2024_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "NASA Johnson Space Center / NASA-JSC/ROBERT MARKOWITZ"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

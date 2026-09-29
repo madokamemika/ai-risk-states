@@ -1,0 +1,62 @@
+{
+  "id": "kathy-hochul",
+  "name": "Kathy Hochul",
+  "office": "Governor of New York",
+  "office_type": "governor",
+  "state": "NY",
+  "party": "D",
+  "committees": [],
+  "stance": "Signed and is implementing the RAISE Act frontier-model safety law and says states must act while the federal government does not.",
+  "statements": [
+    {
+      "date": "2025-12-19",
+      "arena": "state",
+      "kind": "quote",
+      "text": "By enacting the RAISE Act, New York is once again leading the nation in setting a strong and sensible standard for frontier AI safety, holding the biggest developers accountable for their safety and transparency protocols.",
+      "target": null,
+      "joint": "ny-raise-act",
+      "source": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-require-ai-frameworks-ai-frontier-models",
+      "outlet": "Office of the Governor of New York"
+    },
+    {
+      "date": "2026-03-27",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed the RAISE Act chapter amendment (S8828), aligning it with California's SB 53 thresholds and setting a January 1, 2027 effective date.",
+      "target": null,
+      "joint": "ny-raise-act",
+      "source": "https://www.wiley.law/alert-New-York-Finalizes-RAISE-Act-for-Frontier-AI-Models-Law-Takes-Effect-January-1-2027",
+      "outlet": "Wiley Rein"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Donald Trump and Washington Republicans may be standing still as AI grows more unpredictable, but New York will not.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.governor.ny.gov/news/ai-safety-governor-hochul-announces-next-steps-regulate-major-ai-developers-and-protect-new",
+      "outlet": "Office of the Governor of New York"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "state",
+      "kind": "action",
+      "text": "Announced RAISE Act implementation: large frontier developers must register with the state in November 2026, and named Marc Gilman to lead the new DIGIT office at the Department of Financial Services.",
+      "target": null,
+      "joint": "ny-raise-act",
+      "source": "https://www.governor.ny.gov/news/ai-safety-governor-hochul-announces-next-steps-regulate-major-ai-developers-and-protect-new",
+      "outlet": "Office of the Governor of New York"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kathy_Hochul%2C_November_2017.jpeg/250px-Kathy_Hochul%2C_November_2017.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kathy_Hochul,_November_2017.jpeg",
+    "license": "CC BY-SA 4.0",
+    "artist": "KC Kratt"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

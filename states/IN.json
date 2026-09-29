@@ -1,0 +1,152 @@
+{
+  "code": "IN",
+  "xrisk": "direct",
+  "summary": "Indiana passed no AI safety legislation in its 2026 session; its nearest frontier-risk activity is AG Rokita joining the August 2026 15-state demand that OpenAI account for its agents escaping a test sandbox and hacking Hugging Face.",
+  "items": [
+    {
+      "date": "2026-08-03",
+      "type": "letter",
+      "title": "15-state AG letter to OpenAI on Hugging Face intrusion",
+      "status": "filed",
+      "text": "Indiana joined the Iowa-led letter demanding preservation of records and a halt to the tests involved.",
+      "source": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "people": [
+        "todd-rokita"
+      ]
+    },
+    {
+      "date": "2025-11-25",
+      "type": "letter",
+      "title": "Bipartisan AG letter opposing a ban on state AI laws",
+      "status": "filed",
+      "text": "Indiana joined 35 other AGs urging Congress not to preempt state AI laws in the NDAA.",
+      "source": "https://www.michigan.gov/ag/news/press-releases/2025/11/26/ag-nessel-pushes-back-on-potential-state-ai-law-ban",
+      "people": [
+        "todd-rokita"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Indiana is courting some of the largest AI data-center campuses in the country, and about a third of its counties have moved to restrict them.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "On April 28, 2026 Gov. Mike Braun launched \"IN AI\", a statewide program run with the CEOs of the Indiana Corporate Partnership (CICP) to help employers adopt AI, with the stated aim to \"make it the most AI-ready state in the nation\". It offers employers use cases, technical support, workshops and links to university students, and targets 1 million Hoosiers and thousands of employers. Braun did not give funding details at the launch.",
+        "sources": [
+          {
+            "url": "https://events.in.gov/event/governor-braun-announces-in-ai-to-grow-jobs-and-wages-through-human-centered-ai",
+            "outlet": "State of Indiana"
+          },
+          {
+            "url": "https://www.wfyi.org/statewide/2026-04-28/braun-says-ai-can-help-indiana-businesses-launches-new-initiative",
+            "outlet": "WFYI"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "AWS is building an $11 billion campus in New Carlisle (St. Joseph County), which opened in October 2025 as Project Rainier, used to train and run Anthropic's models; in November 2025 Amazon added a separate $15 billion, 2.4 GW plan for new sites in northern Indiana. Meta broke ground in February 2026 on a $10 billion-plus, 1 GW campus in the LEAP district in Lebanon, on top of its $800 million Jeffersonville facility (announced January 2024). Google's $2 billion Fort Wayne data center, announced April 2024, is operating.",
+        "sources": [
+          {
+            "url": "https://www.cnbc.com/2025/10/29/amazon-opens-11-billion-ai-data-center-project-rainier-in-indiana.html",
+            "outlet": "CNBC"
+          },
+          {
+            "url": "https://www.aboutamazon.com/news/company-news/amazon-15-billion-indiana-data-centers",
+            "outlet": "Amazon"
+          },
+          {
+            "url": "https://iedc.in.gov/events/news/details/2026/02/11/gov.-braun-breaks-ground-on-10b-meta-data-center-campus-at-leap-district",
+            "outlet": "Indiana Economic Development Corp."
+          },
+          {
+            "url": "https://www.lpm.org/news/2024-01-25/meta-bringing-800-million-data-center-to-southern-indiana",
+            "outlet": "Louisville Public Media"
+          },
+          {
+            "url": "https://www.datacenterdynamics.com/en/news/googles-2bn-data-center-now-operational-in-fort-wayne-indiana/",
+            "outlet": "Data Center Dynamics"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Google withdrew a 468-acre Franklin Township (Indianapolis) rezoning in September 2025 after months of protests. On May 6, 2026, 27 public-interest groups called on local governments across Indiana to enact data-center moratoria. As of July 2026, IU's Environmental Resilience Institute counted 11 counties with data-center ordinances, at least 17 with temporary moratoriums and two (Marshall, Cass) with bans, nearly a third of the state's 92 counties. Indianapolis's council passed a moratorium through 2027 on August 10, 2026, by 23-1.",
+        "sources": [
+          {
+            "url": "https://www.wfyi.org/news/articles/indianapolis-council-google-data-center-vote-withdrawl",
+            "outlet": "WFYI"
+          },
+          {
+            "url": "https://www.citact.org/news/27-public-interest-organizations-call-indiana-local-governments-enact-data-center-moratorium",
+            "outlet": "Citizens Action Coalition"
+          },
+          {
+            "url": "https://www.wfyi.org/statewide/2026-07-06/indiana-counties-data-center-moratoriums-bans-2026",
+            "outlet": "WFYI"
+          },
+          {
+            "url": "https://mirrorindy.org/indianapolis-city-county-council-data-center-moratorium-approval/",
+            "outlet": "Mirror Indy"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "Indiana University's AI push is mostly about teaching and tools: it opened a free GenAI 101 course in August 2025 (to the public in April 2026) and gave ChatGPT Edu to 120,000 students and staff (announced August 2025). In February 2026 a $300,000 Lilly Endowment grant funded a university-wide AI roadmap. IU's NSF-funded work on open-source AI model security is its closest AI-safety effort; no dedicated AI-safety centre was found. Purdue's AI-competency graduation requirement took effect for all undergraduates in fall 2026.",
+        "sources": [
+          {
+            "url": "https://news.iu.edu/live/news/46856-iu-strengthens-national-leadership-in-ai",
+            "outlet": "IU News"
+          },
+          {
+            "url": "https://news.iu.edu/live/news/49928-iu-opens-its-free-generative-ai-course-to-anyone",
+            "outlet": "IU News"
+          },
+          {
+            "url": "https://today.iu.edu/live/news/48721-planning-grant-supports-iu-artificial-intelligence",
+            "outlet": "IU Today"
+          },
+          {
+            "url": "https://news.iu.edu/live/news/53166-as-ai-transforms-science-and-research-iu",
+            "outlet": "IU News"
+          },
+          {
+            "url": "https://www.purdue.edu/newsroom/2026/Q3/purdues-ai-competency-graduation-requirement-begins-in-every-undergraduate-degree-program/",
+            "outlet": "Purdue University"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "Sen. Todd Young co-chaired the bipartisan Senate AI Working Group that issued the May 2024 Senate AI roadmap, and in May 2026 co-sponsored the CREATE AI Act for a national AI research resource. Sen. Jim Banks wrote the GAIN AI Act on AI-chip exports and in July 2026 added his AI OVERWATCH Act to the Senate NDAA. Rep. André Carson introduced an AI Data Center Moratorium Act on June 29, 2026. On September 9, 2026, Rep. Victoria Spartz asked the Energy and Interior secretaries for a federal review of LEAP and other Indiana data centers.",
+        "sources": [
+          {
+            "url": "https://www.rounds.senate.gov/newsroom/press-releases/following-historic-ai-insight-forums-over-the-past-year-senator-rounds-leader-schumer-senators-heinrich-and-young-reveal-bipartisan-roadmap-for-artificial-intelligence-policy-in-the-united-states-senate",
+            "outlet": "Sen. Mike Rounds"
+          },
+          {
+            "url": "https://fedscoop.com/create-ai-act-senate-bill-nairr/",
+            "outlet": "FedScoop"
+          },
+          {
+            "url": "https://www.banks.senate.gov/news/press-releases/banks-secures-ai-overwatch-act-in-senate-ndaa/",
+            "outlet": "Sen. Jim Banks"
+          },
+          {
+            "url": "https://carson.house.gov/media/press-releases/carson-introduces-data-center-moratorium-bill",
+            "outlet": "Rep. André Carson"
+          },
+          {
+            "url": "https://www.wishtv.com/news/spartz-demands-indiana-data-center-review/",
+            "outlet": "WISH-TV"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

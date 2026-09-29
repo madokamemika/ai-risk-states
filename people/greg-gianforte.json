@@ -1,0 +1,32 @@
+{
+  "id": "greg-gianforte",
+  "name": "Greg Gianforte",
+  "office": "Governor of Montana",
+  "office_type": "governor",
+  "state": "MT",
+  "party": "R",
+  "committees": [],
+  "stance": "Signed the Right to Compute Act limiting government restrictions on computation, which also requires a human-control shutdown mechanism for AI-controlled critical infrastructure.",
+  "statements": [
+    {
+      "date": "2025-04-16",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed SB 212, the Right to Compute Act, which protects private use of computational resources and requires AI-controlled critical infrastructure to have a shutdown mechanism reverting to human control.",
+      "target": null,
+      "joint": null,
+      "source": "https://projects.montanafreepress.org/capitol-tracker-2025/bills/sb-212/",
+      "outlet": "Montana Free Press"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Greg_Gianforte_crop.jpg/250px-Greg_Gianforte_crop.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Greg_Gianforte_crop.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Jim Winstead from Los Angeles, CA, USA"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

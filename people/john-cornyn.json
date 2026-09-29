@@ -1,0 +1,30 @@
+{
+  "id": "john-cornyn",
+  "name": "John Cornyn",
+  "office": "U.S. Senator from Texas",
+  "office_type": "us_senator",
+  "state": "TX",
+  "party": "R",
+  "committees": [
+    "Senate Judiciary",
+    "Senate Finance",
+    "Senate Intelligence"
+  ],
+  "stance": "Says slowing AI development is up to the developers, and that their competitors, US adversaries included, will not slow down.",
+  "statements": [
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If developers of AI want to slow down development of their product they are free to do so. One thing is for sure: their competitors won't, including our nation's adversaries.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JohnCornyn/status/2099134335676764169",
+      "outlet": "X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

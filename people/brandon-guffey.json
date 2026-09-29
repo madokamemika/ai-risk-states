@@ -1,0 +1,32 @@
+{
+  "id": "brandon-guffey",
+  "name": "Brandon Guffey",
+  "office": "South Carolina State Representative",
+  "office_type": "state_rep",
+  "state": "SC",
+  "party": "R",
+  "committees": [],
+  "stance": "Opposes a federal moratorium on state AI laws.",
+  "statements": [
+    {
+      "date": "2025-06-03",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led the letter of more than 260 state legislators asking Congress to drop the 10-year AI moratorium.",
+      "target": "Congress",
+      "joint": "state-legislators-letter-june-2025",
+      "source": "https://statescoop.com/state-lawmakers-push-back-federal-proposal-limit-ai-regulation/",
+      "outlet": "StateScoop"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Brandon_Guffey.jpg/250px-Brandon_Guffey.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brandon_Guffey.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Tad Leran"
+  }
+}

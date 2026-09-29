@@ -1,0 +1,32 @@
+{
+  "id": "thaddeus-claggett",
+  "name": "Thaddeus Claggett",
+  "office": "Ohio State Representative",
+  "office_type": "state_rep",
+  "state": "OH",
+  "party": "R",
+  "committees": [],
+  "stance": "Sponsors HB 469 declaring AI systems nonsentient and barring AI legal personhood so liability stays with humans.",
+  "statements": [
+    {
+      "date": "2025-10-21",
+      "arena": "state",
+      "kind": "quote",
+      "text": "But sophistication is not sentience. It is not personhood. AI may simulate human reason to a degree, but it cannot and must not be permitted to supplant it.",
+      "target": null,
+      "joint": null,
+      "source": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/committees/cmte_h_tech_innovation_1/meetings/cmte_h_tech_innovation_1_2025-10-21-1000_784/testimony/11682/claggett.hb.469.sponsor.pdf",
+      "outlet": "Ohio House Technology and Innovation Committee (sponsor testimony)"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Thaddeus_Claggett_by_Gage_Skidmore.jpg/250px-Thaddeus_Claggett_by_Gage_Skidmore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Thaddeus_Claggett_by_Gage_Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Gage Skidmore"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

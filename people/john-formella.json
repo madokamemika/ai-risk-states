@@ -1,0 +1,36 @@
+{
+  "id": "john-formella",
+  "name": "John Formella",
+  "office": "Attorney General of New Hampshire",
+  "office_type": "state_ag",
+  "state": "NH",
+  "party": "R",
+  "committees": [],
+  "stance": "Opposes a federal moratorium on state AI enforcement.",
+  "statements": [
+    {
+      "date": "2025-05-16",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Co-led the 40-AG letter asking Congress to reject the 10-year moratorium on state AI enforcement.",
+      "target": "Congress",
+      "joint": "ag-letter-moratorium-may-2025",
+      "source": "https://ago.vermont.gov/blog/2025/05/16/attorney-general-clark-leads-bipartisan-letter-congress-opposing-budget-amendment-prohibiting-states",
+      "outlet": "Vermont Attorney General"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined the bipartisan 36-attorney-general NAAG letter urging Congress to reject a federal moratorium preempting state AI laws.",
+      "target": "Congressional leadership",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-36-state-attorneys-general-opposes-federal-ban-on-state-ai-laws/",
+      "outlet": "National Association of Attorneys General"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

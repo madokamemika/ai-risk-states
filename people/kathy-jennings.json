@@ -1,0 +1,62 @@
+{
+  "id": "kathy-jennings",
+  "name": "Kathy Jennings",
+  "office": "Attorney General of Delaware",
+  "office_type": "state_ag",
+  "state": "DE",
+  "party": "D",
+  "committees": [],
+  "stance": "Used Delaware's charity-law oversight of OpenAI's recapitalization to keep a nonprofit safety committee able to halt model releases; backs federal frontier-AI rules.",
+  "statements": [
+    {
+      "date": "2025-10-28",
+      "arena": "state",
+      "kind": "action",
+      "text": "Approved OpenAI's recapitalization on conditions that the nonprofit keep control and that its Safety and Security Committee retain authority to halt model releases on safety grounds.",
+      "target": null,
+      "joint": null,
+      "source": "https://news.delaware.gov/2025/10/28/ag-jennings-completes-review-of-openai-recapitalization/",
+      "outlet": "State of Delaware News"
+    },
+    {
+      "date": "2025-10-28",
+      "arena": "state",
+      "kind": "quote",
+      "text": "These reforms are designed to help this technology realize its extraordinary potential to benefit humanity",
+      "target": null,
+      "joint": null,
+      "source": "https://news.delaware.gov/2025/10/28/ag-jennings-completes-review-of-openai-recapitalization/",
+      "outlet": "State of Delaware News"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Signed the 26-attorney-general letter urging Congress to immediately establish federal regulation and safety protocols for frontier AI (mandatory safety testing oversight, incident investigations, international coordination against harmful superintelligence) without preempting state law.",
+      "target": "Congressional leadership (Johnson, Thune, Jeffries, Schumer)",
+      "joint": "ag-letter-congress-sept-2026",
+      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "outlet": "California Attorney General (letter PDF)"
+    },
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined the bipartisan 36-attorney-general NAAG letter urging Congress to reject a federal moratorium preempting state AI laws.",
+      "target": "Congressional leadership",
+      "joint": "naag-ai-preemption-letter-2025",
+      "source": "https://www.naag.org/press-releases/bipartisan-coalition-of-36-state-attorneys-general-opposes-federal-ban-on-state-ai-laws/",
+      "outlet": "National Association of Attorneys General"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kathy_Jennings_AG.png/250px-Kathy_Jennings_AG.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Kathy_Jennings_AG.png",
+    "license": "CC BY 3.0",
+    "artist": "www.Tarbia.TV"
+  }
+}

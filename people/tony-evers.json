@@ -1,0 +1,32 @@
+{
+  "id": "tony-evers",
+  "name": "Tony Evers",
+  "office": "Governor of Wisconsin",
+  "office_type": "governor",
+  "state": "WI",
+  "party": "D",
+  "committees": [],
+  "stance": "Opposes federal preemption of state AI safeguards.",
+  "statements": [
+    {
+      "date": "2025-12-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "To be clear: if you, your administration, or Congressional Republicans make any attempt to preempt state laws like Wisconsin’s that create basic, common-sense AI safeguards, you will be making kids and families in Wisconsin less safe from dangerous and malicious misuses of AI,",
+      "target": "President Trump",
+      "joint": null,
+      "source": "https://www.wpr.org/news/trump-executive-order-artificial-intelligence-evers-letter",
+      "outlet": "Wisconsin Public Radio"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Tony_Evers_%28cropped%29.jpg/250px-Tony_Evers_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tony_Evers_(cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Tony Evers"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

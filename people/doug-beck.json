@@ -1,0 +1,26 @@
+{
+  "id": "doug-beck",
+  "name": "Doug Beck",
+  "office": "Missouri State Senator",
+  "office_type": "state_senator",
+  "state": "MO",
+  "party": "D",
+  "committees": [],
+  "stance": "Wants AI rules addressing synthetic media.",
+  "statements": [
+    {
+      "date": "2026-05-25",
+      "arena": "state",
+      "kind": "quote",
+      "text": "you don't know what's real and what isn't real",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kfvs12.com/2026/05/25/missouri-lawmakers-fail-pass-ai-regulations-during-2026-legislative-session/",
+      "outlet": "KFVS12"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

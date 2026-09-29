@@ -1,0 +1,136 @@
+{
+  "code": "UT",
+  "xrisk": "direct",
+  "summary": "Utah's HB 286 (2026) would have required large AI developers to assess catastrophic risks and report incidents but stalled after White House opposition; Gov. Cox has since called for a federal frontier-AI safety floor that does not preempt states and warned of rising existential risk.",
+  "items": [
+    {
+      "date": "2026-02",
+      "type": "bill",
+      "title": "HB 286 — AI developer catastrophic-risk and child-safety plans",
+      "status": "failed",
+      "text": "Would have required large AI companies to assess catastrophic risks, publish safety plans and report incidents to the Office of AI Policy; stalled in the House after a White House memo called it unfixable.",
+      "source": "https://www.kuer.org/politics-government/2026-02-19/trump-is-pressuring-utah-on-an-ai-bill-gov-cox-says-states-should-lead-on-policy",
+      "people": [
+        "doug-fiefia",
+        "spencer-cox"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "type": "letter",
+      "title": "Republican AGs' preservation demand to OpenAI",
+      "status": "filed",
+      "text": "AG Derek Brown co-signed the demand that OpenAI preserve Hugging Face breach records and halt risky exploitation testing.",
+      "source": "https://www.iowaattorneygeneral.gov/media/cms/08_5392C9E17791C.pdf",
+      "people": [
+        "derek-brown"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "type": "letter",
+      "title": "Cox open letter to Congress on AI safety framework",
+      "status": "filed",
+      "text": "Calls for mandatory safety-incident reporting, whistleblower protections, third-party audits and a ban on AI chip sales to China.",
+      "source": "https://www.ksl.com/article/51623925/utah-governor-calls-on-congress-to-create-framework-for-ai-safety",
+      "people": [
+        "spencer-cox"
+      ]
+    }
+  ],
+  "profile": {
+    "headline": "Utah markets itself as a \"pro-human AI\" state, but a proposed 9-gigawatt data center set off a statewide backlash in 2026.",
+    "sections": [
+      {
+        "topic": "state_push",
+        "text": "Utah created the first state Office of Artificial Intelligence Policy in 2024; it runs regulatory sandboxes. In December 2025 Gov. Spencer Cox announced a $10 million \"pro-human\" AI initiative, and in February 2026 he named a Pro-Human AI Task Force. Executive Order 2026-03 (May 29, 2026) requires state agencies to review data centers against a framework covering water, the Great Salt Lake, air, ratepayers and public comment.",
+        "sources": [
+          {
+            "url": "https://www.deseret.com/business/2025/12/02/gov-cox-announces-utah-pro-human-ai-initiative/",
+            "outlet": "Deseret News"
+          },
+          {
+            "url": "https://commerce.utah.gov/2026/02/25/utah-announces-pro-human-ai-task-force-members/",
+            "outlet": "Utah Department of Commerce"
+          },
+          {
+            "url": "https://servercountry.org/policy/utah/",
+            "outlet": "Server Country"
+          }
+        ]
+      },
+      {
+        "topic": "compute",
+        "text": "Box Elder County commissioners approved the Stratos Project, backed by Kevin O'Leary, on May 4, 2026: 40,000 acres in Hansel Valley needing up to 9 GW, likely more than $100 billion at full build. In June 2026, after backlash, O'Leary cut the site to just over 20,000 acres, and the first-phase permit was capped at 1 GW at Cox's request.",
+        "sources": [
+          {
+            "url": "https://utahnewsdispatch.com/2026/05/04/box-elder-commissioners-approve-data-center/",
+            "outlet": "Utah News Dispatch"
+          },
+          {
+            "url": "https://fortune.com/2026/05/11/shark-tank-kevin-oleary-millionaire-utah-data-center-american-politics-protests-ai-tech/",
+            "outlet": "Fortune"
+          },
+          {
+            "url": "https://www.deseret.com/politics/2026/06/04/kevin-oleary-reduces-size-of-box-elder-county-utah-ai-data-center-after-political-backlash-from-senate-president-stuart-adams/",
+            "outlet": "Deseret News"
+          }
+        ]
+      },
+      {
+        "topic": "pushback",
+        "text": "Hundreds of residents protested the Stratos approval in May 2026; the project sits beside the northern tip of the shrinking Great Salt Lake. In August 2026 Cox called for \"major reform\" of the Military Installation Development Authority, which had endorsed the project. Logan adopted a temporary prohibition on data centers on July 1, 2026, and Grand County a 180-day pause in July.",
+        "sources": [
+          {
+            "url": "https://www.cnn.com/2026/05/09/tech/ai-data-center-utah-kevin-oleary-opposition",
+            "outlet": "CNN"
+          },
+          {
+            "url": "https://www.ksl.com/article/51614434/cox-calls-for-major-reform-to-mida-after-data-center-pushback",
+            "outlet": "KSL"
+          },
+          {
+            "url": "https://servercountry.org/policy/utah/",
+            "outlet": "Server Country"
+          }
+        ]
+      },
+      {
+        "topic": "universities",
+        "text": "The University of Utah's One-U Responsible AI Initiative is a $100 million commitment announced by President Taylor Randall in October 2023. It is run by the Scientific Computing and Imaging Institute and funds cluster hires, fellowships, and seed grants, the first round totalling $386,855 across nine teams.",
+        "sources": [
+          {
+            "url": "https://www.ksl.com/article/50761931/university-of-utah-launches-100m-ai-research-initiative-aimed-at-tackling-societal-issues",
+            "outlet": "KSL"
+          },
+          {
+            "url": "https://rai.utah.edu/inaugural-seed-grants/",
+            "outlet": "University of Utah"
+          }
+        ]
+      },
+      {
+        "topic": "congress",
+        "text": "In September 2026 Sen. John Curtis (R) broke with the White House and called for congressional hearings with AI executives and a regulatory framework for AI companies. He co-sponsored a bill protecting AI-industry whistleblowers and the bipartisan AI Labeling Act of 2026. Sen. Mike Lee (R) argued in March 2026 for permitting reform to build the energy and infrastructure AI needs.",
+        "sources": [
+          {
+            "url": "https://www.deseret.com/politics/2026/09/16/john-curtis-wants-ai-regulations/",
+            "outlet": "Deseret News"
+          },
+          {
+            "url": "https://www.deseret.com/politics/2026/09/25/john-curtis-back-bill-protecting-ai-whistleblower/",
+            "outlet": "Deseret News"
+          },
+          {
+            "url": "https://www.deseret.com/opinion/2026/03/01/utah-senator-mike-lee-ai-reform/",
+            "outlet": "Deseret News"
+          }
+        ]
+      }
+    ]
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

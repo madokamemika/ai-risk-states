@@ -1,0 +1,29 @@
+{
+  "id": "anna-paulina-luna",
+  "name": "Anna Paulina Luna",
+  "office": "U.S. Representative, Florida 13th District",
+  "office_type": "us_rep",
+  "state": "FL",
+  "party": "R",
+  "committees": [
+    "House Oversight",
+    "House Foreign Affairs"
+  ],
+  "stance": "Wants the US to win the AI race against China while protecting humanity and US citizens.",
+  "statements": [
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to win the AI race so we aren't answering to China, But we also have to protect humanity and protect our citizens.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLuna/status/2099299354259357852",
+      "outlet": "X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}

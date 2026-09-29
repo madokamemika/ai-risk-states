@@ -1,0 +1,52 @@
+{
+  "id": "maura-healey",
+  "name": "Maura Healey",
+  "office": "Governor of Massachusetts",
+  "office_type": "governor",
+  "state": "MA",
+  "party": "D",
+  "committees": [],
+  "stance": "Urges both federal AI guardrails and stronger Massachusetts frontier-model rules, including independent evaluation and lower harm thresholds.",
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Enough is enough. We need federal action to put guardrails on AI development before it's too late.",
+      "target": null,
+      "joint": null,
+      "source": "https://statescoop.com/massachusetts-gov-healey-urges-federal-ai-oversight-after-trump-dismisses-industry-concerns/",
+      "outlet": "StateScoop"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "state",
+      "kind": "quote",
+      "text": "We cannot allow the technology to move faster than our ability to put appropriate safeguards in place.",
+      "target": null,
+      "joint": "ma-frontier-ai-act",
+      "source": "https://www.newbedfordguide.com/massachusetts-gov-healey-lawmakers-put-ai-guardrails-place-crisis-forces-hand/2026/09/18",
+      "outlet": "New Bedford Guide"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "state",
+      "kind": "urging",
+      "text": "Asked the Mass Wins conference committee to strengthen the Senate's frontier-AI section with independent evaluation and lower reporting thresholds (one death or $10 million in damage instead of 50 deaths or $1 billion).",
+      "target": "Massachusetts economic development conference committee",
+      "joint": "ma-frontier-ai-act",
+      "source": "https://www.newbedfordguide.com/massachusetts-gov-healey-lawmakers-put-ai-guardrails-place-crisis-forces-hand/2026/09/18",
+      "outlet": "New Bedford Guide"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Maura_Healey_Official_Campaign_photo.jpeg/250px-Maura_Healey_Official_Campaign_photo.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Maura_Healey_Official_Campaign_photo.jpeg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Zgreenblatt"
+  },
+  "review": {
+    "status": "unreviewed",
+    "note": "research pass, September 2026; not yet reviewed"
+  }
+}
