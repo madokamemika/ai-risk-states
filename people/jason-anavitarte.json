@@ -24,5 +24,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Member_of_the_Georgia_State_Senate_Jason_Raul_Anavitarte.jpg/250px-Member_of_the_Georgia_State_Senate_Jason_Raul_Anavitarte.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Member_of_the_Georgia_State_Senate_Jason_Raul_Anavitarte.jpg",
+    "license": "Public domain",
+    "artist": "Legislative Assembly of Georgia"
   }
 }

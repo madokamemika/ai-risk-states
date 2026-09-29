@@ -22,5 +22,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Giovanni_Capriglione_at_SXSW_2025.jpg/250px-Giovanni_Capriglione_at_SXSW_2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Giovanni_Capriglione_at_SXSW_2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Vbrunophotog"
   }
 }

@@ -22,5 +22,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Michael_Moore_headshot.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Michael_Moore_headshot.jpg",
+    "license": "Public domain (PD-MAGov)",
+    "artist": "Massachusetts General Court"
   }
 }

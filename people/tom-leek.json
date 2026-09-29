@@ -32,5 +32,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Tom_Leek.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tom_Leek.jpg",
+    "license": "Public domain",
+    "artist": "Florida House of Representatives"
   }
 }

@@ -22,5 +22,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/NJ_AG_Matthew_J._Platkin.jpg/250px-NJ_AG_Matthew_J._Platkin.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NJ_AG_Matthew_J._Platkin.jpg",
+    "license": "Public domain",
+    "artist": "New Jersey Office of the Attorney General"
   }
 }

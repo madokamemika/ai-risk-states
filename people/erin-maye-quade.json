@@ -32,5 +32,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Erin_Maye_Quade%2C_Gender_Justice_Advocacy_Director_%28cropped%29.jpg/250px-Erin_Maye_Quade%2C_Gender_Justice_Advocacy_Director_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Erin_Maye_Quade,_Gender_Justice_Advocacy_Director_(cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Lorie Shaull"
   }
 }

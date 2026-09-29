@@ -52,5 +52,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Dave_Sunday_by_Gage_Skidmore.jpg/250px-Dave_Sunday_by_Gage_Skidmore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dave_Sunday_by_Gage_Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Gage Skidmore"
   }
 }

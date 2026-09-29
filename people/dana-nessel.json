@@ -42,5 +42,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Dana_Nessel_20190202_110126.jpg/250px-Dana_Nessel_20190202_110126.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dana_Nessel_20190202_110126.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "SecretName101"
   }
 }

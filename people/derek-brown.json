@@ -32,5 +32,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Derek_Brown.jpg/250px-Derek_Brown.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Derek_Brown.jpg",
+    "license": "CC0",
+    "artist": "Utah House of Representatives"
   }
 }
