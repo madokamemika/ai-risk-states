@@ -28,7 +28,8 @@ For each entry in `queue/bills.json` or `queue/offices.json`:
   preemption of state law; `state` if aimed at the speaker's own state's law,
   courts or enforcement.
 - **Current office.** Check the person still holds it; office changes are the
-  most common error.
+  most common error. Someone who has left keeps their file, with `left_office`
+  set to the date and `office` saying until when.
 - **Neutral voice.** No adjectives that take a side; people on every side of the
   preemption fight belong here.
 - **Mark it reviewed:** set `"review": {"status": "reviewed", "by": "<name or model>", "date": "YYYY-MM-DD"}`

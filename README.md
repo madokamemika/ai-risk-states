@@ -23,7 +23,7 @@ Entries marked `"review": {"status": "unreviewed"}` came from a research pass in
 September 2026 and have not yet been reviewed. Treat them accordingly, and see
 below to help.
 
-## Three fields to get right
+## Four fields to get right
 
 - **`kind`** on a statement: `quote` is the speaker's exact words, found verbatim
   at the source; `urging` and `action` are paraphrase.
@@ -32,6 +32,9 @@ below to help.
 - **`xrisk`** on a state: `acted` for a law, executive order or enforcement action
   aimed at frontier risk; `direct` for letters, statements or pending bills on it;
   `adjacent` for AI safety short of catastrophic risk; `none` for nothing on record.
+- **`left_office`** on a person: the date they left the office named in `office`.
+  Their record stays, since what they said and did while in office is still on
+  the record, but the page stops listing the powers of an office they no longer hold.
 
 ## How things get in
 

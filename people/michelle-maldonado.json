@@ -1,12 +1,13 @@
 {
   "id": "michelle-maldonado",
   "name": "Michelle Lopes Maldonado",
-  "office": "Member of the Virginia House of Delegates",
+  "office": "Member of the Virginia House of Delegates until 31 May 2026",
   "office_type": "state_rep",
   "state": "VA",
+  "left_office": "2026-05-31",
   "party": "D",
   "committees": [],
-  "stance": "Sponsor of Virginia's high-risk AI (algorithmic discrimination) bill vetoed in 2025 and of a 2026 chatbot child-safety bill carried over to 2027.",
+  "stance": "Sponsor of Virginia's high-risk AI (algorithmic discrimination) bill vetoed in 2025 and of a 2026 chatbot child-safety bill continued to 2027. Resigned her seat on 31 May 2026 to join the Information Technology and Innovation Foundation as an AI policy analyst.",
   "statements": [
     {
       "date": "2025-05-08",
