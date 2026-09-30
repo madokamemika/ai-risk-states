@@ -39,6 +39,16 @@
       "outlet": "The White House"
     },
     {
+      "date": "2026-05-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We talked about possibly working together for guardrails",
+      "target": null,
+      "joint": null,
+      "source": "https://www.aol.com/articles/trump-says-discussed-ai-guardrails-160924000.html",
+      "outlet": "The Hill (via AOL)"
+    },
+    {
       "date": "2026-06-02",
       "arena": "federal",
       "kind": "action",

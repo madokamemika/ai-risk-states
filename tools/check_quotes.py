@@ -21,8 +21,9 @@ def fetch(url, cache={}):
     if url not in cache:
         try:
             request = urllib.request.Request(url, headers={'User-Agent': USER_AGENT})
-            raw = urllib.request.urlopen(request, timeout=30).read().decode('utf-8', 'ignore')
-            cache[url] = normalise(MARKUP.sub(' ', raw))
+            body = urllib.request.urlopen(request, timeout=30).read()
+            # A PDF's text is compressed, so it cannot be searched: report it unverified, not missing.
+            cache[url] = None if body.startswith(b'%PDF') else normalise(MARKUP.sub(' ', body.decode('utf-8', 'ignore')))
         except Exception:
             cache[url] = None
     return cache[url]

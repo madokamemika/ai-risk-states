@@ -1,0 +1,37 @@
+{
+  "id": "chris-murphy",
+  "name": "Chris Murphy",
+  "office": "U.S. Senator from Connecticut",
+  "office_type": "us_senator",
+  "state": "CT",
+  "party": "D",
+  "committees": [
+    "Senate Appropriations",
+    "Senate Foreign Relations",
+    "Senate Health, Education, Labor and Pensions"
+  ],
+  "stance": "Backs Connecticut's 2026 AI legislation and wants Congress to regulate AI as well.",
+  "statements": [
+    {
+      "date": "2026-05-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While Trump and Big Tech team up to stop any regulation of AI, Connecticut is taking an important first step to put people's safety and job security over billionaire profits. Time for Congress to do the same.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisMurphyCT/status/2052046780917862420",
+      "outlet": "X"
+    }
+  ],
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Sen_Chris_Murphy_in_2023.jpg/250px-Sen_Chris_Murphy_in_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sen_Chris_Murphy_in_2023.jpg",
+    "license": "Public domain",
+    "artist": "The White House"
+  },
+  "review": {
+    "status": "reviewed",
+    "by": "Claude",
+    "date": "2026-09-30"
+  }
+}
