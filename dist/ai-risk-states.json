@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29",
+ "generated": "2026-09-30",
  "bill_counts_asof": "2026-09-29",
  "bill_counts": {
   "AK": 3,
@@ -658,6 +658,16 @@
    "stance": "Wants mandatory public disclosure of AI model capabilities and safeguards, including against autonomous loss of control, enforced by the FTC.",
    "statements": [
     {
+     "date": "2025-12-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed letters to OpenAI, Microsoft, Google, Anthropic, Meta, Luka, Character.AI and xAI asking them to commit to timely, consistent safety disclosures around model releases, warning that trouble with well-understood risks raises concerns about managing more complex ones.",
+     "target": null,
+     "joint": "ai-safety-disclosure-letters-2025",
+     "source": "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-brian-schatz-colleagues-press-ai-companies-to-improve-transparency-commit-to-timely-consistent-safety-disclosures/",
+     "outlet": "Office of Sen. Katie Britt"
+    },
+    {
      "date": "2026-09-24",
      "arena": "federal",
      "kind": "action",
@@ -1048,6 +1058,16 @@
    "stance": "Wants a ban on AI systems too powerful for humans to control and a pause on advanced AI development pending federal rules.",
    "statements": [
     {
+     "date": "2026-05-06",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Endorsed Sen. Sanders's call to do everything possible to prevent a catastrophe from uncontrolled AI (\"I'm 100% with Bernie here\").",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/RepCasar/status/2052091765604143122",
+     "outlet": "X"
+    },
+    {
      "date": "2026-09-03",
      "arena": "federal",
      "kind": "quote",
@@ -1315,6 +1335,16 @@
      "joint": null,
      "source": "https://x.com/ChrisCoons/status/2099127546692473072",
      "outlet": "X"
+    },
+    {
+     "date": "2025-12-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed letters to OpenAI, Microsoft, Google, Anthropic, Meta, Luka, Character.AI and xAI asking them to commit to timely, consistent safety disclosures around model releases, warning that trouble with well-understood risks raises concerns about managing more complex ones.",
+     "target": null,
+     "joint": "ai-safety-disclosure-letters-2025",
+     "source": "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-brian-schatz-colleagues-press-ai-companies-to-improve-transparency-commit-to-timely-consistent-safety-disclosures/",
+     "outlet": "Office of Sen. Katie Britt"
     }
    ],
    "review": {
@@ -2084,13 +2114,13 @@
    "state": "MT",
    "party": "R",
    "committees": [],
-   "stance": "Signed the Right to Compute Act limiting government restrictions on computation, which also requires a human-control shutdown mechanism for AI-controlled critical infrastructure.",
+   "stance": "Signed the Right to Compute Act limiting government restrictions on computation, which also requires a risk management policy for AI-controlled critical infrastructure.",
    "statements": [
     {
      "date": "2025-04-16",
      "arena": "state",
      "kind": "action",
-     "text": "Signed SB 212, the Right to Compute Act, which protects private use of computational resources and requires AI-controlled critical infrastructure to have a shutdown mechanism reverting to human control.",
+     "text": "Signed SB 212, the Right to Compute Act, which protects private use of computational resources and requires deployers of AI that controls critical infrastructure to adopt a risk management policy.",
      "target": null,
      "joint": null,
      "source": "https://projects.montanafreepress.org/capitol-tracker-2025/bills/sb-212/",
@@ -3838,6 +3868,16 @@
    "stance": "Wants mandatory public disclosure of AI model capabilities and safeguards, including against autonomous loss of control, enforced by the FTC.",
    "statements": [
     {
+     "date": "2025-12-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed letters to OpenAI, Microsoft, Google, Anthropic, Meta, Luka, Character.AI and xAI asking them to commit to timely, consistent safety disclosures around model releases, warning that trouble with well-understood risks raises concerns about managing more complex ones.",
+     "target": null,
+     "joint": "ai-safety-disclosure-letters-2025",
+     "source": "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-brian-schatz-colleagues-press-ai-companies-to-improve-transparency-commit-to-timely-consistent-safety-disclosures/",
+     "outlet": "Office of Sen. Katie Britt"
+    },
+    {
      "date": "2026-09-24",
      "arena": "federal",
      "kind": "action",
@@ -4858,6 +4898,43 @@
    }
   },
   {
+   "id": "chris-murphy",
+   "name": "Chris Murphy",
+   "office": "U.S. Senator from Connecticut",
+   "office_type": "us_senator",
+   "state": "CT",
+   "party": "D",
+   "committees": [
+    "Senate Appropriations",
+    "Senate Foreign Relations",
+    "Senate Health, Education, Labor and Pensions"
+   ],
+   "stance": "Backs Connecticut's 2026 AI legislation and wants Congress to regulate AI as well.",
+   "statements": [
+    {
+     "date": "2026-05-06",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "While Trump and Big Tech team up to stop any regulation of AI, Connecticut is taking an important first step to put people's safety and job security over billionaire profits. Time for Congress to do the same.",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/ChrisMurphyCT/status/2052046780917862420",
+     "outlet": "X"
+    }
+   ],
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Sen_Chris_Murphy_in_2023.jpg/250px-Sen_Chris_Murphy_in_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sen_Chris_Murphy_in_2023.jpg",
+    "license": "Public domain",
+    "artist": "The White House"
+   },
+   "review": {
+    "status": "reviewed",
+    "by": "Claude",
+    "date": "2026-09-30"
+   }
+  },
+  {
    "id": "liz-murrill",
    "name": "Liz Murrill",
    "office": "Attorney General of Louisiana",
@@ -5038,6 +5115,16 @@
      "joint": null,
      "source": "https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/",
      "outlet": "TechCrunch"
+    },
+    {
+     "date": "2025-10-13",
+     "arena": "state",
+     "kind": "action",
+     "text": "Signed AB 316, which bars a defendant that developed, modified or used AI from arguing that the AI caused the harm autonomously; in force January 1, 2026.",
+     "target": null,
+     "joint": null,
+     "source": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB316",
+     "outlet": "California Legislative Information"
     },
     {
      "date": "2026-09-18",
@@ -5977,6 +6064,16 @@
    "stance": "Wants a permanent ban on artificial superintelligence, a pause on advanced AI development above 10^25 FLOP until a new Department of AI sets rules, and international agreements to the same end.",
    "statements": [
     {
+     "date": "2026-05-04",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "If the world's leading scientists say there's even a 10% chance humanity could be destroyed because of uncontrolled AI, shouldn't we do everything possible to prevent it? This isn't about competition with China. It's about coming together to prevent what might be a catastrophe.",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/BernieSanders/status/2051359172613083396",
+     "outlet": "X"
+    },
+    {
      "date": "2026-09-03",
      "arena": "federal",
      "kind": "quote",
@@ -6155,6 +6252,16 @@
      "joint": null,
      "source": "https://x.com/brianschatz/status/2098795578775765088",
      "outlet": "X"
+    },
+    {
+     "date": "2025-12-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed letters to OpenAI, Microsoft, Google, Anthropic, Meta, Luka, Character.AI and xAI asking them to commit to timely, consistent safety disclosures around model releases, warning that trouble with well-understood risks raises concerns about managing more complex ones.",
+     "target": null,
+     "joint": "ai-safety-disclosure-letters-2025",
+     "source": "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-brian-schatz-colleagues-press-ai-companies-to-improve-transparency-commit-to-timely-consistent-safety-disclosures/",
+     "outlet": "Office of Sen. Katie Britt"
     }
    ],
    "photo": {
@@ -6852,6 +6959,16 @@
      "joint": "eo-14365-state-ai-laws",
      "source": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
      "outlet": "The White House"
+    },
+    {
+     "date": "2026-05-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We talked about possibly working together for guardrails",
+     "target": null,
+     "joint": null,
+     "source": "https://www.aol.com/articles/trump-says-discussed-ai-guardrails-160924000.html",
+     "outlet": "The Hill (via AOL)"
     },
     {
      "date": "2026-06-02",
@@ -8051,6 +8168,17 @@
      "people": [
       "gavin-newsom",
       "scott-wiener"
+     ]
+    },
+    {
+     "date": "2025-10-13",
+     "type": "law",
+     "title": "AB 316 — Artificial intelligence: defenses (Civil Code § 1714.46)",
+     "status": "in_force",
+     "text": "Bars a defendant that developed, modified or used AI from arguing that the AI autonomously caused the harm; other defenses, including causation, foreseeability and comparative fault, remain. In force January 1, 2026.",
+     "source": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB316",
+     "people": [
+      "gavin-newsom"
      ]
     },
     {
@@ -10739,15 +10867,15 @@
   {
    "code": "MT",
    "xrisk": "acted",
-   "summary": "AG Knudsen leads a 16-state consumer-protection investigation of OpenAI over its escaped agent and demanded a halt to the testing involved; Montana's 2025 Right to Compute Act limits state restrictions on computation but requires human-control shutdown for AI-run critical infrastructure.",
+   "summary": "AG Knudsen leads a 16-state consumer-protection investigation of OpenAI over its escaped agent and demanded a halt to the testing involved; Montana's 2025 Right to Compute Act limits state restrictions on computation and requires a risk management policy for AI-run critical infrastructure.",
    "items": [
     {
      "date": "2025-04-16",
      "type": "law",
      "title": "SB 212 — Right to Compute Act",
      "status": "in_force",
-     "text": "Protects private use of computational resources and requires shutdown-to-human-control mechanisms and annual risk reviews for AI-controlled critical infrastructure.",
-     "source": "https://projects.montanafreepress.org/capitol-tracker-2025/bills/sb-212/",
+     "text": "Protects private use of computational resources against government restriction unless narrowly tailored to a compelling interest, and requires deployers of AI that controls critical infrastructure to adopt a risk management policy; the shutdown requirement in the introduced bill was replaced by that policy.",
+     "source": "https://archive.legmt.gov/content/Sessions/69th/Contractor_index/CH0150.pdf",
      "people": [
       "greg-gianforte",
       "daniel-zolnikov"
@@ -13943,6 +14071,20 @@
     "arielle-roth"
    ],
    "source": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/"
+  },
+  {
+   "id": "ai-safety-disclosure-letters-2025",
+   "title": "Senators' letters to eight AI companies asking for timely, consistent safety disclosures",
+   "date": "2025-12-16",
+   "type": "letter",
+   "arena": "federal",
+   "people": [
+    "katie-britt",
+    "brian-schatz",
+    "james-lankford",
+    "chris-coons"
+   ],
+   "source": "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-brian-schatz-colleagues-press-ai-companies-to-improve-transparency-commit-to-timely-consistent-safety-disclosures/"
   },
   {
    "id": "ag-fcc-preemption-comment-2025",
