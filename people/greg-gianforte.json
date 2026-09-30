@@ -6,13 +6,13 @@
   "state": "MT",
   "party": "R",
   "committees": [],
-  "stance": "Signed the Right to Compute Act limiting government restrictions on computation, which also requires a human-control shutdown mechanism for AI-controlled critical infrastructure.",
+  "stance": "Signed the Right to Compute Act limiting government restrictions on computation, which also requires a risk management policy for AI-controlled critical infrastructure.",
   "statements": [
     {
       "date": "2025-04-16",
       "arena": "state",
       "kind": "action",
-      "text": "Signed SB 212, the Right to Compute Act, which protects private use of computational resources and requires AI-controlled critical infrastructure to have a shutdown mechanism reverting to human control.",
+      "text": "Signed SB 212, the Right to Compute Act, which protects private use of computational resources and requires deployers of AI that controls critical infrastructure to adopt a risk management policy.",
       "target": null,
       "joint": null,
       "source": "https://projects.montanafreepress.org/capitol-tracker-2025/bills/sb-212/",
