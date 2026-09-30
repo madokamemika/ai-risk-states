@@ -11,6 +11,16 @@
   "stance": "Wants a ban on AI systems too powerful for humans to control and a pause on advanced AI development pending federal rules.",
   "statements": [
     {
+      "date": "2026-05-06",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Endorsed Sen. Sanders's call to do everything possible to prevent a catastrophe from uncontrolled AI (\"I'm 100% with Bernie here\").",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2052091765604143122",
+      "outlet": "X"
+    },
+    {
       "date": "2026-09-03",
       "arena": "federal",
       "kind": "quote",

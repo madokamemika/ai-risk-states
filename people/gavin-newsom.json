@@ -29,6 +29,16 @@
       "outlet": "TechCrunch"
     },
     {
+      "date": "2025-10-13",
+      "arena": "state",
+      "kind": "action",
+      "text": "Signed AB 316, which bars a defendant that developed, modified or used AI from arguing that the AI caused the harm autonomously; in force January 1, 2026.",
+      "target": null,
+      "joint": null,
+      "source": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB316",
+      "outlet": "California Legislative Information"
+    },
+    {
       "date": "2026-09-18",
       "arena": "state",
       "kind": "quote",

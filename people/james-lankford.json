@@ -9,6 +9,16 @@
   "stance": "Wants mandatory public disclosure of AI model capabilities and safeguards, including against autonomous loss of control, enforced by the FTC.",
   "statements": [
     {
+      "date": "2025-12-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signed letters to OpenAI, Microsoft, Google, Anthropic, Meta, Luka, Character.AI and xAI asking them to commit to timely, consistent safety disclosures around model releases, warning that trouble with well-understood risks raises concerns about managing more complex ones.",
+      "target": null,
+      "joint": "ai-safety-disclosure-letters-2025",
+      "source": "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-brian-schatz-colleagues-press-ai-companies-to-improve-transparency-commit-to-timely-consistent-safety-disclosures/",
+      "outlet": "Office of Sen. Katie Britt"
+    },
+    {
       "date": "2026-09-24",
       "arena": "federal",
       "kind": "action",

@@ -28,6 +28,17 @@
       ]
     },
     {
+      "date": "2025-10-13",
+      "type": "law",
+      "title": "AB 316 — Artificial intelligence: defenses (Civil Code § 1714.46)",
+      "status": "in_force",
+      "text": "Bars a defendant that developed, modified or used AI from arguing that the AI autonomously caused the harm; other defenses, including causation, foreseeability and comparative fault, remain. In force January 1, 2026.",
+      "source": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB316",
+      "people": [
+        "gavin-newsom"
+      ]
+    },
+    {
       "date": "2026-09-04",
       "type": "lawsuit",
       "title": "Attorney General investigation of OpenAI over Hugging Face intrusion",

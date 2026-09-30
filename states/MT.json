@@ -1,15 +1,15 @@
 {
   "code": "MT",
   "xrisk": "acted",
-  "summary": "AG Knudsen leads a 16-state consumer-protection investigation of OpenAI over its escaped agent and demanded a halt to the testing involved; Montana's 2025 Right to Compute Act limits state restrictions on computation but requires human-control shutdown for AI-run critical infrastructure.",
+  "summary": "AG Knudsen leads a 16-state consumer-protection investigation of OpenAI over its escaped agent and demanded a halt to the testing involved; Montana's 2025 Right to Compute Act limits state restrictions on computation and requires a risk management policy for AI-run critical infrastructure.",
   "items": [
     {
       "date": "2025-04-16",
       "type": "law",
       "title": "SB 212 — Right to Compute Act",
       "status": "in_force",
-      "text": "Protects private use of computational resources and requires shutdown-to-human-control mechanisms and annual risk reviews for AI-controlled critical infrastructure.",
-      "source": "https://projects.montanafreepress.org/capitol-tracker-2025/bills/sb-212/",
+      "text": "Protects private use of computational resources against government restriction unless narrowly tailored to a compelling interest, and requires deployers of AI that controls critical infrastructure to adopt a risk management policy; the shutdown requirement in the introduced bill was replaced by that policy.",
+      "source": "https://archive.legmt.gov/content/Sessions/69th/Contractor_index/CH0150.pdf",
       "people": [
         "greg-gianforte",
         "daniel-zolnikov"
