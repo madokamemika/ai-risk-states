@@ -1,14 +1,14 @@
 {
   "code": "UT",
   "xrisk": "direct",
-  "summary": "Utah's HB 286 (2026) would have required large AI developers to assess catastrophic risks and report incidents but stalled after White House opposition; Gov. Cox has since called for a federal frontier-AI safety floor that does not preempt states and warned of rising existential risk.",
+  "summary": "Utah's HB 286 (2026) would have required large AI developers to assess catastrophic risks and report incidents but stalled in the House and died in March, with the White House opposed; Gov. Cox has since called for a federal frontier-AI safety floor that does not preempt states and warned of rising existential risk.",
   "items": [
     {
       "date": "2026-02",
       "type": "bill",
       "title": "HB 286 — AI developer catastrophic-risk and child-safety plans",
       "status": "failed",
-      "text": "Would have required large AI companies to assess catastrophic risks, publish safety plans and report incidents to the Office of AI Policy; stalled in the House after a White House memo called it unfixable.",
+      "text": "Would have required large AI companies to assess catastrophic risks, publish safety plans and report incidents to the Office of AI Policy; stalled in the House, where a February 12 White House memo called it \"an unfixable bill\", and died when the session ended on March 6.",
       "source": "https://www.kuer.org/politics-government/2026-02-19/trump-is-pressuring-utah-on-an-ai-bill-gov-cox-says-states-should-lead-on-policy",
       "people": [
         "doug-fiefia",
@@ -31,7 +31,7 @@
       "type": "letter",
       "title": "Cox open letter to Congress on AI safety framework",
       "status": "filed",
-      "text": "Calls for mandatory safety-incident reporting, whistleblower protections, third-party audits and a ban on AI chip sales to China.",
+      "text": "Calls for mandatory safety-incident reporting, whistleblower protections, independent evaluations of frontier models and a ban on AI chip sales to China.",
       "source": "https://www.ksl.com/article/51623925/utah-governor-calls-on-congress-to-create-framework-for-ai-safety",
       "people": [
         "spencer-cox"
