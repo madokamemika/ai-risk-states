@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30",
+ "generated": "2026-10-01",
  "bill_counts_asof": "2026-09-29",
  "bill_counts": {
   "AK": 3,
@@ -597,7 +597,7 @@
      "date": "2025-12-19",
      "arena": "state",
      "kind": "quote",
-     "text": "New York now has the strongest AI transparency law in the country. This bill moves beyond California's SB53 in significant ways.",
+     "text": "New York now has the strongest AI transparency law in the country. This bill moves beyond California's SB53 in significant ways, and sets the stage for greater disclosure, learning, and legislative action in years to come.",
      "target": null,
      "joint": "ny-raise-act",
      "source": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-require-ai-frameworks-ai-frontier-models",
@@ -607,7 +607,7 @@
      "date": "2026-06-23",
      "arena": "federal",
      "kind": "quote",
-     "text": "Though we've come up short tonight, the example set here was not the one AI oligarchs intended. They set out to make people afraid to stand up to them. Instead, they learned just how ready people are to push back.",
+     "text": "Though we've come up short tonight, the example set here was not the one AI oligarchs intended.",
      "target": null,
      "joint": null,
      "source": "https://gizmodo.com/ai-super-pacs-first-major-target-loses-new-york-congressional-primary-2000776808",
@@ -856,8 +856,8 @@
    "stance": "Presses AI companies to test and audit chatbots for harmful outputs through multistate AG action.",
    "statements": [
     {
-     "date": "2025-12-10",
-     "arena": "federal",
+     "date": "2025-12-09",
+     "arena": "state",
      "kind": "urging",
      "text": "Co-led the 42-AG letter asking 13 AI companies to adopt third-party audits, pre-release safety testing and incident reporting for sycophantic and delusional outputs.",
      "target": "AI companies",
@@ -874,16 +874,6 @@
      "joint": "ag-letter-congress-sept-2026",
      "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
      "outlet": "California Attorney General (letter PDF)"
-    },
-    {
-     "date": "2025-12-10",
-     "arena": "state",
-     "kind": "urging",
-     "text": "Co-led a 42-attorney-general letter demanding chatbot safeguards from major AI companies.",
-     "target": "AI companies",
-     "joint": "naag-delusional-outputs-letter-dec-2025",
-     "source": "https://ago.wv.gov/article/west-virginia-sends-letter-ai-software-companies-demanding-safeguards-protect-vulnerable",
-     "outlet": "West Virginia Attorney General"
     },
     {
      "date": "2025-11-25",
@@ -1396,7 +1386,7 @@
    "state": "UT",
    "party": "R",
    "committees": [],
-   "stance": "Wants a federal frontier-AI safety floor (incident reporting, whistleblower protections, third-party audits, chip export limits) that does not preempt broader state authority.",
+   "stance": "Wants a federal frontier-AI safety floor (incident reporting, whistleblower protections, independent evaluations of frontier models, chip export limits) that does not preempt broader state authority.",
    "statements": [
     {
      "date": "2026-09-14",
@@ -1412,7 +1402,7 @@
      "date": "2026-09-13",
      "arena": "federal",
      "kind": "quote",
-     "text": "the possibility of an existential event happening is growing and growing much more rapidly than anyone projected",
+     "text": "the possibility of an existential event happening is- is growing and growing much more rapidly than anyone projected",
      "target": null,
      "joint": null,
      "source": "https://www.cbsnews.com/news/spencer-cox-utah-governor-face-the-nation-transcript-09-13-2026/",
@@ -1422,7 +1412,7 @@
      "date": "2026-09-13",
      "arena": "federal",
      "kind": "quote",
-     "text": "The Hugging Face incident that you've already talked about should be very concerning to everyone",
+     "text": "The Hugging Face incident that you've already talked about should be very concerning to- to everyone",
      "target": null,
      "joint": null,
      "source": "https://www.cbsnews.com/news/spencer-cox-utah-governor-face-the-nation-transcript-09-13-2026/",
@@ -1658,7 +1648,7 @@
      "date": "2026-07-06",
      "arena": "state",
      "kind": "quote",
-     "text": "We have already seen the first AI-inspired mass shooting. We have already seen AI systems utilized to attack a municipal water and drainage utility,",
+     "text": "We have already seen the first AI-inspired mass shooting. We have already seen AI systems utilized to attack a municipal water and drainage utility",
      "target": null,
      "joint": "il-sb315",
      "source": "https://capitolnewsillinois.com/news/pritzker-signs-landmark-ai-regulation-bill-that-aims-to-mitigate-risks/",
@@ -1884,7 +1874,7 @@
      "date": "2026-02",
      "arena": "state",
      "kind": "action",
-     "text": "Sponsored HB 286, requiring large AI companies to assess catastrophic risks and harms to minors, post safety plans and report safety incidents to Utah's AI policy office; it stalled in the House after a White House memo opposed it.",
+     "text": "Sponsored HB 286, requiring large AI companies to assess catastrophic risks and harms to minors, post safety plans and report safety incidents to Utah's AI policy office; it stalled in the House, a February 12 White House memo opposed it, and it died when the session ended on March 6.",
      "target": null,
      "joint": null,
      "source": "https://www.kuer.org/politics-government/2026-02-19/trump-is-pressuring-utah-on-an-ai-bill-gov-cox-says-states-should-lead-on-policy",
@@ -1922,7 +1912,7 @@
      "date": "2026-07",
      "arena": "state",
      "kind": "action",
-     "text": "The Senate passed his economic development bill including frontier-AI provisions requiring catastrophic-risk frameworks, independent third-party safety audits every four months and Attorney General enforcement.",
+     "text": "The Senate passed his economic development bill including frontier-AI provisions requiring catastrophic-risk frameworks, annual third-party compliance audits, independent catastrophic-risk evaluations at least every 120 days and Attorney General enforcement.",
      "target": null,
      "joint": "ma-frontier-ai-act",
      "source": "https://malegislature.gov/PressRoom/Detail?pressReleaseId=1453",
@@ -1932,7 +1922,7 @@
      "date": "2026-09-22",
      "arena": "state",
      "kind": "quote",
-     "text": "I understand that there's some concerns out there, and we can work through those concerns. But to not have audits and third-party verifications of making sure that things are being done the way they should be, I think is a mistake.",
+     "text": "But to not have audits and third-party verifications of making sure that things are being done the way they should be, I think is a mistake.",
      "target": null,
      "joint": "ma-frontier-ai-act",
      "source": "https://www.bostonglobe.com/2026/09/22/business/finegold-trahan-ai-proposals-state-house/",
@@ -4634,8 +4624,8 @@
    "stance": "Presses AI companies to test and audit chatbots for harmful outputs through multistate AG action.",
    "statements": [
     {
-     "date": "2025-12-10",
-     "arena": "federal",
+     "date": "2025-12-09",
+     "arena": "state",
      "kind": "urging",
      "text": "Co-led the 42-AG letter asking 13 AI companies to adopt third-party audits, pre-release safety testing and incident reporting for sycophantic and delusional outputs.",
      "target": "AI companies",
@@ -4654,7 +4644,7 @@
      "outlet": "West Virginia Attorney General"
     },
     {
-     "date": "2025-05-27",
+     "date": "2025-05-16",
      "arena": "federal",
      "kind": "action",
      "text": "Did not join the 40-attorney-general letter opposing a proposed federal ban on state AI laws.",
@@ -5143,8 +5133,8 @@
      "text": "The federal government's abject failure to create any form of meaningful AI oversight or accountability should alarm every American, especially when AI CEOs themselves are begging for regulation.",
      "target": null,
      "joint": null,
-     "source": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
-     "outlet": "CNBC"
+     "source": "https://statescoop.com/newsom-moves-to-speed-up-independent-ai-oversight-in-california-with-new-executive-order/",
+     "outlet": "StateScoop"
     }
    ],
    "photo": {
@@ -5420,8 +5410,8 @@
    "stance": "As AG, pressed AI companies to test and audit chatbots for harmful outputs.",
    "statements": [
     {
-     "date": "2025-12-10",
-     "arena": "federal",
+     "date": "2025-12-09",
+     "arena": "state",
      "kind": "urging",
      "text": "Led 42 attorneys general asking 13 AI companies to adopt third-party audits, pre-release safety testing and incident reporting for sycophantic and delusional outputs.",
      "target": "AI companies",
@@ -6468,10 +6458,10 @@
    "stance": "Prime sponsor of Pennsylvania's frontier-AI risk prevention bill modeled on California, New York and Illinois.",
    "statements": [
     {
-     "date": "2026-09",
+     "date": "2026-09-17",
      "arena": "state",
      "kind": "quote",
-     "text": "Government must ensure frontier models are not causing catastrophic harm to society. Currently, AI has no federal regulatory standards.",
+     "text": "Government must ensure frontier models are not causing catastrophic harm to society",
      "target": null,
      "joint": "pa-hb-2800",
      "source": "https://www.mychesco.com/a/news/government/pennsylvania-bill-would-mandate-audits-for-frontier-ai/",
@@ -6672,8 +6662,8 @@
    "stance": "Presses AI companies to test and audit chatbots for harmful outputs through multistate AG action.",
    "statements": [
     {
-     "date": "2025-12-10",
-     "arena": "federal",
+     "date": "2025-12-09",
+     "arena": "state",
      "kind": "urging",
      "text": "Co-led the 42-AG letter asking 13 AI companies to adopt third-party audits, pre-release safety testing and incident reporting for sycophantic and delusional outputs.",
      "target": "AI companies",
@@ -6690,16 +6680,6 @@
      "joint": null,
      "source": "https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-reacts-to-pa-senates-passage-of-legislation-to-reinforce-protections-online-against-a-i-chatbots/",
      "outlet": "Pennsylvania Office of Attorney General"
-    },
-    {
-     "date": "2025-12-10",
-     "arena": "state",
-     "kind": "urging",
-     "text": "Co-led a 42-attorney-general letter demanding that OpenAI, Google, Meta, Microsoft and other AI companies add safeguards to protect children and vulnerable users from chatbots.",
-     "target": "AI companies",
-     "joint": "naag-delusional-outputs-letter-dec-2025",
-     "source": "https://ago.wv.gov/article/west-virginia-sends-letter-ai-software-companies-demanding-safeguards-protect-vulnerable",
-     "outlet": "West Virginia Attorney General"
     },
     {
      "date": "2025-11-25",
@@ -10026,7 +10006,7 @@
      "type": "bill",
      "title": "Transparency in Frontier Artificial Intelligence Act (Senate economic development bill, S.3228 §164)",
      "status": "pending",
-     "text": "Requires large frontier developers to adopt catastrophic-risk frameworks, undergo independent third-party audits every four months and face AG enforcement; awaiting House-Senate conference.",
+     "text": "Requires large frontier developers to adopt catastrophic-risk frameworks, undergo annual third-party compliance audits and independent catastrophic-risk evaluations at least every 120 days, and face AG enforcement; awaiting House-Senate conference.",
      "source": "https://malegislature.gov/PressRoom/Detail?pressReleaseId=1453",
      "people": [
       "barry-finegold"
@@ -13007,14 +12987,14 @@
   {
    "code": "UT",
    "xrisk": "direct",
-   "summary": "Utah's HB 286 (2026) would have required large AI developers to assess catastrophic risks and report incidents but stalled after White House opposition; Gov. Cox has since called for a federal frontier-AI safety floor that does not preempt states and warned of rising existential risk.",
+   "summary": "Utah's HB 286 (2026) would have required large AI developers to assess catastrophic risks and report incidents but stalled in the House and died in March, with the White House opposed; Gov. Cox has since called for a federal frontier-AI safety floor that does not preempt states and warned of rising existential risk.",
    "items": [
     {
      "date": "2026-02",
      "type": "bill",
      "title": "HB 286 — AI developer catastrophic-risk and child-safety plans",
      "status": "failed",
-     "text": "Would have required large AI companies to assess catastrophic risks, publish safety plans and report incidents to the Office of AI Policy; stalled in the House after a White House memo called it unfixable.",
+     "text": "Would have required large AI companies to assess catastrophic risks, publish safety plans and report incidents to the Office of AI Policy; stalled in the House, where a February 12 White House memo called it \"an unfixable bill\", and died when the session ended on March 6.",
      "source": "https://www.kuer.org/politics-government/2026-02-19/trump-is-pressuring-utah-on-an-ai-bill-gov-cox-says-states-should-lead-on-policy",
      "people": [
       "doug-fiefia",
@@ -13037,7 +13017,7 @@
      "type": "letter",
      "title": "Cox open letter to Congress on AI safety framework",
      "status": "filed",
-     "text": "Calls for mandatory safety-incident reporting, whistleblower protections, third-party audits and a ban on AI chip sales to China.",
+     "text": "Calls for mandatory safety-incident reporting, whistleblower protections, independent evaluations of frontier models and a ban on AI chip sales to China.",
      "source": "https://www.ksl.com/article/51623925/utah-governor-calls-on-congress-to-create-framework-for-ai-safety",
      "people": [
       "spencer-cox"
@@ -13646,16 +13626,17 @@
    "xrisk": "adjacent",
    "items": [
     {
-     "date": "2025-12-10",
+     "date": "2025-12-09",
      "type": "letter",
      "title": "42-AG letter to AI companies on chatbot safeguards",
      "status": "filed",
-     "text": "McCuskey co-led the letter demanding quality control and safeguards on chatbots for children and vulnerable users.",
+     "text": "Attorneys general Matthew Platkin (NJ), Andrea Joy Campbell (MA), Dave Sunday (PA) and JB McCuskey (WV) co-led the letter demanding quality control and safeguards on chatbots for children and vulnerable users.",
      "source": "https://ago.wv.gov/article/west-virginia-sends-letter-ai-software-companies-demanding-safeguards-protect-vulnerable",
      "people": [
       "jb-mccuskey",
-      "dave-sunday",
-      "andrea-campbell"
+      "matthew-platkin",
+      "andrea-campbell",
+      "dave-sunday"
      ]
     },
     {
@@ -14045,9 +14026,9 @@
   {
    "id": "naag-delusional-outputs-letter-dec-2025",
    "title": "NAAG letter of 42 attorneys general to 13 AI companies on sycophantic and delusional outputs",
-   "date": "2025-12-10",
+   "date": "2025-12-09",
    "type": "letter",
-   "arena": "federal",
+   "arena": "state",
    "people": [
     "matthew-platkin",
     "andrea-campbell",
