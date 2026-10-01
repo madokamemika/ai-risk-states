@@ -4,16 +4,17 @@
   "xrisk": "adjacent",
   "items": [
     {
-      "date": "2025-12-10",
+      "date": "2025-12-09",
       "type": "letter",
       "title": "42-AG letter to AI companies on chatbot safeguards",
       "status": "filed",
-      "text": "McCuskey co-led the letter demanding quality control and safeguards on chatbots for children and vulnerable users.",
+      "text": "Attorneys general Matthew Platkin (NJ), Andrea Joy Campbell (MA), Dave Sunday (PA) and JB McCuskey (WV) co-led the letter demanding quality control and safeguards on chatbots for children and vulnerable users.",
       "source": "https://ago.wv.gov/article/west-virginia-sends-letter-ai-software-companies-demanding-safeguards-protect-vulnerable",
       "people": [
         "jb-mccuskey",
-        "dave-sunday",
-        "andrea-campbell"
+        "matthew-platkin",
+        "andrea-campbell",
+        "dave-sunday"
       ]
     },
     {

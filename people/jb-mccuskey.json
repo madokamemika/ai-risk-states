@@ -9,8 +9,8 @@
   "stance": "Presses AI companies to test and audit chatbots for harmful outputs through multistate AG action.",
   "statements": [
     {
-      "date": "2025-12-10",
-      "arena": "federal",
+      "date": "2025-12-09",
+      "arena": "state",
       "kind": "urging",
       "text": "Co-led the 42-AG letter asking 13 AI companies to adopt third-party audits, pre-release safety testing and incident reporting for sycophantic and delusional outputs.",
       "target": "AI companies",
@@ -29,7 +29,7 @@
       "outlet": "West Virginia Attorney General"
     },
     {
-      "date": "2025-05-27",
+      "date": "2025-05-16",
       "arena": "federal",
       "kind": "action",
       "text": "Did not join the 40-attorney-general letter opposing a proposed federal ban on state AI laws.",

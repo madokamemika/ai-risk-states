@@ -9,8 +9,8 @@
   "stance": "Presses AI companies to test and audit chatbots for harmful outputs through multistate AG action.",
   "statements": [
     {
-      "date": "2025-12-10",
-      "arena": "federal",
+      "date": "2025-12-09",
+      "arena": "state",
       "kind": "urging",
       "text": "Co-led the 42-AG letter asking 13 AI companies to adopt third-party audits, pre-release safety testing and incident reporting for sycophantic and delusional outputs.",
       "target": "AI companies",
@@ -27,16 +27,6 @@
       "joint": "ag-letter-congress-sept-2026",
       "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
       "outlet": "California Attorney General (letter PDF)"
-    },
-    {
-      "date": "2025-12-10",
-      "arena": "state",
-      "kind": "urging",
-      "text": "Co-led a 42-attorney-general letter demanding chatbot safeguards from major AI companies.",
-      "target": "AI companies",
-      "joint": "naag-delusional-outputs-letter-dec-2025",
-      "source": "https://ago.wv.gov/article/west-virginia-sends-letter-ai-software-companies-demanding-safeguards-protect-vulnerable",
-      "outlet": "West Virginia Attorney General"
     },
     {
       "date": "2025-11-25",
