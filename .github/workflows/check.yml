@@ -17,5 +17,6 @@ jobs:
       - name: Quotes in changed files appear verbatim at their sources
         if: github.event_name == 'pull_request'
         run: |
-          files=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- people/)
+          git fetch -q origin "${{ github.base_ref }}"
+          files=$(git diff --name-only "origin/${{ github.base_ref }}...HEAD" -- people/)
           [ -z "$files" ] && echo "no people files changed" || python3 -m tools.check_quotes $files
