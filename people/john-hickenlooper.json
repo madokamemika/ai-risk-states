@@ -1,0 +1,88 @@
+{
+  "id": "john-hickenlooper",
+  "name": "John Hickenlooper",
+  "office": "U.S. Senator from Colorado",
+  "office_type": "us_senator",
+  "state": "CO",
+  "party": "D",
+  "committees": [
+    "Senate Commerce, Science, and Transportation"
+  ],
+  "stance": "Wants stronger federal AI guardrails — independent third-party evaluation and verification of frontier models, accountability when AI causes harm, and incident reporting — alongside support for AI innovation and U.S. competitiveness.",
+  "statements": [
+    {
+      "date": "2024-04-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan Future of AI Innovation Act with Sens. Cantwell, Young, and Blackburn, authorizing the NIST AI Safety Institute to develop AI standards, creating public-private AI testbeds to evaluate models, and forming an international coalition on AI standards.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-bipartisan-senators-introduce-ai-bill-to-accelerate-innovation-strengthen-u-s-leadership/",
+      "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2025-08-01",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Reintroduced the bipartisan VET AI Act with Sen. Capito, directing NIST to develop specifications and guidelines for independent third-party evaluators to verify how AI companies develop and test their systems and their compliance with AI guardrails.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-capito-reintroduce-bipartisan-bill-to-boost-ai-standards-create-guidelines-for-third-party-evaluations-of-ai/",
+      "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2025-08-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The horse is already out of the barn when it comes to AI. The U.S. should lead in setting sensible guardrails for AI to ensure these innovations are developed responsibly to benefit all Americans as they harness this rapidly growing technology",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-capito-reintroduce-bipartisan-bill-to-boost-ai-standards-create-guidelines-for-third-party-evaluations-of-ai/",
+      "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We're entering a new and dangerous era of artificial intelligence, and we need stronger guardrails to protect against the risks",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-for-congressional-action-hearings-on-ai-regulation/",
+      "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called for the Senate Commerce Committee to hold hearings on responsible AI regulation, and for independent audits of AI systems, stronger safeguards for high-risk AI, and real accountability when these tools cause harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-for-congressional-action-hearings-on-ai-regulation/",
+      "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Now is the time to move beyond warnings and start writing the guardrails",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-on-trump-ai-ceos-to-work-with-congress-on-responsible-ai-guardrails-ahead-of-white-house-meeting/",
+      "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "In a letter to President Trump ahead of his meeting with AI CEOs, urged the White House and Congress to commit to independent third-party evaluation of the most powerful AI models, establish accountability when companies knowingly deploy dangerous systems, and improve reporting of serious AI incidents and vulnerabilities.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-on-trump-ai-ceos-to-work-with-congress-on-responsible-ai-guardrails-ahead-of-white-house-meeting/",
+      "outlet": "Office of Sen. Hickenlooper"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from hickenlooper.senate.gov primary sources; quotes verified verbatim"
+  }
+}
