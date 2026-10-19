@@ -1,0 +1,36 @@
+{
+  "id": "jacky-rosen",
+  "name": "Jacky Rosen",
+  "office": "U.S. Senator from Nevada",
+  "office_type": "us_senator",
+  "state": "NV",
+  "party": "D",
+  "committees": [
+    "Senate Commerce, Science, and Transportation",
+    "Senate Homeland Security and Governmental Affairs"
+  ],
+  "stance": "A former computer programmer who, citing researchers' warnings of catastrophic AI risk, is demanding immediate Senate Commerce hearings with top AI executives and guardrails.",
+  "statements": [
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Called on the Senate Commerce Committee chairman to immediately hold a hearing with the top executives of the leading American AI companies, following dire warnings from AI researchers.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.rosen.senate.gov/2026/09/14/following-dire-warnings-from-ai-researchers-rosen-calls-on-senate-commerce-committee-to-immediately-hold-hearing-with-top-ai-executives/",
+      "outlet": "Office of Sen. Rosen"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "At the same time, this powerful technology can have the power to cause catastrophic damages if we don't act to impose guardrails and safety mechanisms",
+      "target": null,
+      "joint": null,
+      "source": "https://www.rosen.senate.gov/2026/09/14/following-dire-warnings-from-ai-researchers-rosen-calls-on-senate-commerce-committee-to-immediately-hold-hearing-with-top-ai-executives/",
+      "outlet": "Office of Sen. Rosen"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from rosen.senate.gov primary sources; quote verified verbatim" }
+}

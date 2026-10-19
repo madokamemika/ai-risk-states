@@ -1,0 +1,26 @@
+{
+  "id": "gary-peters",
+  "name": "Gary Peters",
+  "office": "U.S. Senator from Michigan",
+  "office_type": "us_senator",
+  "state": "MI",
+  "party": "D",
+  "committees": [
+    "Senate Homeland Security and Governmental Affairs",
+    "Senate Commerce, Science, and Transportation"
+  ],
+  "stance": "Long-running focus on federal government use of AI — transparency, accountability and oversight of automated and augmented systems that interact with the public or make critical decisions.",
+  "statements": [
+    {
+      "date": "2026",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Sponsored S.5648, directing federal agencies to be transparent when using automated and augmented systems to interact with the public or make critical decisions.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.congress.gov/bill/119th-congress/senate-bill/5648",
+      "outlet": "Congress.gov"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from peters.senate.gov legislation listing (S.5648)" }
+}

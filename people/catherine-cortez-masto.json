@@ -1,0 +1,37 @@
+{
+  "id": "catherine-cortez-masto",
+  "name": "Catherine Cortez Masto",
+  "office": "U.S. Senator from Nevada",
+  "office_type": "us_senator",
+  "state": "NV",
+  "party": "D",
+  "committees": [
+    "Senate Commerce, Science, and Transportation",
+    "Senate Finance",
+    "Senate Banking, Housing, and Urban Affairs"
+  ],
+  "stance": "Frames rapidly advancing AI as a growing safety risk — calls for immediate bipartisan AI-safety hearings and a global standard for commonsense guardrails, transparency, and human control.",
+  "statements": [
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI development is moving quickly and the safety risks for Americans are also increasing every day.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-statement-on-reports-of-threats-posed-by-rapidly-developing-ai-technology/",
+      "outlet": "Office of Sen. Cortez Masto"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While these tools hold immense potential, Congress has a role to play to protect Americans from AI-enabled threats ranging from cybercrime to terrorism.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-statement-on-reports-of-threats-posed-by-rapidly-developing-ai-technology/",
+      "outlet": "Office of Sen. Cortez Masto"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from cortezmasto.senate.gov primary sources; quotes verified verbatim" }
+}

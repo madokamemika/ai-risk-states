@@ -1,0 +1,46 @@
+{
+  "id": "kirsten-gillibrand",
+  "name": "Kirsten Gillibrand",
+  "office": "U.S. Senator from New York",
+  "office_type": "us_senator",
+  "state": "NY",
+  "party": "D",
+  "committees": [
+    "Senate Armed Services",
+    "Senate Intelligence"
+  ],
+  "stance": "Presses the administration over chaotic, opaque oversight of new AI models and demands a standardized federal AI regulatory framework — naming frontier-model misalignment and test-environment escapes directly.",
+  "statements": [
+    {
+      "date": "2026-08-04",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Sens. Schiff, Coons, Kelly, and Warner, pressed the administration over its chaotic, opaque oversight of new AI models and demanded a transparent, durable, standardized federal AI regulatory framework.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-schiff-and-colleagues-press-trump-administration-on-chaotic-opaque-oversight-of-new-artificial-intelligence-models/",
+      "outlet": "Office of Sen. Gillibrand"
+    },
+    {
+      "date": "2026-08-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We support serious, technically informed action to prevent frontier AI from being misused by adversaries or criminals and to mitigate risks posed by misalignment in the models themselves.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-schiff-and-colleagues-press-trump-administration-on-chaotic-opaque-oversight-of-new-artificial-intelligence-models/",
+      "outlet": "Office of Sen. Gillibrand"
+    },
+    {
+      "date": "2026-08-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "During an internal evaluation, OpenAI models escaped their testing environment and used high-level technical capabilities to compromise a third party's network without any instructions to take those actions.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-schiff-and-colleagues-press-trump-administration-on-chaotic-opaque-oversight-of-new-artificial-intelligence-models/",
+      "outlet": "Office of Sen. Gillibrand"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from gillibrand.senate.gov primary sources; quotes verified verbatim" }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "martin-heinrich",
+  "name": "Martin Heinrich",
+  "office": "U.S. Senator from New Mexico",
+  "office_type": "us_senator",
+  "state": "NM",
+  "party": "D",
+  "committees": [
+    "Senate Energy and Natural Resources (Ranking Member)",
+    "Senate Intelligence",
+    "Senate Appropriations"
+  ],
+  "stance": "Founder and co-chair of the Senate's bipartisan AI Caucus and a member of Schumer's bipartisan AI working group — pro-innovation but explicitly for guardrails against AI's risks.",
+  "statements": [
+    {
+      "date": "2026",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As the Founder and Co-Chair of the Senate's bipartisan AI Caucus and a member of Majority Leader Chuck Schumer's bipartisan AI working group, I'm committed to developing smart policy that invests in American innovation and delivers the benefits of AI, while also establishing guardrails to protect against AI's risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.heinrich.senate.gov/priorities/issues/artificial-intelligence",
+      "outlet": "Office of Sen. Heinrich"
+    },
+    {
+      "date": "2026",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is being used in many ways that pose real risks to our civil liberties, data privacy, intellectual property, and fundamental right to be treated as individual Americans.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.heinrich.senate.gov/priorities/issues/artificial-intelligence",
+      "outlet": "Office of Sen. Heinrich"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from heinrich.senate.gov primary sources; quotes verified verbatim" }
+}

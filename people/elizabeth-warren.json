@@ -1,0 +1,47 @@
+{
+  "id": "elizabeth-warren",
+  "name": "Elizabeth Warren",
+  "office": "U.S. Senator from Massachusetts",
+  "office_type": "us_senator",
+  "state": "MA",
+  "party": "D",
+  "committees": [
+    "Senate Banking, Housing, and Urban Affairs",
+    "Senate Armed Services",
+    "Senate Finance"
+  ],
+  "stance": "Leading Senate critic demanding mandatory, independent, enforceable safety screening of frontier AI models, and transparency over industry-captured voluntary oversight.",
+  "statements": [
+    {
+      "date": "2026-10-06",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Sen. Blumenthal, pressed the White House over AI-industry influence that reportedly softened a draft requiring frontier AI to undergo mandatory safety screening before release into a voluntary, industry-designed process.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-push-white-house-on-ai-industry-influence-on-trump-policies/",
+      "outlet": "Office of Sen. Warren"
+    },
+    {
+      "date": "2026-10-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "the Trump Administration is accommodating the interests of Big Tech CEOs rather than addressing the safety and security risks posed by increasingly sophisticated AI systems",
+      "target": null,
+      "joint": null,
+      "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-push-white-house-on-ai-industry-influence-on-trump-policies/",
+      "outlet": "Office of Sen. Warren"
+    },
+    {
+      "date": "2026-10-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "the American people deserve strong guardrails set by their democratically elected officials, not a toothless framework shaped in secret by a handful of executives at self-interested trillion-dollar companies",
+      "target": null,
+      "joint": null,
+      "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-push-white-house-on-ai-industry-influence-on-trump-policies/",
+      "outlet": "Office of Sen. Warren"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from warren.senate.gov primary sources; quotes verified verbatim" }
+}

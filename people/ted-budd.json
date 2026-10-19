@@ -1,0 +1,42 @@
+{
+  "id": "ted-budd",
+  "name": "Ted Budd",
+  "office": "U.S. Senator from North Carolina",
+  "office_type": "us_senator",
+  "state": "NC",
+  "party": "R",
+  "stance": "Early bipartisan focus on catastrophic AI misuse — AI-enabled biological and chemical weapons — and on federal preparedness and risk assessment for it.",
+  "statements": [
+    {
+      "date": "2023-07-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Sen. Markey, introduced bills directing HHS to develop a strategy for public-health preparedness against AI misuse (including biological or chemical weapons) and directing ASPR to assess emergent biosecurity risks from AI advances.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.budd.senate.gov/press-releases/budd-markey-introduce-bipartisan-bills-to-prepare-for-ai-threats",
+      "outlet": "Office of Sen. Budd"
+    },
+    {
+      "date": "2023-07-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "we may face the real prospect of AI-generated threats like biological or chemical weapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.budd.senate.gov/press-releases/budd-markey-introduce-bipartisan-bills-to-prepare-for-ai-threats",
+      "outlet": "Office of Sen. Budd"
+    },
+    {
+      "date": "2023-07-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The federal government must not be caught flat-footed on these threats and should begin to prepare now.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.budd.senate.gov/press-releases/budd-markey-introduce-bipartisan-bills-to-prepare-for-ai-threats",
+      "outlet": "Office of Sen. Budd"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from budd.senate.gov primary sources; quotes verified verbatim" }
+}

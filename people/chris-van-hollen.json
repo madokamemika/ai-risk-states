@@ -1,0 +1,47 @@
+{
+  "id": "chris-van-hollen",
+  "name": "Chris Van Hollen",
+  "office": "U.S. Senator from Maryland",
+  "office_type": "us_senator",
+  "state": "MD",
+  "party": "D",
+  "committees": [
+    "Senate Appropriations",
+    "Senate Banking, Housing, and Urban Affairs",
+    "Senate Foreign Relations"
+  ],
+  "stance": "Presses frontier labs for pre-release risk assessment and calls for guardrails against unregulated frontier-AI development.",
+  "statements": [
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Welcomed OpenAI's decision to hold the release of its latest model, following his earlier letter pressing CEO Sam Altman for a risk assessment of the model's capabilities.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-openai-decision-to-hold-release-of-latest-model",
+      "outlet": "Office of Sen. Van Hollen"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "this decision should come as yet another warning sign to those who want to proceed recklessly with the continued development of frontier artificial intelligence",
+      "target": null,
+      "joint": null,
+      "source": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-openai-decision-to-hold-release-of-latest-model",
+      "outlet": "Office of Sen. Van Hollen"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I will keep pressing for critical guardrails to protect humanity from the threat of unregulated AI development.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-openai-decision-to-hold-release-of-latest-model",
+      "outlet": "Office of Sen. Van Hollen"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from vanhollen.senate.gov primary sources; quotes verified verbatim" }
+}

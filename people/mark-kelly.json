@@ -1,0 +1,45 @@
+{
+  "id": "mark-kelly",
+  "name": "Mark Kelly",
+  "office": "U.S. Senator from Arizona",
+  "office_type": "us_senator",
+  "state": "AZ",
+  "party": "D",
+  "committees": [
+    "Senate Armed Services"
+  ],
+  "stance": "Keep humans in command of military AI — mandate human judgment and accountability when autonomous weapons and AI systems are involved in the use of force.",
+  "statements": [
+    {
+      "date": "2026-06-01",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the Ultimate Human Responsibility in Defense Systems Act and the bipartisan Warfighter AI Readiness and Preparedness (WARP) Act with Sen. Cotton, to require human judgment and accountability in AI use-of-force decisions and to assess how reliance on AI affects military readiness.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kelly.senate.gov/newsroom/press-releases/icymi-kelly-writes-washington-times-op-ed-on-keeping-humans-in-command-as-ai-transforms-warfare/",
+      "outlet": "Office of Sen. Kelly"
+    },
+    {
+      "date": "2026-10-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "human judgment and responsibility must be at the center of decisions about the use of force",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kelly.senate.gov/newsroom/press-releases/icymi-kelly-writes-washington-times-op-ed-on-keeping-humans-in-command-as-ai-transforms-warfare/",
+      "outlet": "Office of Sen. Kelly"
+    },
+    {
+      "date": "2026-10-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Tomorrow's warfighters must be able to recognize when an AI system is giving them bad information and know how to continue the mission without it.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kelly.senate.gov/newsroom/press-releases/icymi-kelly-writes-washington-times-op-ed-on-keeping-humans-in-command-as-ai-transforms-warfare/",
+      "outlet": "Office of Sen. Kelly"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from kelly.senate.gov primary sources; quotes verified verbatim" }
+}

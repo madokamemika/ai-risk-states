@@ -1,0 +1,47 @@
+{
+  "id": "john-curtis",
+  "name": "John Curtis",
+  "office": "U.S. Senator from Utah",
+  "office_type": "us_senator",
+  "state": "UT",
+  "party": "R",
+  "committees": [
+    "Senate Commerce, Science, and Transportation",
+    "Senate Foreign Relations",
+    "Senate Energy and Natural Resources"
+  ],
+  "stance": "Backs targeted, commonsense AI safeguards — whistleblower protection, content transparency, and congressional hearings — while preserving U.S. AI leadership and avoiding a new regulator.",
+  "statements": [
+    {
+      "date": "2026-06-25",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan AI Labeling Act with Sens. Schatz and Warner to require transparency for AI-generated content.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.curtis.senate.gov/newsroom/press-releases/curtis-schatz-warner-introduce-bipartisan-legislation-to-provide-transparency-on-ai-generated-content-2/",
+      "outlet": "Office of Sen. Curtis"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Sen. Blunt Rochester, called for swift congressional hearings and regulation on AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.curtis.senate.gov/newsroom/press-releases/curtis-blunt-rochester-call-for-ai-hearings-regulation/",
+      "outlet": "Office of Sen. Curtis"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "They should be able to report serious legal, security, or public safety concerns without risking their careers or being silenced by an NDA. This bill provides that protection without creating another federal regulator or standing in the way of responsible innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.curtis.senate.gov/newsroom/press-releases/curtis-cosponsors-legislation-to-protect-ai-whistleblowers/",
+      "outlet": "Office of Sen. Curtis"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from curtis.senate.gov primary sources; quote verified verbatim" }
+}

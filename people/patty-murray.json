@@ -1,0 +1,37 @@
+{
+  "id": "patty-murray",
+  "name": "Patty Murray",
+  "office": "U.S. Senator from Washington",
+  "office_type": "us_senator",
+  "state": "WA",
+  "party": "D",
+  "committees": [
+    "Senate Appropriations (Vice Chair)",
+    "Senate Health, Education, Labor and Pensions",
+    "Senate Budget"
+  ],
+  "stance": "Backs federal AI regulation with independent oversight, and opposes blanket federal preemption of state AI laws.",
+  "statements": [
+    {
+      "date": "2026-10-08",
+      "arena": "federal",
+      "kind": "action",
+      "text": "In Olympia, heard from Washington state leaders on their efforts to regulate AI and emphasized the need for federal action without preempting state AI laws.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.murray.senate.gov/in-olympia-murray-hears-from-state-leaders-on-wa-efforts-to-regulate-ai-murray-emphasizes-need-for-federal-action-without-preemption/",
+      "outlet": "Office of Sen. Murray"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signed the Senate letter urging President Trump to negotiate frontier-AI guardrails and global standards with China and to consider a mutual pause in frontier AI development.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kaine.senate.gov/press-releases/kaine-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi-jinping",
+      "outlet": "Office of Sen. Kaine"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from murray.senate.gov / kaine.senate.gov primary sources" }
+}

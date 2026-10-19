@@ -1,0 +1,37 @@
+{
+  "id": "lindsey-graham",
+  "name": "Lindsey Graham",
+  "office": "U.S. Senator from South Carolina",
+  "office_type": "us_senator",
+  "state": "SC",
+  "party": "R",
+  "committees": [
+    "Senate Judiciary",
+    "Senate Appropriations",
+    "Senate Budget"
+  ],
+  "stance": "Backs a dedicated federal regulator for AI and the largest tech platforms — the Warren-Graham commission model — to support safe AI development without stifling it.",
+  "statements": [
+    {
+      "date": "2024-01-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Sens. Warren, Bennet, and Welch, urged the Majority Leader to back a new agency to regulate digital platforms and AI; with Warren he introduced the Digital Consumer Protection Commission Act to establish such a commission.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-bennet-graham-welch-urge-leader-schumer-to-support-new-agency-to-regulate-digital-platforms/",
+      "outlet": "Office of Sen. Warren"
+    },
+    {
+      "date": "2024-01-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Today's challenge calls for a dedicated and nimble agency that is able to keep measured pace with the speed of innovation, supporting safe development without stifling it",
+      "target": null,
+      "joint": null,
+      "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-bennet-graham-welch-urge-leader-schumer-to-support-new-agency-to-regulate-digital-platforms/",
+      "outlet": "Office of Sen. Warren"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026; agency-regulation record verified via co-signer warren.senate.gov; quote verified verbatim" }
+}

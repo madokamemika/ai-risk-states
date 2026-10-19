@@ -1,0 +1,47 @@
+{
+  "id": "tom-cotton",
+  "name": "Tom Cotton",
+  "office": "U.S. Senator from Arkansas",
+  "office_type": "us_senator",
+  "state": "AR",
+  "party": "R",
+  "committees": [
+    "Senate Intelligence (Chairman)",
+    "Senate Armed Services",
+    "Senate Judiciary"
+  ],
+  "stance": "AI-as-national-security hawk: export controls on advanced compute, bans on Chinese AI models over embedded backdoors, and keeping the U.S. ahead on frontier models — safeguards framed through security, not consumer regulation.",
+  "statements": [
+    {
+      "date": "2026-07-30",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Wrote to Commerce Secretary Lutnick urging a strategy to counter China's AI diffusion — strict export controls on advanced compute and semiconductor manufacturing equipment, and a government-wide ban on contractor use of Chinese AI models.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-combat-communist-chinas-ai-diffusion-strategy/",
+      "outlet": "Office of Sen. Cotton"
+    },
+    {
+      "date": "2026-07-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Backdoors may be embedded into open weight Chinese models, and auditing produces limited assurances.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-combat-communist-chinas-ai-diffusion-strategy/",
+      "outlet": "Office of Sen. Cotton"
+    },
+    {
+      "date": "2026-07-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "we should continue to deny Communist China the frontier and limit its ability to serve customers on a global scale by enacting and enforcing strict export controls on advanced compute and semiconductor manufacturing equipment.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-combat-communist-chinas-ai-diffusion-strategy/",
+      "outlet": "Office of Sen. Cotton"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from cotton.senate.gov primary sources; quotes verified verbatim" }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "jon-ossoff",
+  "name": "Jon Ossoff",
+  "office": "U.S. Senator from Georgia",
+  "office_type": "us_senator",
+  "state": "GA",
+  "party": "D",
+  "committees": [
+    "Senate Intelligence",
+    "Senate Judiciary",
+    "Senate Homeland Security and Governmental Affairs"
+  ],
+  "stance": "Treats advanced AI as a biosecurity and catastrophic-misuse risk, and as a child-safety risk, and uses his oversight perch to press the executive branch for safeguards.",
+  "statements": [
+    {
+      "date": "2026-07-10",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Opened an inquiry to the White House OSTP Director on bioterrorism and biosafety risks from AI, after AI-company researchers urged mandatory screening of synthetic nucleic-acid orders to keep AI from being misused to produce biological weapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.ossoff.senate.gov/press-releases/sen-ossoff-raising-concerns-about-bioterrorism-biosafety-associated-with-artificial-intelligence/",
+      "outlet": "Office of Sen. Ossoff"
+    },
+    {
+      "date": "2026-07-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Without adequate safeguards, including both screening and traceability processes, malicious actors could use advances in AI to develop potentially dangerous pathogens and biological weapons",
+      "target": null,
+      "joint": null,
+      "source": "https://www.ossoff.senate.gov/press-releases/sen-ossoff-raising-concerns-about-bioterrorism-biosafety-associated-with-artificial-intelligence/",
+      "outlet": "Office of Sen. Ossoff"
+    },
+    {
+      "date": "2026-08-06",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Opened an investigation into the risks to children from AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.ossoff.senate.gov/press-releases/sen-ossoff-investigating-the-risks-to-children-from-ai/",
+      "outlet": "Office of Sen. Ossoff"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from ossoff.senate.gov primary sources; quotes verified verbatim" }
+}

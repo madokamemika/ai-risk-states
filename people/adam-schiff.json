@@ -1,0 +1,45 @@
+{
+  "id": "adam-schiff",
+  "name": "Adam Schiff",
+  "office": "U.S. Senator from California",
+  "office_type": "us_senator",
+  "state": "CA",
+  "party": "D",
+  "committees": [
+    "Senate Judiciary"
+  ],
+  "stance": "Wants enforceable, industry-wide guardrails on frontier AI, a dedicated expert AI regulator, company transparency with Congress, and vigorous oversight of rogue-agent episodes.",
+  "statements": [
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Called for enforceable industry-wide guardrails against the harms of frontier AI and for a regulatory body with the expertise and discretion to keep pace with advanced models, and promised vigorous oversight of rogue AI-agent episodes.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-calls-for-stronger-guardrails-on-ai-promises-vigorous-oversight-of-rogue-agent-episodes-on-the-verges-decoder-podcast/",
+      "outlet": "Office of Sen. Schiff"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "there is a real national security threat here. As these models become more and more advanced, as they advance themselves through this recursive AI, we have less and less of a sense of what they're doing, how they're deciding what they're deciding",
+      "target": null,
+      "joint": null,
+      "source": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-calls-for-stronger-guardrails-on-ai-promises-vigorous-oversight-of-rogue-agent-episodes-on-the-verges-decoder-podcast/",
+      "outlet": "Office of Sen. Schiff"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "we're going to need a regulatory body that has real discretion and real expertise that can move a lot quicker than Congress can. Whether that looks like an FDA for artificial intelligence or some other agency, I think that's ultimately going to be necessary.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-calls-for-stronger-guardrails-on-ai-promises-vigorous-oversight-of-rogue-agent-episodes-on-the-verges-decoder-podcast/",
+      "outlet": "Office of Sen. Schiff"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from schiff.senate.gov primary sources; quotes verified verbatim" }
+}

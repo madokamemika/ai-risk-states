@@ -1,0 +1,37 @@
+{
+  "id": "tammy-baldwin",
+  "name": "Tammy Baldwin",
+  "office": "U.S. Senator from Wisconsin",
+  "office_type": "us_senator",
+  "state": "WI",
+  "party": "D",
+  "committees": [
+    "Senate Appropriations",
+    "Senate Health, Education, Labor and Pensions",
+    "Senate Commerce, Science, and Transportation"
+  ],
+  "stance": "Frontier-AI safety advocate — wants an independent regulator with authority to block deployment absent rigorous independent testing, mandatory disclosure of serious risks and incidents, and human control.",
+  "statements": [
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Demanded Congress act on AI, calling to pump the brakes on frontier models and to create an independent regulator empowered to stop deployment unless independent testing shows a model can be operated safely and kept under human control.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.baldwin.senate.gov/news/press-releases/baldwin-calls-out-republicans-for-refusing-to-act-on-ai-demands-congress-protect-families-and-workers",
+      "outlet": "Office of Sen. Baldwin"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "In the short term, we must act to pump the brakes on these frontier models. We need an independent cop on the beat with the expertise and authority to stop deployment unless rigorous, independent testing shows that a model can be operated safely and kept under human control. Companies must disclose serious risks and incidents.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.baldwin.senate.gov/news/press-releases/baldwin-calls-out-republicans-for-refusing-to-act-on-ai-demands-congress-protect-families-and-workers",
+      "outlet": "Office of Sen. Baldwin"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from baldwin.senate.gov primary sources; quote verified verbatim" }
+}

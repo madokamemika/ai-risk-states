@@ -1,0 +1,48 @@
+{
+  "id": "tim-kaine",
+  "name": "Tim Kaine",
+  "office": "U.S. Senator from Virginia",
+  "office_type": "us_senator",
+  "state": "VA",
+  "party": "D",
+  "committees": [
+    "Senate Armed Services",
+    "Senate Foreign Relations",
+    "Senate Health, Education, Labor and Pensions",
+    "Senate Budget"
+  ],
+  "stance": "Frontier-AI-risk hawk — wants binding international guardrails and global standards for developing and testing frontier AI, model oversight, human control of autonomous systems, and a possible mutual development pause with China.",
+  "statements": [
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led colleagues in a letter urging President Trump to negotiate a U.S.-China agreement on guardrails and global standards for the development, testing and use of frontier AI, and to consider a mutual pause in frontier AI development.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kaine.senate.gov/press-releases/kaine-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi-jinping",
+      "outlet": "Office of Sen. Kaine"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As extraordinary as the promise of some of AI's advanced capabilities are, safety incidents make clear that both national and international infrastructure is threatened by unregulated testing and release of AI models.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kaine.senate.gov/press-releases/kaine-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi-jinping",
+      "outlet": "Office of Sen. Kaine"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI technology is too powerful, and its risks too many, for the U.S. and China to forgo discussions on parameters around its development and use.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kaine.senate.gov/press-releases/kaine-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi-jinping",
+      "outlet": "Office of Sen. Kaine"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from kaine.senate.gov primary sources; quotes verified verbatim" }
+}

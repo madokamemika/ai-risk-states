@@ -1,0 +1,37 @@
+{
+  "id": "mike-rounds",
+  "name": "Mike Rounds",
+  "office": "U.S. Senator from South Dakota",
+  "office_type": "us_senator",
+  "state": "SD",
+  "party": "R",
+  "committees": [
+    "Senate Armed Services",
+    "Senate Intelligence",
+    "Senate Appropriations"
+  ],
+  "stance": "Writes AI governance through a national-security and military lens — human judgment over autonomous weapons, testing and validation, and a central incident-reporting repository; a lead on bipartisan Senate AI policy.",
+  "statements": [
+    {
+      "date": "2026-06-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Secured provisions in the Senate Armed Services Committee's FY2027 NDAA establishing Department of Defense AI governance rules and a codified review process for autonomous weapons and AI, with testing and validation standards and a centralized incident-reporting repository.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-victories-in-senate-armed-services-committees-fiscal-year-2027-ndaa",
+      "outlet": "Office of Sen. Rounds"
+    },
+    {
+      "date": "2026-06-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Codifies the Department review process for autonomous weapon systems and AI capabilities, specifying standards for human judgment, validation and testing requirements, prohibited uses, and a centralized incident reporting repository.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-victories-in-senate-armed-services-committees-fiscal-year-2027-ndaa",
+      "outlet": "Office of Sen. Rounds"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from rounds.senate.gov primary sources; quote verified verbatim" }
+}

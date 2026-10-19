@@ -1,0 +1,35 @@
+{
+  "id": "pete-ricketts",
+  "name": "Pete Ricketts",
+  "office": "U.S. Senator from Nebraska",
+  "office_type": "us_senator",
+  "state": "NE",
+  "party": "R",
+  "committees": [
+    "Senate Foreign Relations"
+  ],
+  "stance": "\"Innovation plus guardrails\": export controls on advanced AI chips to stay ahead of China, with consumer and child-safety guardrails — the safety angle real but secondary to competitiveness.",
+  "statements": [
+    {
+      "date": "2026-10-14",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Rounded up his AI portfolio: the SAFE Chips and MATCH Acts restricting export of advanced AI chips and semiconductor equipment, and the GUARD Act requiring age verification and AI disclosures and barring AI companions for minors.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.ricketts.senate.gov/news/press-releases/ricketts-champions-ai-innovation-and-safety/",
+      "outlet": "Office of Sen. Ricketts"
+    },
+    {
+      "date": "2026-10-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It also means implementing commonsense guardrails to protect Americans without stifling innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.ricketts.senate.gov/news/press-releases/ricketts-champions-ai-innovation-and-safety/",
+      "outlet": "Office of Sen. Ricketts"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from ricketts.senate.gov primary sources; quote verified verbatim" }
+}

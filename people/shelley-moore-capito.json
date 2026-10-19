@@ -1,0 +1,40 @@
+{
+  "id": "shelley-moore-capito",
+  "name": "Shelley Moore Capito",
+  "office": "U.S. Senator from West Virginia",
+  "office_type": "us_senator",
+  "state": "WV",
+  "party": "R",
+  "committees": [
+    "Senate Commerce, Science, and Transportation",
+    "Senate Appropriations",
+    "Senate Environment and Public Works (Chair)"
+  ],
+  "stance": "Champion of independent third-party AI auditing and verification — co-author of the VET AI Act directing NIST to set guidelines for external assurance of AI companies' safety and risk-management claims.",
+  "statements": [
+    {
+      "date": "2024-07-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan VET AI Act with Sen. Hickenlooper, directing NIST to develop specifications and guidelines for third-party evaluators to provide independent external assurance and verification of how AI systems are developed and tested.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.capito.senate.gov/news/press-releases/capito-hickenlooper-introduce-bipartisan-bill-to-create-guidelines-for-third-party-audits-of-ai",
+      "outlet": "Office of Sen. Capito"
+    },
+    {
+      "date": "2025-08-12",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Reintroduced the VET AI Act with Sen. Hickenlooper in the 119th Congress.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.capito.senate.gov/news/press-releases/in-case-you-missed-it-capito-hickenlooper-reintroduce-bipartisan-bill-to-boost-ai-standards-create-guidelines",
+      "outlet": "Office of Sen. Capito"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from capito.senate.gov primary sources (actions)"
+  }
+}

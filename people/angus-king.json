@@ -1,0 +1,46 @@
+{
+  "id": "angus-king",
+  "name": "Angus King",
+  "office": "U.S. Senator from Maine",
+  "office_type": "us_senator",
+  "state": "ME",
+  "party": "I",
+  "committees": [
+    "Senate Armed Services",
+    "Senate Intelligence"
+  ],
+  "stance": "Treats uncontrolled frontier AI as a potential catastrophic risk, and pushes both domestic regulation of the frontier labs and sustained U.S.-China dialogue on AI's shared risks.",
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Wrote to the Treasury Secretary urging sustained U.S.-China government dialogue on the shared risks of AI ahead of the Xi state visit, framing domestic regulation of the frontier labs and international dialogue as parts of an AI safety strategy.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks",
+      "outlet": "Office of Sen. King"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "we also cannot lock ourselves into a race to the bottom with China on AI safety given the stakes.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks",
+      "outlet": "Office of Sen. King"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "thoughtful domestic regulation of the frontier AI labs that are developing the most advanced models",
+      "target": null,
+      "joint": null,
+      "source": "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks",
+      "outlet": "Office of Sen. King"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from king.senate.gov primary sources; quotes verified verbatim" }
+}

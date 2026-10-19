@@ -1,0 +1,55 @@
+{
+  "id": "todd-young",
+  "name": "Todd Young",
+  "office": "U.S. Senator from Indiana",
+  "office_type": "us_senator",
+  "state": "IN",
+  "party": "R",
+  "committees": [
+    "Senate Commerce, Science, and Transportation"
+  ],
+  "stance": "Pro-innovation but safety-engaged: presses the government to track frontier-model risks — interpretability, incident and vulnerability reporting, federal test-and-evaluation, and critical-infrastructure safeguards.",
+  "statements": [
+    {
+      "date": "2024-04-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced the bipartisan Future of AI Innovation Act with Sens. Hickenlooper, Cantwell, and Blackburn, authorizing the NIST AI Safety Institute to develop AI standards and creating public-private testbeds to evaluate models.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-bipartisan-senators-introduce-ai-bill-to-accelerate-innovation-strengthen-u-s-leadership/",
+      "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Wrote to the National Security Advisor urging the NSC to convene recurring roundtables with frontier-AI developers and national-security experts, and to pursue voluntary AI incident and vulnerability reporting, interpretability research, federal test-and-evaluation environments, and safeguards against AI-enabled attacks on critical infrastructure.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.young.senate.gov/newsroom/press-releases/young-calls-for-national-security-council-discussions-on-emerging-ai-threats/",
+      "outlet": "Office of Sen. Young"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Recent developments involving frontier AI models have further demonstrated the ability of advanced systems to circumvent safeguards, interact with external systems, and substantially enhance offensive cyber capabilities.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.young.senate.gov/newsroom/press-releases/young-calls-for-national-security-council-discussions-on-emerging-ai-threats/",
+      "outlet": "Office of Sen. Young"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We must also continue to improve our understanding of these increasingly complex systems, whose internal processes can be difficult even for experts to fully interpret, predict, and control",
+      "target": null,
+      "joint": null,
+      "source": "https://www.young.senate.gov/newsroom/press-releases/young-calls-for-national-security-council-discussions-on-emerging-ai-threats/",
+      "outlet": "Office of Sen. Young"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from young.senate.gov primary sources; quotes verified verbatim" }
+}

@@ -194,6 +194,95 @@
    }
   },
   {
+   "id": "tammy-baldwin",
+   "name": "Tammy Baldwin",
+   "office": "U.S. Senator from Wisconsin",
+   "office_type": "us_senator",
+   "state": "WI",
+   "party": "D",
+   "committees": [
+    "Senate Appropriations",
+    "Senate Health, Education, Labor and Pensions",
+    "Senate Commerce, Science, and Transportation"
+   ],
+   "stance": "Frontier-AI safety advocate — wants an independent regulator with authority to block deployment absent rigorous independent testing, mandatory disclosure of serious risks and incidents, and human control.",
+   "statements": [
+    {
+     "date": "2026-09-21",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Demanded Congress act on AI, calling to pump the brakes on frontier models and to create an independent regulator empowered to stop deployment unless independent testing shows a model can be operated safely and kept under human control.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.baldwin.senate.gov/news/press-releases/baldwin-calls-out-republicans-for-refusing-to-act-on-ai-demands-congress-protect-families-and-workers",
+     "outlet": "Office of Sen. Baldwin"
+    },
+    {
+     "date": "2026-09-21",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "In the short term, we must act to pump the brakes on these frontier models. We need an independent cop on the beat with the expertise and authority to stop deployment unless rigorous, independent testing shows that a model can be operated safely and kept under human control. Companies must disclose serious risks and incidents.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.baldwin.senate.gov/news/press-releases/baldwin-calls-out-republicans-for-refusing-to-act-on-ai-demands-congress-protect-families-and-workers",
+     "outlet": "Office of Sen. Baldwin"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from baldwin.senate.gov primary sources; quote verified verbatim"
+   }
+  },
+  {
+   "id": "jim-banks",
+   "name": "Jim Banks",
+   "office": "U.S. Senator from Indiana",
+   "office_type": "us_senator",
+   "state": "IN",
+   "party": "R",
+   "committees": [
+    "Senate Armed Services",
+    "Senate Banking, Housing, and Urban Affairs"
+   ],
+   "stance": "Frames frontier AI as a defining national-security problem — focused on protecting military AI and frontier labs' model weights from insider theft, sabotage, and backdoors.",
+   "statements": [
+    {
+     "date": "2026-10-07",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Wrote to the Secretary of War and OMB urging stronger counterintelligence protections against insider threats at frontier AI companies — model-weight theft, sabotage and backdoors, and CCP espionage — and requested a staff briefing.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.banks.senate.gov/news/press-releases/sen-banks-calls-for-stronger-protections-against-insider-threats-at-frontier-si-companies/",
+     "outlet": "Office of Sen. Banks"
+    },
+    {
+     "date": "2026-10-07",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "the race to develop and deploy advanced SI will be a defining national security issue of our time",
+     "target": null,
+     "joint": null,
+     "source": "https://www.banks.senate.gov/news/press-releases/sen-banks-calls-for-stronger-protections-against-insider-threats-at-frontier-si-companies/",
+     "outlet": "Office of Sen. Banks"
+    },
+    {
+     "date": "2026-10-07",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "a single compromised or malicious insider with sufficient access could reveal secret information about military uses of SI, expose model weights, or attempt to sabotage SI systems via backdoors",
+     "target": null,
+     "joint": null,
+     "source": "https://www.banks.senate.gov/news/press-releases/sen-banks-calls-for-stronger-protections-against-insider-threats-at-frontier-si-companies/",
+     "outlet": "Office of Sen. Banks"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from banks.senate.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
    "id": "michael-bayham",
    "name": "Michael Bayham",
    "office": "Louisiana State Representative",
@@ -846,6 +935,51 @@
    }
   },
   {
+   "id": "ted-budd",
+   "name": "Ted Budd",
+   "office": "U.S. Senator from North Carolina",
+   "office_type": "us_senator",
+   "state": "NC",
+   "party": "R",
+   "stance": "Early bipartisan focus on catastrophic AI misuse — AI-enabled biological and chemical weapons — and on federal preparedness and risk assessment for it.",
+   "statements": [
+    {
+     "date": "2023-07-18",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Sen. Markey, introduced bills directing HHS to develop a strategy for public-health preparedness against AI misuse (including biological or chemical weapons) and directing ASPR to assess emergent biosecurity risks from AI advances.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.budd.senate.gov/press-releases/budd-markey-introduce-bipartisan-bills-to-prepare-for-ai-threats",
+     "outlet": "Office of Sen. Budd"
+    },
+    {
+     "date": "2023-07-18",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "we may face the real prospect of AI-generated threats like biological or chemical weapons.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.budd.senate.gov/press-releases/budd-markey-introduce-bipartisan-bills-to-prepare-for-ai-threats",
+     "outlet": "Office of Sen. Budd"
+    },
+    {
+     "date": "2023-07-18",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The federal government must not be caught flat-footed on these threats and should begin to prepare now.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.budd.senate.gov/press-releases/budd-markey-introduce-bipartisan-bills-to-prepare-for-ai-threats",
+     "outlet": "Office of Sen. Budd"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from budd.senate.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
    "id": "andrea-campbell",
    "name": "Andrea Joy Campbell",
    "office": "Attorney General of Massachusetts",
@@ -969,6 +1103,46 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "shelley-moore-capito",
+   "name": "Shelley Moore Capito",
+   "office": "U.S. Senator from West Virginia",
+   "office_type": "us_senator",
+   "state": "WV",
+   "party": "R",
+   "committees": [
+    "Senate Commerce, Science, and Transportation",
+    "Senate Appropriations",
+    "Senate Environment and Public Works (Chair)"
+   ],
+   "stance": "Champion of independent third-party AI auditing and verification — co-author of the VET AI Act directing NIST to set guidelines for external assurance of AI companies' safety and risk-management claims.",
+   "statements": [
+    {
+     "date": "2024-07-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the bipartisan VET AI Act with Sen. Hickenlooper, directing NIST to develop specifications and guidelines for third-party evaluators to provide independent external assurance and verification of how AI systems are developed and tested.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.capito.senate.gov/news/press-releases/capito-hickenlooper-introduce-bipartisan-bill-to-create-guidelines-for-third-party-audits-of-ai",
+     "outlet": "Office of Sen. Capito"
+    },
+    {
+     "date": "2025-08-12",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Reintroduced the VET AI Act with Sen. Hickenlooper in the 119th Congress.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.capito.senate.gov/news/press-releases/in-case-you-missed-it-capito-hickenlooper-reintroduce-bipartisan-bill-to-boost-ai-standards-create-guidelines",
+     "outlet": "Office of Sen. Capito"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from capito.senate.gov primary sources (actions)"
    }
   },
   {
@@ -1379,6 +1553,56 @@
    }
   },
   {
+   "id": "tom-cotton",
+   "name": "Tom Cotton",
+   "office": "U.S. Senator from Arkansas",
+   "office_type": "us_senator",
+   "state": "AR",
+   "party": "R",
+   "committees": [
+    "Senate Intelligence (Chairman)",
+    "Senate Armed Services",
+    "Senate Judiciary"
+   ],
+   "stance": "AI-as-national-security hawk: export controls on advanced compute, bans on Chinese AI models over embedded backdoors, and keeping the U.S. ahead on frontier models — safeguards framed through security, not consumer regulation.",
+   "statements": [
+    {
+     "date": "2026-07-30",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Wrote to Commerce Secretary Lutnick urging a strategy to counter China's AI diffusion — strict export controls on advanced compute and semiconductor manufacturing equipment, and a government-wide ban on contractor use of Chinese AI models.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-combat-communist-chinas-ai-diffusion-strategy/",
+     "outlet": "Office of Sen. Cotton"
+    },
+    {
+     "date": "2026-07-30",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Backdoors may be embedded into open weight Chinese models, and auditing produces limited assurances.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-combat-communist-chinas-ai-diffusion-strategy/",
+     "outlet": "Office of Sen. Cotton"
+    },
+    {
+     "date": "2026-07-30",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "we should continue to deny Communist China the frontier and limit its ability to serve customers on a global scale by enacting and enforcing strict export controls on advanced compute and semiconductor manufacturing equipment.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-combat-communist-chinas-ai-diffusion-strategy/",
+     "outlet": "Office of Sen. Cotton"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from cotton.senate.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
    "id": "spencer-cox",
    "name": "Spencer Cox",
    "office": "Governor of Utah",
@@ -1538,6 +1762,56 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "john-curtis",
+   "name": "John Curtis",
+   "office": "U.S. Senator from Utah",
+   "office_type": "us_senator",
+   "state": "UT",
+   "party": "R",
+   "committees": [
+    "Senate Commerce, Science, and Transportation",
+    "Senate Foreign Relations",
+    "Senate Energy and Natural Resources"
+   ],
+   "stance": "Backs targeted, commonsense AI safeguards — whistleblower protection, content transparency, and congressional hearings — while preserving U.S. AI leadership and avoiding a new regulator.",
+   "statements": [
+    {
+     "date": "2026-06-25",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the bipartisan AI Labeling Act with Sens. Schatz and Warner to require transparency for AI-generated content.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.curtis.senate.gov/newsroom/press-releases/curtis-schatz-warner-introduce-bipartisan-legislation-to-provide-transparency-on-ai-generated-content-2/",
+     "outlet": "Office of Sen. Curtis"
+    },
+    {
+     "date": "2026-09-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Sen. Blunt Rochester, called for swift congressional hearings and regulation on AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.curtis.senate.gov/newsroom/press-releases/curtis-blunt-rochester-call-for-ai-hearings-regulation/",
+     "outlet": "Office of Sen. Curtis"
+    },
+    {
+     "date": "2026-09-25",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "They should be able to report serious legal, security, or public safety concerns without risking their careers or being silenced by an NDA. This bill provides that protection without creating another federal regulator or standing in the way of responsible innovation.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.curtis.senate.gov/newsroom/press-releases/curtis-cosponsors-legislation-to-protect-ai-whistleblowers/",
+     "outlet": "Office of Sen. Curtis"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from curtis.senate.gov primary sources; quote verified verbatim"
    }
   },
   {
@@ -2129,6 +2403,55 @@
    }
   },
   {
+   "id": "kirsten-gillibrand",
+   "name": "Kirsten Gillibrand",
+   "office": "U.S. Senator from New York",
+   "office_type": "us_senator",
+   "state": "NY",
+   "party": "D",
+   "committees": [
+    "Senate Armed Services",
+    "Senate Intelligence"
+   ],
+   "stance": "Presses the administration over chaotic, opaque oversight of new AI models and demands a standardized federal AI regulatory framework — naming frontier-model misalignment and test-environment escapes directly.",
+   "statements": [
+    {
+     "date": "2026-08-04",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Sens. Schiff, Coons, Kelly, and Warner, pressed the administration over its chaotic, opaque oversight of new AI models and demanded a transparent, durable, standardized federal AI regulatory framework.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-schiff-and-colleagues-press-trump-administration-on-chaotic-opaque-oversight-of-new-artificial-intelligence-models/",
+     "outlet": "Office of Sen. Gillibrand"
+    },
+    {
+     "date": "2026-08-04",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We support serious, technically informed action to prevent frontier AI from being misused by adversaries or criminals and to mitigate risks posed by misalignment in the models themselves.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-schiff-and-colleagues-press-trump-administration-on-chaotic-opaque-oversight-of-new-artificial-intelligence-models/",
+     "outlet": "Office of Sen. Gillibrand"
+    },
+    {
+     "date": "2026-08-04",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "During an internal evaluation, OpenAI models escaped their testing environment and used high-level technical capabilities to compromise a third party's network without any instructions to take those actions.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-schiff-and-colleagues-press-trump-administration-on-chaotic-opaque-oversight-of-new-artificial-intelligence-models/",
+     "outlet": "Office of Sen. Gillibrand"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from gillibrand.senate.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
    "id": "mark-gordon",
    "name": "Mark Gordon",
    "office": "Governor of Wyoming",
@@ -2234,6 +2557,46 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "lindsey-graham",
+   "name": "Lindsey Graham",
+   "office": "U.S. Senator from South Carolina",
+   "office_type": "us_senator",
+   "state": "SC",
+   "party": "R",
+   "committees": [
+    "Senate Judiciary",
+    "Senate Appropriations",
+    "Senate Budget"
+   ],
+   "stance": "Backs a dedicated federal regulator for AI and the largest tech platforms — the Warren-Graham commission model — to support safe AI development without stifling it.",
+   "statements": [
+    {
+     "date": "2024-01-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Sens. Warren, Bennet, and Welch, urged the Majority Leader to back a new agency to regulate digital platforms and AI; with Warren he introduced the Digital Consumer Protection Commission Act to establish such a commission.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-bennet-graham-welch-urge-leader-schumer-to-support-new-agency-to-regulate-digital-platforms/",
+     "outlet": "Office of Sen. Warren"
+    },
+    {
+     "date": "2024-01-24",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Today's challenge calls for a dedicated and nimble agency that is able to keep measured pace with the speed of innovation, supporting safe development without stifling it",
+     "target": null,
+     "joint": null,
+     "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-bennet-graham-welch-urge-leader-schumer-to-support-new-agency-to-regulate-digital-platforms/",
+     "outlet": "Office of Sen. Warren"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; agency-regulation record verified via co-signer warren.senate.gov; quote verified verbatim"
    }
   },
   {
@@ -2640,6 +3003,46 @@
    }
   },
   {
+   "id": "martin-heinrich",
+   "name": "Martin Heinrich",
+   "office": "U.S. Senator from New Mexico",
+   "office_type": "us_senator",
+   "state": "NM",
+   "party": "D",
+   "committees": [
+    "Senate Energy and Natural Resources (Ranking Member)",
+    "Senate Intelligence",
+    "Senate Appropriations"
+   ],
+   "stance": "Founder and co-chair of the Senate's bipartisan AI Caucus and a member of Schumer's bipartisan AI working group — pro-innovation but explicitly for guardrails against AI's risks.",
+   "statements": [
+    {
+     "date": "2026",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "As the Founder and Co-Chair of the Senate's bipartisan AI Caucus and a member of Majority Leader Chuck Schumer's bipartisan AI working group, I'm committed to developing smart policy that invests in American innovation and delivers the benefits of AI, while also establishing guardrails to protect against AI's risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.heinrich.senate.gov/priorities/issues/artificial-intelligence",
+     "outlet": "Office of Sen. Heinrich"
+    },
+    {
+     "date": "2026",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI is being used in many ways that pose real risks to our civil liberties, data privacy, intellectual property, and fundamental right to be treated as individual Americans.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.heinrich.senate.gov/priorities/issues/artificial-intelligence",
+     "outlet": "Office of Sen. Heinrich"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from heinrich.senate.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
    "id": "john-hickenlooper",
    "name": "John Hickenlooper",
    "office": "U.S. Senator from Colorado",
@@ -2861,6 +3264,56 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "chris-van-hollen",
+   "name": "Chris Van Hollen",
+   "office": "U.S. Senator from Maryland",
+   "office_type": "us_senator",
+   "state": "MD",
+   "party": "D",
+   "committees": [
+    "Senate Appropriations",
+    "Senate Banking, Housing, and Urban Affairs",
+    "Senate Foreign Relations"
+   ],
+   "stance": "Presses frontier labs for pre-release risk assessment and calls for guardrails against unregulated frontier-AI development.",
+   "statements": [
+    {
+     "date": "2026-09-29",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Welcomed OpenAI's decision to hold the release of its latest model, following his earlier letter pressing CEO Sam Altman for a risk assessment of the model's capabilities.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-openai-decision-to-hold-release-of-latest-model",
+     "outlet": "Office of Sen. Van Hollen"
+    },
+    {
+     "date": "2026-09-29",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "this decision should come as yet another warning sign to those who want to proceed recklessly with the continued development of frontier artificial intelligence",
+     "target": null,
+     "joint": null,
+     "source": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-openai-decision-to-hold-release-of-latest-model",
+     "outlet": "Office of Sen. Van Hollen"
+    },
+    {
+     "date": "2026-09-29",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I will keep pressing for critical guardrails to protect humanity from the threat of unregulated AI development.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-openai-decision-to-hold-release-of-latest-model",
+     "outlet": "Office of Sen. Van Hollen"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from vanhollen.senate.gov primary sources; quotes verified verbatim"
    }
   },
   {
@@ -3328,6 +3781,57 @@
    }
   },
   {
+   "id": "tim-kaine",
+   "name": "Tim Kaine",
+   "office": "U.S. Senator from Virginia",
+   "office_type": "us_senator",
+   "state": "VA",
+   "party": "D",
+   "committees": [
+    "Senate Armed Services",
+    "Senate Foreign Relations",
+    "Senate Health, Education, Labor and Pensions",
+    "Senate Budget"
+   ],
+   "stance": "Frontier-AI-risk hawk — wants binding international guardrails and global standards for developing and testing frontier AI, model oversight, human control of autonomous systems, and a possible mutual development pause with China.",
+   "statements": [
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Led colleagues in a letter urging President Trump to negotiate a U.S.-China agreement on guardrails and global standards for the development, testing and use of frontier AI, and to consider a mutual pause in frontier AI development.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.kaine.senate.gov/press-releases/kaine-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi-jinping",
+     "outlet": "Office of Sen. Kaine"
+    },
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "As extraordinary as the promise of some of AI's advanced capabilities are, safety incidents make clear that both national and international infrastructure is threatened by unregulated testing and release of AI models.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.kaine.senate.gov/press-releases/kaine-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi-jinping",
+     "outlet": "Office of Sen. Kaine"
+    },
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI technology is too powerful, and its risks too many, for the U.S. and China to forgo discussions on parameters around its development and use.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.kaine.senate.gov/press-releases/kaine-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi-jinping",
+     "outlet": "Office of Sen. Kaine"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from kaine.senate.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
    "id": "josh-kaul",
    "name": "Josh Kaul",
    "office": "Attorney General of Wisconsin",
@@ -3367,6 +3871,54 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "mark-kelly",
+   "name": "Mark Kelly",
+   "office": "U.S. Senator from Arizona",
+   "office_type": "us_senator",
+   "state": "AZ",
+   "party": "D",
+   "committees": [
+    "Senate Armed Services"
+   ],
+   "stance": "Keep humans in command of military AI — mandate human judgment and accountability when autonomous weapons and AI systems are involved in the use of force.",
+   "statements": [
+    {
+     "date": "2026-06-01",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the Ultimate Human Responsibility in Defense Systems Act and the bipartisan Warfighter AI Readiness and Preparedness (WARP) Act with Sen. Cotton, to require human judgment and accountability in AI use-of-force decisions and to assess how reliance on AI affects military readiness.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.kelly.senate.gov/newsroom/press-releases/icymi-kelly-writes-washington-times-op-ed-on-keeping-humans-in-command-as-ai-transforms-warfare/",
+     "outlet": "Office of Sen. Kelly"
+    },
+    {
+     "date": "2026-10-13",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "human judgment and responsibility must be at the center of decisions about the use of force",
+     "target": null,
+     "joint": null,
+     "source": "https://www.kelly.senate.gov/newsroom/press-releases/icymi-kelly-writes-washington-times-op-ed-on-keeping-humans-in-command-as-ai-transforms-warfare/",
+     "outlet": "Office of Sen. Kelly"
+    },
+    {
+     "date": "2026-10-13",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Tomorrow's warfighters must be able to recognize when an AI system is giving them bad information and know how to continue the mission without it.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.kelly.senate.gov/newsroom/press-releases/icymi-kelly-writes-washington-times-op-ed-on-keeping-humans-in-command-as-ai-transforms-warfare/",
+     "outlet": "Office of Sen. Kelly"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from kelly.senate.gov primary sources; quotes verified verbatim"
    }
   },
   {
@@ -3560,6 +4112,55 @@
     "page": "https://commons.wikimedia.org/wiki/File:Josh_Kimbrell_at_Robin_Stilwell_Confirmation_(cropped).jpg",
     "license": "Public domain",
     "artist": "SC National Guard"
+   }
+  },
+  {
+   "id": "angus-king",
+   "name": "Angus King",
+   "office": "U.S. Senator from Maine",
+   "office_type": "us_senator",
+   "state": "ME",
+   "party": "I",
+   "committees": [
+    "Senate Armed Services",
+    "Senate Intelligence"
+   ],
+   "stance": "Treats uncontrolled frontier AI as a potential catastrophic risk, and pushes both domestic regulation of the frontier labs and sustained U.S.-China dialogue on AI's shared risks.",
+   "statements": [
+    {
+     "date": "2026-09-17",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Wrote to the Treasury Secretary urging sustained U.S.-China government dialogue on the shared risks of AI ahead of the Xi state visit, framing domestic regulation of the frontier labs and international dialogue as parts of an AI safety strategy.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks",
+     "outlet": "Office of Sen. King"
+    },
+    {
+     "date": "2026-09-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "we also cannot lock ourselves into a race to the bottom with China on AI safety given the stakes.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks",
+     "outlet": "Office of Sen. King"
+    },
+    {
+     "date": "2026-09-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "thoughtful domestic regulation of the frontier AI labs that are developing the most advanced models",
+     "target": null,
+     "joint": null,
+     "source": "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks",
+     "outlet": "Office of Sen. King"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from king.senate.gov primary sources; quotes verified verbatim"
    }
   },
   {
@@ -4614,6 +5215,46 @@
    }
   },
   {
+   "id": "catherine-cortez-masto",
+   "name": "Catherine Cortez Masto",
+   "office": "U.S. Senator from Nevada",
+   "office_type": "us_senator",
+   "state": "NV",
+   "party": "D",
+   "committees": [
+    "Senate Commerce, Science, and Transportation",
+    "Senate Finance",
+    "Senate Banking, Housing, and Urban Affairs"
+   ],
+   "stance": "Frames rapidly advancing AI as a growing safety risk — calls for immediate bipartisan AI-safety hearings and a global standard for commonsense guardrails, transparency, and human control.",
+   "statements": [
+    {
+     "date": "2026-09-14",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI development is moving quickly and the safety risks for Americans are also increasing every day.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-statement-on-reports-of-threats-posed-by-rapidly-developing-ai-technology/",
+     "outlet": "Office of Sen. Cortez Masto"
+    },
+    {
+     "date": "2026-09-14",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "While these tools hold immense potential, Congress has a role to play to protect Americans from AI-enabled threats ranging from cybercrime to terrorism.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-statement-on-reports-of-threats-posed-by-rapidly-developing-ai-technology/",
+     "outlet": "Office of Sen. Cortez Masto"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from cortezmasto.senate.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
    "id": "ty-mathews",
    "name": "Ty Mathews",
    "office": "Ohio State Representative, District 83",
@@ -5013,6 +5654,46 @@
    }
   },
   {
+   "id": "patty-murray",
+   "name": "Patty Murray",
+   "office": "U.S. Senator from Washington",
+   "office_type": "us_senator",
+   "state": "WA",
+   "party": "D",
+   "committees": [
+    "Senate Appropriations (Vice Chair)",
+    "Senate Health, Education, Labor and Pensions",
+    "Senate Budget"
+   ],
+   "stance": "Backs federal AI regulation with independent oversight, and opposes blanket federal preemption of state AI laws.",
+   "statements": [
+    {
+     "date": "2026-10-08",
+     "arena": "federal",
+     "kind": "action",
+     "text": "In Olympia, heard from Washington state leaders on their efforts to regulate AI and emphasized the need for federal action without preempting state AI laws.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.murray.senate.gov/in-olympia-murray-hears-from-state-leaders-on-wa-efforts-to-regulate-ai-murray-emphasizes-need-for-federal-action-without-preemption/",
+     "outlet": "Office of Sen. Murray"
+    },
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed the Senate letter urging President Trump to negotiate frontier-AI guardrails and global standards with China and to consider a mutual pause in frontier AI development.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.kaine.senate.gov/press-releases/kaine-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi-jinping",
+     "outlet": "Office of Sen. Kaine"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from murray.senate.gov / kaine.senate.gov primary sources"
+   }
+  },
+  {
    "id": "liz-murrill",
    "name": "Liz Murrill",
    "office": "Attorney General of Louisiana",
@@ -5326,6 +6007,56 @@
    }
   },
   {
+   "id": "jon-ossoff",
+   "name": "Jon Ossoff",
+   "office": "U.S. Senator from Georgia",
+   "office_type": "us_senator",
+   "state": "GA",
+   "party": "D",
+   "committees": [
+    "Senate Intelligence",
+    "Senate Judiciary",
+    "Senate Homeland Security and Governmental Affairs"
+   ],
+   "stance": "Treats advanced AI as a biosecurity and catastrophic-misuse risk, and as a child-safety risk, and uses his oversight perch to press the executive branch for safeguards.",
+   "statements": [
+    {
+     "date": "2026-07-10",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Opened an inquiry to the White House OSTP Director on bioterrorism and biosafety risks from AI, after AI-company researchers urged mandatory screening of synthetic nucleic-acid orders to keep AI from being misused to produce biological weapons.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.ossoff.senate.gov/press-releases/sen-ossoff-raising-concerns-about-bioterrorism-biosafety-associated-with-artificial-intelligence/",
+     "outlet": "Office of Sen. Ossoff"
+    },
+    {
+     "date": "2026-07-10",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Without adequate safeguards, including both screening and traceability processes, malicious actors could use advances in AI to develop potentially dangerous pathogens and biological weapons",
+     "target": null,
+     "joint": null,
+     "source": "https://www.ossoff.senate.gov/press-releases/sen-ossoff-raising-concerns-about-bioterrorism-biosafety-associated-with-artificial-intelligence/",
+     "outlet": "Office of Sen. Ossoff"
+    },
+    {
+     "date": "2026-08-06",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Opened an investigation into the risks to children from AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.ossoff.senate.gov/press-releases/sen-ossoff-investigating-the-risks-to-children-from-ai/",
+     "outlet": "Office of Sen. Ossoff"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from ossoff.senate.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
    "id": "rand-paul",
    "name": "Rand Paul",
    "office": "U.S. Senator from Kentucky",
@@ -5453,6 +6184,35 @@
     "page": "https://commons.wikimedia.org/wiki/File:Florida_State_Rep_Daniel_Perez.jpg",
     "license": "Public domain",
     "artist": "Florida House of Representatives"
+   }
+  },
+  {
+   "id": "gary-peters",
+   "name": "Gary Peters",
+   "office": "U.S. Senator from Michigan",
+   "office_type": "us_senator",
+   "state": "MI",
+   "party": "D",
+   "committees": [
+    "Senate Homeland Security and Governmental Affairs",
+    "Senate Commerce, Science, and Transportation"
+   ],
+   "stance": "Long-running focus on federal government use of AI — transparency, accountability and oversight of automated and augmented systems that interact with the public or make critical decisions.",
+   "statements": [
+    {
+     "date": "2026",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Sponsored S.5648, directing federal agencies to be transparent when using automated and augmented systems to interact with the public or make critical decisions.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.congress.gov/bill/119th-congress/senate-bill/5648",
+     "outlet": "Congress.gov"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from peters.senate.gov legislation listing (S.5648)"
    }
   },
   {
@@ -5860,6 +6620,44 @@
    }
   },
   {
+   "id": "pete-ricketts",
+   "name": "Pete Ricketts",
+   "office": "U.S. Senator from Nebraska",
+   "office_type": "us_senator",
+   "state": "NE",
+   "party": "R",
+   "committees": [
+    "Senate Foreign Relations"
+   ],
+   "stance": "\"Innovation plus guardrails\": export controls on advanced AI chips to stay ahead of China, with consumer and child-safety guardrails — the safety angle real but secondary to competitiveness.",
+   "statements": [
+    {
+     "date": "2026-10-14",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Rounded up his AI portfolio: the SAFE Chips and MATCH Acts restricting export of advanced AI chips and semiconductor equipment, and the GUARD Act requiring age verification and AI disclosures and barring AI companions for minors.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.ricketts.senate.gov/news/press-releases/ricketts-champions-ai-innovation-and-safety/",
+     "outlet": "Office of Sen. Ricketts"
+    },
+    {
+     "date": "2026-10-14",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "It also means implementing commonsense guardrails to protect Americans without stifling innovation.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.ricketts.senate.gov/news/press-releases/ricketts-champions-ai-innovation-and-safety/",
+     "outlet": "Office of Sen. Ricketts"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from ricketts.senate.gov primary sources; quote verified verbatim"
+   }
+  },
+  {
    "id": "ben-robbins",
    "name": "Ben Robbins",
    "office": "Alabama State Representative",
@@ -5972,6 +6770,45 @@
    }
   },
   {
+   "id": "jacky-rosen",
+   "name": "Jacky Rosen",
+   "office": "U.S. Senator from Nevada",
+   "office_type": "us_senator",
+   "state": "NV",
+   "party": "D",
+   "committees": [
+    "Senate Commerce, Science, and Transportation",
+    "Senate Homeland Security and Governmental Affairs"
+   ],
+   "stance": "A former computer programmer who, citing researchers' warnings of catastrophic AI risk, is demanding immediate Senate Commerce hearings with top AI executives and guardrails.",
+   "statements": [
+    {
+     "date": "2026-09-14",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Called on the Senate Commerce Committee chairman to immediately hold a hearing with the top executives of the leading American AI companies, following dire warnings from AI researchers.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.rosen.senate.gov/2026/09/14/following-dire-warnings-from-ai-researchers-rosen-calls-on-senate-commerce-committee-to-immediately-hold-hearing-with-top-ai-executives/",
+     "outlet": "Office of Sen. Rosen"
+    },
+    {
+     "date": "2026-09-14",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "At the same time, this powerful technology can have the power to cause catastrophic damages if we don't act to impose guardrails and safety mechanisms",
+     "target": null,
+     "joint": null,
+     "source": "https://www.rosen.senate.gov/2026/09/14/following-dire-warnings-from-ai-researchers-rosen-calls-on-senate-commerce-committee-to-immediately-hold-hearing-with-top-ai-executives/",
+     "outlet": "Office of Sen. Rosen"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from rosen.senate.gov primary sources; quote verified verbatim"
+   }
+  },
+  {
    "id": "arielle-roth",
    "name": "Arielle Roth",
    "office": "Administrator, National Telecommunications and Information Administration",
@@ -6043,6 +6880,46 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "mike-rounds",
+   "name": "Mike Rounds",
+   "office": "U.S. Senator from South Dakota",
+   "office_type": "us_senator",
+   "state": "SD",
+   "party": "R",
+   "committees": [
+    "Senate Armed Services",
+    "Senate Intelligence",
+    "Senate Appropriations"
+   ],
+   "stance": "Writes AI governance through a national-security and military lens — human judgment over autonomous weapons, testing and validation, and a central incident-reporting repository; a lead on bipartisan Senate AI policy.",
+   "statements": [
+    {
+     "date": "2026-06-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Secured provisions in the Senate Armed Services Committee's FY2027 NDAA establishing Department of Defense AI governance rules and a codified review process for autonomous weapons and AI, with testing and validation standards and a centralized incident-reporting repository.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-victories-in-senate-armed-services-committees-fiscal-year-2027-ndaa",
+     "outlet": "Office of Sen. Rounds"
+    },
+    {
+     "date": "2026-06-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Codifies the Department review process for autonomous weapon systems and AI capabilities, specifying standards for human judgment, validation and testing requirements, prohibited uses, and a centralized incident reporting repository.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-victories-in-senate-armed-services-committees-fiscal-year-2027-ndaa",
+     "outlet": "Office of Sen. Rounds"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from rounds.senate.gov primary sources; quote verified verbatim"
    }
   },
   {
@@ -6351,6 +7228,54 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "adam-schiff",
+   "name": "Adam Schiff",
+   "office": "U.S. Senator from California",
+   "office_type": "us_senator",
+   "state": "CA",
+   "party": "D",
+   "committees": [
+    "Senate Judiciary"
+   ],
+   "stance": "Wants enforceable, industry-wide guardrails on frontier AI, a dedicated expert AI regulator, company transparency with Congress, and vigorous oversight of rogue-agent episodes.",
+   "statements": [
+    {
+     "date": "2026-10-09",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Called for enforceable industry-wide guardrails against the harms of frontier AI and for a regulatory body with the expertise and discretion to keep pace with advanced models, and promised vigorous oversight of rogue AI-agent episodes.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-calls-for-stronger-guardrails-on-ai-promises-vigorous-oversight-of-rogue-agent-episodes-on-the-verges-decoder-podcast/",
+     "outlet": "Office of Sen. Schiff"
+    },
+    {
+     "date": "2026-10-09",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "there is a real national security threat here. As these models become more and more advanced, as they advance themselves through this recursive AI, we have less and less of a sense of what they're doing, how they're deciding what they're deciding",
+     "target": null,
+     "joint": null,
+     "source": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-calls-for-stronger-guardrails-on-ai-promises-vigorous-oversight-of-rogue-agent-episodes-on-the-verges-decoder-podcast/",
+     "outlet": "Office of Sen. Schiff"
+    },
+    {
+     "date": "2026-10-09",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "we're going to need a regulatory body that has real discretion and real expertise that can move a lot quicker than Congress can. Whether that looks like an FDA for artificial intelligence or some other agency, I think that's ultimately going to be necessary.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-calls-for-stronger-guardrails-on-ai-promises-vigorous-oversight-of-rogue-agent-episodes-on-the-verges-decoder-podcast/",
+     "outlet": "Office of Sen. Schiff"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from schiff.senate.gov primary sources; quotes verified verbatim"
    }
   },
   {
@@ -7327,6 +8252,107 @@
    }
   },
   {
+   "id": "mark-warner",
+   "name": "Mark Warner",
+   "office": "U.S. Senator from Virginia",
+   "office_type": "us_senator",
+   "state": "VA",
+   "party": "D",
+   "committees": [
+    "Senate Intelligence (Vice Chairman)",
+    "Senate Finance",
+    "Senate Banking, Housing, and Urban Affairs",
+    "Senate Budget"
+   ],
+   "stance": "Flagship advocate for enforceable, testable AI safety and security standards — pre-deployment testing, stronger cybersecurity, mandatory reporting of serious AI incidents, and keeping powerful systems under human control.",
+   "statements": [
+    {
+     "date": "2026",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the Artificial Intelligence Risk Management and Security Act of 2026 with Sens. Schatz and Kim, setting enforceable safety and security standards for the most advanced AI — pre-deployment testing, stronger cybersecurity, and mandatory reporting of serious AI safety and security incidents — and sought its passage on the Senate floor.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.warner.senate.gov/newsroom/press-releases/warner-schatz-to-take-to-senate-floor-to-demand-passage-of-new-ai-security-legislation/",
+     "outlet": "Office of Sen. Warner"
+    },
+    {
+     "date": "2026-10-05",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Artificial intelligence is one of the defining national security challenges of our time, and I welcome the administration recognizing that this technology requires serious, sustained attention at the highest levels of government.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.warner.senate.gov/newsroom/press-releases/warner-statement-on-the-appointment-of-jay-clayton-to-coordinate-federal-ai-policy/",
+     "outlet": "Office of Sen. Warner"
+    },
+    {
+     "date": "2026-10-05",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "establishing rigorous testing and safeguards so that increasingly powerful systems remain secure, reliable, and under human control.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.warner.senate.gov/newsroom/press-releases/warner-statement-on-the-appointment-of-jay-clayton-to-coordinate-federal-ai-policy/",
+     "outlet": "Office of Sen. Warner"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from warner.senate.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
+   "id": "elizabeth-warren",
+   "name": "Elizabeth Warren",
+   "office": "U.S. Senator from Massachusetts",
+   "office_type": "us_senator",
+   "state": "MA",
+   "party": "D",
+   "committees": [
+    "Senate Banking, Housing, and Urban Affairs",
+    "Senate Armed Services",
+    "Senate Finance"
+   ],
+   "stance": "Leading Senate critic demanding mandatory, independent, enforceable safety screening of frontier AI models, and transparency over industry-captured voluntary oversight.",
+   "statements": [
+    {
+     "date": "2026-10-06",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Sen. Blumenthal, pressed the White House over AI-industry influence that reportedly softened a draft requiring frontier AI to undergo mandatory safety screening before release into a voluntary, industry-designed process.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-push-white-house-on-ai-industry-influence-on-trump-policies/",
+     "outlet": "Office of Sen. Warren"
+    },
+    {
+     "date": "2026-10-06",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "the Trump Administration is accommodating the interests of Big Tech CEOs rather than addressing the safety and security risks posed by increasingly sophisticated AI systems",
+     "target": null,
+     "joint": null,
+     "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-push-white-house-on-ai-industry-influence-on-trump-policies/",
+     "outlet": "Office of Sen. Warren"
+    },
+    {
+     "date": "2026-10-06",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "the American people deserve strong guardrails set by their democratically elected officials, not a toothless framework shaped in secret by a handful of executives at self-interested trillion-dollar companies",
+     "target": null,
+     "joint": null,
+     "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-push-white-house-on-ai-industry-influence-on-trump-policies/",
+     "outlet": "Office of Sen. Warren"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from warren.senate.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
    "id": "jonathan-warrey",
    "name": "Jonathan Warrey",
    "office": "North Dakota State Representative",
@@ -7729,6 +8755,64 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "todd-young",
+   "name": "Todd Young",
+   "office": "U.S. Senator from Indiana",
+   "office_type": "us_senator",
+   "state": "IN",
+   "party": "R",
+   "committees": [
+    "Senate Commerce, Science, and Transportation"
+   ],
+   "stance": "Pro-innovation but safety-engaged: presses the government to track frontier-model risks — interpretability, incident and vulnerability reporting, federal test-and-evaluation, and critical-infrastructure safeguards.",
+   "statements": [
+    {
+     "date": "2024-04-18",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-introduced the bipartisan Future of AI Innovation Act with Sens. Hickenlooper, Cantwell, and Blackburn, authorizing the NIST AI Safety Institute to develop AI standards and creating public-private testbeds to evaluate models.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-bipartisan-senators-introduce-ai-bill-to-accelerate-innovation-strengthen-u-s-leadership/",
+     "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Wrote to the National Security Advisor urging the NSC to convene recurring roundtables with frontier-AI developers and national-security experts, and to pursue voluntary AI incident and vulnerability reporting, interpretability research, federal test-and-evaluation environments, and safeguards against AI-enabled attacks on critical infrastructure.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.young.senate.gov/newsroom/press-releases/young-calls-for-national-security-council-discussions-on-emerging-ai-threats/",
+     "outlet": "Office of Sen. Young"
+    },
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Recent developments involving frontier AI models have further demonstrated the ability of advanced systems to circumvent safeguards, interact with external systems, and substantially enhance offensive cyber capabilities.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.young.senate.gov/newsroom/press-releases/young-calls-for-national-security-council-discussions-on-emerging-ai-threats/",
+     "outlet": "Office of Sen. Young"
+    },
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We must also continue to improve our understanding of these increasingly complex systems, whose internal processes can be difficult even for experts to fully interpret, predict, and control",
+     "target": null,
+     "joint": null,
+     "source": "https://www.young.senate.gov/newsroom/press-releases/young-calls-for-national-security-council-discussions-on-emerging-ai-threats/",
+     "outlet": "Office of Sen. Young"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from young.senate.gov primary sources; quotes verified verbatim"
    }
   },
   {

@@ -1,0 +1,48 @@
+{
+  "id": "mark-warner",
+  "name": "Mark Warner",
+  "office": "U.S. Senator from Virginia",
+  "office_type": "us_senator",
+  "state": "VA",
+  "party": "D",
+  "committees": [
+    "Senate Intelligence (Vice Chairman)",
+    "Senate Finance",
+    "Senate Banking, Housing, and Urban Affairs",
+    "Senate Budget"
+  ],
+  "stance": "Flagship advocate for enforceable, testable AI safety and security standards — pre-deployment testing, stronger cybersecurity, mandatory reporting of serious AI incidents, and keeping powerful systems under human control.",
+  "statements": [
+    {
+      "date": "2026",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the Artificial Intelligence Risk Management and Security Act of 2026 with Sens. Schatz and Kim, setting enforceable safety and security standards for the most advanced AI — pre-deployment testing, stronger cybersecurity, and mandatory reporting of serious AI safety and security incidents — and sought its passage on the Senate floor.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.warner.senate.gov/newsroom/press-releases/warner-schatz-to-take-to-senate-floor-to-demand-passage-of-new-ai-security-legislation/",
+      "outlet": "Office of Sen. Warner"
+    },
+    {
+      "date": "2026-10-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Artificial intelligence is one of the defining national security challenges of our time, and I welcome the administration recognizing that this technology requires serious, sustained attention at the highest levels of government.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.warner.senate.gov/newsroom/press-releases/warner-statement-on-the-appointment-of-jay-clayton-to-coordinate-federal-ai-policy/",
+      "outlet": "Office of Sen. Warner"
+    },
+    {
+      "date": "2026-10-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "establishing rigorous testing and safeguards so that increasingly powerful systems remain secure, reliable, and under human control.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.warner.senate.gov/newsroom/press-releases/warner-statement-on-the-appointment-of-jay-clayton-to-coordinate-federal-ai-policy/",
+      "outlet": "Office of Sen. Warner"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from warner.senate.gov primary sources; quotes verified verbatim" }
+}

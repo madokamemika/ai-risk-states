@@ -1,0 +1,46 @@
+{
+  "id": "jim-banks",
+  "name": "Jim Banks",
+  "office": "U.S. Senator from Indiana",
+  "office_type": "us_senator",
+  "state": "IN",
+  "party": "R",
+  "committees": [
+    "Senate Armed Services",
+    "Senate Banking, Housing, and Urban Affairs"
+  ],
+  "stance": "Frames frontier AI as a defining national-security problem — focused on protecting military AI and frontier labs' model weights from insider theft, sabotage, and backdoors.",
+  "statements": [
+    {
+      "date": "2026-10-07",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Wrote to the Secretary of War and OMB urging stronger counterintelligence protections against insider threats at frontier AI companies — model-weight theft, sabotage and backdoors, and CCP espionage — and requested a staff briefing.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.banks.senate.gov/news/press-releases/sen-banks-calls-for-stronger-protections-against-insider-threats-at-frontier-si-companies/",
+      "outlet": "Office of Sen. Banks"
+    },
+    {
+      "date": "2026-10-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "the race to develop and deploy advanced SI will be a defining national security issue of our time",
+      "target": null,
+      "joint": null,
+      "source": "https://www.banks.senate.gov/news/press-releases/sen-banks-calls-for-stronger-protections-against-insider-threats-at-frontier-si-companies/",
+      "outlet": "Office of Sen. Banks"
+    },
+    {
+      "date": "2026-10-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "a single compromised or malicious insider with sufficient access could reveal secret information about military uses of SI, expose model weights, or attempt to sabotage SI systems via backdoors",
+      "target": null,
+      "joint": null,
+      "source": "https://www.banks.senate.gov/news/press-releases/sen-banks-calls-for-stronger-protections-against-insider-threats-at-frontier-si-companies/",
+      "outlet": "Office of Sen. Banks"
+    }
+  ],
+  "review": { "status": "unreviewed", "note": "added October 2026 from banks.senate.gov primary sources; quotes verified verbatim" }
+}
