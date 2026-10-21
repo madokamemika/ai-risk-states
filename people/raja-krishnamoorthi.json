@@ -1,0 +1,38 @@
+{
+  "id": "raja-krishnamoorthi",
+  "name": "Raja Krishnamoorthi",
+  "office": "U.S. Representative from Illinois",
+  "office_type": "us_rep",
+  "state": "IL",
+  "party": "D",
+  "committees": [
+    "House Intelligence"
+  ],
+  "stance": "Bipartisan co-lead on keeping advanced AI chips out of adversary hands; much of his AI-risk work runs through the Select Committee on the CCP.",
+  "statements": [
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Original co-lead of the bipartisan Chip Security Act.",
+      "target": null,
+      "joint": null,
+      "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+      "outlet": "Office of Rep. Foster"
+    },
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This bipartisan legislation will help ensure our most advanced technologies don't end up in the wrong hands.",
+      "target": null,
+      "joint": null,
+      "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+      "outlet": "Office of Rep. Foster"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; Chip Security Act record verified via the co-leads' primary release; quote verified verbatim"
+  }
+}

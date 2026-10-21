@@ -1,0 +1,49 @@
+{
+  "id": "august-pfluger",
+  "name": "August Pfluger",
+  "office": "U.S. Representative from Texas",
+  "office_type": "us_rep",
+  "state": "TX",
+  "party": "R",
+  "committees": [
+    "House Homeland Security",
+    "House Energy and Commerce"
+  ],
+  "stance": "Leads AI-security research legislation — DHS-run competitions funding interpretability and adversarial robustness — framed as staying ahead of adversaries manipulating AI systems.",
+  "statements": [
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the Reliable Artificial Intelligence Research Act, funding DHS research competitions on AI interpretability and adversarial robustness; the House companion to a Banks-Hassan Senate bill.",
+      "target": null,
+      "joint": null,
+      "source": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047",
+      "outlet": "Office of Rep. Pfluger"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The Reliable Artificial Intelligence Research Act puts American ingenuity to work on making AI more transparent, more predictable, and more resistant to attacks",
+      "target": null,
+      "joint": null,
+      "source": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047",
+      "outlet": "Office of Rep. Pfluger"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Adversaries are already looking for ways to manipulate these systems, and we must stay ahead of them",
+      "target": null,
+      "joint": null,
+      "source": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047",
+      "outlet": "Office of Rep. Pfluger"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from pfluger.house.gov primary sources; quotes verified verbatim"
+  }
+}

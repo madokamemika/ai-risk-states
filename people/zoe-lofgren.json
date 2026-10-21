@@ -1,0 +1,49 @@
+{
+  "id": "zoe-lofgren",
+  "name": "Zoe Lofgren",
+  "office": "U.S. Representative from California",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "committees": [
+    "House Science, Space, and Technology (Ranking Member)",
+    "House Judiciary"
+  ],
+  "stance": "As House Science ranking member, pushes frontier-AI safeguards — internal controls, cybersecurity, independent governance — and faults House leadership for not floor-voting the committee's AI bills.",
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Convened a bipartisan House Science Committee roundtable with Hugging Face, METR, OpenAI and Anthropic on recent AI loss-of-control incidents and building an AI governance strategy.",
+      "target": null,
+      "joint": null,
+      "source": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-meets-ai-companies-discuss-recent-loss-control-events",
+      "outlet": "Office of Rep. Lofgren"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We have to develop policy interventions that improve internal control, robust cybersecurity, and incentivize good governance for frontier AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-meets-ai-companies-discuss-recent-loss-control-events",
+      "outlet": "Office of Rep. Lofgren"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The Science Committee passed 10 AI bills through Committee that address the AI boom and the risks that come with it.",
+      "target": null,
+      "joint": null,
+      "source": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-meets-ai-companies-discuss-recent-loss-control-events",
+      "outlet": "Office of Rep. Lofgren"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from lofgren.house.gov primary sources; quotes verified verbatim"
+  }
+}

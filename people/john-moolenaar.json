@@ -1,0 +1,39 @@
+{
+  "id": "john-moolenaar",
+  "name": "John Moolenaar",
+  "office": "U.S. Representative from Michigan",
+  "office_type": "us_rep",
+  "state": "MI",
+  "party": "R",
+  "committees": [
+    "House Select Committee on the CCP (Chairman)",
+    "House Appropriations"
+  ],
+  "stance": "Frames AI-chip export-control enforcement as protecting both U.S. national security and AI leadership against the CCP; the Chip Security Act grew out of his committee's DeepSeek report.",
+  "statements": [
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Original co-lead of the bipartisan Chip Security Act, which grew out of his Select Committee's report on DeepSeek.",
+      "target": null,
+      "joint": null,
+      "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+      "outlet": "Office of Rep. Foster"
+    },
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This bipartisan bill closes those gaps with real safeguards to keep our most advanced chips out of the wrong hands.",
+      "target": null,
+      "joint": null,
+      "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+      "outlet": "Office of Rep. Foster"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; Chip Security Act record verified via the co-leads' primary release; quote verified verbatim"
+  }
+}

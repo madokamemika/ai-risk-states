@@ -1,0 +1,38 @@
+{
+  "id": "suzanne-bonamici",
+  "name": "Suzanne Bonamici",
+  "office": "U.S. Representative from Oregon",
+  "office_type": "us_rep",
+  "state": "OR",
+  "party": "D",
+  "committees": [
+    "House Education and Workforce"
+  ],
+  "stance": "Backs enforceable AI guardrails and safety standards — independent evaluations, human oversight and the NIST AI Risk Management Framework — framed around education and the workforce.",
+  "statements": [
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the AI Education and Workforce Readiness Act, a federal framework mandating AI risk-assessment standards, independent evaluations and audits, human oversight and adoption of the NIST AI Risk Management Framework.",
+      "target": null,
+      "joint": null,
+      "source": "https://bonamici.house.gov/media/press-releases/bonamici-introduces-human-centered-framework-provide-guardrails-ai-education",
+      "outlet": "Office of Rep. Bonamici"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The companies building these tools don't get to regulate themselves; we need clear rules and accountability for how AI is used in classrooms and workplaces.",
+      "target": null,
+      "joint": null,
+      "source": "https://bonamici.house.gov/media/press-releases/bonamici-introduces-human-centered-framework-provide-guardrails-ai-education",
+      "outlet": "Office of Rep. Bonamici"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from bonamici.house.gov primary sources; quote verified verbatim"
+  }
+}

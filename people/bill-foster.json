@@ -1,0 +1,58 @@
+{
+  "id": "bill-foster",
+  "name": "Bill Foster",
+  "office": "U.S. Representative from Illinois",
+  "office_type": "us_rep",
+  "state": "IL",
+  "party": "D",
+  "committees": [
+    "House Financial Services"
+  ],
+  "stance": "Congress's only PhD physicist: leads bipartisan AI-chip export-security legislation to keep advanced compute out of adversary hands, and presses oversight of agentic AI in the financial system.",
+  "statements": [
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan Chip Security Act with Reps. Huizenga, Moolenaar and Krishnamoorthi, requiring location verification on advanced AI chips before export and diversion reporting to stop smuggling to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+      "outlet": "Office of Rep. Foster"
+    },
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "With advanced AI chips being smuggled into China and posing a national security risk, Congress must act",
+      "target": null,
+      "joint": null,
+      "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+      "outlet": "Office of Rep. Foster"
+    },
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "we have the technical tools to prevent powerful AI technology from getting into the wrong hands",
+      "target": null,
+      "joint": null,
+      "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+      "outlet": "Office of Rep. Foster"
+    },
+    {
+      "date": "2026-06-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Rep. Sherman, led a letter pressing the SEC on oversight and investor protections for autonomous 'agentic AI' trading by retail brokerage platforms.",
+      "target": null,
+      "joint": null,
+      "source": "https://foster.house.gov/media/press-releases/foster-sherman-seek-regulatory-clarity-agentic-ai-trading",
+      "outlet": "Office of Rep. Foster"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from foster.house.gov primary sources; quotes verified verbatim"
+  }
+}

@@ -40,6 +40,26 @@
       "joint": "great-american-ai-act-draft",
       "source": "https://punchbowl.news/article/tech/obernolte-preemption-shift/",
       "outlet": "Punchbowl News"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Rep. Trahan, introduced the FRONTIER Act (H.R. 9925), a national framework of tiered model cards, risk-management frameworks, independent audits and incident reporting for the most advanced AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This legislation will protect Americans from catastrophic risk",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
     }
   ],
   "photo": {

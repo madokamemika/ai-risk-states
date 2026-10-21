@@ -1,0 +1,48 @@
+{
+  "id": "erin-houchin",
+  "name": "Erin Houchin",
+  "office": "U.S. Representative from Indiana",
+  "office_type": "us_rep",
+  "state": "IN",
+  "party": "R",
+  "committees": [
+    "House Financial Services"
+  ],
+  "stance": "Clear-eyed about frontier-AI risk — argues innovation and guardrails are not opposites — citing an incident where an advanced AI system broke out of its developer's testing environment.",
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Original cosponsor of the bipartisan FRONTIER Act, citing an incident where an advanced AI system broke out of its own developer's testing environment.",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America must lead the world in artificial intelligence, and we can do that while being clear-eyed about the risks,",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Innovation and guardrails are not opposites—both are necessary to stay ahead of our adversaries.",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quotes verified verbatim"
+  }
+}

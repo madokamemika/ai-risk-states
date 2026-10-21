@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19",
+ "generated": "2026-10-21",
  "bill_counts_asof": "2026-10-13",
  "bill_counts": {
   "AK": 3,
@@ -105,7 +105,7 @@
      "date": "2026-05-15",
      "arena": "state",
      "kind": "quote",
-     "text": "SB 540 establishes common-sense guardrails that allow innovation to continue while addressing risks these systems pose to young people.",
+     "text": "SB 540 establishes common-sense guardrails that allow innovation to continue while addressing the very real risks these systems can pose to young people.",
      "target": null,
      "joint": null,
      "source": "https://senatepress.net/majority-leader-jason-anavitarte-applauds-signing-of-sb-540-to-protect-children-online.html",
@@ -385,6 +385,65 @@
    }
   },
   {
+   "id": "don-beyer",
+   "name": "Don Beyer",
+   "office": "U.S. Representative from Virginia",
+   "office_type": "us_rep",
+   "state": "VA",
+   "party": "D",
+   "committees": [
+    "House Ways and Means",
+    "House Joint Economic Committee"
+   ],
+   "stance": "The House's most AI-engaged member (co-chair of the Congressional AI Caucus, pursuing an ML master's): pushes frontier-AI oversight, transparency and independent evaluation, and safety verification before AI is deployed in critical government systems.",
+   "statements": [
+    {
+     "date": "2026-09-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Led a bipartisan letter of House AI leaders to the Speaker and Minority Leader urging an urgent congressional response to recent frontier-AI loss-of-control incidents, and legislation strengthening AI oversight, security and transparency.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+     "outlet": "Office of Rep. Beyer"
+    },
+    {
+     "date": "2026-09-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We call for your joint leadership on an urgent Congressional response to recent incidents involving advanced artificial intelligence (AI) models that have profound implications for economic and national security.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+     "outlet": "Office of Rep. Beyer"
+    },
+    {
+     "date": "2026-09-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Congress must ensure AI companies implement robust monitoring and independent oversight to protect the public.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+     "outlet": "Office of Rep. Beyer"
+    },
+    {
+     "date": "2026-10-09",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Led a letter urging the FAA to pause its AI-enabled air-traffic-control tool until independently verified safety testing is complete and communicated to the public.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+     "outlet": "Office of Rep. Beyer"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from beyer.house.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
    "id": "brenna-bird",
    "name": "Brenna Bird",
    "office": "Attorney General of Iowa",
@@ -586,6 +645,44 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "suzanne-bonamici",
+   "name": "Suzanne Bonamici",
+   "office": "U.S. Representative from Oregon",
+   "office_type": "us_rep",
+   "state": "OR",
+   "party": "D",
+   "committees": [
+    "House Education and Workforce"
+   ],
+   "stance": "Backs enforceable AI guardrails and safety standards — independent evaluations, human oversight and the NIST AI Risk Management Framework — framed around education and the workforce.",
+   "statements": [
+    {
+     "date": "2026-09-22",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the AI Education and Workforce Readiness Act, a federal framework mandating AI risk-assessment standards, independent evaluations and audits, human oversight and adoption of the NIST AI Risk Management Framework.",
+     "target": null,
+     "joint": null,
+     "source": "https://bonamici.house.gov/media/press-releases/bonamici-introduces-human-centered-framework-provide-guardrails-ai-education",
+     "outlet": "Office of Rep. Bonamici"
+    },
+    {
+     "date": "2026-09-22",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The companies building these tools don't get to regulate themselves; we need clear rules and accountability for how AI is used in classrooms and workplaces.",
+     "target": null,
+     "joint": null,
+     "source": "https://bonamici.house.gov/media/press-releases/bonamici-introduces-human-centered-framework-provide-guardrails-ai-education",
+     "outlet": "Office of Rep. Bonamici"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from bonamici.house.gov primary sources; quote verified verbatim"
    }
   },
   {
@@ -1335,7 +1432,7 @@
      "date": "2025-05-16",
      "arena": "federal",
      "kind": "quote",
-     "text": "AI is a new frontier for consumer protection. With this emerging technology, we need to make sure that elections are protected, consumers are safe from scams, and that our data privacy is preserved.",
+     "text": "With this emerging technology, we need to make sure that elections are protected, consumers are safe from scams, and that our data privacy is preserved.",
      "target": "Congress",
      "joint": "ag-letter-moratorium-may-2025",
      "source": "https://ago.vermont.gov/blog/2025/05/16/attorney-general-clark-leads-bipartisan-letter-congress-opposing-budget-amendment-prohibiting-states",
@@ -2335,6 +2432,103 @@
    }
   },
   {
+   "id": "bill-foster",
+   "name": "Bill Foster",
+   "office": "U.S. Representative from Illinois",
+   "office_type": "us_rep",
+   "state": "IL",
+   "party": "D",
+   "committees": [
+    "House Financial Services"
+   ],
+   "stance": "Congress's only PhD physicist: leads bipartisan AI-chip export-security legislation to keep advanced compute out of adversary hands, and presses oversight of agentic AI in the financial system.",
+   "statements": [
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the bipartisan Chip Security Act with Reps. Huizenga, Moolenaar and Krishnamoorthi, requiring location verification on advanced AI chips before export and diversion reporting to stop smuggling to China.",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+     "outlet": "Office of Rep. Foster"
+    },
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "With advanced AI chips being smuggled into China and posing a national security risk, Congress must act",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+     "outlet": "Office of Rep. Foster"
+    },
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "we have the technical tools to prevent powerful AI technology from getting into the wrong hands",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+     "outlet": "Office of Rep. Foster"
+    },
+    {
+     "date": "2026-06-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Rep. Sherman, led a letter pressing the SEC on oversight and investor protections for autonomous 'agentic AI' trading by retail brokerage platforms.",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-sherman-seek-regulatory-clarity-agentic-ai-trading",
+     "outlet": "Office of Rep. Foster"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from foster.house.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
+   "id": "scott-franklin",
+   "name": "Scott Franklin",
+   "office": "U.S. Representative from Florida",
+   "office_type": "us_rep",
+   "state": "FL",
+   "party": "R",
+   "committees": [
+    "House Science, Space, and Technology",
+    "House Appropriations"
+   ],
+   "stance": "Backs a targeted, size-tiered federal framework of guardrails for the handful of companies building the most powerful frontier AI models.",
+   "statements": [
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the bipartisan FRONTIER Act, a targeted federal framework of transparency, independent evaluation and incident reporting for the most advanced AI systems.",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    },
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "focusing only on the handful of companies developing the most powerful frontier AI models",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quote verified verbatim"
+   }
+  },
+  {
    "id": "aaron-frey",
    "name": "Aaron Frey",
    "office": "Attorney General of Maine",
@@ -2509,7 +2703,7 @@
      "date": "2026-09-03",
      "arena": "federal",
      "kind": "quote",
-     "text": "Right now, AI agents are running loose in our networks, and nobody can see them or verify who built them — making it increasingly hard to stop them. That's a five-alarm security risk.",
+     "text": "Right now, AI agents are running loose in our networks, and nobody can see them or verify who built them — making it increasingly hard to stop them",
      "target": null,
      "joint": "stop-rogue-ai-act",
      "source": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6424",
@@ -2741,7 +2935,7 @@
      "date": "2025-07-03",
      "arena": "federal",
      "kind": "quote",
-     "text": "I was fine with it being shorter. Ten years was a long time.",
+     "text": "I was fine with it being shorter",
      "target": null,
      "joint": "reconciliation-ai-moratorium-2025",
      "source": "https://punchbowl.news/article/tech/guthrie-ai-freeze-fight/",
@@ -2890,7 +3084,7 @@
      "date": "2026-09-10",
      "arena": "federal",
      "kind": "quote",
-     "text": "This is reckless. And this is merely what we know from what limited information you disclosed.",
+     "text": "And this is merely what we know from what limited information you disclosed to and allowed your partner auditors to investigate.",
      "target": "Sam Altman, OpenAI",
      "joint": null,
      "source": "https://www.nextgov.com/artificial-intelligence/2026/09/hawley-launches-committee-investigation-openais-breach-hugging-face/415910/",
@@ -3317,6 +3511,54 @@
    }
   },
   {
+   "id": "erin-houchin",
+   "name": "Erin Houchin",
+   "office": "U.S. Representative from Indiana",
+   "office_type": "us_rep",
+   "state": "IN",
+   "party": "R",
+   "committees": [
+    "House Financial Services"
+   ],
+   "stance": "Clear-eyed about frontier-AI risk — argues innovation and guardrails are not opposites — citing an incident where an advanced AI system broke out of its developer's testing environment.",
+   "statements": [
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the bipartisan FRONTIER Act, citing an incident where an advanced AI system broke out of its own developer's testing environment.",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    },
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "America must lead the world in artificial intelligence, and we can do that while being clear-eyed about the risks,",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    },
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Innovation and guardrails are not opposites—both are necessary to stay ahead of our adversaries.",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quotes verified verbatim"
+   }
+  },
+  {
    "id": "matt-huffman",
    "name": "Matt Huffman",
    "office": "Speaker of the Ohio House of Representatives",
@@ -3348,6 +3590,55 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "bill-huizenga",
+   "name": "Bill Huizenga",
+   "office": "U.S. Representative from Michigan",
+   "office_type": "us_rep",
+   "state": "MI",
+   "party": "R",
+   "committees": [
+    "House Financial Services",
+    "House Foreign Affairs"
+   ],
+   "stance": "Frames AI-chip export controls and protection of U.S. frontier-model weights from theft as core national-security safeguards.",
+   "statements": [
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original co-lead of the bipartisan Chip Security Act requiring location verification on advanced AI chips before export.",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+     "outlet": "Office of Rep. Huizenga"
+    },
+    {
+     "date": "2026-04-20",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the Deterring American AI Model Theft Act, targeting model-extraction ('distillation') attacks that steal U.S. frontier-model weights and architectures, with sanctions and a name-and-shame list.",
+     "target": null,
+     "joint": null,
+     "source": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=404341",
+     "outlet": "Office of Rep. Huizenga"
+    },
+    {
+     "date": "2026-04-20",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Model extraction attacks are the latest frontier of Chinese economic coercion and theft of US intellectual property",
+     "target": null,
+     "joint": null,
+     "source": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=404341",
+     "outlet": "Office of Rep. Huizenga"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from house.gov primary sources; quotes verified verbatim"
    }
   },
   {
@@ -3504,7 +3795,7 @@
      "date": "2026-09-23",
      "arena": "federal",
      "kind": "quote",
-     "text": "AI technology is developing fast, and we can't let it go unchecked. We need safeguards in place to make sure they're not causing harm, and we need them now.",
+     "text": "We need safeguards in place to make sure they're not causing harm, and we need them now",
      "target": null,
      "joint": "ag-letter-congress-sept-2026",
      "source": "https://www.wbtv.com/2026/09/26/north-carolina-attorney-general-pushes-congress-national-ai-guardrails-safety-concerns-mount/",
@@ -3998,8 +4289,8 @@
     {
      "date": "2026-09-16",
      "arena": "federal",
-     "kind": "quote",
-     "text": "I'm not standing here today suggesting to you I have all the answers. What I am suggesting to you is there are risks to artificial intelligence.",
+     "kind": "urging",
+     "text": "Argued that while he does not have all the answers, there are real risks to artificial intelligence that Congress must weigh.",
      "target": null,
      "joint": "ai-emergency-button-act",
      "source": "http://www.washingtonexaminer.com/news/senate/4730945/gop-ai-kill-switch-bill-killed-by-rand-paul/",
@@ -4330,7 +4621,7 @@
      "date": "2026-09-23",
      "arena": "federal",
      "kind": "quote",
-     "text": "While oversight and regulation would be strongest at the federal level, President Trump continues to dismiss the need for even the most basic guardrails.",
+     "text": "While oversight and regulation would be strongest and most effective at the federal level, President Trump continues to dismiss the need for even the most basic guardrails.",
      "target": null,
      "joint": null,
      "source": "https://apps.oregon.gov/oregon-newsroom/OR/GOV/Posts/Post/governor-kotek-issues-executive-order-to-advance-ai-safety-and-oversight",
@@ -4408,6 +4699,44 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "raja-krishnamoorthi",
+   "name": "Raja Krishnamoorthi",
+   "office": "U.S. Representative from Illinois",
+   "office_type": "us_rep",
+   "state": "IL",
+   "party": "D",
+   "committees": [
+    "House Intelligence"
+   ],
+   "stance": "Bipartisan co-lead on keeping advanced AI chips out of adversary hands; much of his AI-risk work runs through the Select Committee on the CCP.",
+   "statements": [
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original co-lead of the bipartisan Chip Security Act.",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+     "outlet": "Office of Rep. Foster"
+    },
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This bipartisan legislation will help ensure our most advanced technologies don't end up in the wrong hands.",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+     "outlet": "Office of Rep. Foster"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; Chip Security Act record verified via the co-leads' primary release; quote verified verbatim"
    }
   },
   {
@@ -4854,7 +5183,7 @@
      "date": "2026-03-26",
      "arena": "state",
      "kind": "quote",
-     "text": "You can make the argument that the AI genie is out of the bottle. Nobody's putting that genie back in the bottle.",
+     "text": "You can make the argument that the AI genie is out of the bottle",
      "target": null,
      "joint": null,
      "source": "https://www.idahoednews.org/news/the-genies-out-of-the-bottle-little-signs-artificial-intelligence-education-bill/",
@@ -4870,6 +5199,55 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "zoe-lofgren",
+   "name": "Zoe Lofgren",
+   "office": "U.S. Representative from California",
+   "office_type": "us_rep",
+   "state": "CA",
+   "party": "D",
+   "committees": [
+    "House Science, Space, and Technology (Ranking Member)",
+    "House Judiciary"
+   ],
+   "stance": "As House Science ranking member, pushes frontier-AI safeguards — internal controls, cybersecurity, independent governance — and faults House leadership for not floor-voting the committee's AI bills.",
+   "statements": [
+    {
+     "date": "2026-09-15",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Convened a bipartisan House Science Committee roundtable with Hugging Face, METR, OpenAI and Anthropic on recent AI loss-of-control incidents and building an AI governance strategy.",
+     "target": null,
+     "joint": null,
+     "source": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-meets-ai-companies-discuss-recent-loss-control-events",
+     "outlet": "Office of Rep. Lofgren"
+    },
+    {
+     "date": "2026-09-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We have to develop policy interventions that improve internal control, robust cybersecurity, and incentivize good governance for frontier AI systems.",
+     "target": null,
+     "joint": null,
+     "source": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-meets-ai-companies-discuss-recent-loss-control-events",
+     "outlet": "Office of Rep. Lofgren"
+    },
+    {
+     "date": "2026-09-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The Science Committee passed 10 AI bills through Committee that address the AI boom and the risks that come with it.",
+     "target": null,
+     "joint": null,
+     "source": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-meets-ai-companies-discuss-recent-loss-control-events",
+     "outlet": "Office of Rep. Lofgren"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from lofgren.house.gov primary sources; quotes verified verbatim"
    }
   },
   {
@@ -5062,7 +5440,7 @@
      "date": "2025-05-08",
      "arena": "state",
      "kind": "quote",
-     "text": "What I'm suggesting is that we don't wait to see how it evolves. That we'd be engaged in a very thoughtful conversation from the start.",
+     "text": "What I'm suggesting is that we don't wait to see how it evolves",
      "target": null,
      "joint": null,
      "source": "https://technical.ly/civic-news/virginia-ai-bill-veto-youngkin-maldonado/",
@@ -5424,6 +5802,45 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "john-moolenaar",
+   "name": "John Moolenaar",
+   "office": "U.S. Representative from Michigan",
+   "office_type": "us_rep",
+   "state": "MI",
+   "party": "R",
+   "committees": [
+    "House Select Committee on the CCP (Chairman)",
+    "House Appropriations"
+   ],
+   "stance": "Frames AI-chip export-control enforcement as protecting both U.S. national security and AI leadership against the CCP; the Chip Security Act grew out of his committee's DeepSeek report.",
+   "statements": [
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original co-lead of the bipartisan Chip Security Act, which grew out of his Select Committee's report on DeepSeek.",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+     "outlet": "Office of Rep. Foster"
+    },
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This bipartisan bill closes those gaps with real safeguards to keep our most advanced chips out of the wrong hands.",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+     "outlet": "Office of Rep. Foster"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; Chip Security Act record verified via the co-leads' primary release; quote verified verbatim"
    }
   },
   {
@@ -5993,6 +6410,26 @@
      "joint": "great-american-ai-act-draft",
      "source": "https://punchbowl.news/article/tech/obernolte-preemption-shift/",
      "outlet": "Punchbowl News"
+    },
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Rep. Trahan, introduced the FRONTIER Act (H.R. 9925), a national framework of tiered model cards, risk-management frameworks, independent audits and incident reporting for the most advanced AI systems.",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    },
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This legislation will protect Americans from catastrophic risk",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
     }
    ],
    "photo": {
@@ -6213,6 +6650,103 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from peters.senate.gov legislation listing (S.5648)"
+   }
+  },
+  {
+   "id": "scott-peters",
+   "name": "Scott Peters",
+   "office": "U.S. Representative from California",
+   "office_type": "us_rep",
+   "state": "CA",
+   "party": "D",
+   "committees": [
+    "House Energy and Commerce"
+   ],
+   "stance": "Wants uniform national transparency and safety standards for the most advanced AI rather than a fifty-state patchwork, and warns the window to get AI policy right is closing.",
+   "statements": [
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the bipartisan FRONTIER Act setting transparency and safety standards for the most advanced AI systems.",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    },
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The window to get AI policy right is closing, and Congress can't afford to miss it,",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    },
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "a targeted bill with clear, uniform transparency, and safety standards, instead of a fifty-state patchwork",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quotes verified verbatim"
+   }
+  },
+  {
+   "id": "august-pfluger",
+   "name": "August Pfluger",
+   "office": "U.S. Representative from Texas",
+   "office_type": "us_rep",
+   "state": "TX",
+   "party": "R",
+   "committees": [
+    "House Homeland Security",
+    "House Energy and Commerce"
+   ],
+   "stance": "Leads AI-security research legislation — DHS-run competitions funding interpretability and adversarial robustness — framed as staying ahead of adversaries manipulating AI systems.",
+   "statements": [
+    {
+     "date": "2026-09-30",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the Reliable Artificial Intelligence Research Act, funding DHS research competitions on AI interpretability and adversarial robustness; the House companion to a Banks-Hassan Senate bill.",
+     "target": null,
+     "joint": null,
+     "source": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047",
+     "outlet": "Office of Rep. Pfluger"
+    },
+    {
+     "date": "2026-09-30",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The Reliable Artificial Intelligence Research Act puts American ingenuity to work on making AI more transparent, more predictable, and more resistant to attacks",
+     "target": null,
+     "joint": null,
+     "source": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047",
+     "outlet": "Office of Rep. Pfluger"
+    },
+    {
+     "date": "2026-09-30",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Adversaries are already looking for ways to manipulate these systems, and we must stay ahead of them",
+     "target": null,
+     "joint": null,
+     "source": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047",
+     "outlet": "Office of Rep. Pfluger"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from pfluger.house.gov primary sources; quotes verified verbatim"
    }
   },
   {
@@ -7148,7 +7682,7 @@
      "date": "2025-12-04",
      "arena": "federal",
      "kind": "quote",
-     "text": "If you can add it, that's great, but that wasn't the best place for this to fit. But we're still looking at other places because there's still an interest.",
+     "text": "If you can add it, that's great, but that wasn't the best place for this to fit",
      "target": null,
      "joint": "ndaa-preemption-2025",
      "source": "https://broadbandbreakfast.com/scalise-no-ai-moratorium-in-national-defense-authorization-act/",
@@ -7665,6 +8199,54 @@
    }
   },
   {
+   "id": "suhas-subramanyam",
+   "name": "Suhas Subramanyam",
+   "office": "U.S. Representative from Virginia",
+   "office_type": "us_rep",
+   "state": "VA",
+   "party": "D",
+   "committees": [
+    "House Oversight and Government Reform"
+   ],
+   "stance": "Among the most urgent frontier-risk voices in the House — calls it a four-alarm fire and wants an enactable bill now.",
+   "statements": [
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the bipartisan FRONTIER Act, a federal framework of transparency, auditing and catastrophic-risk reporting for the most advanced AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    },
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This is a four-alarm fire. We need to take action now.",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    },
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "These frontier models could have the power to create serious chaos and harm without adequate regulations",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quotes verified verbatim"
+   }
+  },
+  {
    "id": "dave-sunday",
    "name": "Dave Sunday",
    "office": "Attorney General of Pennsylvania",
@@ -7900,6 +8482,26 @@
      "joint": "great-american-ai-act-draft",
      "source": "https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/",
      "outlet": "Roll Call"
+    },
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-introduced the bipartisan FRONTIER Act with Rep. Obernolte, setting transparency, auditing and catastrophic-risk reporting duties for the most advanced AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
+    },
+    {
+     "date": "2026-07-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This is how we protect the public from catastrophic risks without slowing the innovation that keeps America competitive",
+     "target": null,
+     "joint": null,
+     "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+     "outlet": "Office of Rep. Obernolte"
     }
    ],
    "photo": {
@@ -8403,8 +9005,8 @@
     {
      "date": "2026-05-25",
      "arena": "state",
-     "kind": "quote",
-     "text": "My heart is to make sure that we're protecting our kids",
+     "kind": "urging",
+     "text": "Said his priority was protecting Missouri's children as AI begins to affect them.",
      "target": null,
      "joint": null,
      "source": "https://www.kfvs12.com/2026/05/25/missouri-lawmakers-fail-pass-ai-regulations-during-2026-legislative-session/",

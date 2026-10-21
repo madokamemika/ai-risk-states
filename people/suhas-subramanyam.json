@@ -1,0 +1,48 @@
+{
+  "id": "suhas-subramanyam",
+  "name": "Suhas Subramanyam",
+  "office": "U.S. Representative from Virginia",
+  "office_type": "us_rep",
+  "state": "VA",
+  "party": "D",
+  "committees": [
+    "House Oversight and Government Reform"
+  ],
+  "stance": "Among the most urgent frontier-risk voices in the House — calls it a four-alarm fire and wants an enactable bill now.",
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Original cosponsor of the bipartisan FRONTIER Act, a federal framework of transparency, auditing and catastrophic-risk reporting for the most advanced AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is a four-alarm fire. We need to take action now.",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "These frontier models could have the power to create serious chaos and harm without adequate regulations",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quotes verified verbatim"
+  }
+}

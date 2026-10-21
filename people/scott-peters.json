@@ -1,0 +1,48 @@
+{
+  "id": "scott-peters",
+  "name": "Scott Peters",
+  "office": "U.S. Representative from California",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "committees": [
+    "House Energy and Commerce"
+  ],
+  "stance": "Wants uniform national transparency and safety standards for the most advanced AI rather than a fifty-state patchwork, and warns the window to get AI policy right is closing.",
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Original cosponsor of the bipartisan FRONTIER Act setting transparency and safety standards for the most advanced AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The window to get AI policy right is closing, and Congress can't afford to miss it,",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "a targeted bill with clear, uniform transparency, and safety standards, instead of a fifty-state patchwork",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quotes verified verbatim"
+  }
+}

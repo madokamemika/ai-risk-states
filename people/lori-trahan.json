@@ -29,6 +29,26 @@
       "joint": "great-american-ai-act-draft",
       "source": "https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/",
       "outlet": "Roll Call"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced the bipartisan FRONTIER Act with Rep. Obernolte, setting transparency, auditing and catastrophic-risk reporting duties for the most advanced AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is how we protect the public from catastrophic risks without slowing the innovation that keeps America competitive",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
     }
   ],
   "photo": {

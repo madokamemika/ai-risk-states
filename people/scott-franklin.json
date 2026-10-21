@@ -1,0 +1,39 @@
+{
+  "id": "scott-franklin",
+  "name": "Scott Franklin",
+  "office": "U.S. Representative from Florida",
+  "office_type": "us_rep",
+  "state": "FL",
+  "party": "R",
+  "committees": [
+    "House Science, Space, and Technology",
+    "House Appropriations"
+  ],
+  "stance": "Backs a targeted, size-tiered federal framework of guardrails for the handful of companies building the most powerful frontier AI models.",
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Original cosponsor of the bipartisan FRONTIER Act, a targeted federal framework of transparency, independent evaluation and incident reporting for the most advanced AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "focusing only on the handful of companies developing the most powerful frontier AI models",
+      "target": null,
+      "joint": null,
+      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "outlet": "Office of Rep. Obernolte"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quote verified verbatim"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "don-beyer",
+  "name": "Don Beyer",
+  "office": "U.S. Representative from Virginia",
+  "office_type": "us_rep",
+  "state": "VA",
+  "party": "D",
+  "committees": [
+    "House Ways and Means",
+    "House Joint Economic Committee"
+  ],
+  "stance": "The House's most AI-engaged member (co-chair of the Congressional AI Caucus, pursuing an ML master's): pushes frontier-AI oversight, transparency and independent evaluation, and safety verification before AI is deployed in critical government systems.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led a bipartisan letter of House AI leaders to the Speaker and Minority Leader urging an urgent congressional response to recent frontier-AI loss-of-control incidents, and legislation strengthening AI oversight, security and transparency.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+      "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We call for your joint leadership on an urgent Congressional response to recent incidents involving advanced artificial intelligence (AI) models that have profound implications for economic and national security.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+      "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must ensure AI companies implement robust monitoring and independent oversight to protect the public.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+      "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led a letter urging the FAA to pause its AI-enabled air-traffic-control tool until independently verified safety testing is complete and communicated to the public.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+      "outlet": "Office of Rep. Beyer"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from beyer.house.gov primary sources; quotes verified verbatim"
+  }
+}
