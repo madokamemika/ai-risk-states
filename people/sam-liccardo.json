@@ -1,0 +1,45 @@
+{
+  "id": "sam-liccardo",
+  "name": "Sam Liccardo",
+  "office": "U.S. Representative from California",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Frames superintelligence loss-of-control as the core risk; pushes US-China frontier-AI safety coordination — binding standards, independent auditing, incident reporting, pacing — and led the House demand to stay in session for AI safeguards.",
+  "statements": [
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced a bipartisan bill with Rep. Kiley establishing U.S.-China coordination on frontier AI safety — binding safety standards, model testing and evaluation, independent auditing, incident reporting, capability pacing, and a focus on loss-of-control and AI-enabled CBRN threats.",
+      "target": null,
+      "joint": null,
+      "source": "https://liccardo.house.gov/media/press-releases/new-bipartisan-ai-safety-bill-will-move-us-and-china-beyond-red-phone",
+      "outlet": "Office of Rep. Liccardo"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The AI industry has focused on running faster, but no human wins a race to superintelligence that exceeds human control,",
+      "target": null,
+      "joint": null,
+      "source": "https://liccardo.house.gov/media/press-releases/new-bipartisan-ai-safety-bill-will-move-us-and-china-beyond-red-phone",
+      "outlet": "Office of Rep. Liccardo"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led a letter of over 100 House Democrats demanding Congress stay in session to vote on AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://liccardo.house.gov/media/press-releases/over-hundred-house-democrats-demand-congress-stay-session-confront-ai-crisis",
+      "outlet": "Office of Rep. Liccardo"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from liccardo.house.gov primary sources; quotes verified verbatim"
+  }
+}

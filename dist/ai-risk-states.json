@@ -90,6 +90,31 @@
    }
   },
   {
+   "id": "gabe-amo",
+   "name": "Gabe Amo",
+   "office": "U.S. Representative from Rhode Island",
+   "office_type": "us_rep",
+   "state": "RI",
+   "party": "D",
+   "stance": "Signed the bipartisan call for urgent federal guardrails and oversight of advanced AI; a member of the Congressional AI Caucus.",
+   "statements": [
+    {
+     "date": "2026-09-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "One of ten signers of a bipartisan letter to House leadership urging urgent legislation on AI oversight, security and transparency after advanced-AI 'loss-of-control' incidents.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+     "outlet": "Office of Rep. Beyer"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; record verified via the lead's primary release"
+   }
+  },
+  {
    "id": "jason-anavitarte",
    "name": "Jason Anavitarte",
    "office": "Georgia State Senator (District 31), Senate Majority Leader",
@@ -147,6 +172,41 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "yassamin-ansari",
+   "name": "Yassamin Ansari",
+   "office": "U.S. Representative from Arizona",
+   "office_type": "us_rep",
+   "state": "AZ",
+   "party": "D",
+   "stance": "Frames frontier AI as a catastrophic and national-security risk requiring arms-control-style international guardrails; led the House letter demanding the administration negotiate AI global-security rules.",
+   "statements": [
+    {
+     "date": "2026-09-17",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Led a House letter, signed by dozens of colleagues, demanding the administration open urgent negotiations with allies and adversaries on AI global security and rules to prevent the proliferation of uncontrollable frontier AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+     "outlet": "Office of Rep. Ansari"
+    },
+    {
+     "date": "2026-09-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "True global security in the untested and fast-advancing field of AI requires stability, predictability, and strategic restraint.",
+     "target": null,
+     "joint": null,
+     "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+     "outlet": "Office of Rep. Ansari"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from ansari.house.gov primary source; quote verified verbatim"
    }
   },
   {
@@ -382,6 +442,34 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "ami-bera",
+   "name": "Ami Bera",
+   "office": "U.S. Representative from California",
+   "office_type": "us_rep",
+   "state": "CA",
+   "party": "D",
+   "committees": [
+    "House Foreign Affairs"
+   ],
+   "stance": "A co-leader on international AI-safety diplomacy — shared safety standards and red lines with China and a crisis-communications channel.",
+   "statements": [
+    {
+     "date": "2026-09-18",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-led a letter of 26 Democrats urging AI-safety diplomacy with China — shared safety standards and red lines, a crisis channel, and limits on proliferation of advanced AI, citing catastrophic risks like AI-enabled pathogens and cyberattacks.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+     "outlet": "Office of Rep. Jacobs"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; record verified via the co-leads' primary release"
    }
   },
   {
@@ -1347,6 +1435,26 @@
      "joint": "ban-artificial-superintelligence-act",
      "source": "https://rollcall.com/2026/09/23/ai-superintelligence-ban-proposed-by-casar-sanders/",
      "outlet": "Roll Call"
+    },
+    {
+     "date": "2026-09-17",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Signed the Ansari-led letter demanding the administration act on AI global security.",
+     "target": null,
+     "joint": null,
+     "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+     "outlet": "Office of Rep. Ansari"
+    },
+    {
+     "date": "2026-09-18",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed the 26-Democrat letter urging AI-safety diplomacy with China against catastrophic AI risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+     "outlet": "Office of Rep. Jacobs"
     }
    ],
    "photo": {
@@ -1358,6 +1466,45 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "joaquin-castro",
+   "name": "Joaquin Castro",
+   "office": "U.S. Representative from Texas",
+   "office_type": "us_rep",
+   "state": "TX",
+   "party": "D",
+   "committees": [
+    "House Intelligence",
+    "House Foreign Affairs"
+   ],
+   "stance": "Supports international AI guardrails and U.S.-China diplomacy on catastrophic AI risk; a repeat signer of the House AI-safety letters.",
+   "statements": [
+    {
+     "date": "2026-09-17",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Signed the Ansari-led letter demanding the administration act on AI global security and guardrails against uncontrollable frontier AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+     "outlet": "Office of Rep. Ansari"
+    },
+    {
+     "date": "2026-09-18",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed a 26-Democrat letter urging AI-safety diplomacy with China against catastrophic risks like AI-enabled pathogens and cyberattacks.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+     "outlet": "Office of Rep. Jacobs"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; letter signatures verified via the leads' primary releases"
    }
   },
   {
@@ -1788,6 +1935,34 @@
    }
   },
   {
+   "id": "rick-crawford",
+   "name": "Rick Crawford",
+   "office": "U.S. Representative from Arkansas",
+   "office_type": "us_rep",
+   "state": "AR",
+   "party": "R",
+   "committees": [
+    "House Intelligence (Chairman)"
+   ],
+   "stance": "Supports export-control enforcement to keep advanced AI chips out of adversaries' hands.",
+   "statements": [
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cosponsor of the bipartisan Chip Security Act requiring location verification and diversion reporting on advanced AI chips.",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+     "outlet": "Office of Rep. Foster"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; cosponsorship verified via the lead sponsors' primary release"
+   }
+  },
+  {
    "id": "ted-cruz",
    "name": "Ted Cruz",
    "office": "U.S. Senator from Texas",
@@ -2006,6 +2181,41 @@
    }
   },
   {
+   "id": "april-mcclain-delaney",
+   "name": "April McClain Delaney",
+   "office": "U.S. Representative from Maryland",
+   "office_type": "us_rep",
+   "state": "MD",
+   "party": "D",
+   "stance": "A leading voice for independently verified safety testing and accountability before AI is deployed in safety-critical systems.",
+   "statements": [
+    {
+     "date": "2026-10-09",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Led a letter urging the FAA to pause its AI-enabled air-traffic-control tool until it shows the safety testing and explains who is accountable when it fails.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+     "outlet": "Office of Rep. Beyer"
+    },
+    {
+     "date": "2026-10-09",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I'm calling on the FAA to pause this rollout, show us the safety testing, and explain who is accountable when something goes wrong.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+     "outlet": "Office of Rep. Beyer"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from house.gov primary source; quote verified verbatim"
+   }
+  },
+  {
    "id": "daniel-didech",
    "name": "Daniel Didech",
    "office": "Illinois State Representative",
@@ -2106,6 +2316,44 @@
    }
   },
   {
+   "id": "sarah-elfreth",
+   "name": "Sarah Elfreth",
+   "office": "U.S. Representative from Maryland",
+   "office_type": "us_rep",
+   "state": "MD",
+   "party": "D",
+   "committees": [
+    "House Armed Services"
+   ],
+   "stance": "Ties the FAA case to the broader need to regulate AI safety before it is deployed in critical systems.",
+   "statements": [
+    {
+     "date": "2026-10-09",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-led the letter urging the FAA to pause its AI-enabled air-traffic tool pending safety testing and oversight answers.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+     "outlet": "Office of Rep. Beyer"
+    },
+    {
+     "date": "2026-10-09",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "As AI safety concerns are top of mind for our neighbors, this is another instance where we cannot afford to miss the moment on regulating this technology.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+     "outlet": "Office of Rep. Beyer"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from house.gov primary source; quote verified verbatim"
+   }
+  },
+  {
    "id": "keith-ellison",
    "name": "Keith Ellison",
    "office": "Attorney General of Minnesota",
@@ -2155,6 +2403,71 @@
     "page": "https://commons.wikimedia.org/wiki/File:Keith_Ellison_portrait_(cropped).jpg",
     "license": "Public domain",
     "artist": "US House Office of Photography"
+   }
+  },
+  {
+   "id": "veronica-escobar",
+   "name": "Veronica Escobar",
+   "office": "U.S. Representative from Texas",
+   "office_type": "us_rep",
+   "state": "TX",
+   "party": "D",
+   "stance": "Among the most active House voices for binding AI guardrails framed around catastrophic risk — cosponsor of an AI 'kill switch' authority and a serial signer of the frontier-AI-risk letters.",
+   "statements": [
+    {
+     "date": "2026-09-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "One of ten signers of the bipartisan leadership letter urging Congress to advance AI oversight, security and transparency legislation.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+     "outlet": "Office of Rep. Beyer"
+    },
+    {
+     "date": "2026-09-17",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Signed the House letter led by Rep. Ansari demanding the administration act now on AI global security and negotiate guardrails against uncontrollable frontier AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+     "outlet": "Office of Rep. Ansari"
+    },
+    {
+     "date": "2026",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cosponsored the AI Kill Switch Act, giving authority to throttle, suspend or shut down the most powerful AI systems in a catastrophic-harm emergency.",
+     "target": null,
+     "joint": null,
+     "source": "https://escobar.house.gov/issues/issue/?IssueID=15511",
+     "outlet": "Office of Rep. Escobar"
+    },
+    {
+     "date": "2026",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Artificial Intelligence (AI) is developing faster than our laws can keep up—and Congress is failing the American people by letting it happen.",
+     "target": null,
+     "joint": null,
+     "source": "https://escobar.house.gov/issues/issue/?IssueID=15511",
+     "outlet": "Office of Rep. Escobar"
+    },
+    {
+     "date": "2026",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Congress must stop treating AI regulation as optional and hold the companies developing these systems accountable.",
+     "target": null,
+     "joint": null,
+     "source": "https://escobar.house.gov/issues/issue/?IssueID=15511",
+     "outlet": "Office of Rep. Escobar"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from escobar.house.gov and the letters' primary releases; quotes verified verbatim"
    }
   },
   {
@@ -2344,6 +2657,31 @@
    }
   },
   {
+   "id": "brian-fitzpatrick",
+   "name": "Brian Fitzpatrick",
+   "office": "U.S. Representative from Pennsylvania",
+   "office_type": "us_rep",
+   "state": "PA",
+   "party": "R",
+   "stance": "Signed the bipartisan call for urgent federal guardrails and oversight of advanced AI.",
+   "statements": [
+    {
+     "date": "2026-09-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "One of ten signers of the bipartisan leadership letter urging Congress to act on AI oversight, security and transparency after advanced-AI loss-of-control incidents.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+     "outlet": "Office of Rep. Beyer"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; signature verified via the lead's primary release"
+   }
+  },
+  {
    "id": "aaron-ford",
    "name": "Aaron Ford",
    "office": "Attorney General of Nevada (2026 Democratic nominee for governor)",
@@ -2490,6 +2828,44 @@
    }
   },
   {
+   "id": "valerie-foushee",
+   "name": "Valerie Foushee",
+   "office": "U.S. Representative from North Carolina",
+   "office_type": "us_rep",
+   "state": "NC",
+   "party": "D",
+   "committees": [
+    "House Science, Space, and Technology"
+   ],
+   "stance": "Backs urgent federal guardrails and oversight for advanced AI from the Science Committee.",
+   "statements": [
+    {
+     "date": "2026-09-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "One of ten signers of the bipartisan letter urging House leadership to advance AI oversight, security and transparency legislation.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+     "outlet": "Office of Rep. Beyer"
+    },
+    {
+     "date": "2026-09-22",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cosponsor of the AI Education and Workforce Readiness Act, which requires independent evaluations and audits and adoption of the NIST AI Risk Management Framework.",
+     "target": null,
+     "joint": null,
+     "source": "https://bonamici.house.gov/media/press-releases/bonamici-introduces-human-centered-framework-provide-guardrails-ai-education",
+     "outlet": "Office of Rep. Bonamici"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; records verified via the leads' primary releases"
+   }
+  },
+  {
    "id": "scott-franklin",
    "name": "Scott Franklin",
    "office": "U.S. Representative from Florida",
@@ -2521,6 +2897,16 @@
      "joint": null,
      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
      "outlet": "Office of Rep. Obernolte"
+    },
+    {
+     "date": "2026-09-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "One of ten signers of the bipartisan leadership letter urging Congress to act on AI oversight, security and transparency.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+     "outlet": "Office of Rep. Beyer"
     }
    ],
    "review": {
@@ -2708,6 +3094,26 @@
      "joint": "stop-rogue-ai-act",
      "source": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6424",
      "outlet": "Office of Rep. Lawler"
+    },
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cosponsor of the bipartisan Chip Security Act requiring location verification on advanced AI chips before export.",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+     "outlet": "Office of Rep. Foster"
+    },
+    {
+     "date": "2026-09-22",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cosponsor of the AI Education and Workforce Readiness Act (independent evaluations and audits, NIST AI Risk Management Framework).",
+     "target": null,
+     "joint": null,
+     "source": "https://bonamici.house.gov/media/press-releases/bonamici-introduces-human-centered-framework-provide-guardrails-ai-education",
+     "outlet": "Office of Rep. Bonamici"
     }
    ],
    "photo": {
@@ -2875,6 +3281,31 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "adelita-grijalva",
+   "name": "Adelita Grijalva",
+   "office": "U.S. Representative from Arizona",
+   "office_type": "us_rep",
+   "state": "AZ",
+   "party": "D",
+   "stance": "Supports international AI guardrails against uncontrollable frontier AI.",
+   "statements": [
+    {
+     "date": "2026-09-17",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Signed the Ansari-led letter demanding the administration negotiate AI global-security rules to prevent the proliferation of uncontrollable frontier AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+     "outlet": "Office of Rep. Ansari"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; letter signature verified via the lead's primary release"
    }
   },
   {
@@ -3834,6 +4265,85 @@
    }
   },
   {
+   "id": "sara-jacobs",
+   "name": "Sara Jacobs",
+   "office": "U.S. Representative from California",
+   "office_type": "us_rep",
+   "state": "CA",
+   "party": "D",
+   "committees": [
+    "House Armed Services",
+    "House Foreign Affairs"
+   ],
+   "stance": "Among the most active House members on AI catastrophic and military-safety guardrails — human control of autonomous weapons, national-lab evaluation of frontier AI for CBRN and deception, and a Pentagon AI incident-reporting program.",
+   "statements": [
+    {
+     "date": "2026-07-17",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-introduced the Human Authority over Autonomous Weapons Act with Reps. Beyer and Barrett, barring AI and autonomous weapons from lethal strikes without meaningful human control.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/beyer-barrett-jacobs-introduce-bipartisan-legislation-requiring-human-control-over-autonomous-weapons",
+     "outlet": "Office of Rep. Jacobs"
+    },
+    {
+     "date": "2026-07-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI mistakes on the battlefield have the potential to be catastrophic: civilian casualties, friendly fire, unintended escalation, and calculations made on faulty data,",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/beyer-barrett-jacobs-introduce-bipartisan-legislation-requiring-human-control-over-autonomous-weapons",
+     "outlet": "Office of Rep. Jacobs"
+    },
+    {
+     "date": "2026-07-29",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-led the ATOMIC Act directing the DOE National Labs to evaluate the most advanced AI systems for nuclear and CBRN risks, deceptive behavior and guardrail-bypass, for developers investing at least $2B over five years.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/reps-sara-jacobs-celeste-maloy-introduces-the-atomic-act-to-strengthen-ai-nuclear-security",
+     "outlet": "Office of Rep. Jacobs"
+    },
+    {
+     "date": "2026-07-29",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "As AI becomes more powerful, we have a responsibility to identify and guard against new risks before they become real-world threats.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/reps-sara-jacobs-celeste-maloy-introduces-the-atomic-act-to-strengthen-ai-nuclear-security",
+     "outlet": "Office of Rep. Jacobs"
+    },
+    {
+     "date": "2026-08-31",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced a bipartisan program (in the FY26 NDAA, with Whitesides and Moran) for Department of Defense AI incident and vulnerability reporting.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bipartisan-legislation-to-address-ai-weaknesses-and-failures-at-pentagon",
+     "outlet": "Office of Rep. Jacobs"
+    },
+    {
+     "date": "2026-08-31",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "That's why we need a department-wide program to catch and fix AI incidents and vulnerabilities before they turn into catastrophes.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bipartisan-legislation-to-address-ai-weaknesses-and-failures-at-pentagon",
+     "outlet": "Office of Rep. Jacobs"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from sarajacobs.house.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
    "id": "letitia-james",
    "name": "Letitia James",
    "office": "Attorney General of New York",
@@ -4289,8 +4799,8 @@
     {
      "date": "2026-09-16",
      "arena": "federal",
-     "kind": "urging",
-     "text": "Argued that while he does not have all the answers, there are real risks to artificial intelligence that Congress must weigh.",
+     "kind": "quote",
+     "text": "What I am suggesting to you is there are risks to artificial intelligence.",
      "target": null,
      "joint": "ai-emergency-button-act",
      "source": "http://www.washingtonexaminer.com/news/senate/4730945/gop-ai-kill-switch-bill-killed-by-rand-paul/",
@@ -4371,6 +4881,31 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "kevin-kiley",
+   "name": "Kevin Kiley",
+   "office": "U.S. Representative from California",
+   "office_type": "us_rep",
+   "state": "CA",
+   "party": "R",
+   "stance": "Bipartisan co-lead on U.S.-China frontier-AI safety coordination and verification.",
+   "statements": [
+    {
+     "date": "2026-09-22",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-introduced with Rep. Liccardo a bipartisan bill establishing U.S.-China coordination on frontier AI safety — binding standards, model testing, independent auditing and incident reporting.",
+     "target": null,
+     "joint": null,
+     "source": "https://liccardo.house.gov/media/press-releases/new-bipartisan-ai-safety-bill-will-move-us-and-china-beyond-red-phone",
+     "outlet": "Office of Rep. Liccardo"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; record verified via the co-lead's primary release"
    }
   },
   {
@@ -4740,6 +5275,35 @@
    }
   },
   {
+   "id": "darin-lahood",
+   "name": "Darin LaHood",
+   "office": "U.S. Representative from Illinois",
+   "office_type": "us_rep",
+   "state": "IL",
+   "party": "R",
+   "committees": [
+    "House Ways and Means",
+    "House Intelligence"
+   ],
+   "stance": "Supports export and security controls on advanced AI chips to keep them from adversaries.",
+   "statements": [
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cosponsor of the bipartisan Chip Security Act requiring location verification on advanced AI chips before export.",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+     "outlet": "Office of Rep. Foster"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; cosponsorship verified via the lead sponsors' primary release"
+   }
+  },
+  {
    "id": "raul-labrador",
    "name": "Raúl Labrador",
    "office": "Attorney General of Idaho",
@@ -5080,6 +5644,51 @@
    }
   },
   {
+   "id": "sam-liccardo",
+   "name": "Sam Liccardo",
+   "office": "U.S. Representative from California",
+   "office_type": "us_rep",
+   "state": "CA",
+   "party": "D",
+   "stance": "Frames superintelligence loss-of-control as the core risk; pushes US-China frontier-AI safety coordination — binding standards, independent auditing, incident reporting, pacing — and led the House demand to stay in session for AI safeguards.",
+   "statements": [
+    {
+     "date": "2026-09-22",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced a bipartisan bill with Rep. Kiley establishing U.S.-China coordination on frontier AI safety — binding safety standards, model testing and evaluation, independent auditing, incident reporting, capability pacing, and a focus on loss-of-control and AI-enabled CBRN threats.",
+     "target": null,
+     "joint": null,
+     "source": "https://liccardo.house.gov/media/press-releases/new-bipartisan-ai-safety-bill-will-move-us-and-china-beyond-red-phone",
+     "outlet": "Office of Rep. Liccardo"
+    },
+    {
+     "date": "2026-09-22",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The AI industry has focused on running faster, but no human wins a race to superintelligence that exceeds human control,",
+     "target": null,
+     "joint": null,
+     "source": "https://liccardo.house.gov/media/press-releases/new-bipartisan-ai-safety-bill-will-move-us-and-china-beyond-red-phone",
+     "outlet": "Office of Rep. Liccardo"
+    },
+    {
+     "date": "2026-09-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Led a letter of over 100 House Democrats demanding Congress stay in session to vote on AI safeguards.",
+     "target": null,
+     "joint": null,
+     "source": "https://liccardo.house.gov/media/press-releases/over-hundred-house-democrats-demand-congress-stay-session-confront-ai-crisis",
+     "outlet": "Office of Rep. Liccardo"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from liccardo.house.gov primary sources; quotes verified verbatim"
+   }
+  },
+  {
    "id": "ted-lieu",
    "name": "Ted Lieu",
    "office": "U.S. Representative, California 36th District",
@@ -5120,6 +5729,26 @@
      "joint": "ai-kill-switch-act",
      "source": "https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/",
      "outlet": "Roll Call"
+    },
+    {
+     "date": "2026-09-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "One of ten signers of the bipartisan leadership letter urging urgent AI oversight legislation.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+     "outlet": "Office of Rep. Beyer"
+    },
+    {
+     "date": "2026-09-18",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signer of a 26-Democrat letter urging AI-safety diplomacy with China against catastrophic AI risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+     "outlet": "Office of Rep. Jacobs"
     }
    ],
    "photo": {
@@ -5805,6 +6434,73 @@
    }
   },
   {
+   "id": "gregory-meeks",
+   "name": "Gregory Meeks",
+   "office": "U.S. Representative from New York",
+   "office_type": "us_rep",
+   "state": "NY",
+   "party": "D",
+   "committees": [
+    "House Foreign Affairs (Ranking Member)"
+   ],
+   "stance": "Co-leader on AI-safety diplomacy with China from the Foreign Affairs Committee.",
+   "statements": [
+    {
+     "date": "2026-09-18",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-led a 26-Democrat letter urging AI-safety diplomacy with China — shared safety standards and red lines and a crisis-communications channel against catastrophic AI risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+     "outlet": "Office of Rep. Jacobs"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; record verified via the co-leads' primary release"
+   }
+  },
+  {
+   "id": "kweisi-mfume",
+   "name": "Kweisi Mfume",
+   "office": "U.S. Representative from Maryland",
+   "office_type": "us_rep",
+   "state": "MD",
+   "party": "D",
+   "committees": [
+    "House Oversight and Government Reform",
+    "House Foreign Affairs"
+   ],
+   "stance": "Demands transparency and a pause on an untested AI system deployed in air-traffic control.",
+   "statements": [
+    {
+     "date": "2026-10-09",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-led the letter urging the FAA to pause its AI air-traffic tool until it proves the technology is safe.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+     "outlet": "Office of Rep. Beyer"
+    },
+    {
+     "date": "2026-10-09",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Until they provide answers that ensure that this technology is safe, the FAA must pause its use,",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+     "outlet": "Office of Rep. Beyer"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from house.gov primary source; quote verified verbatim"
+   }
+  },
+  {
    "id": "john-moolenaar",
    "name": "John Moolenaar",
    "office": "U.S. Representative from Michigan",
@@ -6441,6 +7137,41 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "alexandria-ocasio-cortez",
+   "name": "Alexandria Ocasio-Cortez",
+   "office": "U.S. Representative from New York",
+   "office_type": "us_rep",
+   "state": "NY",
+   "party": "D",
+   "stance": "Pushes transparency, independent testing and human oversight before AI is deployed in safety-critical systems; a member of the Congressional AI Caucus.",
+   "statements": [
+    {
+     "date": "2026-10-09",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-led a letter urging the FAA to pause its AI-enabled 'SMART' air-traffic-control tool until safety-testing, transparency and human-oversight questions are answered.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+     "outlet": "Office of Rep. Ocasio-Cortez"
+    },
+    {
+     "date": "2026-10-09",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This administration may treat Big Tech companies with impunity, but air traffic control leaves zero margin for error,",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+     "outlet": "Office of Rep. Ocasio-Cortez"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from house.gov primary sources; quote verified verbatim"
    }
   },
   {
@@ -7995,6 +8726,35 @@
    }
   },
   {
+   "id": "brad-sherman",
+   "name": "Brad Sherman",
+   "office": "U.S. Representative from California",
+   "office_type": "us_rep",
+   "state": "CA",
+   "party": "D",
+   "committees": [
+    "House Financial Services",
+    "House Foreign Affairs"
+   ],
+   "stance": "Presses oversight of autonomous 'agentic AI' trading and co-signed the call for AI-safety diplomacy with China.",
+   "statements": [
+    {
+     "date": "2026-06-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Rep. Foster, led a letter pressing the SEC on oversight and investor protections for autonomous 'agentic AI' trading.",
+     "target": null,
+     "joint": null,
+     "source": "https://foster.house.gov/media/press-releases/foster-sherman-seek-regulatory-clarity-agentic-ai-trading",
+     "outlet": "Office of Rep. Foster"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; record verified via the co-lead's primary release"
+   }
+  },
+  {
    "id": "melissa-shusterman",
    "name": "Melissa Shusterman",
    "office": "Member of the Pennsylvania House of Representatives",
@@ -8154,6 +8914,56 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "melanie-stansbury",
+   "name": "Melanie Stansbury",
+   "office": "U.S. Representative from New Mexico",
+   "office_type": "us_rep",
+   "state": "NM",
+   "party": "D",
+   "stance": "Supports international AI guardrails against uncontrollable frontier AI.",
+   "statements": [
+    {
+     "date": "2026-09-17",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Signed the Ansari-led letter demanding urgent negotiation of AI global-security guardrails.",
+     "target": null,
+     "joint": null,
+     "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+     "outlet": "Office of Rep. Ansari"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; letter signature verified via the lead's primary release"
+   }
+  },
+  {
+   "id": "greg-stanton",
+   "name": "Greg Stanton",
+   "office": "U.S. Representative from Arizona",
+   "office_type": "us_rep",
+   "state": "AZ",
+   "party": "D",
+   "stance": "Backs AI-safeguard legislation and U.S.-China diplomacy on catastrophic AI risk.",
+   "statements": [
+    {
+     "date": "2026-09-18",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed the 26-Democrat letter urging AI-safety diplomacy with China against catastrophic risks such as AI-enabled pathogens and cyberattacks.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+     "outlet": "Office of Rep. Jacobs"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; letter signature verified via the leads' primary release"
    }
   },
   {
@@ -8354,6 +9164,41 @@
    }
   },
   {
+   "id": "dina-titus",
+   "name": "Dina Titus",
+   "office": "U.S. Representative from Nevada",
+   "office_type": "us_rep",
+   "state": "NV",
+   "party": "D",
+   "stance": "A consistent signer of the House letters on catastrophic AI risk, guardrails and U.S.-China AI diplomacy.",
+   "statements": [
+    {
+     "date": "2026-09-17",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Signed the Ansari-led letter demanding urgent negotiation of AI global-security guardrails.",
+     "target": null,
+     "joint": null,
+     "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+     "outlet": "Office of Rep. Ansari"
+    },
+    {
+     "date": "2026-09-18",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed the 26-Democrat letter urging AI-safety diplomacy with China against catastrophic AI risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+     "outlet": "Office of Rep. Jacobs"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; letter signatures verified via the leads' primary releases"
+   }
+  },
+  {
    "id": "william-tong",
    "name": "William Tong",
    "office": "Attorney General of Connecticut",
@@ -8502,6 +9347,16 @@
      "joint": null,
      "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
      "outlet": "Office of Rep. Obernolte"
+    },
+    {
+     "date": "2026-09-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "One of ten signers of the bipartisan leadership letter urging Congress to act on AI oversight, security and transparency.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+     "outlet": "Office of Rep. Beyer"
     }
    ],
    "photo": {
@@ -9169,6 +10024,64 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "george-whitesides",
+   "name": "George Whitesides",
+   "office": "U.S. Representative from California",
+   "office_type": "us_rep",
+   "state": "CA",
+   "party": "D",
+   "committees": [
+    "House Science, Space, and Technology"
+   ],
+   "stance": "A leading House voice on superintelligence risk — monitoring recursive self-improvement, pausing frontier training, and catastrophic-risk red lines.",
+   "statements": [
+    {
+     "date": "2026-08-29",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the Self-Improving AI Monitoring Act with Rep. Harrigan, directing CAISI to monitor frontier models' autonomous AI-R&D capabilities and recursive self-improvement.",
+     "target": null,
+     "joint": null,
+     "source": "https://whitesides.house.gov/2026/08/29/rep-whitesides-introduces-bipartisan-bill-to-reduce-the-risk-of-superintelligent-ai-by-monitoring-self-improving-ai-systems/",
+     "outlet": "Office of Rep. Whitesides"
+    },
+    {
+     "date": "2026-08-29",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "When you take humans out of the driver's seat and let machines train machines, small glitches can snowball into major security risks fast.",
+     "target": null,
+     "joint": null,
+     "source": "https://whitesides.house.gov/2026/08/29/rep-whitesides-introduces-bipartisan-bill-to-reduce-the-risk-of-superintelligent-ai-by-monitoring-self-improving-ai-systems/",
+     "outlet": "Office of Rep. Whitesides"
+    },
+    {
+     "date": "2026-09-15",
+     "arena": "federal",
+     "kind": "action",
+     "text": "In a Washington Post op-ed, called for an industry-wide 30-day Safety Stand-Down on frontier AI development, backed by legislation.",
+     "target": null,
+     "joint": null,
+     "source": "https://whitesides.house.gov/2026/09/15/icymi-rep-whitesides-calls-for-industry-wide-safety-stand-down-on-frontier-ai-development-in-washington-post-op-ed/",
+     "outlet": "Office of Rep. Whitesides"
+    },
+    {
+     "date": "2026-09-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The people building this technology put the odds of catastrophe somewhere between 1 in 100 and a coin flip.",
+     "target": null,
+     "joint": null,
+     "source": "https://whitesides.house.gov/2026/09/15/icymi-rep-whitesides-calls-for-industry-wide-safety-stand-down-on-frontier-ai-development-in-washington-post-op-ed/",
+     "outlet": "Office of Rep. Whitesides"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from whitesides.house.gov primary sources; quotes verified verbatim"
    }
   },
   {

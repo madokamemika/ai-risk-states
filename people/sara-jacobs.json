@@ -1,0 +1,79 @@
+{
+  "id": "sara-jacobs",
+  "name": "Sara Jacobs",
+  "office": "U.S. Representative from California",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "committees": [
+    "House Armed Services",
+    "House Foreign Affairs"
+  ],
+  "stance": "Among the most active House members on AI catastrophic and military-safety guardrails — human control of autonomous weapons, national-lab evaluation of frontier AI for CBRN and deception, and a Pentagon AI incident-reporting program.",
+  "statements": [
+    {
+      "date": "2026-07-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced the Human Authority over Autonomous Weapons Act with Reps. Beyer and Barrett, barring AI and autonomous weapons from lethal strikes without meaningful human control.",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/beyer-barrett-jacobs-introduce-bipartisan-legislation-requiring-human-control-over-autonomous-weapons",
+      "outlet": "Office of Rep. Jacobs"
+    },
+    {
+      "date": "2026-07-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI mistakes on the battlefield have the potential to be catastrophic: civilian casualties, friendly fire, unintended escalation, and calculations made on faulty data,",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/beyer-barrett-jacobs-introduce-bipartisan-legislation-requiring-human-control-over-autonomous-weapons",
+      "outlet": "Office of Rep. Jacobs"
+    },
+    {
+      "date": "2026-07-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-led the ATOMIC Act directing the DOE National Labs to evaluate the most advanced AI systems for nuclear and CBRN risks, deceptive behavior and guardrail-bypass, for developers investing at least $2B over five years.",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/reps-sara-jacobs-celeste-maloy-introduces-the-atomic-act-to-strengthen-ai-nuclear-security",
+      "outlet": "Office of Rep. Jacobs"
+    },
+    {
+      "date": "2026-07-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As AI becomes more powerful, we have a responsibility to identify and guard against new risks before they become real-world threats.",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/reps-sara-jacobs-celeste-maloy-introduces-the-atomic-act-to-strengthen-ai-nuclear-security",
+      "outlet": "Office of Rep. Jacobs"
+    },
+    {
+      "date": "2026-08-31",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced a bipartisan program (in the FY26 NDAA, with Whitesides and Moran) for Department of Defense AI incident and vulnerability reporting.",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bipartisan-legislation-to-address-ai-weaknesses-and-failures-at-pentagon",
+      "outlet": "Office of Rep. Jacobs"
+    },
+    {
+      "date": "2026-08-31",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That's why we need a department-wide program to catch and fix AI incidents and vulnerabilities before they turn into catastrophes.",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bipartisan-legislation-to-address-ai-weaknesses-and-failures-at-pentagon",
+      "outlet": "Office of Rep. Jacobs"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from sarajacobs.house.gov primary sources; quotes verified verbatim"
+  }
+}

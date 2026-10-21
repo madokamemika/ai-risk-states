@@ -1,0 +1,38 @@
+{
+  "id": "sarah-elfreth",
+  "name": "Sarah Elfreth",
+  "office": "U.S. Representative from Maryland",
+  "office_type": "us_rep",
+  "state": "MD",
+  "party": "D",
+  "committees": [
+    "House Armed Services"
+  ],
+  "stance": "Ties the FAA case to the broader need to regulate AI safety before it is deployed in critical systems.",
+  "statements": [
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-led the letter urging the FAA to pause its AI-enabled air-traffic tool pending safety testing and oversight answers.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+      "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As AI safety concerns are top of mind for our neighbors, this is another instance where we cannot afford to miss the moment on regulating this technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+      "outlet": "Office of Rep. Beyer"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from house.gov primary source; quote verified verbatim"
+  }
+}

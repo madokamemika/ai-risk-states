@@ -1,0 +1,39 @@
+{
+  "id": "kweisi-mfume",
+  "name": "Kweisi Mfume",
+  "office": "U.S. Representative from Maryland",
+  "office_type": "us_rep",
+  "state": "MD",
+  "party": "D",
+  "committees": [
+    "House Oversight and Government Reform",
+    "House Foreign Affairs"
+  ],
+  "stance": "Demands transparency and a pause on an untested AI system deployed in air-traffic control.",
+  "statements": [
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-led the letter urging the FAA to pause its AI air-traffic tool until it proves the technology is safe.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+      "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Until they provide answers that ensure that this technology is safe, the FAA must pause its use,",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+      "outlet": "Office of Rep. Beyer"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from house.gov primary source; quote verified verbatim"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rick-crawford",
+  "name": "Rick Crawford",
+  "office": "U.S. Representative from Arkansas",
+  "office_type": "us_rep",
+  "state": "AR",
+  "party": "R",
+  "committees": [
+    "House Intelligence (Chairman)"
+  ],
+  "stance": "Supports export-control enforcement to keep advanced AI chips out of adversaries' hands.",
+  "statements": [
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cosponsor of the bipartisan Chip Security Act requiring location verification and diversion reporting on advanced AI chips.",
+      "target": null,
+      "joint": null,
+      "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+      "outlet": "Office of Rep. Foster"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; cosponsorship verified via the lead sponsors' primary release"
+  }
+}

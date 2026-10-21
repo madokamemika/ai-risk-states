@@ -1,0 +1,25 @@
+{
+  "id": "melanie-stansbury",
+  "name": "Melanie Stansbury",
+  "office": "U.S. Representative from New Mexico",
+  "office_type": "us_rep",
+  "state": "NM",
+  "party": "D",
+  "stance": "Supports international AI guardrails against uncontrollable frontier AI.",
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Signed the Ansari-led letter demanding urgent negotiation of AI global-security guardrails.",
+      "target": null,
+      "joint": null,
+      "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+      "outlet": "Office of Rep. Ansari"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; letter signature verified via the lead's primary release"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gabe-amo",
+  "name": "Gabe Amo",
+  "office": "U.S. Representative from Rhode Island",
+  "office_type": "us_rep",
+  "state": "RI",
+  "party": "D",
+  "stance": "Signed the bipartisan call for urgent federal guardrails and oversight of advanced AI; a member of the Congressional AI Caucus.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "One of ten signers of a bipartisan letter to House leadership urging urgent legislation on AI oversight, security and transparency after advanced-AI 'loss-of-control' incidents.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+      "outlet": "Office of Rep. Beyer"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; record verified via the lead's primary release"
+  }
+}

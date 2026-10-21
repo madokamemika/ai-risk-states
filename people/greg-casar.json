@@ -39,6 +39,26 @@
       "joint": "ban-artificial-superintelligence-act",
       "source": "https://rollcall.com/2026/09/23/ai-superintelligence-ban-proposed-by-casar-sanders/",
       "outlet": "Roll Call"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Signed the Ansari-led letter demanding the administration act on AI global security.",
+      "target": null,
+      "joint": null,
+      "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+      "outlet": "Office of Rep. Ansari"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signed the 26-Democrat letter urging AI-safety diplomacy with China against catastrophic AI risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+      "outlet": "Office of Rep. Jacobs"
     }
   ],
   "photo": {

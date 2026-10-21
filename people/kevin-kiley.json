@@ -1,0 +1,25 @@
+{
+  "id": "kevin-kiley",
+  "name": "Kevin Kiley",
+  "office": "U.S. Representative from California",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "R",
+  "stance": "Bipartisan co-lead on U.S.-China frontier-AI safety coordination and verification.",
+  "statements": [
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced with Rep. Liccardo a bipartisan bill establishing U.S.-China coordination on frontier AI safety — binding standards, model testing, independent auditing and incident reporting.",
+      "target": null,
+      "joint": null,
+      "source": "https://liccardo.house.gov/media/press-releases/new-bipartisan-ai-safety-bill-will-move-us-and-china-beyond-red-phone",
+      "outlet": "Office of Rep. Liccardo"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; record verified via the co-lead's primary release"
+  }
+}

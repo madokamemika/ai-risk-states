@@ -29,6 +29,26 @@
       "joint": "stop-rogue-ai-act",
       "source": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6424",
       "outlet": "Office of Rep. Lawler"
+    },
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cosponsor of the bipartisan Chip Security Act requiring location verification on advanced AI chips before export.",
+      "target": null,
+      "joint": null,
+      "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+      "outlet": "Office of Rep. Foster"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cosponsor of the AI Education and Workforce Readiness Act (independent evaluations and audits, NIST AI Risk Management Framework).",
+      "target": null,
+      "joint": null,
+      "source": "https://bonamici.house.gov/media/press-releases/bonamici-introduces-human-centered-framework-provide-guardrails-ai-education",
+      "outlet": "Office of Rep. Bonamici"
     }
   ],
   "photo": {

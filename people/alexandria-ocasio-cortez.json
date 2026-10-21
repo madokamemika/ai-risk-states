@@ -1,0 +1,35 @@
+{
+  "id": "alexandria-ocasio-cortez",
+  "name": "Alexandria Ocasio-Cortez",
+  "office": "U.S. Representative from New York",
+  "office_type": "us_rep",
+  "state": "NY",
+  "party": "D",
+  "stance": "Pushes transparency, independent testing and human oversight before AI is deployed in safety-critical systems; a member of the Congressional AI Caucus.",
+  "statements": [
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-led a letter urging the FAA to pause its AI-enabled 'SMART' air-traffic-control tool until safety-testing, transparency and human-oversight questions are answered.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+      "outlet": "Office of Rep. Ocasio-Cortez"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This administration may treat Big Tech companies with impunity, but air traffic control leaves zero margin for error,",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+      "outlet": "Office of Rep. Ocasio-Cortez"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from house.gov primary sources; quote verified verbatim"
+  }
+}

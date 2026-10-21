@@ -1,0 +1,29 @@
+{
+  "id": "darin-lahood",
+  "name": "Darin LaHood",
+  "office": "U.S. Representative from Illinois",
+  "office_type": "us_rep",
+  "state": "IL",
+  "party": "R",
+  "committees": [
+    "House Ways and Means",
+    "House Intelligence"
+  ],
+  "stance": "Supports export and security controls on advanced AI chips to keep them from adversaries.",
+  "statements": [
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cosponsor of the bipartisan Chip Security Act requiring location verification on advanced AI chips before export.",
+      "target": null,
+      "joint": null,
+      "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
+      "outlet": "Office of Rep. Foster"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; cosponsorship verified via the lead sponsors' primary release"
+  }
+}

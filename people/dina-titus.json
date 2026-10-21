@@ -1,0 +1,35 @@
+{
+  "id": "dina-titus",
+  "name": "Dina Titus",
+  "office": "U.S. Representative from Nevada",
+  "office_type": "us_rep",
+  "state": "NV",
+  "party": "D",
+  "stance": "A consistent signer of the House letters on catastrophic AI risk, guardrails and U.S.-China AI diplomacy.",
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Signed the Ansari-led letter demanding urgent negotiation of AI global-security guardrails.",
+      "target": null,
+      "joint": null,
+      "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+      "outlet": "Office of Rep. Ansari"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signed the 26-Democrat letter urging AI-safety diplomacy with China against catastrophic AI risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+      "outlet": "Office of Rep. Jacobs"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; letter signatures verified via the leads' primary releases"
+  }
+}

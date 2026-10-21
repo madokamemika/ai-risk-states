@@ -1,0 +1,35 @@
+{
+  "id": "april-mcclain-delaney",
+  "name": "April McClain Delaney",
+  "office": "U.S. Representative from Maryland",
+  "office_type": "us_rep",
+  "state": "MD",
+  "party": "D",
+  "stance": "A leading voice for independently verified safety testing and accountability before AI is deployed in safety-critical systems.",
+  "statements": [
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led a letter urging the FAA to pause its AI-enabled air-traffic-control tool until it shows the safety testing and explains who is accountable when it fails.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+      "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I'm calling on the FAA to pause this rollout, show us the safety testing, and explain who is accountable when something goes wrong.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
+      "outlet": "Office of Rep. Beyer"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from house.gov primary source; quote verified verbatim"
+  }
+}

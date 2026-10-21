@@ -1,0 +1,29 @@
+{
+  "id": "brad-sherman",
+  "name": "Brad Sherman",
+  "office": "U.S. Representative from California",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "committees": [
+    "House Financial Services",
+    "House Foreign Affairs"
+  ],
+  "stance": "Presses oversight of autonomous 'agentic AI' trading and co-signed the call for AI-safety diplomacy with China.",
+  "statements": [
+    {
+      "date": "2026-06-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Rep. Foster, led a letter pressing the SEC on oversight and investor protections for autonomous 'agentic AI' trading.",
+      "target": null,
+      "joint": null,
+      "source": "https://foster.house.gov/media/press-releases/foster-sherman-seek-regulatory-clarity-agentic-ai-trading",
+      "outlet": "Office of Rep. Foster"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; record verified via the co-lead's primary release"
+  }
+}

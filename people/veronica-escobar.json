@@ -1,0 +1,65 @@
+{
+  "id": "veronica-escobar",
+  "name": "Veronica Escobar",
+  "office": "U.S. Representative from Texas",
+  "office_type": "us_rep",
+  "state": "TX",
+  "party": "D",
+  "stance": "Among the most active House voices for binding AI guardrails framed around catastrophic risk — cosponsor of an AI 'kill switch' authority and a serial signer of the frontier-AI-risk letters.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "One of ten signers of the bipartisan leadership letter urging Congress to advance AI oversight, security and transparency legislation.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+      "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Signed the House letter led by Rep. Ansari demanding the administration act now on AI global security and negotiate guardrails against uncontrollable frontier AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+      "outlet": "Office of Rep. Ansari"
+    },
+    {
+      "date": "2026",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cosponsored the AI Kill Switch Act, giving authority to throttle, suspend or shut down the most powerful AI systems in a catastrophic-harm emergency.",
+      "target": null,
+      "joint": null,
+      "source": "https://escobar.house.gov/issues/issue/?IssueID=15511",
+      "outlet": "Office of Rep. Escobar"
+    },
+    {
+      "date": "2026",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Artificial Intelligence (AI) is developing faster than our laws can keep up—and Congress is failing the American people by letting it happen.",
+      "target": null,
+      "joint": null,
+      "source": "https://escobar.house.gov/issues/issue/?IssueID=15511",
+      "outlet": "Office of Rep. Escobar"
+    },
+    {
+      "date": "2026",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must stop treating AI regulation as optional and hold the companies developing these systems accountable.",
+      "target": null,
+      "joint": null,
+      "source": "https://escobar.house.gov/issues/issue/?IssueID=15511",
+      "outlet": "Office of Rep. Escobar"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from escobar.house.gov and the letters' primary releases; quotes verified verbatim"
+  }
+}

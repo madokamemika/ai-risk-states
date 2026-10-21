@@ -39,6 +39,26 @@
       "joint": "ai-kill-switch-act",
       "source": "https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/",
       "outlet": "Roll Call"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "One of ten signers of the bipartisan leadership letter urging urgent AI oversight legislation.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+      "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signer of a 26-Democrat letter urging AI-safety diplomacy with China against catastrophic AI risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+      "outlet": "Office of Rep. Jacobs"
     }
   ],
   "photo": {

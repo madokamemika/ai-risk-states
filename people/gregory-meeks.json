@@ -1,0 +1,28 @@
+{
+  "id": "gregory-meeks",
+  "name": "Gregory Meeks",
+  "office": "U.S. Representative from New York",
+  "office_type": "us_rep",
+  "state": "NY",
+  "party": "D",
+  "committees": [
+    "House Foreign Affairs (Ranking Member)"
+  ],
+  "stance": "Co-leader on AI-safety diplomacy with China from the Foreign Affairs Committee.",
+  "statements": [
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-led a 26-Democrat letter urging AI-safety diplomacy with China — shared safety standards and red lines and a crisis-communications channel against catastrophic AI risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+      "outlet": "Office of Rep. Jacobs"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; record verified via the co-leads' primary release"
+  }
+}

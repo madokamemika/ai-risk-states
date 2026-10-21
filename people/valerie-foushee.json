@@ -1,0 +1,38 @@
+{
+  "id": "valerie-foushee",
+  "name": "Valerie Foushee",
+  "office": "U.S. Representative from North Carolina",
+  "office_type": "us_rep",
+  "state": "NC",
+  "party": "D",
+  "committees": [
+    "House Science, Space, and Technology"
+  ],
+  "stance": "Backs urgent federal guardrails and oversight for advanced AI from the Science Committee.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "One of ten signers of the bipartisan letter urging House leadership to advance AI oversight, security and transparency legislation.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+      "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cosponsor of the AI Education and Workforce Readiness Act, which requires independent evaluations and audits and adoption of the NIST AI Risk Management Framework.",
+      "target": null,
+      "joint": null,
+      "source": "https://bonamici.house.gov/media/press-releases/bonamici-introduces-human-centered-framework-provide-guardrails-ai-education",
+      "outlet": "Office of Rep. Bonamici"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; records verified via the leads' primary releases"
+  }
+}

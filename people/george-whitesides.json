@@ -1,0 +1,58 @@
+{
+  "id": "george-whitesides",
+  "name": "George Whitesides",
+  "office": "U.S. Representative from California",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "committees": [
+    "House Science, Space, and Technology"
+  ],
+  "stance": "A leading House voice on superintelligence risk — monitoring recursive self-improvement, pausing frontier training, and catastrophic-risk red lines.",
+  "statements": [
+    {
+      "date": "2026-08-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the Self-Improving AI Monitoring Act with Rep. Harrigan, directing CAISI to monitor frontier models' autonomous AI-R&D capabilities and recursive self-improvement.",
+      "target": null,
+      "joint": null,
+      "source": "https://whitesides.house.gov/2026/08/29/rep-whitesides-introduces-bipartisan-bill-to-reduce-the-risk-of-superintelligent-ai-by-monitoring-self-improving-ai-systems/",
+      "outlet": "Office of Rep. Whitesides"
+    },
+    {
+      "date": "2026-08-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "When you take humans out of the driver's seat and let machines train machines, small glitches can snowball into major security risks fast.",
+      "target": null,
+      "joint": null,
+      "source": "https://whitesides.house.gov/2026/08/29/rep-whitesides-introduces-bipartisan-bill-to-reduce-the-risk-of-superintelligent-ai-by-monitoring-self-improving-ai-systems/",
+      "outlet": "Office of Rep. Whitesides"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "In a Washington Post op-ed, called for an industry-wide 30-day Safety Stand-Down on frontier AI development, backed by legislation.",
+      "target": null,
+      "joint": null,
+      "source": "https://whitesides.house.gov/2026/09/15/icymi-rep-whitesides-calls-for-industry-wide-safety-stand-down-on-frontier-ai-development-in-washington-post-op-ed/",
+      "outlet": "Office of Rep. Whitesides"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The people building this technology put the odds of catastrophe somewhere between 1 in 100 and a coin flip.",
+      "target": null,
+      "joint": null,
+      "source": "https://whitesides.house.gov/2026/09/15/icymi-rep-whitesides-calls-for-industry-wide-safety-stand-down-on-frontier-ai-development-in-washington-post-op-ed/",
+      "outlet": "Office of Rep. Whitesides"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from whitesides.house.gov primary sources; quotes verified verbatim"
+  }
+}

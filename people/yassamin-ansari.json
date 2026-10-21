@@ -1,0 +1,35 @@
+{
+  "id": "yassamin-ansari",
+  "name": "Yassamin Ansari",
+  "office": "U.S. Representative from Arizona",
+  "office_type": "us_rep",
+  "state": "AZ",
+  "party": "D",
+  "stance": "Frames frontier AI as a catastrophic and national-security risk requiring arms-control-style international guardrails; led the House letter demanding the administration negotiate AI global-security rules.",
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led a House letter, signed by dozens of colleagues, demanding the administration open urgent negotiations with allies and adversaries on AI global security and rules to prevent the proliferation of uncontrollable frontier AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+      "outlet": "Office of Rep. Ansari"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "True global security in the untested and fast-advancing field of AI requires stability, predictability, and strategic restraint.",
+      "target": null,
+      "joint": null,
+      "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+      "outlet": "Office of Rep. Ansari"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from ansari.house.gov primary source; quote verified verbatim"
+  }
+}
