@@ -1,4 +1,10 @@
 {
-  "checked": "2026-10-13",
-  "flags": []
+  "checked": "2026-10-27",
+  "flags": [
+    {
+      "id": "lindsey-graham",
+      "filed_as": "U.S. Senator from South Carolina",
+      "wikidata_says": "no open US Senate seat found"
+    }
+  ]
 }
