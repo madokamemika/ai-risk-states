@@ -6,7 +6,7 @@
     "status": "introduced",
     "summary": "Artificial intelligence safety and disclosure requirements established, and civil remedies provided.",
     "source": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4532/",
-    "found": "2026-10-13"
+    "found": "2026-10-27"
   },
   {
     "state": "MN",
@@ -15,7 +15,7 @@
     "status": "introduced",
     "summary": "Artificial intelligence safety and disclosure requirements establishment (RAISE Act)",
     "source": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4509/",
-    "found": "2026-10-13"
+    "found": "2026-10-27"
   },
   {
     "state": "CA",
@@ -24,7 +24,7 @@
     "status": "introduced",
     "summary": "An act to add Chapter 12 (commencing with Section 8510) to Division 4.1 of the Public Utilities Code, relating to energy.",
     "source": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1011",
-    "found": "2026-10-13"
+    "found": "2026-10-27"
   },
   {
     "state": "IL",
@@ -33,7 +33,7 @@
     "status": "introduced",
     "summary": "Creates the Artificial Intelligence Public Safety and Child Protection Transparency Act. Provides that a frontier artificial intelligence model developer or large chatbot provider shall write, implement, comply with, and clearly and conspicuously publish on its website a public safety and child…",
     "source": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3261&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
-    "found": "2026-10-13"
+    "found": "2026-10-27"
   },
   {
     "state": "IL",
@@ -42,7 +42,7 @@
     "status": "introduced",
     "summary": "Creates the Artificial Intelligence Public Safety and Child Protection Transparency Act. Provides that a frontier artificial intelligence model developer or large chatbot provider shall write, implement, comply with, and clearly and conspicuously publish on its website a public safety and child…",
     "source": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4705&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
-    "found": "2026-10-13"
+    "found": "2026-10-27"
   },
   {
     "state": "HI",
@@ -51,7 +51,7 @@
     "status": "introduced",
     "summary": "Establishes the Office of Artificial Intelligence Safety and Regulation within the Department of Commerce and Consumer Affairs to regulate the development, deployment, and use of artificial intelligence technologies in the State. Prohibits the deployment of artificial intelligence products in the…",
     "source": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2923&year=2026",
-    "found": "2026-10-13"
+    "found": "2026-10-27"
   },
   {
     "state": "NY",
@@ -60,7 +60,7 @@
     "status": "introduced",
     "summary": "Relates to the training and use of artificial intelligence frontier models; defines terms; establishes remedies for violations.",
     "source": "https://www.nysenate.gov/legislation/bills/2025/A6453",
-    "found": "2026-10-13"
+    "found": "2026-10-27"
   },
   {
     "state": "NC",
@@ -69,7 +69,7 @@
     "status": "engrossed",
     "summary": "Social Media & AI Safety",
     "source": "https://www.ncleg.gov/BillLookUp/2025/H301",
-    "found": "2026-10-13"
+    "found": "2026-10-27"
   },
   {
     "state": "NY",
@@ -78,7 +78,7 @@
     "status": "introduced",
     "summary": "Enacts the \"advanced artificial intelligence licensing act\"; providing for regulation of advanced artificial intelligence systems (Part A); requires registration and licensing of high-risk advanced artificial intelligence systems and related provisions regarding the operation of such systems (Part…",
     "source": "https://www.nysenate.gov/legislation/bills/2025/A3356",
-    "found": "2026-10-13"
+    "found": "2026-10-27"
   },
   {
     "state": "NY",
@@ -87,6 +87,6 @@
     "status": "introduced",
     "summary": "Requires the collection of oaths of responsible use from users of certain generative or surveillance advanced artificial intelligence systems by the operators of such systems, and transmission of such oaths to the attorney general.",
     "source": "https://www.nysenate.gov/legislation/bills/2025/A1342",
-    "found": "2026-10-13"
+    "found": "2026-10-27"
   }
 ]

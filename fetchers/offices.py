@@ -52,6 +52,8 @@ def same_senator(filed, sitting):
 
 def flags(governors, senators):
     for person in load('person'):
+        if person.get('left_office'):
+            continue
         state = STATE_NAMES.get(person['state'] or '')
         if person['office_type'] == 'governor' and state:
             now = governors.get(state)
