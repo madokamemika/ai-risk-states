@@ -5,8 +5,18 @@
   "office_type": "us_rep",
   "state": "AZ",
   "party": "D",
-  "stance": "Frames frontier AI as a catastrophic and national-security risk requiring arms-control-style international guardrails; led the House letter demanding the administration negotiate AI global-security rules.",
+  "stance": "Frames frontier AI as a catastrophic and national-security risk requiring arms-control-style international guardrails; led the House letter demanding the administration negotiate AI global-security rules, and has called for a pause on advanced AI development and a ban on artificial superintelligence as a day-one Democratic priority.",
   "statements": [
+    {
+      "date": "2026-11-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYassAnsari/status/2118054336077127797",
+      "outlet": "@RepYassAnsari on X"
+    },
     {
       "date": "2026-09-17",
       "arena": "federal",
@@ -30,6 +40,6 @@
   ],
   "review": {
     "status": "unreviewed",
-    "note": "added October 2026 from ansari.house.gov primary source; quote verified verbatim"
+    "note": "added October 2026 from ansari.house.gov primary source; Sept quote verified verbatim. Nov 2026 quote from her verified X post (@RepYassAnsari, status 2118054336077127797), matched verbatim against the post."
   }
 }
