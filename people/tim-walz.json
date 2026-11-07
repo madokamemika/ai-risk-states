@@ -5,6 +5,14 @@
   "office_type": "governor",
   "state": "MN",
   "party": "D",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Minnesota's 1st district",
+      "from": "2007",
+      "to": "2019",
+      "source": "https://bioguide.congress.gov/search/bio/W000799"
+    }
+  ],
   "committees": [],
   "stance": "Signed Minnesota’s AI nudification ban.",
   "statements": [
@@ -24,9 +32,9 @@
     "note": "research pass, September 2026; not yet reviewed"
   },
   "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Tim_Walz_official_photo.jpg/250px-Tim_Walz_official_photo.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tim_Walz_official_photo.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Governor_Tim_Walz_2026.jpg/250px-Governor_Tim_Walz_2026.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Governor_Tim_Walz_2026.jpg",
     "license": "Public domain",
-    "artist": "United States Congress"
+    "artist": "Office of Governor Tim Walz & Lt. Governor Peggy Flanagan"
   }
 }

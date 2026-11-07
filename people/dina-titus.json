@@ -31,5 +31,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; letter signatures verified via the leads' primary releases"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Dina_Titus_official_photo.jpg/250px-Dina_Titus_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dina_Titus_official_photo.jpg",
+    "license": "Public domain",
+    "artist": "US House Office of Photography"
   }
 }

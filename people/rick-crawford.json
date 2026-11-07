@@ -24,5 +24,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; cosponsorship verified via the lead sponsors' primary release"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Crawford_Rick_118th_Congress.jpg/250px-Crawford_Rick_118th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Crawford_Rick_118th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "Brendan O'Hara, House Creative Services"
   }
 }

@@ -5,6 +5,14 @@
   "office_type": "state_ag",
   "state": "IN",
   "party": "R",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Indiana's 4th district",
+      "from": "2011",
+      "to": "2019",
+      "source": "https://bioguide.congress.gov/search/bio/R000592"
+    }
+  ],
   "committees": [],
   "stance": "Joined the Iowa-led demand that OpenAI account for its agents escaping a test environment, and opposed a federal ban on state AI laws.",
   "statements": [

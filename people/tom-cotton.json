@@ -43,5 +43,11 @@
       "outlet": "Office of Sen. Cotton"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from cotton.senate.gov primary sources; quotes verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from cotton.senate.gov primary sources; quotes verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Tom_Cotton_official_Senate_photo.jpg/250px-Tom_Cotton_official_Senate_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tom_Cotton_official_Senate_photo.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photo Office"
+  }
 }

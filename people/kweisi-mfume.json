@@ -35,5 +35,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from house.gov primary source; quote verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Maryland_Congressman_Kweisi_Mfume%2C_117th_Congress.jpg/250px-Maryland_Congressman_Kweisi_Mfume%2C_117th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Maryland_Congressman_Kweisi_Mfume,_117th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
   }
 }

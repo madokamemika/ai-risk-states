@@ -5,6 +5,14 @@
   "office_type": "state_ag",
   "state": "NC",
   "party": "D",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from North Carolina's 14th district",
+      "from": "2023",
+      "to": "2024",
+      "source": "https://bioguide.congress.gov/search/bio/J000308"
+    }
+  ],
   "committees": [
     "Co-chair, Attorney General Alliance AI Task Force"
   ],

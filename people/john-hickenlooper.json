@@ -84,5 +84,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from hickenlooper.senate.gov primary sources; quotes verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/John_Hickenlooper%2C_official_portrait%2C_117th_Congress.jpeg/250px-John_Hickenlooper%2C_official_portrait%2C_117th_Congress.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Hickenlooper,_official_portrait,_117th_Congress.jpeg",
+    "license": "Public domain",
+    "artist": "Renee Bouchard, United States Senate Photographic Studio"
   }
 }

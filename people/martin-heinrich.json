@@ -33,5 +33,11 @@
       "outlet": "Office of Sen. Heinrich"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from heinrich.senate.gov primary sources; quotes verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from heinrich.senate.gov primary sources; quotes verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Heinrich_Official_Headshot_2019.jpg/250px-Heinrich_Official_Headshot_2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Heinrich_Official_Headshot_2019.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate"
+  }
 }

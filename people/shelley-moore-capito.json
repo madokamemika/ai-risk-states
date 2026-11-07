@@ -36,5 +36,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from capito.senate.gov primary sources (actions)"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Shelley_Moore_Capito_official_Senate_photo.jpg/250px-Shelley_Moore_Capito_official_Senate_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shelley_Moore_Capito_official_Senate_photo.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
   }
 }

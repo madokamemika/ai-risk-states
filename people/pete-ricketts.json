@@ -31,5 +31,11 @@
       "outlet": "Office of Sen. Ricketts"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from ricketts.senate.gov primary sources; quote verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from ricketts.senate.gov primary sources; quote verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Sen._Pete_Ricketts_official_portrait%2C_118th_Congress.jpg/250px-Sen._Pete_Ricketts_official_portrait%2C_118th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sen._Pete_Ricketts_official_portrait,_118th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
+  }
 }

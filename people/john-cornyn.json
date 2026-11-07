@@ -26,5 +26,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/John_Cornyn.jpg/250px-John_Cornyn.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Cornyn.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate Photography Office"
   }
 }

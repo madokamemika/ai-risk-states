@@ -34,5 +34,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; records verified via the leads' primary releases"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Valerie_Foushee_118th_Congress_3.jpg/250px-Valerie_Foushee_118th_Congress_3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Valerie_Foushee_118th_Congress_3.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
   }
 }

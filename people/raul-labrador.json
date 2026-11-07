@@ -5,6 +5,14 @@
   "office_type": "state_ag",
   "state": "ID",
   "party": "R",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Idaho's 1st district",
+      "from": "2011",
+      "to": "2019",
+      "source": "https://bioguide.congress.gov/search/bio/L000573"
+    }
+  ],
   "committees": [],
   "stance": "Opposes federal bans on state AI laws and joined Republican AGs demanding OpenAI halt risky exploitation testing after its agent escaped containment.",
   "statements": [

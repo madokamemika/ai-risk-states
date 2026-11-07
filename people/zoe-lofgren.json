@@ -45,5 +45,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from lofgren.house.gov primary sources; quotes verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Zoe_Lofgren_Official_Portrait_2024.jpeg/250px-Zoe_Lofgren_Official_Portrait_2024.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Zoe_Lofgren_Official_Portrait_2024.jpeg",
+    "license": "Public domain",
+    "artist": "Brian Thorpe, House Creative Services"
   }
 }

@@ -42,5 +42,11 @@
       "outlet": "Office of Sen. Gillibrand"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from gillibrand.senate.gov primary sources; quotes verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from gillibrand.senate.gov primary sources; quotes verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kirsten_Gillibrand%2C_official_photo%2C_116th_Congress.jpg/250px-Kirsten_Gillibrand%2C_official_photo%2C_116th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kirsten_Gillibrand,_official_photo,_116th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "US Senate Photography"
+  }
 }

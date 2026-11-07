@@ -21,5 +21,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; letter signature verified via the lead's primary release"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Melanie_Stansbury_117th_Congress.jpg/250px-Melanie_Stansbury_117th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Melanie_Stansbury_117th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
   }
 }

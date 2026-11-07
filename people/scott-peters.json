@@ -44,5 +44,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quotes verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Scott_Peters_official_portrait_116th_Congress.jpg/250px-Scott_Peters_official_portrait_116th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Scott_Peters_official_portrait_116th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "US House Office of Photography"
   }
 }

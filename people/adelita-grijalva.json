@@ -21,5 +21,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; letter signature verified via the lead's primary release"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Congresswoman_Adelita_Grijalva_Official_Portrait.jpg/250px-Congresswoman_Adelita_Grijalva_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Congresswoman_Adelita_Grijalva_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "Damien Salas, Office of the Clerk U.S.House of Representatives"
   }
 }

@@ -44,5 +44,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quotes verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Rep._Erin_Houchin_official_photo%2C_118th_Congress.jpg/250px-Rep._Erin_Houchin_official_photo%2C_118th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Erin_Houchin_official_photo,_118th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
   }
 }

@@ -23,7 +23,7 @@ Entries marked `"review": {"status": "unreviewed"}` came from a research pass in
 September 2026 and have not yet been reviewed. Treat them accordingly, and see
 below to help.
 
-## Four fields to get right
+## Five fields to get right
 
 - **`kind`** on a statement: `quote` is the speaker's exact words, found verbatim
   at the source; `urging` and `action` are paraphrase.
@@ -35,6 +35,10 @@ below to help.
 - **`left_office`** on a person: the date they left the office named in `office`.
   Their record stays, since what they said and did while in office is still on
   the record, but the page stops listing the powers of an office they no longer hold.
+- **`former_congress`** on a person: each US House or Senate seat they held, with
+  years of service and a Bioguide source, only for people no longer in Congress.
+- **`elected_congress`** on a person: a House or Senate seat they have won but not yet
+  taken, with the date the term starts and a source, only for people not in Congress now.
 
 ## How things get in
 
