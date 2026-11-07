@@ -1797,7 +1797,7 @@
   {
    "id": "greg-casar",
    "name": "Greg Casar",
-   "office": "U.S. Representative, Texas 37th District",
+   "office": "U.S. Representative, Texas 35th District",
    "office_type": "us_rep",
    "state": "TX",
    "party": "D",
@@ -2208,10 +2208,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Greg_Casar%2C_Austin_City_Council_Member%2C_District_4.jpg/250px-Greg_Casar%2C_Austin_City_Council_Member%2C_District_4.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Greg_Casar,_Austin_City_Council_Member,_District_4.jpg",
-    "license": "CC BY 3.0",
-    "artist": "Active Towns"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Rep._Greg_Casar_-_118th_Congress_%283x4_cropped%29.jpg/250px-Rep._Greg_Casar_-_118th_Congress_%283x4_cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Greg_Casar_-_118th_Congress_(3x4_cropped).jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
    },
    "review": {
     "status": "unreviewed",
