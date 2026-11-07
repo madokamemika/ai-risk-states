@@ -4,6 +4,12 @@
   "office": "California State Senator (District 11)",
   "office_type": "state_senator",
   "state": "CA",
+  "next": {
+    "status": "elected to another office",
+    "office": "U.S. Representative from California",
+    "date": "2026-11-03",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California"
+  },
   "party": "D",
   "committees": [],
   "stance": "Author of SB 1047 and SB 53; wants binding catastrophic-risk safety rules on frontier developers and, after the 2026 OpenAI agent incident, a stronger SB 53.",

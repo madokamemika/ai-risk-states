@@ -4,6 +4,11 @@
   "office": "U.S. Senator from Texas",
   "office_type": "us_senator",
   "state": "TX",
+  "next": {
+    "status": "lost renomination",
+    "date": "2026-05-26",
+    "source": "https://www.wsaz.com/2026/05/27/paxton-defeats-cornyn-texas-gop-senate-primary-runoff/"
+  },
   "party": "R",
   "committees": [
     "Senate Judiciary",

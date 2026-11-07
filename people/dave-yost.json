@@ -1,9 +1,10 @@
 {
   "id": "dave-yost",
   "name": "Dave Yost",
-  "office": "Attorney General of Ohio",
+  "office": "Attorney General of Ohio until 7 June 2026",
   "office_type": "state_ag",
   "state": "OH",
+  "left_office": "2026-06-07",
   "party": "R",
   "committees": [],
   "stance": "Has joined bipartisan AG letters against federal preemption of state AI laws and on chatbot harms to children.",

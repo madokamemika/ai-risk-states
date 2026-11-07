@@ -4,6 +4,12 @@
   "office": "Attorney General of Oklahoma",
   "office_type": "state_ag",
   "state": "OK",
+  "next": {
+    "status": "lost race for another office",
+    "office": "Governor of Oklahoma",
+    "date": "2026-08-25",
+    "source": "https://www.news9.com/oklahoma-elections/oklahoma-governor-runoff-results-drummond-mazzei"
+  },
   "party": "R",
   "committees": [],
   "stance": "The one Republican on the 26-AG letter demanding federal frontier-AI safety regulation; also joined the GOP preservation demand to OpenAI.",

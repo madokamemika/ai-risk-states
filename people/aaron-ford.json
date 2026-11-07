@@ -1,9 +1,15 @@
 {
   "id": "aaron-ford",
   "name": "Aaron Ford",
-  "office": "Attorney General of Nevada (2026 Democratic nominee for governor)",
+  "office": "Attorney General of Nevada",
   "office_type": "state_ag",
   "state": "NV",
+  "next": {
+    "status": "elected to another office",
+    "office": "Governor of Nevada",
+    "date": "2026-11-03",
+    "source": "https://www.kunc.org/npr-news/2026-11-04/nevada-attorney-general-aaron-ford-beats-republican-incumbent-for-governor"
+  },
   "party": "D",
   "committees": [],
   "stance": "Backs federal frontier-AI safety regulation that preserves state authority; at home stresses guardrails on AI harms to children.",

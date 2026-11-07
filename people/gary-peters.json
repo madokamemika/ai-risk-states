@@ -4,6 +4,11 @@
   "office": "U.S. Senator from Michigan",
   "office_type": "us_senator",
   "state": "MI",
+  "next": {
+    "status": "not running",
+    "date": "2026-11-03",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan"
+  },
   "party": "D",
   "committees": [
     "Senate Homeland Security and Governmental Affairs",

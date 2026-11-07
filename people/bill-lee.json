@@ -4,6 +4,11 @@
   "office": "Governor of Tennessee",
   "office_type": "governor",
   "state": "TN",
+  "next": {
+    "status": "term-limited",
+    "date": "2026-11-03",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+  },
   "party": "R",
   "committees": [],
   "stance": "Signed chatbot-adjacent AI laws and an AI safety study; joined governors opposing a federal moratorium on state AI laws.",

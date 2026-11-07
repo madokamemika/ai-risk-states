@@ -4,6 +4,12 @@
   "office": "U.S. Senator from Minnesota",
   "office_type": "us_senator",
   "state": "MN",
+  "next": {
+    "status": "elected to another office",
+    "office": "Governor of Minnesota",
+    "date": "2026-11-03",
+    "source": "https://www.kttc.com/2026/11/04/democrat-amy-klobuchar-wins-election-governor-minnesota/"
+  },
   "party": "D",
   "committees": [
     "Senate Judiciary",

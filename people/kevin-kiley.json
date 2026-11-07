@@ -4,7 +4,12 @@
   "office": "U.S. Representative from California",
   "office_type": "us_rep",
   "state": "CA",
-  "party": "R",
+  "next": {
+    "status": "lost re-election",
+    "date": "2026-11-03",
+    "source": "https://api.sos.ca.gov/returns/us-rep/district/6"
+  },
+  "party": "I",
   "stance": "Bipartisan co-lead on U.S.-China frontier-AI safety coordination and verification.",
   "statements": [
     {

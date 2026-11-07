@@ -4,6 +4,11 @@
   "office": "Texas State Representative",
   "office_type": "state_rep",
   "state": "TX",
+  "next": {
+    "status": "not running",
+    "date": "2026-11-03",
+    "source": "https://en.wikipedia.org/wiki/2026_Texas_House_of_Representatives_election"
+  },
   "party": "R",
   "committees": [],
   "stance": "Author of TRAIGA, which targets harmful and manipulative AI uses rather than frontier-model risk.",

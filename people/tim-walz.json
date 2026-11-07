@@ -4,6 +4,11 @@
   "office": "Governor of Minnesota",
   "office_type": "governor",
   "state": "MN",
+  "next": {
+    "status": "not running",
+    "date": "2026-11-03",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+  },
   "party": "D",
   "committees": [],
   "stance": "Signed Minnesota’s AI nudification ban.",

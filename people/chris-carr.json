@@ -4,6 +4,12 @@
   "office": "Attorney General of Georgia",
   "office_type": "state_ag",
   "state": "GA",
+  "next": {
+    "status": "lost race for another office",
+    "office": "Governor of Georgia",
+    "date": "2026-05-19",
+    "source": "https://news4jax.com/news/politics/2026/05/20/georgia-primary-2026-here-are-the-results-in-key-races/"
+  },
   "party": "R",
   "committees": [],
   "stance": "Joined the bipartisan AG coalition warning AI companies over chatbot harms to children; no frontier-risk action found.",

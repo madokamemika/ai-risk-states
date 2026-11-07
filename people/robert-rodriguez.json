@@ -4,6 +4,11 @@
   "office": "Colorado Senate Majority Leader",
   "office_type": "state_senator",
   "state": "CO",
+  "next": {
+    "status": "term-limited",
+    "date": "2026-11-03",
+    "source": "https://en.wikipedia.org/wiki/2026_Colorado_Senate_election"
+  },
   "party": "D",
   "committees": [],
   "stance": "Sponsor of both the 2024 Colorado AI Act and its 2026 replacement; focus is algorithmic discrimination, not frontier risk.",

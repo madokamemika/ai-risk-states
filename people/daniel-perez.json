@@ -1,9 +1,10 @@
 {
   "id": "daniel-perez",
   "name": "Daniel Perez",
-  "office": "Speaker of the Florida House of Representatives",
+  "office": "Speaker of the Florida House of Representatives until 21 August 2026",
   "office_type": "state_rep",
   "state": "FL",
+  "left_office": "2026-08-21",
   "party": "R",
   "committees": [
     "Speaker of the House"

@@ -4,6 +4,11 @@
   "office": "Governor of Wyoming",
   "office_type": "governor",
   "state": "WY",
+  "next": {
+    "status": "term-limited",
+    "date": "2026-11-03",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+  },
   "party": "R",
   "committees": [],
   "stance": "Opposed the 2025 federal moratorium on state AI laws; no frontier-risk measure found.",

@@ -4,6 +4,11 @@
   "office": "Governor of Nevada",
   "office_type": "governor",
   "state": "NV",
+  "next": {
+    "status": "lost re-election",
+    "date": "2026-11-03",
+    "source": "https://www.kunc.org/npr-news/2026-11-04/nevada-attorney-general-aaron-ford-beats-republican-incumbent-for-governor"
+  },
   "party": "R",
   "committees": [],
   "stance": "Has signed targeted AI laws (mental-health chatbots, deepfakes); no frontier-risk position found.",

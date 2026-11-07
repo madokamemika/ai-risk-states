@@ -1,9 +1,10 @@
 {
   "id": "lindsey-graham",
   "name": "Lindsey Graham",
-  "office": "U.S. Senator from South Carolina",
+  "office": "U.S. Senator from South Carolina until 11 July 2026",
   "office_type": "us_senator",
   "state": "SC",
+  "left_office": "2026-07-11",
   "party": "R",
   "committees": [
     "Senate Judiciary",
