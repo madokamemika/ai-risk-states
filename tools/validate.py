@@ -57,12 +57,19 @@ def sitting_members_with_former_congress(people):
             yield f'people/{person["id"]}.json: former_congress is only for people no longer in Congress'
 
 
+def sitting_members_with_elected_congress(people):
+    for person in people.values():
+        if person.get('elected_congress') and person['office_type'] in ('us_rep', 'us_senator') and not person.get('left_office'):
+            yield f'people/{person["id"]}.json: elected_congress is only for people not in Congress now'
+
+
 def main():
     errors = []
     checks = validators()
     people, states, joints = (load(kind, checks[kind], errors) for kind in KINDS)
     errors.extend(dangling(people, states, joints))
     errors.extend(sitting_members_with_former_congress(people))
+    errors.extend(sitting_members_with_elected_congress(people))
     if errors:
         print('\n'.join(errors))
         print(f'\n{len(errors)} problem(s)')

@@ -37,6 +37,8 @@ below to help.
   the record, but the page stops listing the powers of an office they no longer hold.
 - **`former_congress`** on a person: each US House or Senate seat they held, with
   years of service and a Bioguide source, only for people no longer in Congress.
+- **`elected_congress`** on a person: a House or Senate seat they have won but not yet
+  taken, with the date the term starts and a source, only for people not in Congress now.
 
 ## How things get in
 
