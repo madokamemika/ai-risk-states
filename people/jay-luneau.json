@@ -19,6 +19,12 @@
       "outlet": "WWNO / Louisiana Illuminator"
     }
   ],
+  "photo": {
+    "src": "https://senate.la.gov/SenPics/Sen29.jpg",
+    "page": "https://senate.la.gov/smembers.aspx?ID=29",
+    "license": "Official portrait, offered for download",
+    "artist": "Louisiana State Senate"
+  },
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"

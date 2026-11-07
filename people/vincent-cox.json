@@ -19,6 +19,12 @@
       "outlet": "WWNO / Louisiana Illuminator"
     }
   ],
+  "photo": {
+    "src": "https://house.louisiana.gov/H_Reps/RepPics/rep85.jpg",
+    "page": "https://house.louisiana.gov/H_Reps/members?ID=85",
+    "license": "Official portrait, offered for download",
+    "artist": "Louisiana House of Representatives"
+  },
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
