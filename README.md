@@ -23,7 +23,7 @@ Entries marked `"review": {"status": "unreviewed"}` came from a research pass in
 September 2026 and have not yet been reviewed. Treat them accordingly, and see
 below to help.
 
-## Four fields to get right
+## Five fields to get right
 
 - **`kind`** on a statement: `quote` is the speaker's exact words, found verbatim
   at the source; `urging` and `action` are paraphrase.
@@ -35,6 +35,14 @@ below to help.
 - **`left_office`** on a person: the date they left the office named in `office`.
   Their record stays, since what they said and did while in office is still on
   the record, but the page stops listing the powers of an office they no longer hold.
+  Never a future date: someone who lost an election stays in office until the
+  term ends.
+- **`next`** on a person: what an election already decided about someone still
+  in office, until `left_office` replaces it. `status` is one of `lost re-election`,
+  `lost renomination`, `not running`, `term-limited`, `elected to another office`
+  or `lost race for another office` (the last two name the `office`); `date` is the
+  election that settled it (the primary for a lost renomination or a primary loss)
+  and `source` cites the result. Leave it out for anyone continuing in office.
 
 ## How things get in
 

@@ -29,7 +29,8 @@ For each entry in `queue/bills.json` or `queue/offices.json`:
   courts or enforcement.
 - **Current office.** Check the person still holds it; office changes are the
   most common error. Someone who has left keeps their file, with `left_office`
-  set to the date and `office` saying until when.
+  set to the date and `office` saying until when. Someone who has lost, retired
+  or won another office but not yet left gets `next` instead, with its source.
 - **Neutral voice.** No adjectives that take a side; people on every side of the
   preemption fight belong here.
 - **Mark it reviewed:** set `"review": {"status": "reviewed", "by": "<name or model>", "date": "YYYY-MM-DD"}`
