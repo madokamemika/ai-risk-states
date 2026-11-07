@@ -1,12 +1,12 @@
 {
   "id": "alex-bores",
   "name": "Alex Bores",
-  "office": "Member of the New York State Assembly",
+  "office": "Member of the New York State Assembly, 73rd District (did not seek re-election in 2026; lost the June 2026 Democratic primary for NY-12)",
   "office_type": "state_rep",
   "state": "NY",
   "party": "D",
   "committees": [],
-  "stance": "Assembly sponsor of the RAISE Act who wants further state rules (third-party audits, broader incident disclosure) and was targeted by the AI-industry super PAC Leading the Future in his 2026 congressional run.",
+  "stance": "Assembly sponsor of the RAISE Act who wants further state rules (third-party audits, broader incident disclosure), opposes federal preemption that bars states from acting while saying he would trade the RAISE Act for a strong federal law, and has called on Congress to ban recursive self-improvement; was targeted by the AI-industry super PAC Leading the Future in his 2026 congressional run.",
   "statements": [
     {
       "date": "2025-12-19",
@@ -47,6 +47,96 @@
       "joint": null,
       "source": "https://nysfocus.com/2026/09/14/alex-bores-new-york-ai-regulation",
       "outlet": "New York Focus"
+    },
+    {
+      "date": "2026-05-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Sent a letter with state Sen. Andrew Gounardes urging New York's congressional delegation to oppose federal preemption of state AI regulation, which would undermine the RAISE Act.",
+      "target": "New York's congressional delegation",
+      "joint": "ny-raise-act",
+      "source": "https://x.com/AlexBores/status/2057841116867666379",
+      "outlet": "@AlexBores on X"
+    },
+    {
+      "date": "2026-08-26",
+      "arena": "state",
+      "kind": "quote",
+      "text": "We desperately need mandatory reporting of security incidents, including of internal deployments, with full access to data.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/AlexBores/status/2092781255960216020",
+      "outlet": "@AlexBores on X"
+    },
+    {
+      "date": "2026-09-07",
+      "arena": "state",
+      "kind": "quote",
+      "text": "OpenAI's Global Affairs office is aggressive in lobbying against most enforcement, including actively trying to kill or weaken bills for third party audits in Massachusetts & in DC as we speak!",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/AlexBores/status/2097158668731244967",
+      "outlet": "@AlexBores on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Leading the Future is now pushing aggressively for state preemption at the federal level this year, because they know both red and blue states have the momentum to pass meaningful AI safety regulation in 2027.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/AlexBores/status/2099453890953359424",
+      "outlet": "@AlexBores on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress (and states) should learn the lessons of 2023 & quickly put these provisions into law",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/AlexBores/status/2105069378249121865",
+      "outlet": "@AlexBores on X"
+    },
+    {
+      "date": "2026-10-16",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Said the federal AI safety bill Anthropic was pitching is weaker than Anthropic's own June framework and than some state laws, and so should not preempt state law.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/AlexBores/status/2111260462138474707",
+      "outlet": "@AlexBores on X"
+    },
+    {
+      "date": "2026-10-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As the author of the RAISE Act, I would happily trade it for a strong federal law.",
+      "target": null,
+      "joint": "ny-raise-act",
+      "source": "https://x.com/AlexBores/status/2112234403829055816",
+      "outlet": "@AlexBores on X"
+    },
+    {
+      "date": "2026-10-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "we need to take action now to slow this train before it's too late.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/AlexBores/status/2112178260591153336",
+      "outlet": "@AlexBores on X"
+    },
+    {
+      "date": "2026-11-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress should ban RSI, this year if possible.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/AlexBores/status/2118494668769878037",
+      "outlet": "@AlexBores on X"
     }
   ],
   "photo": {
@@ -57,6 +147,6 @@
   },
   "review": {
     "status": "unreviewed",
-    "note": "research pass, September 2026; not yet reviewed"
+    "note": "research pass, September 2026; not yet reviewed. November 2026: added X posts from @AlexBores, matched against each post's text via the fxtwitter API; office updated (did not seek re-election to the Assembly in 2026)."
   }
 }
