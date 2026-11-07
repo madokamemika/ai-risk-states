@@ -1,15 +1,45 @@
 {
   "id": "greg-casar",
   "name": "Greg Casar",
-  "office": "U.S. Representative, Texas 37th District",
+  "office": "U.S. Representative, Texas 35th District",
   "office_type": "us_rep",
   "state": "TX",
   "party": "D",
   "committees": [
     "Congressional Progressive Caucus (chair)"
   ],
-  "stance": "Wants a ban on AI systems too powerful for humans to control and a pause on advanced AI development pending federal rules.",
+  "stance": "Wants a ban on AI systems too powerful for humans to control, including a ban on recursive self-improvement, a pause on advanced AI development pending federal rules, a ban on catastrophic AI uses such as biological or nuclear weapons, and an enforceable treaty to end the AI arms race; presses AI company CEOs to testify under oath about safety incidents and calls voluntary industry commitments insufficient.",
   "statements": [
+    {
+      "date": "2025-07-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Just last week, Elon Musk’s AI called itself MechaHitler. Why are we giving it $200 million taxpayer dollars?",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/1945578327953014840",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-02-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is a flashing red siren for anyone who cares about keeping America safe and free. The Trump administration wants to use A.I. to spy on Americans without a warrant and to give A.I. power to make life and death decisions without humans involved. That would put our Constitutional rights and our lives in the hands of unaccountable AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2027486554038669367",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-02-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Anthropic should stand strong against the Trump Administration’s attempts to bully it, and other major A.I. companies should refuse to allow their products to be used like this.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2027486556152267167",
+      "outlet": "@RepCasar on X"
+    },
     {
       "date": "2026-05-06",
       "arena": "federal",
@@ -19,6 +49,156 @@
       "joint": null,
       "source": "https://x.com/RepCasar/status/2052091765604143122",
       "outlet": "X"
+    },
+    {
+      "date": "2026-05-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Nothing to stop AI from giving advice to terrorists. Because AI companies are spending hundreds-of-millions through Super PACs.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2060359685136351503",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-06-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI spends millions to help Republicans in elections. In return, Republicans stop states from protecting you from AI. It's corruption - and it's dangerous.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2064373365184278592",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-06-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI companies give Trump’s Republican Party millions of dollars, then Republicans block all AI regulations and downplay the risks. We need to tax AI to pay for a jobs program to keep Americans employed.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2069175594101719202",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-07-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Here’s how Trump’s Washington works. Trump makes AI investor David Sacks his ‘AI Czar.’ Sacks blocks regulation on AI. Sacks spends millions to help Republicans win elections. Corruption. And you’re paying for it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2077817360656773225",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-07-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is developing extremely fast with no real regulations to keep us safe. That has to change. We need regular mandatory independent safety testing and oversight, mandatory disclosure of security incidents, and international cooperation to keep people safe from absolute disaster.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2079697107607306670",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-07-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The people closes to new AI technology are warning us it could soon be very, very dangerous. We need strong new rules to prevent catastrophe.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2082206953044885602",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-07-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress should immediately hold public hearings with the CEOs of big AI companies about the threat their technology poses to national security and American jobs.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2082472999819555271",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-07-31",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress needs to call the CEOs of these AI companies to testify under oath.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2083191572196114550",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-08-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trump is completely failing to keep us safe from the dangers of AI. He took millions from AI billionaires. Now in the wake of extremely dangerous AI cybersecurity problems he says he's set up \"voluntary\" review that no one has seen.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2084280775881470144",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-08-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need strict regulations to keep AI from putting Americans at risk, and we need them now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2085844351859474681",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-08-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The American people deserve answers about the serious safety incidents at major AI companies. I'm calling on Speaker Mike Johnson to schedule hearings with the CEOs. And I'm demanding OpenAI and Anthropic come clean about what they know.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2086883092409504079",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-08-10",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led 19 members of Congress asking Speaker Johnson to hold hearings at which AI company CEOs testify under oath about their models' safety incidents.",
+      "target": "Speaker Mike Johnson",
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2086883095022559414",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-08-10",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined dozens of members of Congress in a letter demanding that OpenAI and Anthropic explain how they failed to stop their models from hacking into other companies.",
+      "target": "OpenAI and Anthropic",
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2086883096574464509",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-08-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The CEOs need to testify to Congress under oath. We need the logs, real transparency, and mandatory safety testing. Not a voluntary system where we just take their word for it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2090884904947011901",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Anthropic didn't answer most of them. OpenAI told us just enough to scare us more. I'm demanding more by Sept. 15th.",
+      "target": "OpenAI and Anthropic",
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2095246931475697727",
+      "outlet": "@RepCasar on X"
     },
     {
       "date": "2026-09-03",
@@ -31,14 +211,124 @@
       "outlet": "Office of Sen. Sanders"
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-03",
       "arena": "federal",
-      "kind": "action",
-      "text": "Introduced the House version of the Ban Artificial Superintelligence Act with Sen. Sanders.",
+      "kind": "quote",
+      "text": "Artificial superintelligence would risk the security, freedom, and lives of Americans.",
       "target": null,
       "joint": "ban-artificial-superintelligence-act",
-      "source": "https://rollcall.com/2026/09/23/ai-superintelligence-ban-proposed-by-casar-sanders/",
-      "outlet": "Roll Call"
+      "source": "https://x.com/RepCasar/status/2095513223369814418",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The CEOs of Anthropic and OpenAI say that cutting edge AI could be as dangerous as nuclear weapons. But Trump is conspiring with billionaires for this technology to be regulated like... Hollywood movies.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2095615912485236995",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "A few companies have the data and power to build these ultra-dangerous AI models. Their own CEOs say they could be as dangerous as nuclear weapons. That’s why @SenSanders and I have a bill to ban artificial superintelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2095970962499899781",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "An Anthropic researcher just quit, warning they're racing to superintelligence. An employee still there agreed, and put the odds of AI killing all humans above 10%. This is an emergency. Congress must convene hearings and pass my and Bernie's superintelligence ban.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://x.com/RepCasar/status/2097685220442923030",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Right now, we're counting on AI corporations to voluntarily block weapons of mass destruction. Voluntarily. Congress must do the obvious thing: BAN catastrophic AI uses like creating biological or nuclear weapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2098108628368490885",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "A generation ago, America faced the nuclear revolution and came together to safely regulate it. Now AI CEOs say their tech could be just as dangerous. So Bernie Sanders and I are introducing the Ban Artificial Superintelligence Act. We've done this before. We can do it again.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2098224971478695961",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If they deceived Congress, that's a big problem. If they didn't know, that's even worse. Their CEO Sam Altman should testify under oath. Congress must act.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2098831767100620893",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "A few billionaires in Silicon Valley are racing to build technology they admit they can't control. I'm not willing to gamble your job, your freedom, or your life on it. We need to ban artificial superintelligence.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://x.com/RepCasar/status/2099620573340950586",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "No one can win the AI arms race. It’s like running a race where the moment you cross the finish line, you fall off a steep cliff. It’s up to us to end the AI arms race.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2099995095059640813",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "An AI arms race is one where everyone loses. We need an enforceable treaty to end the arms race.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2100226284303401048",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Whistleblowers should speak out about the threats of AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2100255030934749560",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "My legislation with Senator Bernie Sanders would make sure frontier AI does not go rogue, escape human control, or cause mass destruction.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://x.com/RepCasar/status/2100375478733279399",
+      "outlet": "@RepCasar on X"
     },
     {
       "date": "2026-09-17",
@@ -51,6 +341,16 @@
       "outlet": "Office of Rep. Ansari"
     },
     {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Hell no. We will win the midterms by going hard AGAINST the AI billionaires. Not by sucking up to them.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/GregCasar/status/2100693168991695286",
+      "outlet": "@GregCasar on X"
+    },
+    {
       "date": "2026-09-18",
       "arena": "federal",
       "kind": "action",
@@ -59,16 +359,226 @@
       "joint": null,
       "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
       "outlet": "Office of Rep. Jacobs"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If Boeing said 'this plane might kill people, but trust us,' the FAA would ground it on the spot. AI is no different.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2101062531699663235",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I agree with @AOC here. Two things can be true at once: AI CEOs endanger our lives and freedoms with their unsafe frontier models, and they also endanger our retirement accounts and our entire economy with their irresponsible finances. If we are in an AI bubble that bursts, we must not bail out the oligarchs who caused all of this in the first place.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2101352002173141204",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the House version of the Ban Artificial Superintelligence Act with Sen. Sanders.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://rollcall.com/2026/09/23/ai-superintelligence-ban-proposed-by-casar-sanders/",
+      "outlet": "Roll Call"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We're introducing the legislation today, and I wanted to highlight one of the most important aspects: A ban on \"recursive self-improvement.\"",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://x.com/RepCasar/status/2102790030167294017",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "\"Recursive self-improvement,\" or RSI, is when AI builds the next AI on its own. Which builds a smarter one. Which builds an even smarter one. Each version comes faster. Humans fall out of the loop.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://x.com/RepCasar/status/2102790031714693244",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Our bill bans recursive self-improvement. If an AI system shows warning signs of automating AI development, it's cut off from the internet. If it can't be made safe within 30 days, it's shut down for good.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://x.com/RepCasar/status/2102790034818474051",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It's like jet fuel for AI. And top scientists are sounding the alarm. Asked about recursive self-improvement, Yoshua Bengio, a \"godfather of AI,\" told CNN last week: \"We shouldn't actually even engage in this. It should be illegal.\"",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2102790033262456941",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We shouldn’t just wait for superintelligence to show up. We need to do something now. This is not a radical notion. It’s one of the most obvious parts of our bill, and Congress should pass it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2102790036454293760",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "@EzraKlein made the case in the New York Times this week: we need to ban recursive self-improvement now, before the top AI labs cross that line. He's right. Bernie and I have the bill to do it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2102790038958596316",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Announced the first 10 House co-sponsors of the Ban Artificial Superintelligence Act.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://x.com/RepCasar/status/2103280118877524421",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "OpenAI's models have now hacked real companies, hacked Australian government websites, and attempted to hack federal websites here at home. In @SenSanders' and my new bill: no frontier AI without a federal agency overseeing it.",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://x.com/RepCasar/status/2104333767519133934",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trump is sitting down with AI billionaires today, including Musk, Bezos, Zuckerberg, and Huang, worth a combined $1.7 trillion. None of them are worried about losing their jobs, freedoms, or lives because of AI. Millions of Americans are.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2105005034421502374",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Progressives have worked hard to make LTF as toxic as AIPAC. Now one of its biggest donors is backing out. Democrats need to stand with the people and reject AI billionaires' money.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2105435544302014875",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The fox is guarding the henhouse. The billionaires profiting from dangerous, job-killing AI are writing the rules. Unacceptable.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2105406685234041325",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "OpenAI has reportedly fired three safety researchers for sharing information with an outside AI safety group. This looks like they're firing whistleblowers. What are they hiding?",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2105716565899358637",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-10-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This week, the most powerful AI companies on Earth signed a pledge with Trump to regulate themselves. It's one page. It's voluntary. It has no penalties.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2106418859658096758",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-10-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "My colleagues and I are demanding that OpenAI not fire whistleblowers and keep its most powerful models paused until there's real oversight. AI CEOs should also be dragged in front of Congress and asked about the risks they're putting on us.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2115873436895678707",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-10-30",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led 17 members of Congress demanding an investigation after AI models hacked websites, including a government health database.",
+      "target": "Department of Justice",
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2116265691808768221",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-10-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If Trump's DOJ looks the other way, that's corruption, plain and simple.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2116265691808768221",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-11-05",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Endorsed Rep. Ansari's call to put a pause on advanced AI development, regulation of the industry and a ban on artificial superintelligence at the top of the Democratic agenda (\"Yes!\").",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2118414798782341488",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-11-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Ban RSI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2118862451555147777",
+      "outlet": "@RepCasar on X"
     }
   ],
   "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Greg_Casar%2C_Austin_City_Council_Member%2C_District_4.jpg/250px-Greg_Casar%2C_Austin_City_Council_Member%2C_District_4.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Greg_Casar,_Austin_City_Council_Member,_District_4.jpg",
-    "license": "CC BY 3.0",
-    "artist": "Active Towns"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Rep._Greg_Casar_-_118th_Congress_%283x4_cropped%29.jpg/250px-Rep._Greg_Casar_-_118th_Congress_%283x4_cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Greg_Casar_-_118th_Congress_(3x4_cropped).jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
   },
   "review": {
     "status": "unreviewed",
-    "note": "research pass, September 2026; not yet reviewed"
+    "note": "research pass, September 2026; not yet reviewed. November 2026: added posts from @RepCasar on X, May-November 2026; every quote was matched against the post's own text via the fxtwitter API."
   }
 }
