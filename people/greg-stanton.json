@@ -21,5 +21,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; letter signature verified via the leads' primary release"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Greg_Stanton_119th_Congress.jpg/250px-Greg_Stanton_119th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Greg_Stanton_119th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
   }
 }

@@ -26,5 +26,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; record verified via the co-lead's primary release"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Rep._Kevin_Kiley_official_photo%2C_118th_Congress_2.jpg/250px-Rep._Kevin_Kiley_official_photo%2C_118th_Congress_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Kevin_Kiley_official_photo,_118th_Congress_2.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
   }
 }

@@ -33,5 +33,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Del._Michelle_Maldonado%2C_2024.jpg/250px-Del._Michelle_Maldonado%2C_2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Del._Michelle_Maldonado,_2024.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Virginia Office of the Governor"
   }
 }

@@ -34,5 +34,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from bonamici.house.gov primary sources; quote verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Suzanne_Bonamici.jpg/250px-Suzanne_Bonamici.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Suzanne_Bonamici.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Congress"
   }
 }

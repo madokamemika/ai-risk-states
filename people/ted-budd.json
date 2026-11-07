@@ -38,5 +38,11 @@
       "outlet": "Office of Sen. Budd"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from budd.senate.gov primary sources; quotes verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from budd.senate.gov primary sources; quotes verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Senator_Ted_Budd_official_portrait.jpg/250px-Senator_Ted_Budd_official_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Senator_Ted_Budd_official_portrait.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate"
+  }
 }

@@ -31,5 +31,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from house.gov primary source; quote verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Rep._April_McClain_Delaney_Official_Portrait.jpg/250px-Rep._April_McClain_Delaney_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._April_McClain_Delaney_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "Ike Hayman, House Creative Services"
   }
 }

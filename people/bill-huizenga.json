@@ -50,5 +50,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from house.gov primary sources; quotes verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Rep._Bill_Huizenga_-_118th_Congress_%28portrait_crop%29.jpg/250px-Rep._Bill_Huizenga_-_118th_Congress_%28portrait_crop%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Bill_Huizenga_-_118th_Congress_(portrait_crop).jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
   }
 }

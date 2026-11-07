@@ -41,5 +41,11 @@
       "outlet": "Office of Sen. Schiff"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from schiff.senate.gov primary sources; quotes verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from schiff.senate.gov primary sources; quotes verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Schiff_Adam_119th_Congress.jpg/250px-Schiff_Adam_119th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Schiff_Adam_119th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photographic Studio"
+  }
 }

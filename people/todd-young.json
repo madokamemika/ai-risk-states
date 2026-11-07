@@ -51,5 +51,11 @@
       "outlet": "Office of Sen. Young"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from young.senate.gov primary sources; quotes verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from young.senate.gov primary sources; quotes verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Sen._Todd_Young_official_photo_%28slight_crop_2%29.jpg/250px-Sen._Todd_Young_official_photo_%28slight_crop_2%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sen._Todd_Young_official_photo_(slight_crop_2).jpg",
+    "license": "Public domain",
+    "artist": "Rebecca Hammel, U.S. Senate Photographic Services"
+  }
 }

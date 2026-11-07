@@ -26,5 +26,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; signature verified via the lead's primary release"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Brian_Fitzpatrick_official_congressional_photo.jpg/250px-Brian_Fitzpatrick_official_congressional_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brian_Fitzpatrick_official_congressional_photo.jpg",
+    "license": "Public domain",
+    "artist": "Kristie Boyd; U.S. House Office of Photography"
   }
 }

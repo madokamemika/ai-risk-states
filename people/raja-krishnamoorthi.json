@@ -40,5 +40,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; Chip Security Act record verified via the co-leads' primary release; quote verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Raja_Krishnamoorthi_116th_Congress.jpg/250px-Raja_Krishnamoorthi_116th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raja_Krishnamoorthi_116th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "US Congress"
   }
 }

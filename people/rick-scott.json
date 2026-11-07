@@ -24,5 +24,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Official_Portrait_of_Senator_Rick_Scott_%28R-FL%29.jpg/250px-Official_Portrait_of_Senator_Rick_Scott_%28R-FL%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Official_Portrait_of_Senator_Rick_Scott_(R-FL).jpg",
+    "license": "Public domain",
+    "artist": "United States Senate Photographic Studio"
   }
 }

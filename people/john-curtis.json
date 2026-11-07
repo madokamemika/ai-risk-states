@@ -43,5 +43,11 @@
       "outlet": "Office of Sen. Curtis"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from curtis.senate.gov primary sources; quote verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from curtis.senate.gov primary sources; quote verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/John_Curtis%2C_official_portrait_%282026%29.jpg/250px-John_Curtis%2C_official_portrait_%282026%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Curtis,_official_portrait_(2026).jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photo Studio"
+  }
 }

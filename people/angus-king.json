@@ -42,5 +42,11 @@
       "outlet": "Office of Sen. King"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from king.senate.gov primary sources; quotes verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from king.senate.gov primary sources; quotes verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Angus_King%2C_official_portrait%2C_113th_Congress.jpg/250px-Angus_King%2C_official_portrait%2C_113th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Angus_King,_official_portrait,_113th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate"
+  }
 }

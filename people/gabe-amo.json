@@ -21,5 +21,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; record verified via the lead's primary release"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Gabe_Amo_118th_Cong.jpg/250px-Gabe_Amo_118th_Cong.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gabe_Amo_118th_Cong.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
   }
 }

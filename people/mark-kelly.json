@@ -41,5 +41,11 @@
       "outlet": "Office of Sen. Kelly"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from kelly.senate.gov primary sources; quotes verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from kelly.senate.gov primary sources; quotes verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mark_Kelly_Official_Portrait_119th.jpg/250px-Mark_Kelly_Official_Portrait_119th.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mark_Kelly_Official_Portrait_119th.jpg",
+    "license": "Public domain",
+    "artist": "John Shinkle, U.S. Senate Photographic Services"
+  }
 }

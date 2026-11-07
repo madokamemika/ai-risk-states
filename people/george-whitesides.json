@@ -54,5 +54,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from whitesides.house.gov primary sources; quotes verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/George_T._Whitesides%2C_official_portrait_%28119th_Congress%29_%281%29.jpg/250px-George_T._Whitesides%2C_official_portrait_%28119th_Congress%29_%281%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:George_T._Whitesides,_official_portrait_(119th_Congress)_(1).jpg",
+    "license": "Public domain",
+    "artist": "Ike Hayman"
   }
 }

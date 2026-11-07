@@ -24,5 +24,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; record verified via the co-leads' primary release"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Ami_Bera_117th_Congress.jpeg/250px-Ami_Bera_117th_Congress.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ami_Bera_117th_Congress.jpeg",
+    "license": "Public domain",
+    "artist": "Ike Hayman, House Creative Services"
   }
 }

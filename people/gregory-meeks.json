@@ -24,5 +24,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; record verified via the co-leads' primary release"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Gregory_Meeks%2C_official_portrait%2C_115th_congress_%283x4_cropped%29.jpg/250px-Gregory_Meeks%2C_official_portrait%2C_115th_congress_%283x4_cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gregory_Meeks,_official_portrait,_115th_congress_(3x4_cropped).jpg",
+    "license": "Public domain",
+    "artist": "Kristie Boyd, Official House Photographer/U.S. House Office of Photoraphy"
   }
 }
