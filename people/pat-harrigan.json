@@ -1,0 +1,80 @@
+{
+  "id": "pat-harrigan",
+  "name": "Pat Harrigan",
+  "office": "U.S. Representative, North Carolina 10th District",
+  "office_type": "us_rep",
+  "state": "NC",
+  "party": "R",
+  "stance": "Sponsors the bipartisan Self-Improving AI Monitoring Act (NIST tracking of AI's contribution to AI research) and the AI Cyber Defense Act, backs tighter chip export controls, and opposes engaging Chinese AI safety figures on US AI policy.",
+  "statements": [
+    {
+      "date": "2026-04-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Bernie Sanders wants to hand them a seat at the table to help decide how America handles the same technology. Make that make sense.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPatHarrigan/status/2048797947245031439",
+      "outlet": "@RepPatHarrigan on X"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Renting remote access to chips does not count as an export, and China's military universities know it. Fix the loophole or stop pretending we take export controls seriously.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPatHarrigan/status/2061807150964338875",
+      "outlet": "@RepPatHarrigan on X"
+    },
+    {
+      "date": "2026-08-31",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "For most of AI’s history, humans have been the ones making it smarter. Now, AI is starting to help do that work too, and we need to know how quickly that balance is changing.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPatHarrigan/status/2094434560624787682",
+      "outlet": "@RepPatHarrigan on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the Self-Improving AI Monitoring Act to track AI's capabilities, trajectory and adversaries' progress.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPatHarrigan/status/2100290075401580962",
+      "outlet": "@RepPatHarrigan on X"
+    },
+    {
+      "date": "2026-10-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan AI Cyber Defense Act directing NIST to develop standards to protect American AI models from foreign theft, including distillation, and to strengthen critical-infrastructure cyber defenses.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPatHarrigan/status/2113371948831162508",
+      "outlet": "@RepPatHarrigan on X"
+    },
+    {
+      "date": "2026-10-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America cannot afford to lead the world in AI only to hand our adversaries the tools to attack our own critical infrastructure.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPatHarrigan/status/2115071597795299591",
+      "outlet": "@RepPatHarrigan on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H001101.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/H001101",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

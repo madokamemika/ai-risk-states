@@ -1,0 +1,30 @@
+{
+  "id": "susan-collins",
+  "name": "Susan Collins",
+  "office": "U.S. Senator from Maine",
+  "office_type": "us_senator",
+  "state": "ME",
+  "party": "R",
+  "stance": "Opposed a federal moratorium on state AI laws, saying state lawmakers must retain the ability to set their own AI policies.",
+  "statements": [
+    {
+      "date": "2025-12-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As AI and related technologies continue to evolve rapidly, state lawmakers must retain the ability to set their own policies in response to new developments.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorCollins/status/2001343246560076107",
+      "outlet": "@SenatorCollins on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001035.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001035",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

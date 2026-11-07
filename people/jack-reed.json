@@ -1,0 +1,70 @@
+{
+  "id": "jack-reed",
+  "name": "Jack Reed",
+  "office": "U.S. Senator from Rhode Island",
+  "office_type": "us_senator",
+  "state": "RI",
+  "party": "D",
+  "stance": "Calls for congressional oversight, standards and speed limits on AI, including military AI use, criticizes rejection of AI guardrails and chip sales to China, and opposes preempting states' ability to regulate AI.",
+  "statements": [
+    {
+      "date": "2025-11-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There should be no deal that gives Big Tech free rein & takes away states’ rights & ability to protect their citizens.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJackReed/status/1991299405572428166",
+      "outlet": "@SenJackReed on X"
+    },
+    {
+      "date": "2025-12-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "More bipartisan evidence showing Trump’s U-Turn on advanced AI chip sales to China is a colossal economic and national security failure.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJackReed/status/1998904203167805795",
+      "outlet": "@SenJackReed on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "His shortsighted view increases the likelihood that AI will be misused by bad actors or unsafely sped up by corporate interests at the expense of the public.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJackReed/status/2099607735696310679",
+      "outlet": "@SenJackReed on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must play a role in establishing clear guardrails & sensible speed limits for AI use by our armed forces.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJackReed/status/2102479300142469277",
+      "outlet": "@SenJackReed on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Sens. Warner and Coons, demanded immediate investigations into reports of dangers from rushed AI deployment by the U.S. military.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJackReed/status/2102410789537669547",
+      "outlet": "@SenJackReed on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/R000122.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/R000122",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

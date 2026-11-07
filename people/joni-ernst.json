@@ -1,0 +1,40 @@
+{
+  "id": "joni-ernst",
+  "name": "Joni Ernst",
+  "office": "U.S. Senator from Iowa",
+  "office_type": "us_senator",
+  "state": "IA",
+  "party": "R",
+  "stance": "Supports AI guardrails that do not stifle innovation and opposes slowing US AI development while China advances.",
+  "statements": [
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America must lead the world in AI. We cannot afford to slow American innovation while China races ahead.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJoniErnst/status/2105302281419665666",
+      "outlet": "@SenJoniErnst on X"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Yesterday’s hearing was an important step toward responsible guardrails that keep Americans safe without stifling innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJoniErnst/status/2105679412796502063",
+      "outlet": "@SenJoniErnst on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/E000295.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/E000295",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

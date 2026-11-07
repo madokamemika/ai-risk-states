@@ -12,6 +12,26 @@
   "stance": "Leads AI-security research legislation — DHS-run competitions funding interpretability and adversarial robustness — framed as staying ahead of adversaries manipulating AI systems.",
   "statements": [
     {
+      "date": "2026-03-30",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Sent a letter asking GAO to assess the use of generative AI to radicalize terrorists and develop a strategy to combat it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPfluger/status/2038724818514706815",
+      "outlet": "@RepPfluger on X"
+    },
+    {
+      "date": "2026-04-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is supposed to be designed with guardrails to prevent guidance on how to commit acts of violence or terrorism, but the demonstration showed that those safeguards can easily be bypassed. We must fix it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPfluger/status/2047427704178254190",
+      "outlet": "@RepPfluger on X"
+    },
+    {
       "date": "2026-09-30",
       "arena": "federal",
       "kind": "action",

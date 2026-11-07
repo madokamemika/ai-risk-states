@@ -1,0 +1,50 @@
+{
+  "id": "ayanna-pressley",
+  "name": "Ayanna Pressley",
+  "office": "U.S. Representative, Massachusetts 7th District",
+  "office_type": "us_rep",
+  "state": "MA",
+  "party": "D",
+  "stance": "Calls for comprehensive federal AI regulation, citing AI company insiders' warnings about threats to humankind.",
+  "statements": [
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is absolutely terrifying and should be a five alarm fire for Congress. We need comprehensive, federal AI regulations NOW that prioritize our rights and safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPressley/status/2099155494480879840",
+      "outlet": "@RepPressley on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI companies are gambling with our lives and their own staff are sounding the alarm about the threat of AI to humankind.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPressley/status/2099651721702060125",
+      "outlet": "@RepPressley on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress can't stand by while AI and billionaires threaten humankind, gamble with our lives, and exploit Black, brown, and other marginalized communities. We need comprehensive, federal AI regulations NOW that prioritize our rights and safety, including our AI Civil Rights Act.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPressley/status/2102075441683055033",
+      "outlet": "@RepPressley on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/P000617.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/P000617",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -12,6 +12,26 @@
   "stance": "Wants mandatory public disclosure of AI model capabilities and safeguards, including against autonomous loss of control, enforced by the FTC.",
   "statements": [
     {
+      "date": "2026-10-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Americans cannot simply trust that technology companies will police themselves. When companies ask us to trust them, my response is simple: Show us.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisCoons/status/2112968269673930937",
+      "outlet": "@ChrisCoons on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Self-regulation isn’t regulation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisCoons/status/2105063463647367513",
+      "outlet": "@ChrisCoons on X"
+    },
+    {
       "date": "2026-09-24",
       "arena": "federal",
       "kind": "action",
@@ -32,6 +52,36 @@
       "outlet": "Office of Sen. Coons"
     },
     {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Americans deserve transparency from AI companies about what they’re doing to place safety guardrails on their models. I’ve got a bipartisan bill to do just that.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisCoons/status/2103241159900627446",
+      "outlet": "@ChrisCoons on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America and China are racing each other off a cliff. AI doesn’t care who wins. President Trump and President Xi need to find common ground on guardrails for AI before it gets ahead of us.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisCoons/status/2100376796948561943",
+      "outlet": "@ChrisCoons on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Calling Americans worried about the existential risks posed by AI \"treasonists\" and \"traitors\" is further proof President Trump doesn't understand the current moment. This White House isn't going to put meaningful guardrails on AI. Congress must.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisCoons/status/2099520051057410407",
+      "outlet": "@ChrisCoons on X"
+    },
+    {
       "date": "2026-09-13",
       "arena": "federal",
       "kind": "quote",
@@ -40,6 +90,26 @@
       "joint": null,
       "source": "https://x.com/ChrisCoons/status/2099127546692473072",
       "outlet": "X"
+    },
+    {
+      "date": "2026-06-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced a bill with Sen. Jack Reed to require human oversight of military AI, especially for nuclear weapons and domestic surveillance.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisCoons/status/2064376921832472922",
+      "outlet": "@ChrisCoons on X"
+    },
+    {
+      "date": "2026-04-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I’m encouraged by Anthropic’s launch of Project Glasswing, a coalition of America’s leading technology companies working together to deploy cutting-edge AI models to find and fix dangerous security flaws before our adversaries can exploit them.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisCoons/status/2041941896327561711",
+      "outlet": "@ChrisCoons on X"
     },
     {
       "date": "2025-12-16",

@@ -31,6 +31,16 @@
       "joint": null,
       "source": "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-statement-on-reports-of-threats-posed-by-rapidly-developing-ai-technology/",
       "outlet": "Office of Sen. Cortez Masto"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need global standards for AI safety and transparency to protect workers, our families, and our national security.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenCortezMasto/status/2103184628232376444",
+      "outlet": "@SenCortezMasto on X"
     }
   ],
   "review": { "status": "unreviewed", "note": "added October 2026 from cortezmasto.senate.gov primary sources; quotes verified verbatim" },

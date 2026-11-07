@@ -11,6 +11,96 @@
   "stance": "Wants enforceable, industry-wide guardrails on frontier AI, a dedicated expert AI regulator, company transparency with Congress, and vigorous oversight of rogue-agent episodes.",
   "statements": [
     {
+      "date": "2026-06-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "My new bill would protect Americans from unlawful domestic surveillance and insist that humans make the final decision on the use of force by autonomous weapons systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAdamSchiff/status/2063991584295727588",
+      "outlet": "@SenAdamSchiff on X"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Announced a bill with Sen. Banks and Reps. Latta and Whitesides allowing information-sharing among U.S. AI labs to counter AI distillation attacks and other foreign security threats.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAdamSchiff/status/2080336411266261282",
+      "outlet": "@SenAdamSchiff on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "And I think it’s fair to ask whether Congress is asleep at the wheel as we hurtle towards AGI and the unknown.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAdamSchiff/status/2099501481925685670",
+      "outlet": "@SenAdamSchiff on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Legislation is necessary to make this a requirement of all companies, not simply those who agree to do so, to ensure the requisite of these monitors, and that the companies properly and safely pace new developments.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAdamSchiff/status/2099501481925685670",
+      "outlet": "@SenAdamSchiff on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But regulation and legislation should not be used to lock in monopolies, bypass important state laws or give broad exemptions that lock out a competitive landscape for decades to come.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAdamSchiff/status/2099501481925685670",
+      "outlet": "@SenAdamSchiff on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The CEOs of OpenAI and Anthropic came together this past week to warn how AI could destroy humanity within a decade.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAdamSchiff/status/2099948413164884317",
+      "outlet": "@SenAdamSchiff on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need formalized international coordination and communication — with China and other countries — to ensure the push to develop and diffuse the most capable AI models does not cause catastrophic consequences for humanity.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAdamSchiff/status/2102804128300732901",
+      "outlet": "@SenAdamSchiff on X"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI agents have colluded, escaped their sandboxes, hacked other companies, meddled with government portals — and that's just the ones we know about.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAdamSchiff/status/2104702272970351025",
+      "outlet": "@SenAdamSchiff on X"
+    },
+    {
+      "date": "2026-10-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "When AI undermines our national security, a pinky swear won't cut it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAdamSchiff/status/2107999809651225047",
+      "outlet": "@SenAdamSchiff on X"
+    },
+    {
       "date": "2026-10-09",
       "arena": "federal",
       "kind": "action",
@@ -39,6 +129,16 @@
       "joint": null,
       "source": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-calls-for-stronger-guardrails-on-ai-promises-vigorous-oversight-of-rogue-agent-episodes-on-the-verges-decoder-podcast/",
       "outlet": "Office of Sen. Schiff"
+    },
+    {
+      "date": "2026-10-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The threat of rogue AI agents taking unauthorized actions within our financial institutions, utilities, health systems and more has long since stopped being a hypothetical.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAdamSchiff/status/2113385200881111446",
+      "outlet": "@SenAdamSchiff on X"
     }
   ],
   "review": { "status": "unreviewed", "note": "added October 2026 from schiff.senate.gov primary sources; quotes verified verbatim" },

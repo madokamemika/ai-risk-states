@@ -1,0 +1,30 @@
+{
+  "id": "adam-smith",
+  "name": "Adam Smith",
+  "office": "U.S. Representative, Washington 9th District",
+  "office_type": "us_rep",
+  "state": "WA",
+  "party": "D",
+  "stance": "Urged the US and China to discuss controlling AI at the September 2026 Trump-Xi summit.",
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "China and the U.S. are driving the conversation about AI, and it's important that President Trump and President Xi discuss controlling it in a better, more intelligent way during today's summit.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAdamSmith/status/2102813325222441125",
+      "outlet": "@RepAdamSmith on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S000510.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S000510",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

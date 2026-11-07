@@ -1,0 +1,40 @@
+{
+  "id": "seth-moulton",
+  "name": "Seth Moulton",
+  "office": "U.S. Representative, Massachusetts 6th District",
+  "office_type": "us_rep",
+  "state": "MA",
+  "party": "D",
+  "stance": "Warns that AI weaponry without guardrails could be as dangerous as nuclear weapons and has questioned the Pentagon's blacklisting of Anthropic.",
+  "statements": [
+    {
+      "date": "2026-03-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Friday: The Pentagon claims Anthropic is a \"national security risk\" and should be blacklisted Saturday: The Pentagon still uses Anthropic's Claude during its strikes on Iran.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMoulton/status/2028128404365848785",
+      "outlet": "@RepMoulton on X"
+    },
+    {
+      "date": "2026-08-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI may pull the trigger in war, but it shouldn’t call the shots. Without proper guardrails, AI weaponry could be as dangerous as nuclear weapons, which is why the U.S. must lead on setting ethical norms.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMoulton/status/2092614448728998348",
+      "outlet": "@RepMoulton on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001196.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001196",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

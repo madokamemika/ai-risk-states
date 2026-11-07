@@ -1,0 +1,40 @@
+{
+  "id": "kat-cammack",
+  "name": "Kat Cammack",
+  "office": "U.S. Representative, Florida 3rd District",
+  "office_type": "us_rep",
+  "state": "FL",
+  "party": "R",
+  "stance": "Argues that AI-safety regulation sought by large AI companies is a bid to block competitors and that losing the AI race to China is the bigger risk.",
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI presents real risks. Losing the AI race to China presents even bigger ones. Congress needs to know the difference between a guardrail and a roadblock.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKatCammack/status/2100628474771702015",
+      "outlet": "@RepKatCammack on X"
+    },
+    {
+      "date": "2026-09-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This isn't about AI moving too fast. It's about Big AI getting ahead of their competition. They want Congress to write rules that smaller companies can't afford to follow. Safety's their pitch. Killing competition is the point.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKatCammack/status/2101336251999694912",
+      "outlet": "@RepKatCammack on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001039.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001039",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -8,6 +8,56 @@
   "stance": "Frames superintelligence loss-of-control as the core risk; pushes US-China frontier-AI safety coordination — binding standards, independent auditing, incident reporting, pacing — and led the House demand to stay in session for AI safeguards.",
   "statements": [
     {
+      "date": "2026-10-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI agents with access to your bank account should meet strict safety and accountability standards. Congress must make that duty explicit and determine who is liable when agents exceed their authority.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2115193864176935111",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As frontier AI capabilities and risks accelerate, several bipartisan AI safety bills gather dust on the Speaker’s shelf. But the time to act is now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2105017422205813095",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "For productive negotiations between political leaders, American and Chinese AI experts must lay the groundwork now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2104622956559364269",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2026-09-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to allow American AI safety experts to register with the State Department and talk directly with their Chinese counterparts about shared AI safety risks and standards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2104378267272634408",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need AI experts in the United States to be able to talk to their counterparts in China to forge shared safety metrics, rigorous evaluation protocols, standardized testing, and critical verification mechanisms",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2103227979077935208",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
       "date": "2026-09-22",
       "arena": "federal",
       "kind": "action",
@@ -28,6 +78,16 @@
       "outlet": "Office of Rep. Liccardo"
     },
     {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If we want global AI safeguards, we need American experts talking to their Chinese counterparts.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2102513636933517685",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
       "date": "2026-09-16",
       "arena": "federal",
       "kind": "action",
@@ -36,6 +96,96 @@
       "joint": null,
       "source": "https://liccardo.house.gov/media/press-releases/over-hundred-house-democrats-demand-congress-stay-session-confront-ai-crisis",
       "outlet": "Office of Rep. Liccardo"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Over 100 of my colleagues and I just demanded that Speaker Johnson cancel our seven week “vacation” so we can pass meaningful AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2100251245390807070",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While AI safety experts and Americans increasingly urge action to confront this conflagration of risk, Congress fiddles and Trump boasts.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2099881906825241084",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2026-09-11",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Led a letter, joined by Reps. Ted Lieu, Lori Trahan and George Whitesides, urging Speaker Johnson to bring the House back to Washington to advance bipartisan AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2098512400966090798",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must not take this latest news of AI safety risks as yet another warning shot, but as the starting gun.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2098023351390195990",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2026-07-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The public and developers deserve transparent, objective rules applied consistently to regulate humanity’s most consequential technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2072693678288548288",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2026-06-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress, developers, researchers, and the public deserve to know what criteria this Administration uses to determine what AI we can access–or not.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2068400367998775475",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2026-03-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "When AI developers tell us when to use the brakes on their products, we should listen. Instead of listening, the Pentagon is threatening.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2029246187400835183",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2026-03-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "When companies adopt thoughtful guardrails, Congress and federal agencies should follow their lead — not penalize them — and use those best practices to manage AI deployment.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2028587777999167812",
+      "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2025-12-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It’s long past time to craft sensible, effective federal guardrails that protect consumers and whistleblowers while providing the uniformity innovators need to avoid regulatory pinball across 50 states.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLiccardo/status/2000699340931699146",
+      "outlet": "@RepLiccardo on X"
     }
   ],
   "review": {

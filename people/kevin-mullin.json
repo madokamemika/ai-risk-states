@@ -1,0 +1,40 @@
+{
+  "id": "kevin-mullin",
+  "name": "Kevin Mullin",
+  "office": "U.S. Representative, California 15th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Supports AI safeguards and a House vote on them, and has raised the risk of AI being used to create bioweapons.",
+  "statements": [
+    {
+      "date": "2025-12-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The American people deserve to hear what actions this administration is taking to protect us against pandemics, deadly public health threats, & the risk of AI being used to create bioweapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKevinMullin/status/2001741286554906882",
+      "outlet": "@RepKevinMullin on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We should be in DC lowering costs for American families and putting safeguards on AI—not getting sent home because @SpeakerJohnson doesn’t want a vote on them.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKevinMullin/status/2100643065127932067",
+      "outlet": "@RepKevinMullin on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001225.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001225",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

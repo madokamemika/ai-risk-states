@@ -1,0 +1,60 @@
+{
+  "id": "chrissy-houlahan",
+  "name": "Chrissy Houlahan",
+  "office": "U.S. Representative, Pennsylvania 6th District",
+  "office_type": "us_rep",
+  "state": "PA",
+  "party": "D",
+  "stance": "Wants Congress to stay in session to vote on AI safeguards and has demanded Defense Department answers after a false AI-generated intelligence report prompted a military response.",
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The American people rightfully have deep concerns about this technology, especially in the hands of our adversaries. If we can't intervene, then the executive branch must.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepHoulahan/status/2099927133720093045",
+      "outlet": "@RepHoulahan on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI isn’t slowing down. Neither should Congress. That is why I joined nearly 100 of my colleagues to call on Speaker Johnson to keep Congress in town and vote on AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepHoulahan/status/2100218630554227145",
+      "outlet": "@RepHoulahan on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We cannot let AI push the United States to the brink of war with China – or with any nation. DoD officials must provide answers to Congress now about how they let a false AI-generated intelligence report dictate an official military response for a scenario that was not happening.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepHoulahan/status/2102074159224250435",
+      "outlet": "@RepHoulahan on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Speaker Johnson is taking the nation's valid concerns about AI and instead of bringing the House back to tackle them, is trying to convince Americans that's a foreign actor is simply scaring us all.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepHoulahan/status/2104959099653734667",
+      "outlet": "@RepHoulahan on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H001085.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/H001085",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

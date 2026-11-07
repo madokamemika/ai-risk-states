@@ -13,6 +13,16 @@
   "stance": "Writes AI governance through a national-security and military lens — human judgment over autonomous weapons, testing and validation, and a central incident-reporting repository; a lead on bipartisan Senate AI policy.",
   "statements": [
     {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Welcomed the White House National AI Policy Framework, which calls for one federal AI policy rather than a 50-state patchwork, and pledged to work on legislation to advance it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorRounds/status/2035000640015880287",
+      "outlet": "@SenatorRounds on X"
+    },
+    {
       "date": "2026-06-16",
       "arena": "federal",
       "kind": "action",

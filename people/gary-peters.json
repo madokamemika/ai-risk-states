@@ -20,6 +20,16 @@
       "joint": null,
       "source": "https://www.congress.gov/bill/119th-congress/senate-bill/5648",
       "outlet": "Congress.gov"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Artificial intelligence is advancing at an extraordinary pace, and we must slow down its development until we establish commonsense guardrails that ensure this transformational technology is developed safely and responsibly.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenGaryPeters/status/2101024962492461057",
+      "outlet": "@SenGaryPeters on X"
     }
   ],
   "review": {

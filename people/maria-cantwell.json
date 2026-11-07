@@ -59,6 +59,36 @@
       "joint": "thune-klobuchar-cruz-frontier-bill-2026",
       "source": "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/",
       "outlet": "Nextgov/FCW"
+    },
+    {
+      "date": "2025-06-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Members of the House and Senate are trying to prohibit AI policy that is already on the books.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorCantwell/status/1936193472148783381",
+      "outlet": "@SenatorCantwell on X"
+    },
+    {
+      "date": "2025-06-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Dozens of states have laws regulating AI in some way. Now Congress is threatening these laws, which will leave hundreds of millions of Americans vulnerable to AI harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorCantwell/status/1937587198158655936",
+      "outlet": "@SenatorCantwell on X"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But the answer is not a weak federal standard that becomes a backdoor for wiping out stronger state protections. Meaningful legislation would require the most powerful AI models undergo testing by scientists and experts at our national laboratories to assess whether they could enable sophisticated cyberattacks or aid the development of biological or nuclear weapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorCantwell/status/2098158053585805508",
+      "outlet": "@SenatorCantwell on X"
     }
   ],
   "photo": {

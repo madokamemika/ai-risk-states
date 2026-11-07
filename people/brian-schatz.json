@@ -11,6 +11,16 @@
   "stance": "Wants mandatory public disclosure of AI model capabilities and safeguards, including against autonomous loss of control, enforced by the FTC.",
   "statements": [
     {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The risks of AI are not theoretical — they are happening in real-time. Immediate risk requires immediate action.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBrianSchatz/status/2104694965423009807",
+      "outlet": "@SenBrianSchatz on X"
+    },
+    {
       "date": "2026-09-24",
       "arena": "federal",
       "kind": "action",
@@ -29,6 +39,16 @@
       "joint": "ai-systems-transparency-act",
       "source": "https://www.coons.senate.gov/news/press-releases/senators-coons-britt-schatz-and-lankford-introduce-bipartisan-ai-safety-and-transparency-legislation",
       "outlet": "Office of Sen. Coons"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If the risk of AI is anywhere near the level that it has been characterized to be, then we have an obligation to act on a bipartisan basis immediately.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBrianSchatz/status/2099986891407827069",
+      "outlet": "@SenBrianSchatz on X"
     },
     {
       "date": "2026-09-12",

@@ -1,0 +1,30 @@
+{
+  "id": "madeleine-dean",
+  "name": "Madeleine Dean",
+  "office": "U.S. Representative, Pennsylvania 4th District",
+  "office_type": "us_rep",
+  "state": "PA",
+  "party": "D",
+  "stance": "Calls for Congress to pass AI guardrails, disagreeing with the President's position that Congress should wait.",
+  "statements": [
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The President says we should sit still on AI. Americans and the industry know better. We have the proposals. We have the support across the aisle. We must pass guardrails on AI before it's too late.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDean/status/2105717492354355212",
+      "outlet": "@RepDean on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/D000631.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/D000631",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

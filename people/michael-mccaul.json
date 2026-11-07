@@ -1,0 +1,40 @@
+{
+  "id": "michael-mccaul",
+  "name": "Michael McCaul",
+  "office": "U.S. Representative, Texas 10th District",
+  "office_type": "us_rep",
+  "state": "TX",
+  "party": "R",
+  "stance": "Treats advanced AI chips as national security assets and supports restricting their sale to China.",
+  "statements": [
+    {
+      "date": "2025-11-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I applaud President Trump’s decision to restrict the sale of NVIDIA's incredibly advanced AI semiconductor chips to the CCP. If we are to win the great power competition with China, we must protect these critical national security assets.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCaul/status/1985764935947731247",
+      "outlet": "@RepMcCaul on X"
+    },
+    {
+      "date": "2025-12-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I am deeply concerned about the administration’s decision and urge them to treat these chips not just as an opportunity for a business deal, but as a sensitive national security asset that must be kept out of our adversaries’ hands.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCaul/status/1998520389132013574",
+      "outlet": "@RepMcCaul on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001157.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001157",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

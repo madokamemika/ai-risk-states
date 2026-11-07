@@ -1,0 +1,140 @@
+{
+  "id": "rich-mccormick",
+  "name": "Rich McCormick",
+  "office": "U.S. Representative, Georgia 7th District",
+  "office_type": "us_rep",
+  "state": "GA",
+  "party": "R",
+  "stance": "Opposes a pause on advanced AI and a ban on superintelligence, prefers voluntary industry-led safety standards and existing law to new federal regulation, and frames AI policy as a race with China, while saying companies that slow down should not expect liability exemptions.",
+  "statements": [
+    {
+      "date": "2026-05-21",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Spoke at the AIxGlobal Risk Hill Forum on the opportunities and risks posed by AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCormick/status/2057572573278302655",
+      "outlet": "@RepMcCormick on X"
+    },
+    {
+      "date": "2026-09-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Open-source AI is not a risk. Done right, it is one of our best defenses.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCormick/status/2097374783566410050",
+      "outlet": "@RepMcCormick on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America cannot afford to pump the brakes while China is flooring it. If a CEO wants to slow down, that’s their choice. But don't expect exemptions from liability if your product causes harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCormick/status/2099942035495301238",
+      "outlet": "@RepMcCormick on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The answer is not for Congress to rush in with sweeping new regulations that pick winners and losers, kill American innovation, and hand China an advantage.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCormick/status/2103207069801177257",
+      "outlet": "@RepMcCormick on X"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Innovation and safety are not competing goals. America can — and must — lead on both.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCormick/status/2104571699144614372",
+      "outlet": "@RepMcCormick on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress has already established AI guardrails. We don't need more Washington restrictions holding back American ingenuity.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCormick/status/2105330156906623359",
+      "outlet": "@RepMcCormick on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Voluntary industry-led standards allow our leading AI companies room to innovate while holding themselves accountable for the technology they build. We cannot regulate our way to victory while China races ahead.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCormick/status/2105357461951574147",
+      "outlet": "@RepMcCormick on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "@nvidia's OpenShell is tackling AI safety the way America does best: by engineering solutions, not slowing innovation with more mandates from Washington.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCormick/status/2105414326089900251",
+      "outlet": "@RepMcCormick on X"
+    },
+    {
+      "date": "2026-10-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As AI becomes more powerful, the answer isn’t to slow down American innovation. It’s to make sure security advances right alongside it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCormick/status/2107921328628011244",
+      "outlet": "@RepMcCormick on X"
+    },
+    {
+      "date": "2026-10-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There is a clear difference between AI tools acting with a customer’s permission and unauthorized access to financial accounts.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCormick/status/2113380109654929613",
+      "outlet": "@RepMcCormick on X"
+    },
+    {
+      "date": "2026-10-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If you think America can afford to slow down on artificial intelligence, think again.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCormick/status/2116290884568498235",
+      "outlet": "@RepMcCormick on X"
+    },
+    {
+      "date": "2026-11-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Democrats want to give China the biggest AI advantage of our lifetime. They are proposing a complete pause on advanced AI development and a ban on artificial superintelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcCormick/status/2119101320204296372",
+      "outlet": "@RepMcCormick on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001218.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001218",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

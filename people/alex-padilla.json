@@ -1,0 +1,40 @@
+{
+  "id": "alex-padilla",
+  "name": "Alex Padilla",
+  "office": "U.S. Senator from California",
+  "office_type": "us_senator",
+  "state": "CA",
+  "party": "D",
+  "stance": "Supports nationwide AI safeguards including independent audits, transparency and whistleblower protections, and urged a U.S.-China AI safety agreement including a possible mutual pause.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Americans deserve independent audits, transparency, whistleblower protections, and real accountability. It’s time to get this done nationwide.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAlexPadilla/status/2100290746045637116",
+      "outlet": "@SenAlexPadilla on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That’s why I joined @ChrisVanHollen in urging Trump to seek a U.S.-China agreement on AI safety, including a possible mutual pause to address guardrails around its use and biological weapons risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAlexPadilla/status/2102883209432478005",
+      "outlet": "@SenAlexPadilla on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/P000145.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/P000145",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

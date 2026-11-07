@@ -1,0 +1,90 @@
+{
+  "id": "delia-ramirez",
+  "name": "Delia Ramirez",
+  "office": "U.S. Representative, Illinois 3rd District",
+  "office_type": "us_rep",
+  "state": "IL",
+  "party": "D",
+  "stance": "Calls for congressional rules, limits and oversight of AI companies, rejecting industry self-regulation.",
+  "statements": [
+    {
+      "date": "2026-07-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As AI continues to be recklessly accelerated by big tech, we are witnessing how dangerously powerful it can be without guardrails, oversight, or accountability.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repdeliaramirez/status/2080761090888339795",
+      "outlet": "@repdeliaramirez on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Employees are sounding the alarms: Big Tech doesn't care about protecting us from AI as long as they profit. AI tools are being recklessly accelerated by big tech without guardrails, oversight, or accountability.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repdeliaramirez/status/2097822197821661436",
+      "outlet": "@repdeliaramirez on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We cannot settle for unregulated, unaccountable AI. Congress has the obligation to demand rules and limits, pass legislation, and conduct oversight of AI companies.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repdeliaramirez/status/2099618411349184732",
+      "outlet": "@repdeliaramirez on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "You and I know that, despite what Trump and Johnson say, AI companies can’t and won’t regulate themselves.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repdeliaramirez/status/2100382523809292625",
+      "outlet": "@repdeliaramirez on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined Rep. Pramila Jayapal for a shadow hearing on AI, calling for rules, limits and oversight.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repdeliaramirez/status/2100713007743467962",
+      "outlet": "@repdeliaramirez on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We won't let diversions, rebrands, misdirection, or fake corporate \"accords\" confuse or deter us. We will not leave it to Trump and corporate CEOs to keep us safe - they won't and they never have.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repdeliaramirez/status/2105383327335084173",
+      "outlet": "@repdeliaramirez on X"
+    },
+    {
+      "date": "2026-10-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Everyday makes it clearer: Congress can't allow AI to continue operate without guardrails, oversight, or accountability.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repdeliaramirez/status/2115095356874617167",
+      "outlet": "@repdeliaramirez on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/R000617.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/R000617",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

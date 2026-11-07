@@ -1,0 +1,30 @@
+{
+  "id": "kim-schrier",
+  "name": "Kim Schrier",
+  "office": "U.S. Representative, Washington 8th District",
+  "office_type": "us_rep",
+  "state": "WA",
+  "party": "D",
+  "stance": "Calls AI an existential threat and urged the Speaker to keep the House in session until AI guardrails are addressed.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Speaker Johnson: Do NOT send the House home until AI guardrails are immediately addressed. Americans expect Congress to take action on this existential threat now",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKimSchrier/status/2100283612281151710",
+      "outlet": "@RepKimSchrier on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001216.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001216",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

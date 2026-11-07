@@ -1,0 +1,40 @@
+{
+  "id": "bill-hagerty",
+  "name": "Bill Hagerty",
+  "office": "U.S. Senator from Tennessee",
+  "office_type": "us_senator",
+  "state": "TN",
+  "party": "R",
+  "stance": "Sponsors the BLADE Act against foreign distillation of American AI models, framed as national security.",
+  "statements": [
+    {
+      "date": "2026-07-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Foreign-based efforts against U.S. artificial intelligence resources threaten our economic interests and national security. My legislation, the BLADE Act, will expose, punish, and prevent foreign entities that conduct hostile distillation campaigns.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorHagerty/status/2079984787402494184",
+      "outlet": "@SenatorHagerty on X"
+    },
+    {
+      "date": "2026-08-06",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan BLADE Act with Sens. Tim Scott, Andy Kim and Cortez Masto to expose and punish foreign actors behind distillation attacks on American AI models.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorHagerty/status/2085400212336488687",
+      "outlet": "@SenatorHagerty on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H000601.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/H000601",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

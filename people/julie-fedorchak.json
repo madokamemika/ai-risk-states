@@ -1,0 +1,40 @@
+{
+  "id": "julie-fedorchak",
+  "name": "Julie Fedorchak",
+  "office": "U.S. Representative, North Dakota At-Large District",
+  "office_type": "us_rep",
+  "state": "ND",
+  "party": "R",
+  "stance": "Backs the White House National AI Policy Framework calling for one federal AI policy instead of state laws, and wants to move a national framework through the Energy and Commerce Committee.",
+  "statements": [
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The @WhiteHouse framework strikes the right balance of supporting U.S. competitiveness & long-term innovation while protecting online safety. I’m excited to work with my @HouseCommerce colleagues to move a national framework forward so the U.S. always leads the global AI race.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepFedorchak/status/2035091723769008534",
+      "outlet": "@RepFedorchak on X"
+    },
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The question now is whether America develops the rules of the road and leads the future of this extremely powerful tool, or if we let adversaries like China set the terms.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepFedorchak/status/2035091722082869495",
+      "outlet": "@RepFedorchak on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/F000482.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/F000482",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

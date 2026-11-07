@@ -1,0 +1,30 @@
+{
+  "id": "rashida-tlaib",
+  "name": "Rashida Tlaib",
+  "office": "U.S. Representative, Michigan 12th District",
+  "office_type": "us_rep",
+  "state": "MI",
+  "party": "D",
+  "stance": "Says AI is advancing faster than its creators can responsibly control.",
+  "statements": [
+    {
+      "date": "2026-09-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is advancing faster than its creators can responsibly control–and that’s directly from an AI researcher.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRashida/status/2098488496315150553",
+      "outlet": "@RepRashida on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/T000481.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/T000481",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "andre-carson",
+  "name": "André Carson",
+  "office": "U.S. Representative, Indiana 7th District",
+  "office_type": "us_rep",
+  "state": "IN",
+  "party": "D",
+  "stance": "Joined House Democrats demanding Congress stay in session to act on AI risk, and passed an NDAA amendment requiring public reports on military AI use and safeguards.",
+  "statements": [
+    {
+      "date": "2025-06-25",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Helped lead a Select Committee on the CCP Democrats' hearing with AI leaders on the race toward artificial superintelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAndreCarson/status/1937949725430599839",
+      "outlet": "@RepAndreCarson on X"
+    },
+    {
+      "date": "2026-07-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Weapons of war shouldn’t be handed to algorithms without human judgment and strong safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAndreCarson/status/2079987195826290776",
+      "outlet": "@RepAndreCarson on X"
+    },
+    {
+      "date": "2026-07-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Won House passage of an NDAA amendment requiring public reports on how the military uses AI and what safeguards are in place.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAndreCarson/status/2080719553458245680",
+      "outlet": "@RepAndreCarson on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined 106 colleagues demanding the House stay in session to vote on AI regulation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAndreCarson/status/2100642407532400983",
+      "outlet": "@RepAndreCarson on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001072.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001072",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

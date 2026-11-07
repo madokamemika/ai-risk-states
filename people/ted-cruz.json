@@ -31,6 +31,36 @@
       "outlet": "Senate Commerce Committee"
     },
     {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I look forward to working with the White House and members of the Commerce Committee to advance meaningful AI legislation that safeguards free speech, establishes regulatory sandboxes, protects children, and provides a national standard for AI in the United States.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTedCruz/status/2035033969444405503",
+      "outlet": "@SenTedCruz on X"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This administration is right to recognize the cybersecurity risks posed by advanced models. Now, it's Congress's turn. We must address catastrophic risk without ceding ground to China or restricting Americans’ free expression.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTedCruz/status/2061943941927219346",
+      "outlet": "@SenTedCruz on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "And I’m working with Senators Amy Klobuchar and John Thune on legislation to address catastrophic risks involving biological or nuclear threats. We cannot stick our heads in the sand and pretend this technology isn’t happening. We need guardrails. But America needs to lead.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTedCruz/status/2097727324011536877",
+      "outlet": "@SenTedCruz on X"
+    },
+    {
       "date": "2026-09-10",
       "arena": "federal",
       "kind": "quote",
@@ -59,6 +89,16 @@
       "joint": "thune-klobuchar-cruz-frontier-bill-2026",
       "source": "https://www.semafor.com/article/09/16/2026/bipartisan-ai-safety-talks-accelerate-in-senate",
       "outlet": "Semafor"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "we're seeing the giant AI companies going to government saying, “Hey, why don't you put us in charge of government and let's set the rules so no one can compete with us?” That's an incredibly foolish idea.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTedCruz/status/2104586346073374972",
+      "outlet": "@SenTedCruz on X"
     }
   ],
   "photo": {

@@ -1,0 +1,140 @@
+{
+  "id": "sydney-kamlager-dove",
+  "name": "Sydney Kamlager-Dove",
+  "office": "U.S. Representative, California 37th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Calls for a ban on AI chip sales to China and investigation of AI chip export approvals to the UAE, supports the AI Overwatch and RESTRICT Acts, and wants Congress in session to legislate AI safeguards.",
+  "statements": [
+    {
+      "date": "2025-12-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-led the RESTRICT Act, introduced by Rep. Gregory Meeks, to prohibit sales of advanced AI chips to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKamlagerDove/status/2003172803026297218",
+      "outlet": "@RepKamlagerDove on X"
+    },
+    {
+      "date": "2026-01-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I support my Republican colleagues in pushing for greater Congressional oversight of Trump’s efforts to sell our most advanced AI chips to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKamlagerDove/status/2014005878404395029",
+      "outlet": "@RepKamlagerDove on X"
+    },
+    {
+      "date": "2026-01-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Over the past year, Trump has turned one of our most important national security tools—export controls on advanced AI technologies—into his own personal negotiating device. Finally Republicans are doing something about it. Glad to support the AI Overwatch Act to constrain Trump’s reckless sales of advanced AI chips to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKamlagerDove/status/2014099944655688067",
+      "outlet": "@RepKamlagerDove on X"
+    },
+    {
+      "date": "2026-02-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The UAE invested $500 million in Trump’s crypto company before he gave them access to hundreds of thousands of advanced AI chips.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKamlagerDove/status/2018115627555131873",
+      "outlet": "@RepKamlagerDove on X"
+    },
+    {
+      "date": "2026-02-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led colleagues in asking the Commerce Department Inspector General to investigate the approval of AI chip sales to the UAE after a UAE royal bought a stake in the President's crypto company.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKamlagerDove/status/2024145249417769029",
+      "outlet": "@RepKamlagerDove on X"
+    },
+    {
+      "date": "2026-02-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I'll be investigating why you and Trump approved the sale of AI chips to the UAE despite national security concerns after taking this money.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKamlagerDove/status/2024912707002982492",
+      "outlet": "@RepKamlagerDove on X"
+    },
+    {
+      "date": "2026-05-19",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called on the House Foreign Affairs Committee to hold a hearing on the President's Nvidia stock purchase a week before the Commerce Department approved Nvidia AI chip sales to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKamlagerDove/status/2056780246838366610",
+      "outlet": "@RepKamlagerDove on X"
+    },
+    {
+      "date": "2026-07-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Why is the Trump Administration so eager to put our national security at risk and demolish our competitive edge in AI to benefit the UAE??",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKamlagerDove/status/2076368644469104872",
+      "outlet": "@RepKamlagerDove on X"
+    },
+    {
+      "date": "2026-07-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The Trump Administration's repeal of export controls on advanced American AI chips to the UAE reeks of an illegal pay-to-play scheme because the UAE's national security advisor owns 49% of Trump's crypto company.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKamlagerDove/status/2077106343144513942",
+      "outlet": "@RepKamlagerDove on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We are in a code red moment with AI. I’m calling for an immediate ban on all AI chips to China until we can have a real values-setting conversation about AI as a country and ensure our national security is protected.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKamlagerDove/status/2099870360619397510",
+      "outlet": "@RepKamlagerDove on X"
+    },
+    {
+      "date": "2026-09-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Americans are scared about AI jeopardizing their lives, safety, and futures.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKamlagerDove/status/2101734259283329157",
+      "outlet": "@RepKamlagerDove on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Last week, I joined 100+ colleagues in demanding that Speaker Johnson cancel the October recess and keep Congress in session to work on legislation that would establish AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepKamlagerDove/status/2103168737599729794",
+      "outlet": "@RepKamlagerDove on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/K000400.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/K000400",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

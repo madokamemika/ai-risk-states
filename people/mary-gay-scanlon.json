@@ -1,0 +1,40 @@
+{
+  "id": "mary-gay-scanlon",
+  "name": "Mary Gay Scanlon",
+  "office": "U.S. Representative, Pennsylvania 5th District",
+  "office_type": "us_rep",
+  "state": "PA",
+  "party": "D",
+  "stance": "Joined colleagues demanding the House stay in session to address what she describes as an existential AI threat.",
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined 107 Democratic colleagues in a letter demanding that Speaker Johnson keep the House in session to address the AI threat.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMGS/status/2100651017108963773",
+      "outlet": "@RepMGS on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As warnings from its creators about the AI threat to our very existence have multiplied, Speaker Johnson has decided that Congress will be on vacation for the next 7 weeks.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMGS/status/2100651017108963773",
+      "outlet": "@RepMGS on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001205.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001205",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

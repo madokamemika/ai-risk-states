@@ -1,0 +1,70 @@
+{
+  "id": "tom-kean-jr",
+  "name": "Tom Kean Jr.",
+  "office": "U.S. Representative, New Jersey 7th District",
+  "office_type": "us_rep",
+  "state": "NJ",
+  "party": "R",
+  "stance": "Introduced the House companion to the AI Emergency Button Act requiring a human shutdown capability in advanced AI, backs stronger AI chip export-control enforcement, and supports a unified national AI policy framework.",
+  "statements": [
+    {
+      "date": "2025-12-03",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the Stop Stealing Our Chips Act with Rep. Julie Johnson to strengthen enforcement of U.S. export controls against illegal acquisition of American AI chips by China.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanKean/status/1996279215621046661",
+      "outlet": "@CongressmanKean on X"
+    },
+    {
+      "date": "2026-03-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The United States needs a unified AI policy. And we need it now. I am encouraged to see @POTUS take this critical step forward with a responsible AI framework.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanKean/status/2036165147144728709",
+      "outlet": "@CongressmanKean on X"
+    },
+    {
+      "date": "2026-07-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It is critical that the U.S. remains at the forefront of AI development and that our technology is protected by robust export controls. That is why I introduced the Stop Stealing Our Chips Act to create a whistleblower incentive program at the Bureau of Industry and Security.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanKean/status/2077090121350885667",
+      "outlet": "@CongressmanKean on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the House companion to Sen. Kennedy's AI Emergency Button Act, which would require advanced AI systems to include a technical capability for a human operator to shut the system down.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanKean/status/2103498323202093124",
+      "outlet": "@CongressmanKean on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While AI can be a helpful tool, it is essential that humans remain in control of complex artificial intelligence systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanKean/status/2103498323202093124",
+      "outlet": "@CongressmanKean on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/K000398.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/K000398",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

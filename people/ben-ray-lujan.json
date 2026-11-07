@@ -1,0 +1,40 @@
+{
+  "id": "ben-ray-lujan",
+  "name": "Ben Ray Luján",
+  "office": "U.S. Senator from New Mexico",
+  "office_type": "us_senator",
+  "state": "NM",
+  "party": "D",
+  "stance": "Calls for a bipartisan Select Committee on AI and for negotiations with China on enforceable guardrails for the most powerful AI systems.",
+  "statements": [
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I’m joining @ChrisVanHollen and our colleagues in calling for serious negotiations with China on clear, enforceable guardrails for the most powerful AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorLujan/status/2103111121217393113",
+      "outlet": "@SenatorLujan on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "How can we trust this administration to get the safeguards right to protect Americans? This is why I’m calling for a bipartisan Select Committee on AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorLujan/status/2105434145715540394",
+      "outlet": "@SenatorLujan on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000570.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000570",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

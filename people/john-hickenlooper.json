@@ -61,6 +61,16 @@
       "outlet": "Office of Sen. Hickenlooper"
     },
     {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This new era of AI is dangerous and it needs guardrails. Swift action is required to meet this moment.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorHick/status/2100637934214881367",
+      "outlet": "@SenatorHick on X"
+    },
+    {
       "date": "2026-09-29",
       "arena": "federal",
       "kind": "quote",
@@ -79,6 +89,36 @@
       "joint": null,
       "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-on-trump-ai-ceos-to-work-with-congress-on-responsible-ai-guardrails-ahead-of-white-house-meeting/",
       "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Ahead of today’s White House meeting with AI leaders we’re pressing Trump to support guardrails for AI: → Independent testing of our most powerful AI models → Real accountability when AI companies cause harm → Mandatory reporting of serious AI incidents",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorHick/status/2104992455758160310",
+      "outlet": "@SenatorHick on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Guardrails on AI can’t wait. We need to get going now and protect communities from the risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorHick/status/2105454033196712432",
+      "outlet": "@SenatorHick on X"
+    },
+    {
+      "date": "2026-10-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need stronger tools to protect against consequences both profound and irreversible without totally squashing innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorHick/status/2106861993575723215",
+      "outlet": "@SenatorHick on X"
     }
   ],
   "review": {

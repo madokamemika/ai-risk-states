@@ -1,0 +1,30 @@
+{
+  "id": "chuck-grassley",
+  "name": "Chuck Grassley",
+  "office": "U.S. Senator from Iowa",
+  "office_type": "us_senator",
+  "state": "IA",
+  "party": "R",
+  "stance": "Presses AI companies to guard against Chinese espionage and insider threats and to notify the government of breaches.",
+  "statements": [
+    {
+      "date": "2026-05-01",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Wrote with Sen. Jim Banks to nine AI companies asking them to ensure they can defend against Chinese espionage, manage insider threats and notify the US government in the event of a breach.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChuckGrassley/status/2050319852175331350",
+      "outlet": "@ChuckGrassley on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/G000386.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/G000386",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

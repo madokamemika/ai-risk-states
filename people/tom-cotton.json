@@ -13,6 +13,26 @@
   "stance": "AI-as-national-security hawk: export controls on advanced compute, bans on Chinese AI models over embedded backdoors, and keeping the U.S. ahead on frontier models — safeguards framed through security, not consumer regulation.",
   "statements": [
     {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Asked the Commerce Department to begin implementing provisions of his Chip Security Act to prevent large-scale smuggling of advanced AI chips to China after a DOJ smuggling indictment.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTomCotton/status/2035109952231284797",
+      "outlet": "@SenTomCotton on X"
+    },
+    {
+      "date": "2026-04-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Communist China and its accomplices continue to smuggle advanced AI chips to undermine the US and threaten our national security.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTomCotton/status/2042600757325623408",
+      "outlet": "@SenTomCotton on X"
+    },
+    {
       "date": "2026-07-30",
       "arena": "federal",
       "kind": "action",

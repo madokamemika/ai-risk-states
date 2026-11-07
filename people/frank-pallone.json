@@ -1,0 +1,70 @@
+{
+  "id": "frank-pallone",
+  "name": "Frank Pallone",
+  "office": "U.S. Representative, New Jersey 6th District",
+  "office_type": "us_rep",
+  "state": "NJ",
+  "party": "D",
+  "stance": "Calls for enforceable federal AI safety standards to prevent catastrophic consequences rather than voluntary commitments, and with committee colleagues asked frontier AI companies to report safety incidents to Congress.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called on Energy and Commerce Committee Republicans to join Democrats in putting AI safety guardrails and enforcement in place.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/FrankPallone/status/2100273607456813379",
+      "outlet": "@FrankPallone on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If you’re puzzled as to why Trump isn’t calling for frontier AI guardrails after industry experts warned of existential risks—this could be why.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/FrankPallone/status/2102045213325697148",
+      "outlet": "@FrankPallone on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "He’d rather give a blank check to his big tech billionaire friends than make sure the most transformative technology of the century—perhaps in history—works for humanity's benefit.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/FrankPallone/status/2102798846468247689",
+      "outlet": "@FrankPallone on X"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need federal safety standards that are enforceable to prevent catastrophic consequences, not voluntary promises.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/FrankPallone/status/2105679656795926617",
+      "outlet": "@FrankPallone on X"
+    },
+    {
+      "date": "2026-10-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Dozens of AI safety incidents have come to light in recent months, with thousands more under investigation. We can’t count on the Trump Administration to act, so I’m working with @RepZoeLofgren and @RepRaskin to ask AI companies to report incidents to Congress.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/FrankPallone/status/2115454009913770275",
+      "outlet": "@FrankPallone on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/P000034.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/P000034",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bernie-moreno",
+  "name": "Bernie Moreno",
+  "office": "U.S. Senator from Ohio",
+  "office_type": "us_senator",
+  "state": "OH",
+  "party": "R",
+  "stance": "Criticizes Anthropic's warnings about superintelligence as alarmist and backs the administration's approach to AI.",
+  "statements": [
+    {
+      "date": "2026-10-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Anthropic can’t have it both ways: scare Americans with doomsday scenarios about SI while asking them to bankroll a $2 trillion IPO. They must follow the admin’s lead: protect American innovation, confront risks, and stop fueling panic that surrenders our competitive edge to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/berniemoreno/status/2107183852074799213",
+      "outlet": "@berniemoreno on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001242.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001242",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "laura-friedman",
+  "name": "Laura Friedman",
+  "office": "U.S. Representative, California 30th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Opposes federal preemption of state AI laws, including the 2025 moratorium and the executive order on state AI laws, and says Congress must ensure powerful AI is safe.",
+  "statements": [
+    {
+      "date": "2025-12-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I stood up and helped stop an AI regulation ban that House Republicans tried to sneak into the Big, Ugly Bill earlier this year. Now the Trump administration is trying to override Congress & enforce a ban through executive order.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepFriedmanCA/status/1996300002554262002",
+      "outlet": "@RepFriedmanCA on X"
+    },
+    {
+      "date": "2026-09-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "And it’s Congress’ responsibility to insure that powerful tech is safe and a net positive.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepFriedmanCA/status/2094972304543391906",
+      "outlet": "@RepFriedmanCA on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/F000483.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/F000483",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

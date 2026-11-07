@@ -1,0 +1,160 @@
+{
+  "id": "yvette-clarke",
+  "name": "Yvette Clarke",
+  "office": "U.S. Representative, New York 9th District",
+  "office_type": "us_rep",
+  "state": "NY",
+  "party": "D",
+  "stance": "Says Big Tech cannot police itself and calls for pre-deployment testing, human control of frontier models and congressional answers after reported model-containment incidents; opposes any federal moratorium on state AI laws and led a 44-member letter against one in the FY26 NDAA.",
+  "statements": [
+    {
+      "date": "2025-05-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Under the guise of night, my Republican colleagues are suggesting a 10-year ban on state AI laws.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/1922557364403679535",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2025-07-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Bad actors are already using AI to infiltrate our most sensitive national security circles, and some Republicans are STILL fighting for a 10-year ban on state AI regulations.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/1942666552324636697",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2025-11-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It’s painfully clear that Trump resurrected the failed AI moratorium as a gift to his billionaire donors whose profits depend on their unfinished technology remaining unregulated.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/1991275783055184117",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2025-12-03",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led 43 House colleagues in a letter urging Armed Services Committee leaders to exclude any AI moratorium on state laws from the FY26 NDAA.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/1996319269852995675",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2025-12-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That’s why, again and again and again, this body rejected any and every proposal for an AI moratorium on a bipartisan basis.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/1999557917356228776",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Responded to the White House's proposed national AI legislative framework by calling it \"Written by Big Tech, for Big Tech.\"",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/2035035266730057877",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2026-05-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This EO was not delayed due to its many flaws, but because his Big Tech buddies demanded that it be.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/2057537629869244719",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2026-07-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "as long as developers lack complete confidence in their absolute control over their models, then it's clear a human being must remain in the loop.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/2079994183494877591",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2026-07-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "When the visionaries paving the way to the future are asking Congress to pause and consider the dangers that might lie there, we'd best listen.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/2082568813858754934",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2026-07-31",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress deserves an explanation as to why OpenAI and Anthropic are failing to deliver the safety they promised, and the American people demand to know if they truly ever can.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/2083248674654638122",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2026-08-05",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Criticized the White House's decision not to publicly release its framework for evaluating advanced AI models, saying models produced under backroom deals will be unsafe and calling trust and transparency the path forward.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/2085034168027632108",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2026-08-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Anthropic, OpenAI, Meta, and all others have a responsibility to prove that they have control over their agents, today, and that any future updates won’t change that come tomorrow. Right now, we are decidedly unconvinced.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/2085429882880774408",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I have continuously called for stronger standards on impact assessments, pre-deployment testing, and algorithmic accountability and transparency.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/2099614315653300263",
+      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is advancing faster than the guardrails meant to protect our privacy, civil rights, consumers, and communities can keep up, and it’s clear Big Tech cannot be left to police itself.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYvetteClarke/status/2103619406202888537",
+      "outlet": "@RepYvetteClarke on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001067.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001067",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

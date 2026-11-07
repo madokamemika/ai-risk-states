@@ -29,6 +29,26 @@
       "joint": "ai-emergency-button-act",
       "source": "http://www.washingtonexaminer.com/news/senate/4730945/gop-ai-kill-switch-bill-killed-by-rand-paul/",
       "outlet": "Washington Examiner"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Most dystopias come from government, so we ought to be careful what we let the government do with AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenRandPaul/status/2100288086781338101",
+      "outlet": "@SenRandPaul on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I think many AI doomers, especially those who represent or profit from the companies, want liability protections, which is why they're begging the government to get involved and \"regulate.\"",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenRandPaul/status/2105052619727335730",
+      "outlet": "@SenRandPaul on X"
     }
   ],
   "photo": {

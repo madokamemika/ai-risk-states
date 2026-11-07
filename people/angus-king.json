@@ -40,6 +40,16 @@
       "joint": null,
       "source": "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks",
       "outlet": "Office of Sen. King"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The threat posed by AI isn't science fiction; it's fact -- and damn serious.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAngusKing/status/2104605689448628329",
+      "outlet": "@SenAngusKing on X"
     }
   ],
   "review": { "status": "unreviewed", "note": "added October 2026 from king.senate.gov primary sources; quotes verified verbatim" },

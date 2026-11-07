@@ -1,0 +1,60 @@
+{
+  "id": "mike-thompson",
+  "name": "Mike Thompson",
+  "office": "U.S. Representative, California 4th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Calls for federal AI safety guardrails against catastrophic misuse and for a U.S.-led global AI safety framework.",
+  "statements": [
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The House shouldn’t be taking a six-week recess while AI whistleblowers are issuing serious warnings about the potential danger and weaponization of these tools. We need to vote on bipartisan safety proposals now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepThompson/status/2099515039484960898",
+      "outlet": "@RepThompson on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We must act before AI causes job losses, mass cybersecurity breaches, the development of biological or chemical weapons, or other devastating harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepThompson/status/2100234211215004105",
+      "outlet": "@RepThompson on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined 106 colleagues in calling on Speaker Johnson to pass AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepThompson/status/2100234211215004105",
+      "outlet": "@RepThompson on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called on the administration to lead the international effort to establish a global framework for safety guardrails on AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepThompson/status/2102063304638148729",
+      "outlet": "@RepThompson on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/T000460.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/T000460",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

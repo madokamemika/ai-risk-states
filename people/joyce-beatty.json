@@ -1,0 +1,30 @@
+{
+  "id": "joyce-beatty",
+  "name": "Joyce Beatty",
+  "office": "U.S. Representative, Ohio 3rd District",
+  "office_type": "us_rep",
+  "state": "OH",
+  "party": "D",
+  "stance": "Criticized the 2025 reconciliation bill's proposed ten-year block on state AI laws.",
+  "statements": [
+    {
+      "date": "2025-06-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Listen as my colleague @RepMenendez breaks down what’s buried in the One Big Ugly Bill: a Republican plan to block all state AI laws for a decade.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBeatty/status/1938030323012448693",
+      "outlet": "@RepBeatty on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/B001281.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/B001281",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

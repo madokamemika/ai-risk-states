@@ -39,6 +39,36 @@
       "joint": "ai-emergency-button-act",
       "source": "http://www.washingtonexaminer.com/news/senate/4730945/gop-ai-kill-switch-bill-killed-by-rand-paul/",
       "outlet": "Washington Examiner"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced a bill requiring AI models to have a kill switch.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJohnKennedy/status/2100588824191537455",
+      "outlet": "@SenJohnKennedy on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The AI guys say they’re worried about what their models could do. They ought to do something about it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJohnKennedy/status/2100588824191537455",
+      "outlet": "@SenJohnKennedy on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Advanced AI models need a kill switch in case they go off the rails. We don’t need another government-run committee to tell us that.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJohnKennedy/status/2100984894075658539",
+      "outlet": "@SenJohnKennedy on X"
     }
   ],
   "photo": {

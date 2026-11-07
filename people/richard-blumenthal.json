@@ -32,6 +32,76 @@
       "outlet": "FedScoop"
     },
     {
+      "date": "2026-05-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There is widespread public support for sensible safeguards on AI & strong interest in the Senate for reforms & rules.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2053535061413118367",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-05-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Humongous AI investor SoftBank donated $50 million to Trump’s presidential library & foundation just before Trump withdrew his AI regulatory Executive Order.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2058246922406629485",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to know beforehand if the next OpenAI & Anthropic release will empower hackers & foreign adversaries.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2061984438032986376",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The White House should go further to require AI companies contracting with the federal government participate & expand the program to other forms of weaponization.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2061984439681401291",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-06-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI safety requires Congressional action—as many seem to believe, but avoid supporting specifics. The Hawley-Blumenthal framework provides a good beginning.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2070877750718562785",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-09-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Big Tech can never be trusted to supervise itself, especially when trillions of dollars of investments & potential profits are at stake.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2095962098886934691",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-09-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Incidents like the hacking of Hugging Face show that we need an independent federal agency scrutinizing AI models & doing NTSB-like investigations of failures.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2095962102238167304",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
       "date": "2026-09-09",
       "arena": "federal",
       "kind": "quote",
@@ -50,6 +120,36 @@
       "joint": "openai-hugging-face-letters-2026",
       "source": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sam-altman-after-new-reporting-reveals-how-ai-agents-went-rogue-to-conduct-major-cyber-breach-and-conceal-their-operations",
       "outlet": "Office of Sen. Blumenthal"
+    },
+    {
+      "date": "2026-09-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "OpenAI’s rogue bots threaten civil privacy, national security, & public safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2098441373527457926",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It must be a statutorily established regimen, with power to determine whether models & new products are safe & effective, just as independent scientists are authorized to do under the FDA.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2099167122119143704",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "OpenAI, Meta & Anthropic must be held legally accountable for their rogue, dangerous AI agents, including through my AI Risk Evaluation Act.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2105320956025606380",
+      "outlet": "@SenBlumenthal on X"
     }
   ],
   "photo": {

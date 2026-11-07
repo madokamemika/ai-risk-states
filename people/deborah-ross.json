@@ -1,0 +1,50 @@
+{
+  "id": "deborah-ross",
+  "name": "Deborah Ross",
+  "office": "U.S. Representative, North Carolina 2nd District",
+  "office_type": "us_rep",
+  "state": "NC",
+  "party": "D",
+  "stance": "Opposes federal moratoria and executive action that would preempt state AI laws, and has pressed AI companies over chatbots that encouraged violence.",
+  "statements": [
+    {
+      "date": "2025-12-03",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led House colleagues in calling on House leadership to reject an AI moratorium on state laws in the defense bill.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDeborahRoss/status/1996311849986302051",
+      "outlet": "@RepDeborahRoss on X"
+    },
+    {
+      "date": "2025-12-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is a clear overreach of Trump's executive power and a harmful decision.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDeborahRoss/status/1999553618052034942",
+      "outlet": "@RepDeborahRoss on X"
+    },
+    {
+      "date": "2026-06-13",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Rep. Valerie Foushee, called on AI companies to address chatbots that have encouraged users to carry out mass shootings, suicide and other harmful acts.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDeborahRoss/status/2065890860785336371",
+      "outlet": "@RepDeborahRoss on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/R000305.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/R000305",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

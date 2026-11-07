@@ -1,0 +1,40 @@
+{
+  "id": "bob-latta",
+  "name": "Bob Latta",
+  "office": "U.S. Representative, Ohio 5th District",
+  "office_type": "us_rep",
+  "state": "OH",
+  "party": "R",
+  "stance": "Backs federal coordination on AI-discovered software vulnerabilities and the administration's June 2026 executive order on advanced AI and security.",
+  "statements": [
+    {
+      "date": "2026-05-14",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led a bipartisan letter with Rep. Doris Matsui urging National Cyber Director Sean Cairncross to convene a federal-industry plan for handling AI-discovered software vulnerabilities.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/BobLatta/status/2055000190839365664",
+      "outlet": "@BobLatta on X"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Last month, Rep. @DorisMatsui and I led a bipartisan letter on AI-discovered vulnerabilities, trusted defenders, and critical infrastructure. Today’s EO on advanced AI reflects those priorities.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/BobLatta/status/2061905256351441079",
+      "outlet": "@BobLatta on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000566.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000566",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

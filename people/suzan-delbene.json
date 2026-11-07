@@ -1,0 +1,40 @@
+{
+  "id": "suzan-delbene",
+  "name": "Suzan DelBene",
+  "office": "U.S. Representative, Washington 1st District",
+  "office_type": "us_rep",
+  "state": "WA",
+  "party": "D",
+  "stance": "Calls for national AI guardrails and urged the House to stay in session until it passes AI safeguards.",
+  "statements": [
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It's clear we need national guardrails to protect Americans from the threat AI poses, according to the very people building these programs. Trump & Republicans in Congress are asleep at the wheel.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDelBene/status/2099552173524726252",
+      "outlet": "@RepDelBene on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called on Speaker Johnson to keep the House in session until it passes AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDelBene/status/2100271395535986767",
+      "outlet": "@RepDelBene on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/D000617.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/D000617",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

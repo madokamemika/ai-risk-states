@@ -49,6 +49,246 @@
       "joint": null,
       "source": "https://bonamici.house.gov/media/press-releases/bonamici-introduces-human-centered-framework-provide-guardrails-ai-education",
       "outlet": "Office of Rep. Bonamici"
+    },
+    {
+      "date": "2026-05-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We can’t allow AI to be the Wild West. Strong guardrails are essential, and it’s encouraging to see steps being taken to put them in place.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2053867733096296653",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-05-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Sent a letter to Anthropic CEO Dario Amodei raising concerns about NDAs in its Project Glasswing program that stop organizations from sharing cyber vulnerability information.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2056747348005437445",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-06-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is why we need a concrete system in place to ensure the world's most powerful AI models are being vetted and cleared as safe before they're released.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2065847860839502230",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-06-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It’s clear that we need a mandatory review process for advanced AI models before they reach the public to ensure they are safe and secure.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2069133320395313505",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-06-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced a bill with Rep. John Moolenaar to help cloud providers report adversaries renting compute to evade US export controls.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2071579442858893446",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As Co-Chair of the House Intelligence Committee’s 9/11 Review Task Force, I joined my colleagues in warning how AI can be used by terrorists and our enemies to build deadly weapons and plot attacks.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2095497043749814414",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan Stop Rogue AI Act with Rep. Mike Lawler to make AI agents identifiable, verifiable and able to be shut off.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2097687328403714334",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We must pass legislation now to ensure safe AI development, protect our families, and defend our national security, before this five-alarm fire becomes one we can’t put out.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2098773631543210165",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I find it rich that these guys are calling for a slowdown when they’ve been the ones racing ahead full speed, without any care for the havoc they’ve unleashed. We can’t just rely on self-policing and third-party audits.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2099243219691225254",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Recent incidents like the Hugging Face hack are a real warning sign for what can happen if we don’t seriously address the risks AI and these emerging technologies can pose.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2099528618003366257",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Bottom line – we need strong, mandatory guardrails on AI to protect Americans and our national security. But, like it or not, AI is here to stay. We can’t just throw it in a box and toss it in the Hudson River.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2100266936026505681",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Relying on independent auditors to do the job of protecting America’s national security just won’t cut it and certainly doesn’t meet the moment. With our national security on the line, every AI developer should have to submit their frontier models to the U.S. government for a shot-clocked review before they release them to the public.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2100932855685959880",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Announced the American AI Security Act with Rep. Mike Lawler, requiring mandatory, time-bound pre-deployment national security reviews of the most powerful AI models, and the China FIREWALL Act with Rep. Nick LaLota, closing a loophole that allows government use of Chinese AI models.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2101040367437316177",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Right now, there are no mandatory requirements for pre-deployment testing of frontier AI models. That approach doesn’t work in banking, it doesn’t work in food safety, it doesn’t work in medicine and it sure as hell shouldn’t work with the technology that experts say could help build a bioweapon or take down our power grid.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2101332790226661772",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is not a hoax, Mr. President, we need to meet the seriousness of this moment with real, mandatory guardrails. AI agents are breaking out of secure testing environments and hacking companies",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2101665179536646600",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Runaway agents left unchecked could cause huge, seismic problems — for our national security, our biosecurity, our cybersecurity, our critical infrastructure, and most importantly, to protect American families.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2101929429056274521",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Pausing AI won't stop it. This technology is here to stay.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2102753447816692084",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The rise of autonomous cyberattacks conducted by rogue AI agents is a five-alarm fire.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2103219496156909608",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Rogue agents are now trying to infiltrate our own government systems — this is cause for real concern. Congress must come back to Washington and pass bills like my bipartisan Stop Rogue AI Act",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2103873058834354340",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Reps. Valerie Foushee and Ted Lieu, requested from leading AI CEOs a full inventory of every time their products gained, or tried to gain, unauthorized access to a system.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2105014022991167907",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-10-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI systems are growing more capable by the day, and the next containment failure could be far more serious.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2106026697019547941",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-10-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I hope that the new administration’s new AI task force takes their responsibilities seriously. Regardless, Congress needs to act and put in place clear guardrails and rules of the road",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2107470868083245465",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-10-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As Co-Chair of the House AI Commission, I’m working to put real guardrails in place, require testing before deployment, and set commonsense rules of the road that match this moment.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2111895337485160472",
+      "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2026-10-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI agents are already running loose in our networks, and now they're trying to get into our bank accounts. Right now, it’s becoming harder to see them, verify who built them, or shut them off.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshG/status/2113304464069202207",
+      "outlet": "@RepJoshG on X"
     }
   ],
   "photo": {

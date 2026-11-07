@@ -1,0 +1,30 @@
+{
+  "id": "dan-newhouse",
+  "name": "Dan Newhouse",
+  "office": "U.S. Representative, Washington 4th District",
+  "office_type": "us_rep",
+  "state": "WA",
+  "party": "R",
+  "stance": "Supports the White House National AI Policy Framework and codifying federal preemption of state AI laws such as Washington's and California's.",
+  "statements": [
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "A state-by-state patchwork allowing extreme state legislatures, like those in Washington or California, to dictate AI policy for other states would be detrimental. I look forward to working with my colleagues in Congress to codify this plan.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNewhouse/status/2034996799111299458",
+      "outlet": "@RepNewhouse on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/N000189.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/N000189",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

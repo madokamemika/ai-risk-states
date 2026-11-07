@@ -8,6 +8,66 @@
   "stance": "Signed the bipartisan call for urgent federal guardrails and oversight of advanced AI; a member of the Congressional AI Caucus.",
   "statements": [
     {
+      "date": "2026-01-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trump is handing our opponents our coordinates in the middle of a battle by selling China high-powered AI chips. It puts our national security at risk.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGabeAmo/status/2012171983056674832",
+      "outlet": "@RepGabeAmo on X"
+    },
+    {
+      "date": "2026-01-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trump should not be selling our advanced AI chips to China. He’s giving the advantage to an adversary, and I want to know why.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGabeAmo/status/2012641600267067585",
+      "outlet": "@RepGabeAmo on X"
+    },
+    {
+      "date": "2026-05-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The President of the United States bought millions in NVIDIA stock, then approved advanced AI chip sales to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGabeAmo/status/2055362956381036861",
+      "outlet": "@RepGabeAmo on X"
+    },
+    {
+      "date": "2026-08-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined 19 colleagues in calling for AI executives to testify before Congress about what they are doing to stop AI jailbreaks, protect jobs and keep American systems safe.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGabeAmo/status/2089025542053827034",
+      "outlet": "@RepGabeAmo on X"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Government’s role is to keep people safe. Congress must act now to stop AI from causing irreparable harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGabeAmo/status/2099271825997889913",
+      "outlet": "@RepGabeAmo on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Went to @sciencedems briefing with frontier AI companies. It’s abundantly clear: AI is moving too fast & we need to regulate.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGabeAmo/status/2100020464034762890",
+      "outlet": "@RepGabeAmo on X"
+    },
+    {
       "date": "2026-09-16",
       "arena": "federal",
       "kind": "action",
@@ -16,6 +76,16 @@
       "joint": null,
       "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
       "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "After President Xi’s visit, we need diplomacy, not pageantry, to set guardrails & keep people safe. Alongside 28 of my @HouseForeign colleagues, we’re calling for real dialogue with China to address AI safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGabeAmo/status/2104627985504518329",
+      "outlet": "@RepGabeAmo on X"
     }
   ],
   "review": {

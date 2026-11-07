@@ -9,6 +9,66 @@
   "stance": "Co-sponsor of a bipartisan requirement that frontier AI developers keep a government-ordered shutdown capability.",
   "statements": [
     {
+      "date": "2025-06-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The next frontier isn’t just AI itself—it’s AI doing its own research and development.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/1937901997916582173",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2025-06-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We must urgently assess how far Chinese AI systems have come—and work with U.S. industry to contain the risks of automated AI R&D.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/1937901999900483631",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-06-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "When it comes to national security and public safety implications, information from the private sector about what these models are doing and what they're capable of is imperative to protecting Americans.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2070163606004539635",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-07-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The private AI companies on the frontline of developing these systems are the canaries in the mine. When they see a national security or public safety threat, we need to know. That's the AI Incident Reporting Act.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2072327223126716497",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-07-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "With transparency about AI systems, the private sector can largely regulate itself, and we can protect national security and public safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2072388958118441125",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-07-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is exactly the scenario my AI Incident Reporting Act addresses, requiring developers report dangerous AI behavior to @CommerceGov.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2079949264436756504",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
       "date": "2026-07-23",
       "arena": "federal",
       "kind": "action",
@@ -29,6 +89,86 @@
       "outlet": "Office of Rep. Lieu"
     },
     {
+      "date": "2026-07-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "My AI Incident Reporting Act is a straightforward answer: keep innovating, but if an AI model evades its safeguards or threatens critical infrastructure, you can't stay silent.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2082227579755344371",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-08-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Our bill, the AI Kill Switch Act, with Rep. Ted Lieu requires the largest AI developers to maintain real shutdown controls, with DHS able to act in a true emergency.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2084320165181718735",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-08-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The folks building frontier AI models are telling us themselves: they need a kill switch.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2087547149575749858",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-08-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "More and more AI models are beginning to escape their intended boundaries, and fall outside human control.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2087616038829539817",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-08-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That's why @RepTedLieu and I introduced the bipartisan AI Kill Switch Act: the most powerful AI systems must always have a human who can shut them off.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2090098443314160065",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But, Congress cannot ignore the realities of AI and the potential risks that come with it. Innovation and safety are not mutually exclusive.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2097728437741879709",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We have a real opportunity to get AI right, but only if both parties, frontier developers, and safety leaders come to the table together.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2097784978339692796",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Capitol Hill will never move at the speed of AI innovation, and it shouldn't try to legislate from behind.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2099141081258397719",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
       "date": "2026-09-14",
       "arena": "federal",
       "kind": "quote",
@@ -37,6 +177,96 @@
       "joint": null,
       "source": "https://www.breitbart.com/clips/2026/09/15/gop-rep-moran-we-have-leverage-for-ai-deal-on-china-they-depend-on-our-chips/",
       "outlet": "Breitbart (NewsNation clip)"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The U.S. is ahead, and Washington shouldn't rush to overregulate.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2099672066232356940",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Said in a Breitbart interview that the U.S. has leverage for an AI deal with China because China depends on U.S. chips.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2099853635777658941",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We're 3-6 months ahead of China in AI development. That lead didn't happen by accident, and we can't regulate it away.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2099976153607885022",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Our AI Kill Switch Act, with @tedlieu, also builds in accountability, requiring companies to report incidents to DHS.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2100001214129660094",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress cannot rush to legislate on such a high-stakes issue like AI. Prudence—not politics—should drive our policymaking.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2100194020525797786",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Discussed on a podcast how America can lead on AI without losing control of it, including the case for a kill switch and mandatory reporting when models slip human control.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2101014913405649362",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As more AI incidents come to light, the US Gov & companies need dependable reporting mechanisms to verify what is happening.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2104650568153104789",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "In order for you to drive your vehicle as fast as you can down the interstate of innovation, you have to have a brake in it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2104951128786092502",
+      "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I'm encouraged by the dialogue and the Joint Commitment from President Trump's historic meeting with Tech leaders today.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNateMoran/status/2105102569718665315",
+      "outlet": "@RepNateMoran on X"
     }
   ],
   "photo": {

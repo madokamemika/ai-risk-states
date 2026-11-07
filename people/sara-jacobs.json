@@ -12,6 +12,76 @@
   "stance": "Among the most active House members on AI catastrophic and military-safety guardrails — human control of autonomous weapons, national-lab evaluation of frontier AI for CBRN and deception, and a Pentagon AI incident-reporting program.",
   "statements": [
     {
+      "date": "2025-12-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "he’s now eliminating the rules trying to keep them in line.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/1999293720311796176",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-02-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The Pentagon’s move to bring Grok into its classified systems, while pressuring Anthropic to drop key safeguards, is deeply alarming. Undermining AI safety and civil liberties protections could cause large-scale harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2027183881972052307",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-03-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need strict guardrails when the military uses AI, whether it’s in Iran or anywhere else – full stop.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2032159430708478056",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We SHOULD have real federal guardrails on AI (but this is far from it), and in the absence of that, states like CA should be able to keep protecting people’s rights and safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2035101997750206952",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-06-03",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced a comprehensive AI governance bill to help federal agencies create AI rules.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2062235209966157876",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-06-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress has been too slow on AI. My approach protects states’ progress and helps federal agencies hold companies accountable when AI is used to break existing federal laws.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2062648620168458427",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-06-05",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Secured NDAA provisions on accountability for the Pentagon's use of AI but announced she would vote against the bill over the lack of guardrails on the use of the military.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2062984773413265723",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
       "date": "2026-07-17",
       "arena": "federal",
       "kind": "action",
@@ -70,6 +140,146 @@
       "joint": null,
       "source": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bipartisan-legislation-to-address-ai-weaknesses-and-failures-at-pentagon",
       "outlet": "Office of Rep. Jacobs"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We don’t have time to wait. The massive threats posed by AI are here and now, and Congress needs to act.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2097833789049233477",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We’re seeing more warnings about the potentially catastrophic risks of AI from bioweapons to nuclear threats. That’s why I co-led the bipartisan ATOMIC Act with @RepMaloyUtah to prevent AI-related nuclear risks before they become real-world emergencies.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2098127508583457034",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to act to ensure AI systems are safe, transparent, and accountable. Trump and Republicans need to get on board.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2100623724651127224",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That’s why Congress needs to enact my Defense AI Reliability and Reporting Act, that was in the House-passed NDAA. It would require prompt reporting of near misses like this and a coordinated process to find and fix the underlying failures.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2101117971171099064",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Whether or not to regulate AI should NOT be up for debate. “Winning” the AI race with China doesn’t just mean achieving AGI first – that doesn’t matter if no one trusts these AI systems enough to adopt them or if they hurt people who use them.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2101007878702199078",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Our goal should be to have the right guardrails that make AI systems transparent, safe, and accountable. Trust and safety are our competitive advantage.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2101007880115683818",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI safety and diplomacy must be at the top of the agenda when President Trump meets with China’s President Xi Jinping. This no-holds-barred race with China over AI is leaving both our countries and the world more vulnerable. We need consistent, bilateral dialogue.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2102900395185991864",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Donald Trump’s plan on AI is to let these companies “self-police.” That’s a recipe for disaster.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2105399437036261702",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "OpenAI just disclosed that rogue agents searched federal government websites in ways beyond what they were asked to do. We need urgent action from Congress to put real safeguards on AI before we lose control of this technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2105680156375527518",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-10-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need enforceable rules that make AI systems transparent and safe – and hold these companies accountable. “Self-policing” won’t get us there.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2106050293985087778",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-10-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Being first in the AI race won’t matter if no one uses what you build – or if you lose control of the technology. That’s why Congress needs to do its job and act on AI now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2111215325014618309",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-10-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trust and safety are our competitive advantage in the AI race. But to build systems that people actually want to use and trust, Congress needs to act on the societal, model, deployer, and impact levels.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2111906789226840281",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-10-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Published a Newsweek op-ed setting out how Congress should regulate AI, from the frontier model level to deployment and impacts.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2112261817410167014",
+      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+      "date": "2026-10-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need guardrails on AI, NOW. Competition with China is no excuse for letting AI run rampant",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSaraJacobs/status/2113365438432477330",
+      "outlet": "@RepSaraJacobs on X"
     }
   ],
   "review": {

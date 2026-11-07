@@ -1,0 +1,80 @@
+{
+  "id": "becca-balint",
+  "name": "Becca Balint",
+  "office": "U.S. Representative, Vermont At-Large District",
+  "office_type": "us_rep",
+  "state": "VT",
+  "party": "D",
+  "stance": "Says AI companies want to write their own rules and calls for Congress to hold hearings on frontier AI research, to 'pump the brakes' after insider warnings, and to put guardrails on AI.",
+  "statements": [
+    {
+      "date": "2026-07-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This security breach makes crystal clear how dangerous these tools can be without the right guardrails in place. Big Tech owes us answers.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBeccaB/status/2082558380904731003",
+      "outlet": "@RepBeccaB on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If the people working directly on these technologies are saying this, it’s time to pump the brakes. We can’t let these massive AI companies literally gamble with the future of humanity.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBeccaB/status/2097791781031047472",
+      "outlet": "@RepBeccaB on X"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must urgently hold hearings on frontier research. The leaders of these massive AI companies owe us transparency about what they're doing. We can’t afford to continue the Trump strategy of letting billionaires play with the safety of humanity.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBeccaB/status/2098154092904264052",
+      "outlet": "@RepBeccaB on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "it’s damn scary that Trump is gaslighting us about our genuine concerns about AI and that he is also clearly only interested in how much profit these technologies will make his billionaire friends.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBeccaB/status/2099577178576884201",
+      "outlet": "@RepBeccaB on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "So the AI companies want to be the ones to set the rules and Trump thinks that he’s the only person capable of setting the rules… What they’re all saying is that Congress and the American people shouldn’t have a role.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBeccaB/status/2099593969680121923",
+      "outlet": "@RepBeccaB on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "the AI companies have had this “change of heart” because they want to be the ones to write the rules about how they’re regulated. We can’t just sit on our hands and trust them to police themselves.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBeccaB/status/2099845386751951301",
+      "outlet": "@RepBeccaB on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/B001318.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/B001318",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

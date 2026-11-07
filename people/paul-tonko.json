@@ -1,0 +1,30 @@
+{
+  "id": "paul-tonko",
+  "name": "Paul Tonko",
+  "office": "U.S. Representative, New York 20th District",
+  "office_type": "us_rep",
+  "state": "NY",
+  "party": "D",
+  "stance": "Urges Congress to rein in AI before an AI-caused disaster.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress should not go home until we rein in AI. We can’t afford to wait for a disaster caused by AI before we do something.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPaulTonko/status/2100300303728025759",
+      "outlet": "@RepPaulTonko on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/T000469.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/T000469",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

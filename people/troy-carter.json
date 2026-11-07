@@ -1,0 +1,30 @@
+{
+  "id": "troy-carter",
+  "name": "Troy Carter",
+  "office": "U.S. Representative, Louisiana 2nd District",
+  "office_type": "us_rep",
+  "state": "LA",
+  "party": "D",
+  "stance": "Sponsors legislation for a CISA task force on AI safety and national security challenges.",
+  "statements": [
+    {
+      "date": "2026-10-13",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Reintroduced, with Ranking Member Bennie Thompson, the CISA AI Task Force Act to establish a CISA task force on the safety and national security challenges of AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTroyCarter/status/2110040869239669133",
+      "outlet": "@RepTroyCarter on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001125.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001125",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

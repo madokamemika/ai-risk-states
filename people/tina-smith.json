@@ -1,0 +1,120 @@
+{
+  "id": "tina-smith",
+  "name": "Tina Smith",
+  "office": "U.S. Senator from Minnesota",
+  "office_type": "us_senator",
+  "state": "MN",
+  "party": "D",
+  "stance": "Says AI companies cannot regulate themselves and should be prosecuted and held liable when their models cause harm, wanted a mutual AI slowdown agreement with China, and criticizes stalled Senate AI safety talks.",
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "These big AI companies should be held civilly and/or criminally liable and prosecuted when their models hurt people. They don’t get a free pass just because they’ve now decided to admit to the dangers of what they’ve created.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTinaSmith/status/2099996240184312020",
+      "outlet": "@SenTinaSmith on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While he’s blocked any effort to rein in AI in Congress, that doesn’t mean there aren’t laws on the books we can use to protect people right now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTinaSmith/status/2099996279837270157",
+      "outlet": "@SenTinaSmith on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "These AI companies cannot be trusted to regulate themselves. Don’t let the fox guard the henhouse.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTinaSmith/status/2100993179042365532",
+      "outlet": "@SenTinaSmith on X"
+    },
+    {
+      "date": "2026-09-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI developers aren’t above the laws we have currently on the books. They can and should be prosecuted and held liable if they break the law and their products harm us.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTinaSmith/status/2101343309029372087",
+      "outlet": "@SenTinaSmith on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trusting the same DOJ that covered up the Epstein Files to protect us from frontier AI… What could possibly go wrong?",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTinaSmith/status/2103263055547146258",
+      "outlet": "@SenTinaSmith on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We needed a comprehensive agreement with China to a mutual slowdown of AI development. Instead, we get nothing.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTinaSmith/status/2103263084542660717",
+      "outlet": "@SenTinaSmith on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "You’re telling me the guy who said “LET DATA REIGN” just poured cold water on the only bipartisan AI safety talks that seem promising?",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTinaSmith/status/2105024930085838872",
+      "outlet": "@SenTinaSmith on X"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI companies love to claim they’re SO special they need special treatment and can’t follow the same rules other dangerous technologies are bound by",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTinaSmith/status/2108621992152666506",
+      "outlet": "@SenTinaSmith on X"
+    },
+    {
+      "date": "2026-10-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "So, apparently AI can now literally try to take your money straight from the bank. Remind me again why letting Big Tech regulate itself could ever be a good idea?",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTinaSmith/status/2113621933359063398",
+      "outlet": "@SenTinaSmith on X"
+    },
+    {
+      "date": "2026-10-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress needs to get serious about holding Big Tech accountable and creating AI guardrails. Now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTinaSmith/status/2113621959720472576",
+      "outlet": "@SenTinaSmith on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001203.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001203",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

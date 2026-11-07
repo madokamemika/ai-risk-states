@@ -13,6 +13,116 @@
   "stance": "Leading Senate critic demanding mandatory, independent, enforceable safety screening of frontier AI models, and transparency over industry-captured voluntary oversight.",
   "statements": [
     {
+      "date": "2026-06-05",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called for Commerce Secretary Lutnick to testify before Congress after reports that officials did not know whether Chinese companies had been buying the most advanced U.S. AI chips.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2062887128225222851",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-07-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Selling advanced AI chips to China will turbocharge its military capabilities and its bid for technological dominance.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2075644679136440459",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Frontier AI models are currently a dangerous technology without the safeguards needed to protect people from serious harm. That's why we should immediately pause the development of advanced AI while lawmakers and regulators put systems in place to keep people safe.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2100264359716889067",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must urgently pass legislation to put guardrails in place before we have a cyberattack, economic crisis, or national security disaster facilitated by AI",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2100264361956622760",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America has an affordability crisis, an AI crisis, and an ongoing war with Iran.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2100706913214165328",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The rules for AI should be decided by the American people’s elected officials in government, not a handful of AI billionaires.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2102028810115826094",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called on Senate Majority Leader Thune and Speaker Johnson to bring China export-control legislation on advanced AI technology to the floor.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2102793159935672529",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We can't trust AI companies to regulate themselves.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2103489247357682172",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Self-regulation? That’s a recipe for disaster.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2105026268362097138",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Republicans sent the Senate home this week without taking ANY real action to: - End Donald Trump's Iran war - Lower costs for American families - Regulate AI",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2105774390944387250",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-10-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It's time to enforce the laws already on the books, regulate AI, and protect people from serious harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2107132684686577845",
+      "outlet": "@SenWarren on X"
+    },
+    {
       "date": "2026-10-06",
       "arena": "federal",
       "kind": "action",
@@ -41,6 +151,86 @@
       "joint": null,
       "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-push-white-house-on-ai-industry-influence-on-trump-policies/",
       "outlet": "Office of Sen. Warren"
+    },
+    {
+      "date": "2026-10-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "OpenAI, Google, and Anthropic said the rules were too strict. Trump made them voluntary. Then Musk and Zuckerberg said they were too harsh. Trump cut the 90-day review to 30 days.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2108308318145945612",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-10-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI agents are reportedly taking unauthorized actions inside Americans’ bank accounts. This is a red alert for our financial system.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2113737508706025488",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-10-28",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Wrote to Anthropic CEO Dario Amodei asking about the catastrophic and existential risks the company has described, ahead of its planned IPO.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2115440657120555486",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-10-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Anthropic is saying that AI models could pose catastrophic or existential risks to humanity.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2115440657120555486",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-10-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Huang and NVIDIA’s board owe Congress answers. And we must pass bipartisan legislation to keep our advanced AI technology out of China’s hands.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2115818455920267636",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-10-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Republicans in charge of Congress are not lifting a finger to regulate AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2116220023090168070",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-10-31",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Lawn mowers go through more mandatory safety testing than AI models right now, and that’s just nuts.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2116592871184982202",
+      "outlet": "@SenWarren on X"
+    },
+    {
+      "date": "2026-11-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Frontier AI models are not exempt from the laws already on the books. And it’s time for Congress to step up to further protect people.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenWarren/status/2117262308896284872",
+      "outlet": "@SenWarren on X"
     }
   ],
   "review": { "status": "unreviewed", "note": "added October 2026 from warren.senate.gov primary sources; quotes verified verbatim" },

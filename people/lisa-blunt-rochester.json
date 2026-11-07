@@ -1,0 +1,100 @@
+{
+  "id": "lisa-blunt-rochester",
+  "name": "Lisa Blunt Rochester",
+  "office": "U.S. Senator from Delaware",
+  "office_type": "us_senator",
+  "state": "DE",
+  "party": "D",
+  "stance": "Calls for public Senate Commerce hearings with AI CEOs after rogue-agent and hacking incidents, has pressed OpenAI, Anthropic and Meta on safety, and says even a small chance of AI wiping out humanity warrants slowing down.",
+  "statements": [
+    {
+      "date": "2026-08-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Recent “autonomous hackings” show there’s still so much we don’t know about AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenLBR/status/2089709911613591581",
+      "outlet": "@SenLBR on X"
+    },
+    {
+      "date": "2026-08-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Pressed OpenAI, Anthropic and Meta for answers on how they will keep communities safe after recent AI hacking incidents.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenLBR/status/2090106384511631635",
+      "outlet": "@SenLBR on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Even if there was a 1% chance AI could wipe out human life, we should be pumping the brakes to make sure we have the proper safeguards in place, not racing blindly into disaster.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenLBR/status/2097747156908011765",
+      "outlet": "@SenLBR on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Sen. John Curtis, called on the Senate Commerce Committee to hold immediate public hearings with AI CEOs on frontier AI risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenLBR/status/2100307451908083733",
+      "outlet": "@SenLBR on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is out of control and the American people deserve answers.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenLBR/status/2100652510876762207",
+      "outlet": "@SenLBR on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Republicans control the House and the Senate – if they wanted, we could be taking action to respond to these alarming escalations right now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenLBR/status/2101051454345617867",
+      "outlet": "@SenLBR on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The AI race is out of control and our president is rambling on about how we talk about it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenLBR/status/2103582816936296511",
+      "outlet": "@SenLBR on X"
+    },
+    {
+      "date": "2026-10-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It’s time for leading AI companies to come before Congress and explain to the American people what’s happening and how they’ll keep us safe as this technology evolves.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenLBR/status/2106098169444737164",
+      "outlet": "@SenLBR on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/B001303.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/B001303",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

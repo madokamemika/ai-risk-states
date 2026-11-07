@@ -1,0 +1,30 @@
+{
+  "id": "dan-crenshaw",
+  "name": "Dan Crenshaw",
+  "office": "U.S. Representative, Texas 2nd District",
+  "office_type": "us_rep",
+  "state": "TX",
+  "party": "R",
+  "stance": "Opposes restrictions on AI development and data centers, arguing America risks regulating itself into irrelevance, while rejecting both a halt to development and ignoring risks.",
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America risks regulating itself into poverty and irrelevance if we continue down this path. The debate is being framed as a false choice by critics: halt all development or ignore every risk. We should do neither.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDanCrenshaw/status/2100668646829793714",
+      "outlet": "@RepDanCrenshaw on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001120.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001120",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

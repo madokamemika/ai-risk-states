@@ -1,0 +1,50 @@
+{
+  "id": "brittany-pettersen",
+  "name": "Brittany Pettersen",
+  "office": "U.S. Representative, Colorado 7th District",
+  "office_type": "us_rep",
+  "state": "CO",
+  "party": "D",
+  "stance": "Calls for commonsense AI guardrails including independent audits, agency oversight capacity and a bar on deploying AI that fails safety checks, citing whistleblower warnings.",
+  "statements": [
+    {
+      "date": "2025-12-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I'm excited to work with @HouseDemocrats AI Commission to create smart, modern guardrails that will protect us all as we harness this technology for the future.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPettersen/status/1998807425353240677",
+      "outlet": "@RepPettersen on X"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must start the real work of putting up commonsense guardrails to avoid the worst outcomes these whistleblower are warning us of.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPettersen/status/2098042362618425518",
+      "outlet": "@RepPettersen on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That starts with independent audits, making sure federal agencies have the funding & expertise to oversee these systems, and ensuring any AI that fails safety checks cannot be deployed in the U.S.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPettersen/status/2103567866146509023",
+      "outlet": "@RepPettersen on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/P000620.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/P000620",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

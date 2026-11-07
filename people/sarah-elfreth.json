@@ -11,6 +11,36 @@
   "stance": "Ties the FAA case to the broader need to regulate AI safety before it is deployed in critical systems.",
   "statements": [
     {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress cannot afford to miss the moment on AI regulation. While reasonable people may disagree on how precisely to regulate this technology, we are beyond denying that action is required.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repsarahelfreth/status/2100259071005765933",
+      "outlet": "@repsarahelfreth on X"
+    },
+    {
+      "date": "2026-09-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined Rep. Sam Liccardo in urging Speaker Johnson to reconvene the House and advance bipartisan AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repsarahelfreth/status/2101411835362853144",
+      "outlet": "@repsarahelfreth on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined Rep. Yassamin Ansari and over 40 House Democrats in urging the administration to establish a coordinated global framework with allies to regulate AI development.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repsarahelfreth/status/2103565946048635325",
+      "outlet": "@repsarahelfreth on X"
+    },
+    {
       "date": "2026-10-09",
       "arena": "federal",
       "kind": "action",
@@ -29,6 +59,36 @@
       "joint": null,
       "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
       "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined Rep. Brad Sherman and colleagues in urging increased funding for the Center for AI Standards and Innovation (CAISI), which evaluates AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repsarahelfreth/status/2108682131517874687",
+      "outlet": "@repsarahelfreth on X"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We cannot afford to miss the mark on AI safety and oversight.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repsarahelfreth/status/2108682131517874687",
+      "outlet": "@repsarahelfreth on X"
+    },
+    {
+      "date": "2026-10-10",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Urged the Speaker to bring Congress back and regulate AI, citing reports of rogue AI agents at Anthropic.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repsarahelfreth/status/2108955785782870086",
+      "outlet": "@repsarahelfreth on X"
     }
   ],
   "review": {

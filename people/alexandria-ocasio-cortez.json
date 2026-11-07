@@ -8,6 +8,16 @@
   "stance": "Pushes transparency, independent testing and human oversight before AI is deployed in safety-critical systems; a member of the Congressional AI Caucus.",
   "statements": [
     {
+      "date": "2025-12-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Washington’s refusal to regulate AI is a corruption story.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAOC/status/2001380899406205248",
+      "outlet": "@RepAOC on X"
+    },
+    {
       "date": "2026-10-09",
       "arena": "federal",
       "kind": "action",
@@ -26,6 +36,16 @@
       "joint": null,
       "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
       "outlet": "Office of Rep. Ocasio-Cortez"
+    },
+    {
+      "date": "2026-10-13",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Urged the FAA, with Rep. April McClain Delaney, to stop the rollout of a new AI air traffic control tool in Washington, DC until it answers questions about its safety evaluation and labor consultation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAOC/status/2110064293895196706",
+      "outlet": "@RepAOC on X"
     }
   ],
   "review": {

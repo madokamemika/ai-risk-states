@@ -1,0 +1,30 @@
+{
+  "id": "eric-sorensen",
+  "name": "Eric Sorensen",
+  "office": "U.S. Representative, Illinois 17th District",
+  "office_type": "us_rep",
+  "state": "IL",
+  "party": "D",
+  "stance": "Wants the House to stay in session to pass bipartisan AI safeguards for risk mitigation.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "A.I. can be an incredible tool, but it must have robust safeguards to ensure responsible development and risk mitigation. I'm calling on @SpeakerJohnson: keep the House in session until we can pass meaningful, bipartisan A.I. reforms to keep people safe before it's too late.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepEricSorensen/status/2100331615620596081",
+      "outlet": "@RepEricSorensen on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001225.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001225",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

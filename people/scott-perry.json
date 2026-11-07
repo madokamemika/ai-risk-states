@@ -1,0 +1,30 @@
+{
+  "id": "scott-perry",
+  "name": "Scott Perry",
+  "office": "U.S. Representative, Pennsylvania 10th District",
+  "office_type": "us_rep",
+  "state": "PA",
+  "party": "R",
+  "stance": "Raises concern over advanced chipmaking technology reaching China amid an AI arms race.",
+  "statements": [
+    {
+      "date": "2026-06-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Why, then, is it turning up in China - with which we’re locked in an “arms race” to develop powerful AI systems to strengthen military capability and spur economic growth.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepScottPerry/status/2069450411321520149",
+      "outlet": "@RepScottPerry on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/P000605.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/P000605",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

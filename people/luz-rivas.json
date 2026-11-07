@@ -1,0 +1,70 @@
+{
+  "id": "luz-rivas",
+  "name": "Luz Rivas",
+  "office": "U.S. Representative, California 29th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Opposed the federal moratorium on state AI laws in the 2025 budget bill and the defense bill, and wants the House in session to address AI risks.",
+  "statements": [
+    {
+      "date": "2025-06-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This provision would halt innovation and block states’ abilities to protect Americans from current and future AI challenges.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLuzRivas/status/1938288022425936016",
+      "outlet": "@RepLuzRivas on X"
+    },
+    {
+      "date": "2025-07-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This dangerous provision would have stymied AI innovation and prevented states from protecting their residents from current and future challenges. I led an amendment in the House to remove this provision, but @HouseGOP prevented it from getting a vote.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLuzRivas/status/1940056884301464051",
+      "outlet": "@RepLuzRivas on X"
+    },
+    {
+      "date": "2025-12-01",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led, with Rep. Doris Matsui, more than 75 colleagues in opposing the inclusion of an AI moratorium on state laws in the defense bill.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLuzRivas/status/1995569002953724349",
+      "outlet": "@RepLuzRivas on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined more than 80 House Democrats in writing to Speaker Johnson urging him to keep the House in session to address the risks posed by AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLuzRivas/status/2101099902562357729",
+      "outlet": "@RepLuzRivas on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called for responsible AI safeguards, a federal strategy for emerging technologies and stronger oversight of the AI industry.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLuzRivas/status/2102531718271959062",
+      "outlet": "@RepLuzRivas on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/R000620.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/R000620",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

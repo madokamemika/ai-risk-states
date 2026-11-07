@@ -1,0 +1,30 @@
+{
+  "id": "michael-baumgartner",
+  "name": "Michael Baumgartner",
+  "office": "U.S. Representative, Washington 5th District",
+  "office_type": "us_rep",
+  "state": "WA",
+  "party": "R",
+  "stance": "Wants a moral, ethical and legal framework for AI supercomputing while keeping a lead over China.",
+  "statements": [
+    {
+      "date": "2026-06-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We also need to make sure that we have a moral, ethical, and legal framework around AI super computing technology that maintains the dignity of human beings and the integrity of the human work ethic.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBaumgartner/status/2065070955097960696",
+      "outlet": "@RepBaumgartner on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/B001322.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/B001322",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}
