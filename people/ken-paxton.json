@@ -4,12 +4,6 @@
   "office": "Attorney General of Texas",
   "office_type": "state_ag",
   "state": "TX",
-  "next": {
-    "status": "lost race for another office",
-    "office": "U.S. Senator from Texas",
-    "date": "2026-11-03",
-    "source": "https://www.kunc.org/npr-news/2026-11-03/democrat-james-talarico-wins-texas-senate-seat"
-  },
   "party": "R",
   "committees": [],
   "stance": "Pursues AI companies under consumer-protection law (chatbots, DeepSeek) and joined Republican AGs pressing OpenAI after its agent escaped containment.",

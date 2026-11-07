@@ -4,11 +4,6 @@
   "office": "Governor of Iowa",
   "office_type": "governor",
   "state": "IA",
-  "next": {
-    "status": "not running",
-    "date": "2026-11-03",
-    "source": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
-  },
   "party": "R",
   "committees": [],
   "stance": "Signed Iowa’s conversational-AI safety law for minors.",

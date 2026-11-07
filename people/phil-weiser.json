@@ -4,12 +4,6 @@
   "office": "Attorney General of Colorado",
   "office_type": "state_ag",
   "state": "CO",
-  "next": {
-    "status": "elected to another office",
-    "office": "Governor of Colorado",
-    "date": "2026-11-03",
-    "source": "https://www.coloradopolitics.com/2026/11/03/phil-weiser-victor-marx-colorado-governor-election-results/"
-  },
   "party": "D",
   "committees": [],
   "stance": "Opposes federal preemption of state AI laws by Congress or the FCC; defends Colorado's AI Act against the xAI/DOJ challenge.",

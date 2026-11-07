@@ -4,11 +4,6 @@
   "office": "U.S. Representative from Michigan",
   "office_type": "us_rep",
   "state": "MI",
-  "next": {
-    "status": "lost re-election",
-    "date": "2026-11-03",
-    "source": "https://www.michiganpublic.org/politics-government/2026-11-04/sean-mccann-defeats-incumbent-congressman-bill-huizenga-in-4th-district"
-  },
   "party": "R",
   "committees": [
     "House Financial Services",

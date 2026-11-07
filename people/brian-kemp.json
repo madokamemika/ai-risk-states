@@ -4,11 +4,6 @@
   "office": "Governor of Georgia",
   "office_type": "governor",
   "state": "GA",
-  "next": {
-    "status": "term-limited",
-    "date": "2026-11-03",
-    "source": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
-  },
   "party": "R",
   "committees": [],
   "stance": "Signed a chatbot child-safety law and joined governors opposing a federal moratorium on state AI laws.",

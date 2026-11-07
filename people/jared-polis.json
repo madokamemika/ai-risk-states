@@ -4,11 +4,6 @@
   "office": "Governor of Colorado",
   "office_type": "governor",
   "state": "CO",
-  "next": {
-    "status": "term-limited",
-    "date": "2026-11-03",
-    "source": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
-  },
   "party": "D",
   "committees": [],
   "stance": "Signed and then narrowed Colorado's algorithmic-discrimination AI law, and supports federal preemption of state AI laws for several years in favor of a national framework.",

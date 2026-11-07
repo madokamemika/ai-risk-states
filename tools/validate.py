@@ -1,4 +1,3 @@
-import datetime
 import json
 import sys
 
@@ -52,24 +51,11 @@ def dangling(people, states, joints):
                 yield f'people/{person["id"]}.json: unknown joint {statement["joint"]}'
 
 
-def tenure(people, today):
-    for person in people.values():
-        name = f'people/{person["id"]}.json'
-        left, nxt = person.get('left_office'), person.get('next')
-        if left and left > today:
-            yield f'{name}: left_office {left} is in the future; it is set only once they have left'
-        if nxt and nxt['date'] > today:
-            yield f'{name}: next.date {nxt["date"]} is in the future'
-        if left and nxt:
-            yield f'{name}: has both left_office and next; next is for someone still in office'
-
-
 def main():
     errors = []
     checks = validators()
     people, states, joints = (load(kind, checks[kind], errors) for kind in KINDS)
     errors.extend(dangling(people, states, joints))
-    errors.extend(tenure(people, datetime.date.today().isoformat()))
     if errors:
         print('\n'.join(errors))
         print(f'\n{len(errors)} problem(s)')

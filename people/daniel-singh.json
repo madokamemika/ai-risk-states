@@ -4,12 +4,6 @@
   "office": "Wyoming State Representative",
   "office_type": "state_rep",
   "state": "WY",
-  "next": {
-    "status": "lost race for another office",
-    "office": "Wyoming State Senator",
-    "date": "2026-08-18",
-    "source": "https://en.wikipedia.org/wiki/2026_Wyoming_Senate_election"
-  },
   "party": "R",
   "committees": [],
   "stance": "Opposed the federal moratorium partly on the ground that it would have put control of artificial general intelligence in Washington's hands.",

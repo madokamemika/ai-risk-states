@@ -4,12 +4,6 @@
   "office": "U.S. Senator from Tennessee",
   "office_type": "us_senator",
   "state": "TN",
-  "next": {
-    "status": "elected to another office",
-    "office": "Governor of Tennessee",
-    "date": "2026-11-03",
-    "source": "https://www.wsmv.com/2026/11/04/marsha-blackburn-becomes-first-woman-elected-tennessee-governors-office-per-secretary-state/"
-  },
   "party": "R",
   "committees": [
     "Senate Commerce, Science, and Transportation",

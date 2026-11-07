@@ -4,12 +4,6 @@
   "office": "U.S. Representative from Illinois",
   "office_type": "us_rep",
   "state": "IL",
-  "next": {
-    "status": "lost race for another office",
-    "office": "U.S. Senator from Illinois",
-    "date": "2026-03-17",
-    "source": "https://www.pbs.org/newshour/nation/illinois-lt-gov-juliana-stratton-wins-democratic-primary-for-u-s-senate"
-  },
   "party": "D",
   "committees": [
     "House Intelligence"
