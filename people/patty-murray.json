@@ -33,5 +33,11 @@
       "outlet": "Office of Sen. Kaine"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from murray.senate.gov / kaine.senate.gov primary sources" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from murray.senate.gov / kaine.senate.gov primary sources" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Patty_Murray%2C_official_portrait%2C_113th_Congress.jpg/250px-Patty_Murray%2C_official_portrait%2C_113th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Patty_Murray,_official_portrait,_113th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate"
+  }
 }

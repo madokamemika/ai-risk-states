@@ -31,5 +31,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from house.gov primary sources; quote verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Alexandria_Ocasio-Cortez_Official_Portrait.jpg/250px-Alexandria_Ocasio-Cortez_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alexandria_Ocasio-Cortez_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "Franmarie Metzler; U.S. House Office of Photography"
   }
 }

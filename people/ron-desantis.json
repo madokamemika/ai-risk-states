@@ -5,6 +5,14 @@
   "office_type": "governor",
   "state": "FL",
   "party": "R",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Florida's 6th district",
+      "from": "2013",
+      "to": "2018",
+      "source": "https://bioguide.congress.gov/search/bio/D000621"
+    }
+  ],
   "committees": [],
   "stance": "Opposes federal preemption of state AI laws, calling it a subsidy to Big Tech.",
   "statements": [
@@ -50,10 +58,10 @@
     }
   ],
   "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Ron_DeSantis_113th_Congress.jpg/250px-Ron_DeSantis_113th_Congress.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ron_DeSantis_113th_Congress.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Ron_DeSantis_official_photo.jpg/250px-Ron_DeSantis_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ron_DeSantis_official_photo.jpg",
     "license": "Public domain",
-    "artist": "United States Congress"
+    "artist": "Government of Florida"
   },
   "review": {
     "status": "unreviewed",

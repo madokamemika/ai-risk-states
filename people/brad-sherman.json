@@ -25,5 +25,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; record verified via the co-lead's primary release"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Brad_Sherman_portrait_%28118th_Congress%29.jpg/250px-Brad_Sherman_portrait_%28118th_Congress%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brad_Sherman_portrait_(118th_Congress).jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
   }
 }

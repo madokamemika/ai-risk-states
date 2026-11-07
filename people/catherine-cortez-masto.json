@@ -33,5 +33,11 @@
       "outlet": "Office of Sen. Cortez Masto"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from cortezmasto.senate.gov primary sources; quotes verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from cortezmasto.senate.gov primary sources; quotes verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/%28D-NV%29_Senator_Catherine_Cortez_Masto_Official_Portrait.jpg/250px-%28D-NV%29_Senator_Catherine_Cortez_Masto_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:(D-NV)_Senator_Catherine_Cortez_Masto_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photographic Studio"
+  }
 }

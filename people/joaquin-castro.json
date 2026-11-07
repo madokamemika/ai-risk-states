@@ -35,5 +35,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026; letter signatures verified via the leads' primary releases"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Joaquin_Castro%2C_official_portrait%2C_118th_Congress.jpg/250px-Joaquin_Castro%2C_official_portrait%2C_118th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Joaquin_Castro,_official_portrait,_118th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "Nate Payne"
   }
 }

@@ -42,5 +42,11 @@
       "outlet": "Office of Sen. Banks"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from banks.senate.gov primary sources; quotes verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from banks.senate.gov primary sources; quotes verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Senator_Banks_Official_Portrait.jpg/250px-Senator_Banks_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Senator_Banks_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": null
+  }
 }

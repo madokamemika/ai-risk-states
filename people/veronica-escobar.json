@@ -61,5 +61,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from escobar.house.gov and the letters' primary releases; quotes verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Veronica_Escobar%2C_official_portrait_-_2021.jpg/250px-Veronica_Escobar%2C_official_portrait_-_2021.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Veronica_Escobar,_official_portrait_-_2021.jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
   }
 }

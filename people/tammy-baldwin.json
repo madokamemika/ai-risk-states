@@ -33,5 +33,11 @@
       "outlet": "Office of Sen. Baldwin"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from baldwin.senate.gov primary sources; quote verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from baldwin.senate.gov primary sources; quote verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/SenTammyBaldwin_%281%29.jpg/250px-SenTammyBaldwin_%281%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SenTammyBaldwin_(1).jpg",
+    "license": "Public domain",
+    "artist": "Sen. Tammy Baldwin"
+  }
 }

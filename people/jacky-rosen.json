@@ -32,5 +32,11 @@
       "outlet": "Office of Sen. Rosen"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from rosen.senate.gov primary sources; quote verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from rosen.senate.gov primary sources; quote verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Senator_Jacky_Rosen_Official_Portrait_%282022%29.jpg/250px-Senator_Jacky_Rosen_Official_Portrait_%282022%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Senator_Jacky_Rosen_Official_Portrait_(2022).jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photographic Studio"
+  }
 }

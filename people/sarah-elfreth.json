@@ -34,5 +34,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from house.gov primary source; quote verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Representative_Sarah_Elfreth_Official_Portrait.jpg/250px-Representative_Sarah_Elfreth_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Representative_Sarah_Elfreth_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
   }
 }

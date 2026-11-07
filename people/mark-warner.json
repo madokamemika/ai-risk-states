@@ -44,5 +44,11 @@
       "outlet": "Office of Sen. Warner"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from warner.senate.gov primary sources; quotes verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from warner.senate.gov primary sources; quotes verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Mark_Warner_2025.jpg/250px-Mark_Warner_2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mark_Warner_2025.jpg",
+    "license": "Public domain",
+    "artist": "Ryan Donnell"
+  }
 }

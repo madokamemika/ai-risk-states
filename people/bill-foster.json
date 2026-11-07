@@ -54,5 +54,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from foster.house.gov primary sources; quotes verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Bill_Foster_119th_Congress.jpg/250px-Bill_Foster_119th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bill_Foster_119th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "aaron-ford",
   "name": "Aaron Ford",
-  "office": "Attorney General of Nevada (2026 Democratic nominee for governor)",
+  "office": "Attorney General of Nevada",
   "office_type": "state_ag",
   "state": "NV",
   "party": "D",
@@ -44,9 +44,9 @@
     "note": "research pass, September 2026; not yet reviewed"
   },
   "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Aaron_D._Ford.jpg/250px-Aaron_D._Ford.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Aaron_D._Ford.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee%2C_October_17-18%2C_2023_1_%28cropped%29.jpg/250px-Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee%2C_October_17-18%2C_2023_1_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee,_October_17-18,_2023_1_(cropped).jpg",
     "license": "Public domain",
-    "artist": "United State Senate - the Office of Michael Bennet"
+    "artist": "United States Mission to Geneva, United States Department of State"
   }
 }

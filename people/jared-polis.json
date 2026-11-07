@@ -5,6 +5,14 @@
   "office_type": "governor",
   "state": "CO",
   "party": "D",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Colorado's 2nd district",
+      "from": "2009",
+      "to": "2019",
+      "source": "https://bioguide.congress.gov/search/bio/P000598"
+    }
+  ],
   "committees": [],
   "stance": "Signed and then narrowed Colorado's algorithmic-discrimination AI law, and supports federal preemption of state AI laws for several years in favor of a national framework.",
   "statements": [
@@ -40,10 +48,10 @@
     }
   ],
   "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Jared_Polis_Official_2012.jpg/250px-Jared_Polis_Official_2012.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Jared_Polis_Official_2012.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Jared_Polis_in_2026.jpg/250px-Jared_Polis_in_2026.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jared_Polis_in_2026.jpg",
     "license": "Public domain",
-    "artist": "Office of Congressman Jared Polis"
+    "artist": "U.S. Department of the Interior"
   },
   "review": {
     "status": "unreviewed",

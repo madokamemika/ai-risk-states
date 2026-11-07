@@ -5,6 +5,11 @@
   "office_type": "state_ag",
   "state": "SD",
   "party": "R",
+  "elected_congress": {
+    "office": "U.S. Representative from South Dakota's at-large district",
+    "takes_office": "2027-01-03",
+    "source": "https://www.dakotanewsnow.com/2026/11/04/marty-jackley-wins-south-dakotas-us-house-race/"
+  },
   "committees": [],
   "stance": "Has joined multistate pressure on AI companies over chatbot harms to children.",
   "statements": [

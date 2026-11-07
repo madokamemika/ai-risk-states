@@ -25,5 +25,11 @@
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Anna_Paulina_Luna.jpg/250px-Anna_Paulina_Luna.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Anna_Paulina_Luna.jpg",
+    "license": "Public domain",
+    "artist": "US House of Representatives"
   }
 }

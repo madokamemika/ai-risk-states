@@ -5,6 +5,14 @@
   "office_type": "state_ag",
   "state": "MD",
   "party": "D",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Maryland's 4th district",
+      "from": "2017",
+      "to": "2023",
+      "source": "https://bioguide.congress.gov/search/bio/B001304"
+    }
+  ],
   "committees": [],
   "stance": "Signed multistate letters opposing preemption and urging federal frontier-AI safety rules.",
   "statements": [

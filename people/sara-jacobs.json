@@ -75,5 +75,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from sarajacobs.house.gov primary sources; quotes verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Representative_Sara_Jacobs_full_portrait.jpg/250px-Representative_Sara_Jacobs_full_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Representative_Sara_Jacobs_full_portrait.jpg",
+    "license": "Public domain",
+    "artist": "Kristie Baxter"
   }
 }

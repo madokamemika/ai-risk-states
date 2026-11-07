@@ -33,5 +33,11 @@
       "outlet": "Office of Sen. Rounds"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from rounds.senate.gov primary sources; quote verified verbatim" }
+  "review": { "status": "unreviewed", "note": "added October 2026 from rounds.senate.gov primary sources; quote verified verbatim" },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Mike_Rounds_official_Senate_portrait.jpg/250px-Mike_Rounds_official_Senate_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mike_Rounds_official_Senate_portrait.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
+  }
 }

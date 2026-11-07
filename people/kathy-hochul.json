@@ -5,6 +5,14 @@
   "office_type": "governor",
   "state": "NY",
   "party": "D",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from New York's 26th district",
+      "from": "2011",
+      "to": "2013",
+      "source": "https://bioguide.congress.gov/search/bio/H001062"
+    }
+  ],
   "committees": [],
   "stance": "Signed and is implementing the RAISE Act frontier-model safety law and says states must act while the federal government does not.",
   "statements": [
@@ -50,10 +58,10 @@
     }
   ],
   "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kathy_Hochul%2C_November_2017.jpeg/250px-Kathy_Hochul%2C_November_2017.jpeg",
-    "page": "https://commons.wikimedia.org/wiki/File:Kathy_Hochul,_November_2017.jpeg",
-    "license": "CC BY-SA 4.0",
-    "artist": "KC Kratt"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/World_Cup_Transportation_and_Safety_%28cropped%29.jpg/250px-World_Cup_Transportation_and_Safety_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:World_Cup_Transportation_and_Safety_(cropped).jpg",
+    "license": "CC BY 4.0",
+    "artist": "Metropolitan Transportation Authority"
   },
   "review": {
     "status": "unreviewed",

@@ -22,5 +22,14 @@
       "outlet": "Congress.gov"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026 from peters.senate.gov legislation listing (S.5648)" }
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026 from peters.senate.gov legislation listing (S.5648)"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Gary_Peters_official_photo_115th_congress.jpg/250px-Gary_Peters_official_photo_115th_congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gary_Peters_official_photo_115th_congress.jpg",
+    "license": "Public domain",
+    "artist": "US Senate Photography"
+  }
 }

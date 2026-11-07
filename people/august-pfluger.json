@@ -45,5 +45,11 @@
   "review": {
     "status": "unreviewed",
     "note": "added October 2026 from pfluger.house.gov primary sources; quotes verified verbatim"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/August_Pfluger_official_photo.jpg/250px-August_Pfluger_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:August_Pfluger_official_photo.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
   }
 }
