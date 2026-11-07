@@ -5,6 +5,14 @@
   "office_type": "governor",
   "state": "MT",
   "party": "R",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Montana's at-large district",
+      "from": "2017",
+      "to": "2021",
+      "source": "https://bioguide.congress.gov/search/bio/G000584"
+    }
+  ],
   "committees": [],
   "stance": "Signed the Right to Compute Act limiting government restrictions on computation, which also requires a risk management policy for AI-controlled critical infrastructure.",
   "statements": [

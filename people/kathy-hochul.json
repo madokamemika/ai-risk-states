@@ -5,6 +5,14 @@
   "office_type": "governor",
   "state": "NY",
   "party": "D",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from New York's 26th district",
+      "from": "2011",
+      "to": "2013",
+      "source": "https://bioguide.congress.gov/search/bio/H001062"
+    }
+  ],
   "committees": [],
   "stance": "Signed and is implementing the RAISE Act frontier-model safety law and says states must act while the federal government does not.",
   "statements": [

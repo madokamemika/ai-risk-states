@@ -5,6 +5,14 @@
   "office_type": "governor",
   "state": "FL",
   "party": "R",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Florida's 6th district",
+      "from": "2013",
+      "to": "2018",
+      "source": "https://bioguide.congress.gov/search/bio/D000621"
+    }
+  ],
   "committees": [],
   "stance": "Opposes federal preemption of state AI laws, calling it a subsidy to Big Tech.",
   "statements": [

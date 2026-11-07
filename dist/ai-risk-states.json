@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05",
+ "generated": "2026-11-07",
  "bill_counts_asof": "2026-10-13",
  "bill_counts": {
   "AK": 3,
@@ -112,6 +112,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; record verified via the lead's primary release"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Gabe_Amo_118th_Cong.jpg/250px-Gabe_Amo_118th_Cong.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gabe_Amo_118th_Cong.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
    }
   },
   {
@@ -217,6 +223,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from ansari.house.gov primary source; Sept quote verified verbatim. Nov 2026 quote from her verified X post (@RepYassAnsari, status 2118054336077127797), matched verbatim against the post."
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Rep._Yassamin_Ansari_official_photo%2C_119th_Congress.jpg/250px-Rep._Yassamin_Ansari_official_photo%2C_119th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Yassamin_Ansari_official_photo,_119th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
    }
   },
   {
@@ -301,6 +313,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from baldwin.senate.gov primary sources; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/SenTammyBaldwin_%281%29.jpg/250px-SenTammyBaldwin_%281%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SenTammyBaldwin_(1).jpg",
+    "license": "Public domain",
+    "artist": "Sen. Tammy Baldwin"
    }
   },
   {
@@ -350,6 +368,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from banks.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Senator_Banks_Official_Portrait.jpg/250px-Senator_Banks_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Senator_Banks_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": null
    }
   },
   {
@@ -444,10 +468,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Michael_Bennet_Official_Photo.jpg/250px-Michael_Bennet_Official_Photo.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Michael_Bennet_Official_Photo.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Senator_Mike_Bennett.jpg/250px-Senator_Mike_Bennett.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Senator_Mike_Bennett.jpg",
     "license": "Public domain",
-    "artist": "US Senate"
+    "artist": "Senators Mike Bennett & Jon Ossoff"
    },
    "review": {
     "status": "unreviewed",
@@ -480,6 +504,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; record verified via the co-leads' primary release"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Ami_Bera_117th_Congress.jpeg/250px-Ami_Bera_117th_Congress.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ami_Bera_117th_Congress.jpeg",
+    "license": "Public domain",
+    "artist": "Ike Hayman, House Creative Services"
    }
   },
   {
@@ -539,6 +569,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from beyer.house.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Rep._Don_Beyer%2C_official_portrait_%28118th_Congress%29.jpg/250px-Rep._Don_Beyer%2C_official_portrait_%28118th_Congress%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Don_Beyer,_official_portrait_(118th_Congress).jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
    }
   },
   {
@@ -735,10 +771,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Richard_Blumenthal_Official_Portrait.jpg/250px-Richard_Blumenthal_Official_Portrait.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Richard_Blumenthal_Official_Portrait.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Richard_Blumenthal_in_2025.jpg/250px-Richard_Blumenthal_in_2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Richard_Blumenthal_in_2025.jpg",
     "license": "Public domain",
-    "artist": "United States Senate"
+    "artist": "U.S. Embassy Kyiv Ukraine"
    },
    "review": {
     "status": "unreviewed",
@@ -781,6 +817,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from bonamici.house.gov primary sources; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Suzanne_Bonamici.jpg/250px-Suzanne_Bonamici.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Suzanne_Bonamici.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Congress"
    }
   },
   {
@@ -990,6 +1032,14 @@
    "office_type": "state_ag",
    "state": "MD",
    "party": "D",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from Maryland's 4th district",
+     "from": "2017",
+     "to": "2023",
+     "source": "https://bioguide.congress.gov/search/bio/B001304"
+    }
+   ],
    "committees": [],
    "stance": "Signed multistate letters opposing preemption and urging federal frontier-AI safety rules.",
    "statements": [
@@ -1172,6 +1222,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from budd.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Senator_Ted_Budd_official_portrait.jpg/250px-Senator_Ted_Budd_official_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Senator_Ted_Budd_official_portrait.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate"
    }
   },
   {
@@ -1290,8 +1346,8 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Maria_Cantwell%2C_official_portrait%2C_110th_Congress.jpg/250px-Maria_Cantwell%2C_official_portrait%2C_110th_Congress.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Maria_Cantwell,_official_portrait,_110th_Congress.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Maria_Cantwell_%28cropped%29.jpg/250px-Maria_Cantwell_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Maria_Cantwell_(cropped).jpg",
     "license": "Public domain",
     "artist": "United States Senate"
    },
@@ -1338,6 +1394,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from capito.senate.gov primary sources (actions)"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Shelley_Moore_Capito_official_Senate_photo.jpg/250px-Shelley_Moore_Capito_official_Senate_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shelley_Moore_Capito_official_Senate_photo.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
    }
   },
   {
@@ -1515,6 +1577,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; letter signatures verified via the leads' primary releases"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Joaquin_Castro%2C_official_portrait%2C_118th_Congress.jpg/250px-Joaquin_Castro%2C_official_portrait%2C_118th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Joaquin_Castro,_official_portrait,_118th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "Nate Payne"
    }
   },
   {
@@ -1804,6 +1872,12 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/John_Cornyn.jpg/250px-John_Cornyn.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Cornyn.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate Photography Office"
    }
   },
   {
@@ -1854,6 +1928,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from cotton.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Tom_Cotton_official_Senate_photo.jpg/250px-Tom_Cotton_official_Senate_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tom_Cotton_official_Senate_photo.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photo Office"
    }
   },
   {
@@ -1970,6 +2050,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; cosponsorship verified via the lead sponsors' primary release"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Crawford_Rick_118th_Congress.jpg/250px-Crawford_Rick_118th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Crawford_Rick_118th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "Brendan O'Hara, House Creative Services"
    }
   },
   {
@@ -2094,6 +2180,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from curtis.senate.gov primary sources; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/John_Curtis%2C_official_portrait_%282026%29.jpg/250px-John_Curtis%2C_official_portrait_%282026%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Curtis,_official_portrait_(2026).jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photo Studio"
    }
   },
   {
@@ -2135,6 +2227,14 @@
    "office_type": "governor",
    "state": "FL",
    "party": "R",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from Florida's 6th district",
+     "from": "2013",
+     "to": "2018",
+     "source": "https://bioguide.congress.gov/search/bio/D000621"
+    }
+   ],
    "committees": [],
    "stance": "Opposes federal preemption of state AI laws, calling it a subsidy to Big Tech.",
    "statements": [
@@ -2180,10 +2280,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Ron_DeSantis_113th_Congress.jpg/250px-Ron_DeSantis_113th_Congress.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ron_DeSantis_113th_Congress.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Ron_DeSantis_official_photo.jpg/250px-Ron_DeSantis_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ron_DeSantis_official_photo.jpg",
     "license": "Public domain",
-    "artist": "United States Congress"
+    "artist": "Government of Florida"
    },
    "review": {
     "status": "unreviewed",
@@ -2223,6 +2323,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from house.gov primary source; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Rep._April_McClain_Delaney_Official_Portrait.jpg/250px-Rep._April_McClain_Delaney_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._April_McClain_Delaney_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "Ike Hayman, House Creative Services"
    }
   },
   {
@@ -2361,6 +2467,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from house.gov primary source; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Representative_Sarah_Elfreth_Official_Portrait.jpg/250px-Representative_Sarah_Elfreth_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Representative_Sarah_Elfreth_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
    }
   },
   {
@@ -2370,6 +2482,14 @@
    "office_type": "state_ag",
    "state": "MN",
    "party": "D",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from Minnesota's 5th district",
+     "from": "2007",
+     "to": "2019",
+     "source": "https://bioguide.congress.gov/search/bio/E000288"
+    }
+   ],
    "committees": [],
    "stance": "Wants Congress to regulate frontier AI development, keep state rules, and let state AGs enforce federal AI law.",
    "statements": [
@@ -2478,6 +2598,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from escobar.house.gov and the letters' primary releases; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Veronica_Escobar%2C_official_portrait_-_2021.jpg/250px-Veronica_Escobar%2C_official_portrait_-_2021.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Veronica_Escobar,_official_portrait_-_2021.jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
    }
   },
   {
@@ -2544,10 +2670,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Bob_Ferguson_03_crop.jpg/250px-Bob_Ferguson_03_crop.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bob_Ferguson_03_crop.jpg",
-    "license": "CC BY-SA 3.0",
-    "artist": "Joe Mabel\nderivative work: MagentaGreen"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bob_Ferguson_at_his_2023_Shrimp_Feed_02_%28cropped%29.jpg/250px-Bob_Ferguson_at_his_2023_Shrimp_Feed_02_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bob_Ferguson_at_his_2023_Shrimp_Feed_02_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Joe Mabel"
    },
    "review": {
     "status": "unreviewed",
@@ -2689,12 +2815,18 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; signature verified via the lead's primary release"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Brian_Fitzpatrick_official_congressional_photo.jpg/250px-Brian_Fitzpatrick_official_congressional_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brian_Fitzpatrick_official_congressional_photo.jpg",
+    "license": "Public domain",
+    "artist": "Kristie Boyd; U.S. House Office of Photography"
    }
   },
   {
    "id": "aaron-ford",
    "name": "Aaron Ford",
-   "office": "Attorney General of Nevada (2026 Democratic nominee for governor)",
+   "office": "Attorney General of Nevada",
    "office_type": "state_ag",
    "state": "NV",
    "party": "D",
@@ -2737,10 +2869,10 @@
     "note": "research pass, September 2026; not yet reviewed"
    },
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Aaron_D._Ford.jpg/250px-Aaron_D._Ford.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Aaron_D._Ford.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee%2C_October_17-18%2C_2023_1_%28cropped%29.jpg/250px-Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee%2C_October_17-18%2C_2023_1_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee,_October_17-18,_2023_1_(cropped).jpg",
     "license": "Public domain",
-    "artist": "United State Senate - the Office of Michael Bennet"
+    "artist": "United States Mission to Geneva, United States Department of State"
    }
   },
   {
@@ -2835,6 +2967,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from foster.house.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Bill_Foster_119th_Congress.jpg/250px-Bill_Foster_119th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bill_Foster_119th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
    }
   },
   {
@@ -2873,6 +3011,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; records verified via the leads' primary releases"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Valerie_Foushee_118th_Congress_3.jpg/250px-Valerie_Foushee_118th_Congress_3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Valerie_Foushee_118th_Congress_3.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
    }
   },
   {
@@ -2922,6 +3066,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Scott_Franklin%2C_117th_Congress_portrait.jpg/250px-Scott_Franklin%2C_117th_Congress_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Scott_Franklin,_117th_Congress_portrait.jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
    }
   },
   {
@@ -2967,6 +3117,14 @@
    "office_type": "governor",
    "state": "MT",
    "party": "R",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from Montana's at-large district",
+     "from": "2017",
+     "to": "2021",
+     "source": "https://bioguide.congress.gov/search/bio/G000584"
+    }
+   ],
    "committees": [],
    "stance": "Signed the Right to Compute Act limiting government restrictions on computation, which also requires a risk management policy for AI-controlled critical infrastructure.",
    "statements": [
@@ -2982,10 +3140,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Greg_Gianforte_crop.jpg/250px-Greg_Gianforte_crop.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Greg_Gianforte_crop.jpg",
-    "license": "CC BY 2.0",
-    "artist": "Jim Winstead from Los Angeles, CA, USA"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Greg_Gianforte_in_2025_%28cropped%29.jpg/250px-Greg_Gianforte_in_2025_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Greg_Gianforte_in_2025_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Gage Skidmore"
    },
    "review": {
     "status": "unreviewed",
@@ -3039,6 +3197,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from gillibrand.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kirsten_Gillibrand%2C_official_photo%2C_116th_Congress.jpg/250px-Kirsten_Gillibrand%2C_official_photo%2C_116th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kirsten_Gillibrand,_official_photo,_116th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "US Senate Photography"
    }
   },
   {
@@ -3172,10 +3336,25 @@
   {
    "id": "lindsey-graham",
    "name": "Lindsey Graham",
-   "office": "U.S. Senator from South Carolina",
+   "office": "U.S. Senator from South Carolina until 11 July 2026",
    "office_type": "us_senator",
    "state": "SC",
+   "left_office": "2026-07-11",
    "party": "R",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from South Carolina's 3rd district",
+     "from": "1995",
+     "to": "2003",
+     "source": "https://bioguide.congress.gov/search/bio/G000359"
+    },
+    {
+     "office": "U.S. Senator from South Carolina",
+     "from": "2003",
+     "to": "2026",
+     "source": "https://bioguide.congress.gov/search/bio/G000359"
+    }
+   ],
    "committees": [
     "Senate Judiciary",
     "Senate Appropriations",
@@ -3207,6 +3386,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; agency-regulation record verified via co-signer warren.senate.gov; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/U.S._Senator_Lindsey_Graham%2C_Official_Photo%2C_113th_Congress_%283x4_cropped%29.jpg/250px-U.S._Senator_Lindsey_Graham%2C_Official_Photo%2C_113th_Congress_%283x4_cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:U.S._Senator_Lindsey_Graham,_Official_Photo,_113th_Congress_(3x4_cropped).jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photo Office, Brett Flashnick"
    }
   },
   {
@@ -3258,6 +3443,14 @@
    "office_type": "state_ag",
    "state": "AR",
    "party": "R",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from Arkansas's 2nd district",
+     "from": "2011",
+     "to": "2015",
+     "source": "https://bioguide.congress.gov/search/bio/G000567"
+    }
+   ],
    "committees": [],
    "stance": "Pursues AI harms to minors through consumer-protection litigation and joined the multistate AG child-safety letter; no frontier-risk action found.",
    "statements": [
@@ -3316,6 +3509,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; letter signature verified via the lead's primary release"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Congresswoman_Adelita_Grijalva_Official_Portrait.jpg/250px-Congresswoman_Adelita_Grijalva_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Congresswoman_Adelita_Grijalva_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "Damien Salas, Office of the Clerk U.S.House of Representatives"
    }
   },
   {
@@ -3436,10 +3635,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Catherine_Hanaway_Gov._Debate.jpg/250px-Catherine_Hanaway_Gov._Debate.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Catherine_Hanaway_Gov._Debate.jpg",
-    "license": "CC BY-SA 4.0",
-    "artist": "Mark Schierbecker"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Attorney_General_of_Missouri_Catherine_Lucille_Hanaway.jpg/250px-Attorney_General_of_Missouri_Catherine_Lucille_Hanaway.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Attorney_General_of_Missouri_Catherine_Lucille_Hanaway.jpg",
+    "license": "Public domain",
+    "artist": "Missouri State Archives"
    },
    "review": {
     "status": "unreviewed",
@@ -3595,10 +3794,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Maura_Healey_Official_Campaign_photo.jpeg/250px-Maura_Healey_Official_Campaign_photo.jpeg",
-    "page": "https://commons.wikimedia.org/wiki/File:Maura_Healey_Official_Campaign_photo.jpeg",
-    "license": "CC BY-SA 3.0",
-    "artist": "Zgreenblatt"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Maura_Healey%2C_official_portrait%2C_governor.jpg/250px-Maura_Healey%2C_official_portrait%2C_governor.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Maura_Healey,_official_portrait,_governor.jpg",
+    "license": "Public domain",
+    "artist": "Governors office"
    },
    "review": {
     "status": "unreviewed",
@@ -3675,6 +3874,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from heinrich.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Heinrich_Official_Headshot_2019.jpg/250px-Heinrich_Official_Headshot_2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Heinrich_Official_Headshot_2019.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate"
    }
   },
   {
@@ -3763,6 +3968,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from hickenlooper.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/John_Hickenlooper%2C_official_portrait%2C_117th_Congress.jpeg/250px-John_Hickenlooper%2C_official_portrait%2C_117th_Congress.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Hickenlooper,_official_portrait,_117th_Congress.jpeg",
+    "license": "Public domain",
+    "artist": "Renee Bouchard, United States Senate Photographic Studio"
    }
   },
   {
@@ -3829,10 +4040,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Katie_Hobbs_by_Gage_Skidmore.jpg/250px-Katie_Hobbs_by_Gage_Skidmore.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Katie_Hobbs_by_Gage_Skidmore.jpg",
-    "license": "CC BY-SA 3.0",
-    "artist": "Gage Skidmore"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Katie_Hobbs_2026.jpg/250px-Katie_Hobbs_2026.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Katie_Hobbs_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Gage Skidmore from Surprise, AZ, United States of America"
    },
    "review": {
     "status": "unreviewed",
@@ -3846,6 +4057,14 @@
    "office_type": "governor",
    "state": "NY",
    "party": "D",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from New York's 26th district",
+     "from": "2011",
+     "to": "2013",
+     "source": "https://bioguide.congress.gov/search/bio/H001062"
+    }
+   ],
    "committees": [],
    "stance": "Signed and is implementing the RAISE Act frontier-model safety law and says states must act while the federal government does not.",
    "statements": [
@@ -3891,10 +4110,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kathy_Hochul%2C_November_2017.jpeg/250px-Kathy_Hochul%2C_November_2017.jpeg",
-    "page": "https://commons.wikimedia.org/wiki/File:Kathy_Hochul,_November_2017.jpeg",
-    "license": "CC BY-SA 4.0",
-    "artist": "KC Kratt"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/World_Cup_Transportation_and_Safety_%28cropped%29.jpg/250px-World_Cup_Transportation_and_Safety_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:World_Cup_Transportation_and_Safety_(cropped).jpg",
+    "license": "CC BY 4.0",
+    "artist": "Metropolitan Transportation Authority"
    },
    "review": {
     "status": "unreviewed",
@@ -3949,6 +4168,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from vanhollen.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Chris_Van_Hollen_official_portrait_115th_Congress.jpg/250px-Chris_Van_Hollen_official_portrait_115th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chris_Van_Hollen_official_portrait_115th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photographic Studio"
    }
   },
   {
@@ -3997,6 +4222,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Rep._Erin_Houchin_official_photo%2C_118th_Congress.jpg/250px-Rep._Erin_Houchin_official_photo%2C_118th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Erin_Houchin_official_photo,_118th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
    }
   },
   {
@@ -4080,6 +4311,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from house.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Rep._Bill_Huizenga_-_118th_Congress_%28portrait_crop%29.jpg/250px-Rep._Bill_Huizenga_-_118th_Congress_%28portrait_crop%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Bill_Huizenga_-_118th_Congress_(portrait_crop).jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
    }
   },
   {
@@ -4168,10 +4405,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Portrait-Governor-Kay-Ivey_%28cropped_2%29.jpg/250px-Portrait-Governor-Kay-Ivey_%28cropped_2%29.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Portrait-Governor-Kay-Ivey_(cropped_2).jpg",
-    "license": "CC BY-SA 4.0",
-    "artist": "Photo by ROBIN COOPER"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Kay_Ivey_%282026%29.jpg/250px-Kay_Ivey_%282026%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kay_Ivey_(2026).jpg",
+    "license": "Public domain",
+    "artist": "The Redstone Rocket"
    },
    "review": {
     "status": "unreviewed",
@@ -4217,6 +4454,14 @@
    "office_type": "state_ag",
    "state": "NC",
    "party": "D",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from North Carolina's 14th district",
+     "from": "2023",
+     "to": "2024",
+     "source": "https://bioguide.congress.gov/search/bio/J000308"
+    }
+   ],
    "committees": [
     "Co-chair, Attorney General Alliance AI Task Force"
    ],
@@ -4351,6 +4596,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from sarajacobs.house.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Representative_Sara_Jacobs_full_portrait.jpg/250px-Representative_Sara_Jacobs_full_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Representative_Sara_Jacobs_full_portrait.jpg",
+    "license": "Public domain",
+    "artist": "Kristie Baxter"
    }
   },
   {
@@ -4441,6 +4692,12 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Rep-Hakeem-Jeffries-Official-Portrait_%28cropped%29.jpg/250px-Rep-Hakeem-Jeffries-Official-Portrait_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep-Hakeem-Jeffries-Official-Portrait_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "Office of Representative Hakeem Jeffries"
    }
   },
   {
@@ -4549,10 +4806,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Mike_Johnson%2C_official_portrait%2C_116th_Congress.jpg/250px-Mike_Johnson%2C_official_portrait%2C_116th_Congress.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mike_Johnson,_official_portrait,_116th_Congress.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Speaker_Mike_Johnson_Official_Portrait_%28cropped%29%28b%29.jpg/250px-Speaker_Mike_Johnson_Official_Portrait_%28cropped%29%28b%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Speaker_Mike_Johnson_Official_Portrait_(cropped)(b).jpg",
     "license": "Public domain",
-    "artist": "U.S. House Office of Photography/House Creative Services"
+    "artist": "United States Congress"
    },
    "review": {
     "status": "unreviewed",
@@ -4640,6 +4897,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from kaine.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tim_Kaine%2C_official_portrait_%28119th_Congress%29.jpg/250px-Tim_Kaine%2C_official_portrait_%28119th_Congress%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tim_Kaine,_official_portrait_(119th_Congress).jpg",
+    "license": "Public domain",
+    "artist": "Rosa Pineda"
    }
   },
   {
@@ -4730,6 +4993,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from kelly.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mark_Kelly_Official_Portrait_119th.jpg/250px-Mark_Kelly_Official_Portrait_119th.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mark_Kelly_Official_Portrait_119th.jpg",
+    "license": "Public domain",
+    "artist": "John Shinkle, U.S. Senate Photographic Services"
    }
   },
   {
@@ -4764,10 +5033,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/David_Perdue_and_Brian_Kemp_%28cropped%29.jpg/250px-David_Perdue_and_Brian_Kemp_%28cropped%29.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:David_Perdue_and_Brian_Kemp_(cropped).jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Brian_Kemp_portrait%2C_2024_%28cropped%29_%28cropped%29.jpg/250px-Brian_Kemp_portrait%2C_2024_%28cropped%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brian_Kemp_portrait,_2024_(cropped)_(cropped).jpg",
     "license": "Public domain",
-    "artist": "Office of U.S. Senator David Perdue"
+    "artist": "Governor's Photographer, Office of Governor Brian P. Kemp"
    },
    "review": {
     "status": "unreviewed",
@@ -4899,7 +5168,7 @@
    "office": "U.S. Representative from California",
    "office_type": "us_rep",
    "state": "CA",
-   "party": "R",
+   "party": "I",
    "stance": "Bipartisan co-lead on U.S.-China frontier-AI safety coordination and verification.",
    "statements": [
     {
@@ -4916,6 +5185,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; record verified via the co-lead's primary release"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Rep._Kevin_Kiley_official_photo%2C_118th_Congress_2.jpg/250px-Rep._Kevin_Kiley_official_photo%2C_118th_Congress_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Kevin_Kiley_official_photo,_118th_Congress_2.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
    }
   },
   {
@@ -4997,6 +5272,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from king.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Angus_King%2C_official_portrait%2C_113th_Congress.jpg/250px-Angus_King%2C_official_portrait%2C_113th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Angus_King,_official_portrait,_113th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate"
    }
   },
   {
@@ -5088,6 +5369,12 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Austin_Knudsen.jpg/250px-Austin_Knudsen.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Austin_Knudsen.jpg",
+    "license": "CC BY 4.0",
+    "artist": "Putitonamap98"
    }
   },
   {
@@ -5282,6 +5569,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; Chip Security Act record verified via the co-leads' primary release; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Raja_Krishnamoorthi_116th_Congress.jpg/250px-Raja_Krishnamoorthi_116th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raja_Krishnamoorthi_116th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "US Congress"
    }
   },
   {
@@ -5311,6 +5604,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; cosponsorship verified via the lead sponsors' primary release"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Darin_LaHood_official_photo.jpg/250px-Darin_LaHood_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Darin_LaHood_official_photo.jpg",
+    "license": "Public domain",
+    "artist": "United States House of Representatives Office of Photography"
    }
   },
   {
@@ -5320,6 +5619,14 @@
    "office_type": "state_ag",
    "state": "ID",
    "party": "R",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from Idaho's 1st district",
+     "from": "2011",
+     "to": "2019",
+     "source": "https://bioguide.congress.gov/search/bio/L000573"
+    }
+   ],
    "committees": [],
    "stance": "Opposes federal bans on state AI laws and joined Republican AGs demanding OpenAI halt risky exploitation testing after its agent escaped containment.",
    "statements": [
@@ -5404,6 +5711,14 @@
    "office_type": "governor",
    "state": "LA",
    "party": "R",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from Louisiana's 3rd district",
+     "from": "2011",
+     "to": "2013",
+     "source": "https://bioguide.congress.gov/search/bio/L000574"
+    }
+   ],
    "committees": [],
    "stance": "Signed the 2025 governors' letter against a federal moratorium, but his office did not deny pressing legislators to shelve 2026 AI bills after Trump's funding threat.",
    "statements": [
@@ -5481,10 +5796,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/James_Lankford%2C_Official_Portrait%2C_112th_Congress.jpg/250px-James_Lankford%2C_Official_Portrait%2C_112th_Congress.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:James_Lankford,_Official_Portrait,_112th_Congress.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/James_Lankford_official_portrait%2C_118th_Congress_%28mid-cropped_2%29.jpg/250px-James_Lankford_official_portrait%2C_118th_Congress_%28mid-cropped_2%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:James_Lankford_official_portrait,_118th_Congress_(mid-cropped_2).jpg",
     "license": "Public domain",
-    "artist": "US House of Representatives"
+    "artist": "United States Senate"
    },
    "review": {
     "status": "unreviewed",
@@ -5549,10 +5864,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Michael_Lawler_%28cropped%29.jpg/250px-Michael_Lawler_%28cropped%29.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Michael_Lawler_(cropped).jpg",
-    "license": "CC BY 2.0",
-    "artist": "New York State Young Republicans"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Rep._Mike_Lawler_official_photo.jpg/250px-Rep._Mike_Lawler_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Mike_Lawler_official_photo.jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
    },
    "review": {
     "status": "unreviewed",
@@ -5647,10 +5962,10 @@
     "note": "research pass, September 2026; not yet reviewed"
    },
    "photo": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Tom_Leek.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tom_Leek.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Senator_Tom_Leek_%28Official_portrait%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Senator_Tom_Leek_(Official_portrait).jpg",
     "license": "Public domain",
-    "artist": "Florida House of Representatives"
+    "artist": "Florida Senate"
    }
   },
   {
@@ -5696,6 +6011,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from liccardo.house.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Liccardo_Sam_119th_Congress_%28cropped%29.jpg/250px-Liccardo_Sam_119th_Congress_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Liccardo_Sam_119th_Congress_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "Ike Hayman, House Creative Services"
    }
   },
   {
@@ -5887,6 +6208,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from lofgren.house.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Zoe_Lofgren_Official_Portrait_2024.jpeg/250px-Zoe_Lofgren_Official_Portrait_2024.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Zoe_Lofgren_Official_Portrait_2024.jpeg",
+    "license": "Public domain",
+    "artist": "Brian Thorpe, House Creative Services"
    }
   },
   {
@@ -5911,10 +6238,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Jonathan_Carrington_receives_certificate_from_Joseph_Lombardo_%28cropped%29.jpg/250px-Jonathan_Carrington_receives_certificate_from_Joseph_Lombardo_%28cropped%29.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Jonathan_Carrington_receives_certificate_from_Joseph_Lombardo_(cropped).jpg",
-    "license": "Public domain",
-    "artist": "U.S. Air Force photo/Maj. Jessica D'Ambrosio"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Joe_Lombardo_by_Gage_Skidmore.jpg/250px-Joe_Lombardo_by_Gage_Skidmore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Lombardo_by_Gage_Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Gage Skidmore"
    },
    "review": {
     "status": "unreviewed",
@@ -5994,6 +6321,12 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Anna_Paulina_Luna.jpg/250px-Anna_Paulina_Luna.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Anna_Paulina_Luna.jpg",
+    "license": "Public domain",
+    "artist": "US House of Representatives"
    }
   },
   {
@@ -6099,6 +6432,12 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Del._Michelle_Maldonado%2C_2024.jpg/250px-Del._Michelle_Maldonado%2C_2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Del._Michelle_Maldonado,_2024.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Virginia Office of the Governor"
    }
   },
   {
@@ -6145,10 +6484,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Ed_Markey%2C_Official_Portrait%2C_112th_Congress_2.jpg/250px-Ed_Markey%2C_Official_Portrait%2C_112th_Congress_2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ed_Markey,_Official_Portrait,_112th_Congress_2.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Edward_Markey%2C_official_portrait%2C_114th_Congress.jpg/250px-Edward_Markey%2C_official_portrait%2C_114th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Edward_Markey,_official_portrait,_114th_Congress.jpg",
     "license": "Public domain",
-    "artist": "U.S. House of Representatives"
+    "artist": "U.S. Senate Photographic Studio-Rebecca Hammel"
    },
    "review": {
     "status": "unreviewed",
@@ -6269,6 +6608,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from cortezmasto.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/%28D-NV%29_Senator_Catherine_Cortez_Masto_Official_Portrait.jpg/250px-%28D-NV%29_Senator_Catherine_Cortez_Masto_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:(D-NV)_Senator_Catherine_Cortez_Masto_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photographic Studio"
    }
   },
   {
@@ -6469,6 +6814,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; record verified via the co-leads' primary release"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Gregory_Meeks%2C_official_portrait%2C_115th_congress_%283x4_cropped%29.jpg/250px-Gregory_Meeks%2C_official_portrait%2C_115th_congress_%283x4_cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gregory_Meeks,_official_portrait,_115th_congress_(3x4_cropped).jpg",
+    "license": "Public domain",
+    "artist": "Kristie Boyd, Official House Photographer/U.S. House Office of Photoraphy"
    }
   },
   {
@@ -6508,6 +6859,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from house.gov primary source; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Maryland_Congressman_Kweisi_Mfume%2C_117th_Congress.jpg/250px-Maryland_Congressman_Kweisi_Mfume%2C_117th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Maryland_Congressman_Kweisi_Mfume,_117th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
    }
   },
   {
@@ -6547,6 +6904,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; Chip Security Act record verified via the co-leads' primary release; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/John_Moolenaar_portrait_%28118th_Congress%29.jpg/250px-John_Moolenaar_portrait_%28118th_Congress%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Moolenaar_portrait_(118th_Congress).jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
    }
   },
   {
@@ -6613,10 +6976,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Wes_Moore_credit_Amunankhra_House_Ltd.jpg/250px-Wes_Moore_credit_Amunankhra_House_Ltd.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wes_Moore_credit_Amunankhra_House_Ltd.jpg",
-    "license": "CC BY 3.0",
-    "artist": "Amunankhra House Ltd."
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Wes_Moore_Official_Governor_Portrait.jpg/250px-Wes_Moore_Official_Governor_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wes_Moore_Official_Governor_Portrait.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Maryland State Government"
    },
    "review": {
     "status": "unreviewed",
@@ -6697,10 +7060,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Patrick_Morrisey_by_Gage_Skidmore.jpg/250px-Patrick_Morrisey_by_Gage_Skidmore.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Patrick_Morrisey_by_Gage_Skidmore.jpg",
-    "license": "CC BY-SA 3.0",
-    "artist": "Gage Skidmore"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Patrick_Morrisey_2026_%28cropped%29.jpg/250px-Patrick_Morrisey_2026_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Patrick_Morrisey_2026_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "U.S. Department of the Interior"
    },
    "review": {
     "status": "unreviewed",
@@ -6729,10 +7092,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/207-DP-10267B_20121116-20121201-SOHUD-NY-Trip102_Raj_Mukherji.jpg/250px-207-DP-10267B_20121116-20121201-SOHUD-NY-Trip102_Raj_Mukherji.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:207-DP-10267B_20121116-20121201-SOHUD-NY-Trip102_Raj_Mukherji.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Ceremonial_check_presentation_at_Jersey_City_Armory_Raj_Mukherji_%28cropped%29.jpg/250px-Ceremonial_check_presentation_at_Jersey_City_Armory_Raj_Mukherji_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ceremonial_check_presentation_at_Jersey_City_Armory_Raj_Mukherji_(cropped).jpg",
     "license": "Public domain",
-    "artist": "Department of Housing and Urban Development"
+    "artist": "New Jersey Department of Military and Veterans Affairs"
    },
    "review": {
     "status": "unreviewed",
@@ -6814,6 +7177,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from murray.senate.gov / kaine.senate.gov primary sources"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Patty_Murray%2C_official_portrait%2C_113th_Congress.jpg/250px-Patty_Murray%2C_official_portrait%2C_113th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Patty_Murray,_official_portrait,_113th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Senate"
    }
   },
   {
@@ -7030,10 +7399,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Gavin_Newsom_official_photo.jpg/250px-Gavin_Newsom_official_photo.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Gavin_Newsom_official_photo.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Governor_of_California_Gavin_Newsom_%28cropped_3x4%29.jpg/250px-Governor_of_California_Gavin_Newsom_%28cropped_3x4%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Governor_of_California_Gavin_Newsom_(cropped_3x4).jpg",
     "license": "Public domain",
-    "artist": "Office of the Lieutenant Governor of California"
+    "artist": "Charles Ommanney – Office of the Governor of California"
    },
    "review": {
     "status": "unreviewed",
@@ -7182,6 +7551,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from house.gov primary sources; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Alexandria_Ocasio-Cortez_Official_Portrait.jpg/250px-Alexandria_Ocasio-Cortez_Official_Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alexandria_Ocasio-Cortez_Official_Portrait.jpg",
+    "license": "Public domain",
+    "artist": "Franmarie Metzler; U.S. House Office of Photography"
    }
   },
   {
@@ -7232,6 +7607,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from ossoff.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Jon_Ossoff_Senate_Portrait_2021.jpg/250px-Jon_Ossoff_Senate_Portrait_2021.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jon_Ossoff_Senate_Portrait_2021.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photographic Studio"
    }
   },
   {
@@ -7323,9 +7704,10 @@
   {
    "id": "daniel-perez",
    "name": "Daniel Perez",
-   "office": "Speaker of the Florida House of Representatives",
+   "office": "Speaker of the Florida House of Representatives until 21 August 2026",
    "office_type": "state_rep",
    "state": "FL",
+   "left_office": "2026-08-21",
    "party": "R",
    "committees": [
     "Speaker of the House"
@@ -7358,10 +7740,10 @@
     "note": "research pass, September 2026; not yet reviewed"
    },
    "photo": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Florida_State_Rep_Daniel_Perez.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Florida_State_Rep_Daniel_Perez.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Official_Portrait_of_Daniel_Perez.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Official_Portrait_of_Daniel_Perez.jpg",
     "license": "Public domain",
-    "artist": "Florida House of Representatives"
+    "artist": "Florida House of Represenatives"
    }
   },
   {
@@ -7391,6 +7773,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from peters.senate.gov legislation listing (S.5648)"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Gary_Peters_official_photo_115th_congress.jpg/250px-Gary_Peters_official_photo_115th_congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gary_Peters_official_photo_115th_congress.jpg",
+    "license": "Public domain",
+    "artist": "US Senate Photography"
    }
   },
   {
@@ -7439,6 +7827,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Scott_Peters_official_portrait_116th_Congress.jpg/250px-Scott_Peters_official_portrait_116th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Scott_Peters_official_portrait_116th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "US House Office of Photography"
    }
   },
   {
@@ -7488,6 +7882,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from pfluger.house.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/August_Pfluger_official_photo.jpg/250px-August_Pfluger_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:August_Pfluger_official_photo.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
    }
   },
   {
@@ -7587,6 +7987,14 @@
    "office_type": "governor",
    "state": "CO",
    "party": "D",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from Colorado's 2nd district",
+     "from": "2009",
+     "to": "2019",
+     "source": "https://bioguide.congress.gov/search/bio/P000598"
+    }
+   ],
    "committees": [],
    "stance": "Signed and then narrowed Colorado's algorithmic-discrimination AI law, and supports federal preemption of state AI laws for several years in favor of a national framework.",
    "statements": [
@@ -7622,10 +8030,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Jared_Polis_Official_2012.jpg/250px-Jared_Polis_Official_2012.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Jared_Polis_Official_2012.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Jared_Polis_in_2026.jpg/250px-Jared_Polis_in_2026.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jared_Polis_in_2026.jpg",
     "license": "Public domain",
-    "artist": "Office of Congressman Jared Polis"
+    "artist": "U.S. Department of the Interior"
    },
    "review": {
     "status": "unreviewed",
@@ -7884,10 +8292,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Kim_Reynolds_-_Official_Portrait_-_83rd_GA.jpg/250px-Kim_Reynolds_-_Official_Portrait_-_83rd_GA.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Kim_Reynolds_-_Official_Portrait_-_83rd_GA.jpg",
-    "license": "Copyrighted free use",
-    "artist": "Iowa General Assembly"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Kim_Reynolds_by_Gage_Skidmore_2.jpg/250px-Kim_Reynolds_by_Gage_Skidmore_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kim_Reynolds_by_Gage_Skidmore_2.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Gage Skidmore"
    },
    "review": {
     "status": "unreviewed",
@@ -7930,6 +8338,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from ricketts.senate.gov primary sources; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Sen._Pete_Ricketts_official_portrait%2C_118th_Congress.jpg/250px-Sen._Pete_Ricketts_official_portrait%2C_118th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sen._Pete_Ricketts_official_portrait,_118th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
    }
   },
   {
@@ -7999,6 +8413,14 @@
    "office_type": "state_ag",
    "state": "IN",
    "party": "R",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from Indiana's 4th district",
+     "from": "2011",
+     "to": "2019",
+     "source": "https://bioguide.congress.gov/search/bio/R000592"
+    }
+   ],
    "committees": [],
    "stance": "Joined the Iowa-led demand that OpenAI account for its agents escaping a test environment, and opposed a federal ban on state AI laws.",
    "statements": [
@@ -8081,6 +8503,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from rosen.senate.gov primary sources; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Senator_Jacky_Rosen_Official_Portrait_%282022%29.jpg/250px-Senator_Jacky_Rosen_Official_Portrait_%282022%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Senator_Jacky_Rosen_Official_Portrait_(2022).jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photographic Studio"
    }
   },
   {
@@ -8195,6 +8623,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from rounds.senate.gov primary sources; quote verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Mike_Rounds_official_Senate_portrait.jpg/250px-Mike_Rounds_official_Senate_portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mike_Rounds_official_Senate_portrait.jpg",
+    "license": "Public domain",
+    "artist": "United States Congress"
    }
   },
   {
@@ -8551,6 +8985,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from schiff.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Schiff_Adam_119th_Congress.jpg/250px-Schiff_Adam_119th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Schiff_Adam_119th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "U.S. Senate Photographic Studio"
    }
   },
   {
@@ -8665,6 +9105,12 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Official_Portrait_of_Senator_Rick_Scott_%28R-FL%29.jpg/250px-Official_Portrait_of_Senator_Rick_Scott_%28R-FL%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Official_Portrait_of_Senator_Rick_Scott_(R-FL).jpg",
+    "license": "Public domain",
+    "artist": "United States Senate Photographic Studio"
    }
   },
   {
@@ -8725,10 +9171,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Josh_Shapiro_in_2019.jpg/250px-Josh_Shapiro_in_2019.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Josh_Shapiro_in_2019.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Gov._Shapiro.jpg/250px-Gov._Shapiro.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gov._Shapiro.jpg",
     "license": "CC BY 2.0",
-    "artist": "Governor Tom Wolf from Harrisburg, PA"
+    "artist": "Maryland GovPics"
    },
    "review": {
     "status": "unreviewed",
@@ -8762,6 +9208,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; record verified via the co-lead's primary release"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Brad_Sherman_portrait_%28118th_Congress%29.jpg/250px-Brad_Sherman_portrait_%28118th_Congress%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brad_Sherman_portrait_(118th_Congress).jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
    }
   },
   {
@@ -8891,6 +9343,14 @@
    "office_type": "governor",
    "state": "VA",
    "party": "D",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from Virginia's 7th district",
+     "from": "2019",
+     "to": "2025",
+     "source": "https://bioguide.congress.gov/search/bio/S001209"
+    }
+   ],
    "committees": [],
    "stance": "Asks Congress for national AI guardrails while creating a state AI task force; says states act only within limited jurisdiction absent federal action.",
    "statements": [
@@ -8949,6 +9409,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; letter signature verified via the lead's primary release"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Melanie_Stansbury_117th_Congress.jpg/250px-Melanie_Stansbury_117th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Melanie_Stansbury_117th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "U.S. House of Representatives"
    }
   },
   {
@@ -8974,6 +9440,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; letter signature verified via the leads' primary release"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Greg_Stanton_119th_Congress.jpg/250px-Greg_Stanton_119th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Greg_Stanton_119th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
    }
   },
   {
@@ -9064,6 +9536,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; FRONTIER Act record verified via the lead sponsors' primary release; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Subramayam_Suhas_119th_Congress_2.jpg/250px-Subramayam_Suhas_119th_Congress_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Subramayam_Suhas_119th_Congress_2.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
    }
   },
   {
@@ -9206,6 +9684,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026; letter signatures verified via the leads' primary releases"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Dina_Titus_official_photo.jpg/250px-Dina_Titus_official_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dina_Titus_official_photo.jpg",
+    "license": "Public domain",
+    "artist": "US House Office of Photography"
    }
   },
   {
@@ -9593,6 +10077,14 @@
    "office_type": "federal_exec",
    "state": null,
    "party": "R",
+   "former_congress": [
+    {
+     "office": "U.S. Senator from Ohio",
+     "from": "2023",
+     "to": "2025",
+     "source": "https://bioguide.congress.gov/search/bio/V000137"
+    }
+   ],
    "committees": [],
    "stance": "Opposes safety-first AI regulation and treats frontier labs' requests for regulation as possible regulatory capture.",
    "statements": [
@@ -9693,6 +10185,14 @@
    "office_type": "governor",
    "state": "MN",
    "party": "D",
+   "former_congress": [
+    {
+     "office": "U.S. Representative from Minnesota's 1st district",
+     "from": "2007",
+     "to": "2019",
+     "source": "https://bioguide.congress.gov/search/bio/W000799"
+    }
+   ],
    "committees": [],
    "stance": "Signed Minnesota’s AI nudification ban.",
    "statements": [
@@ -9712,10 +10212,10 @@
     "note": "research pass, September 2026; not yet reviewed"
    },
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Tim_Walz_official_photo.jpg/250px-Tim_Walz_official_photo.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tim_Walz_official_photo.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Governor_Tim_Walz_2026.jpg/250px-Governor_Tim_Walz_2026.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Governor_Tim_Walz_2026.jpg",
     "license": "Public domain",
-    "artist": "United States Congress"
+    "artist": "Office of Governor Tim Walz & Lt. Governor Peggy Flanagan"
    }
   },
   {
@@ -9767,6 +10267,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from warner.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Mark_Warner_2025.jpg/250px-Mark_Warner_2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mark_Warner_2025.jpg",
+    "license": "Public domain",
+    "artist": "Ryan Donnell"
    }
   },
   {
@@ -9817,6 +10323,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from warren.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Elizabeth_Warren_by_Gage_Skidmore.jpg/250px-Elizabeth_Warren_by_Gage_Skidmore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Warren_by_Gage_Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Gage Skidmore"
    }
   },
   {
@@ -10000,10 +10512,10 @@
     }
    ],
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Peter_Welch%2C_official_110th_Congress_photo_2.jpg/250px-Peter_Welch%2C_official_110th_Congress_photo_2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Peter_Welch,_official_110th_Congress_photo_2.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Peter_Welch_official_Senate_photo.jpg/250px-Peter_Welch_official_Senate_photo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Peter_Welch_official_Senate_photo.jpg",
     "license": "Public domain",
-    "artist": "United States Congress"
+    "artist": "United States Senate"
    },
    "review": {
     "status": "unreviewed",
@@ -10092,6 +10604,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from whitesides.house.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/George_T._Whitesides%2C_official_portrait_%28119th_Congress%29_%281%29.jpg/250px-George_T._Whitesides%2C_official_portrait_%28119th_Congress%29_%281%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:George_T._Whitesides,_official_portrait_(119th_Congress)_(1).jpg",
+    "license": "Public domain",
+    "artist": "Ike Hayman"
    }
   },
   {
@@ -10202,10 +10720,10 @@
     "note": "research pass, September 2026; not yet reviewed"
    },
    "photo": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/JAG_Passing_Alan_Wilson.jpg/250px-JAG_Passing_Alan_Wilson.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:JAG_Passing_Alan_Wilson.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Alan_Wilson_in_August_2025.jpg/250px-Alan_Wilson_in_August_2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alan_Wilson_in_August_2025.jpg",
     "license": "Public domain",
-    "artist": "SC National Guard"
+    "artist": "U.S. House of Representatives"
    }
   },
   {
@@ -10243,9 +10761,10 @@
   {
    "id": "dave-yost",
    "name": "Dave Yost",
-   "office": "Attorney General of Ohio",
+   "office": "Attorney General of Ohio until 7 June 2026",
    "office_type": "state_ag",
    "state": "OH",
+   "left_office": "2026-06-07",
    "party": "R",
    "committees": [],
    "stance": "Has joined bipartisan AG letters against federal preemption of state AI laws and on chatbot harms to children.",
@@ -10338,6 +10857,12 @@
    "review": {
     "status": "unreviewed",
     "note": "added October 2026 from young.senate.gov primary sources; quotes verified verbatim"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Sen._Todd_Young_official_photo_%28slight_crop_2%29.jpg/250px-Sen._Todd_Young_official_photo_%28slight_crop_2%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sen._Todd_Young_official_photo_(slight_crop_2).jpg",
+    "license": "Public domain",
+    "artist": "Rebecca Hammel, U.S. Senate Photographic Services"
    }
   },
   {

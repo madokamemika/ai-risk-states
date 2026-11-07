@@ -5,6 +5,14 @@
   "office_type": "governor",
   "state": "LA",
   "party": "R",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Louisiana's 3rd district",
+      "from": "2011",
+      "to": "2013",
+      "source": "https://bioguide.congress.gov/search/bio/L000574"
+    }
+  ],
   "committees": [],
   "stance": "Signed the 2025 governors' letter against a federal moratorium, but his office did not deny pressing legislators to shelve 2026 AI bills after Trump's funding threat.",
   "statements": [

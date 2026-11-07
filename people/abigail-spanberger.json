@@ -5,6 +5,14 @@
   "office_type": "governor",
   "state": "VA",
   "party": "D",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Virginia's 7th district",
+      "from": "2019",
+      "to": "2025",
+      "source": "https://bioguide.congress.gov/search/bio/S001209"
+    }
+  ],
   "committees": [],
   "stance": "Asks Congress for national AI guardrails while creating a state AI task force; says states act only within limited jurisdiction absent federal action.",
   "statements": [

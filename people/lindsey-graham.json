@@ -6,6 +6,20 @@
   "state": "SC",
   "left_office": "2026-07-11",
   "party": "R",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from South Carolina's 3rd district",
+      "from": "1995",
+      "to": "2003",
+      "source": "https://bioguide.congress.gov/search/bio/G000359"
+    },
+    {
+      "office": "U.S. Senator from South Carolina",
+      "from": "2003",
+      "to": "2026",
+      "source": "https://bioguide.congress.gov/search/bio/G000359"
+    }
+  ],
   "committees": [
     "Senate Judiciary",
     "Senate Appropriations",
@@ -34,7 +48,10 @@
       "outlet": "Office of Sen. Warren"
     }
   ],
-  "review": { "status": "unreviewed", "note": "added October 2026; agency-regulation record verified via co-signer warren.senate.gov; quote verified verbatim" },
+  "review": {
+    "status": "unreviewed",
+    "note": "added October 2026; agency-regulation record verified via co-signer warren.senate.gov; quote verified verbatim"
+  },
   "photo": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/U.S._Senator_Lindsey_Graham%2C_Official_Photo%2C_113th_Congress_%283x4_cropped%29.jpg/250px-U.S._Senator_Lindsey_Graham%2C_Official_Photo%2C_113th_Congress_%283x4_cropped%29.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:U.S._Senator_Lindsey_Graham,_Official_Photo,_113th_Congress_(3x4_cropped).jpg",

@@ -5,6 +5,14 @@
   "office_type": "state_ag",
   "state": "MN",
   "party": "D",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Minnesota's 5th district",
+      "from": "2007",
+      "to": "2019",
+      "source": "https://bioguide.congress.gov/search/bio/E000288"
+    }
+  ],
   "committees": [],
   "stance": "Wants Congress to regulate frontier AI development, keep state rules, and let state AGs enforce federal AI law.",
   "statements": [

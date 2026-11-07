@@ -5,6 +5,14 @@
   "office_type": "federal_exec",
   "state": null,
   "party": "R",
+  "former_congress": [
+    {
+      "office": "U.S. Senator from Ohio",
+      "from": "2023",
+      "to": "2025",
+      "source": "https://bioguide.congress.gov/search/bio/V000137"
+    }
+  ],
   "committees": [],
   "stance": "Opposes safety-first AI regulation and treats frontier labs' requests for regulation as possible regulatory capture.",
   "statements": [

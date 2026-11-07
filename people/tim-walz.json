@@ -5,6 +5,14 @@
   "office_type": "governor",
   "state": "MN",
   "party": "D",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Minnesota's 1st district",
+      "from": "2007",
+      "to": "2019",
+      "source": "https://bioguide.congress.gov/search/bio/W000799"
+    }
+  ],
   "committees": [],
   "stance": "Signed Minnesota’s AI nudification ban.",
   "statements": [

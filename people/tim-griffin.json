@@ -5,6 +5,14 @@
   "office_type": "state_ag",
   "state": "AR",
   "party": "R",
+  "former_congress": [
+    {
+      "office": "U.S. Representative from Arkansas's 2nd district",
+      "from": "2011",
+      "to": "2015",
+      "source": "https://bioguide.congress.gov/search/bio/G000567"
+    }
+  ],
   "committees": [],
   "stance": "Pursues AI harms to minors through consumer-protection litigation and joined the multistate AG child-safety letter; no frontier-risk action found.",
   "statements": [
