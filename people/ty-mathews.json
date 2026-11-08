@@ -19,6 +19,12 @@
       "outlet": "ABC 6 (WSYX)"
     }
   ],
+  "photo": {
+    "src": "https://ohiohouse.gov/assets/people/headshots/medium/3041.jpg",
+    "page": "https://ohiohouse.gov/members/ty-d-mathews/biography",
+    "license": "Official portrait, Ohio House of Representatives",
+    "artist": "Ohio House of Representatives"
+  },
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"

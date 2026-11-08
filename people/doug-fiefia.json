@@ -29,6 +29,12 @@
       "outlet": "KUER"
     }
   ],
+  "photo": {
+    "src": "https://le.utah.gov/images/legislator/house/FIEFID.jpg",
+    "page": "https://house.utleg.gov/rep/FIEFID/",
+    "license": "Official portrait, Utah House of Representatives",
+    "artist": "Utah House of Representatives"
+  },
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"

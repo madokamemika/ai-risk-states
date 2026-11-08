@@ -39,6 +39,12 @@
       "outlet": "Idaho Attorney General"
     }
   ],
+  "photo": {
+    "src": "https://ag.hawaii.gov/wp-content/uploads/2025/08/AG-Anne-Lopez-768x1023.jpg",
+    "page": "https://ag.hawaii.gov/about-the-attorney-general/",
+    "license": "Official portrait, Hawaii Department of the Attorney General",
+    "artist": "Hawaii Department of the Attorney General"
+  },
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
