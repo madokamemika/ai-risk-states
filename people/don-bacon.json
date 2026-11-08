@@ -8,6 +8,36 @@
   "stance": "Wants AI development closely monitored with guardrails if warranted, but warns that regulating AI now would cost the US the race with China.",
   "statements": [
     {
+      "date": "2025-07-11",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-led, with Reps. Gottheimer and Suozzi, a bipartisan letter to Elon Musk asking xAI to explain what in Grok's training or programming caused its antisemitic and violent posts.",
+      "target": null,
+      "joint": null,
+      "source": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-sound-the-alarm-over-grok-ais-antisemitic-and-violent-posts",
+      "outlet": "Office of Rep. Josh Gottheimer"
+    },
+    {
+      "date": "2025-08-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Having Nvidia providing this technology to China is a mistake.",
+      "target": null,
+      "joint": null,
+      "source": "https://digital-release.thehill.com/?p=5447693",
+      "outlet": "The Hill"
+    },
+    {
+      "date": "2025-11-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "They have much higher technology, they are using AI, which gives you a lot more capability at finding weaknesses in your adversaries’ cyber-defenses.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.dailywire.com/news/were-rudderless-gop-rep-warns-that-china-is-stepping-up-its-cyber-threat-game-as-u-s-flounders",
+      "outlet": "The Daily Wire"
+    },
+    {
       "date": "2026-09-04",
       "arena": "federal",
       "kind": "action",

@@ -12,6 +12,86 @@
   "stance": "The House's most AI-engaged member (co-chair of the Congressional AI Caucus, pursuing an ML master's): pushes frontier-AI oversight, transparency and independent evaluation, and safety verification before AI is deployed in critical government systems.",
   "statements": [
     {
+      "date": "2023-04-26",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced the bipartisan, bicameral Block Nuclear Launch by Autonomous Artificial Intelligence Act with Reps. Lieu and Buck and Sen. Markey, keeping a human in control of any nuclear launch decision.",
+      "target": null,
+      "joint": null,
+      "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-beyer-buck-and-sen-markey-introduce-bipartisan-bicameral-bill",
+      "outlet": "Office of Rep. Ted Lieu"
+    },
+    {
+      "date": "2023-10-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We know, however, that there are limits to what the Executive Branch can do on its own and in the long term, it is necessary for Congress to step up and legislate strong standards for equity, bias, risk management, and consumer protection.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.meritalk.com/articles/eyes-turn-to-congress-for-action-to-reinforce-ai-order/",
+      "outlet": "MeriTalk"
+    },
+    {
+      "date": "2023-12-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Artificial intelligence foundation models commonly described as a ‘black box’ make it hard to explain why a model gives a particular response. Giving users more information about the model—how it was built and what background information it bases its results on—would greatly increase transparency,",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=6052",
+      "outlet": "Office of Rep. Don Beyer"
+    },
+    {
+      "date": "2024-01-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I’m trying to learn as much as I can about them — and only because I think it’s really irresponsible not to learn as much as we can about the existential risk. Many in the industry say, Blah. That’s not real. We’re very far from artificial general intelligence. … Or we can always unplug it. But I don’t want to be calmed down by people who don’t take the risk seriously.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/don-beyer-ai-legislation-congress-2024/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2024-04-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There won’t be robots with red eyes coming after us any time soon. But there are other deeper existential risks that we need to pay attention to.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.wsls.com/news/politics/2024/04/11/a-congressman-wanted-to-understand-ai-so-he-went-back-to-a-college-classroom-to-learn/",
+      "outlet": "Associated Press (via WSLS)"
+    },
+    {
+      "date": "2024-09-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced the Secure Artificial Intelligence Act with Rep. Deborah Ross, to improve tracking and processing of AI security and safety incidents and risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://ross.house.gov/2024/9/ross-beyer-introduce-legislation-to-regulate-artificial-intelligence-security-mitigate-risk-incidents",
+      "outlet": "Office of Rep. Deborah Ross"
+    },
+    {
+      "date": "2025-12-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "President Trump's AI order is an attempt to kill responsible safety reforms passed by states, which would create a lawless Wild West environment for AI companies that puts Americans at risk. This is a terrible idea.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.alxnow.com/press-releases/ai-caucus-co-chair-beyer-response-to-trumps-ai-order/",
+      "outlet": "Office of Rep. Don Beyer (press release, via ALXnow)"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The risks posed by frontier AI models and their advanced cyber capabilities are real and demand serious attention, but this executive order falls short of providing a credible framework to manage those risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9132",
+      "outlet": "Office of Rep. Don Beyer"
+    },
+    {
       "date": "2026-06-27",
       "arena": "federal",
       "kind": "action",

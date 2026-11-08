@@ -8,6 +8,36 @@
   "stance": "Says Big Tech cannot police itself and calls for pre-deployment testing, human control of frontier models and congressional answers after reported model-containment incidents; opposes any federal moratorium on state AI laws and led a 44-member letter against one in the FY26 NDAA.",
   "statements": [
     {
+      "date": "2023-07-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I applaud the Administration for securing commitments from some of our nation's leading AI companies for voluntary safeguards aimed at reducing bias, mitigating national security risks, and protecting the rights, information, and safety of the American people",
+      "target": null,
+      "joint": null,
+      "source": "https://clarke.house.gov/clarke-releases-statement-on-biden-harris-administration-securing-voluntary-risk-commitments-from-leading-ai-companies",
+      "outlet": "Office of Rep. Yvette Clarke"
+    },
+    {
+      "date": "2024-02-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "At the end of the day, companies have a profit motive. There may be blind spots that they’re not taking into account.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/with-house-ai-task-force-rep-yvette-clarke-is-ready-to-get-to-the-table/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2024-02-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We can all speak to the potential of what AI can and cannot do. However, at the end of the day, it’s critical that we not get ahead of ourselves, but that we, again, build a strong foundation to assess how those harms can manifest themselves.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/with-house-ai-task-force-rep-yvette-clarke-is-ready-to-get-to-the-table/",
+      "outlet": "FedScoop"
+    },
+    {
       "date": "2025-05-14",
       "arena": "federal",
       "kind": "quote",

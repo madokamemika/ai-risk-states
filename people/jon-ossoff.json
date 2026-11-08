@@ -13,6 +13,36 @@
   "stance": "Treats advanced AI as a biosecurity and catastrophic-misuse risk, and as a child-safety risk, and uses his oversight perch to press the executive branch for safeguards.",
   "statements": [
     {
+      "date": "2023-06-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI capabilities are growing rapidly, and in ways even its creators cannot predict.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.ossoff.senate.gov/press-releases/watch-sen-ossoff-convenes-hearing-on-implications-of-artificial-intelligence-for-human-rights/",
+      "outlet": "Office of Sen. Jon Ossoff"
+    },
+    {
+      "date": "2023-06-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This technology has profound implications for the future of warfare, as kill chains are automated and predictive technology influences and mediates competition between nation-states. As AI technology develops, great powers competing in an AI arms race, engaged in strategic competition where AI is influencing the decisions made by leaders and militaries, face a different and new risk of escalation and miscalculation.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.ossoff.senate.gov/press-releases/watch-sen-ossoff-convenes-hearing-on-implications-of-artificial-intelligence-for-human-rights/",
+      "outlet": "Office of Sen. Jon Ossoff"
+    },
+    {
+      "date": "2023-06-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "And some influential technologists and engineers, including prominent figures and prominent leaders in the industry, warn of existential risks, ranging from catastrophic political destabilization, to the development and deployment of weapons of mass destruction, to catastrophic cybersecurity threats, and to unforeseeable and unknown forms of risk that may emergence alongside more and more powerful forms of artificial intelligences.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.ossoff.senate.gov/press-releases/watch-sen-ossoff-convenes-hearing-on-implications-of-artificial-intelligence-for-human-rights/",
+      "outlet": "Office of Sen. Jon Ossoff"
+    },
+    {
       "date": "2026-07-10",
       "arena": "federal",
       "kind": "action",

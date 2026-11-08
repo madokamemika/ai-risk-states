@@ -1,0 +1,40 @@
+{
+  "id": "elissa-slotkin",
+  "name": "Elissa Slotkin",
+  "office": "U.S. Senator from Michigan",
+  "office_type": "us_senator",
+  "state": "MI",
+  "party": "D",
+  "stance": "Compares the questions AI raises to those raised by nuclear weapons, noting it can become smarter than its designers and is controlled by the private sector, and co-signed a statement opposing Nvidia H200 exports to China.",
+  "statements": [
+    {
+      "date": "2025-09-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I left this tour with the distinct feeling that AI raises some of the same fundamental questions that nukes did. How should they be used? By whom? Under what rules? Only this time we are creating a technology that can become smarter than the humans who are designing it, and unlike nuclear weapons AI is almost entirely created and controlled by the private sector.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.cfr.org/event/new-vision-americas-national-security",
+      "outlet": "Council on Foreign Relations"
+    },
+    {
+      "date": "2025-12-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signed a national security Democrats' statement opposing the administration's decision to allow Nvidia H200 AI chip exports to China, warning the chips would give China's military technology to make its weapons more lethal and carry out more effective cyberattacks, and urging the president to reverse course.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/581bc83f-0f6d-476b-b292-3005c29ca139",
+      "outlet": "Capitol Releases (mirror of Office of Sen. Elissa Slotkin)"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001208.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001208",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

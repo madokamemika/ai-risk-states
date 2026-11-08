@@ -8,6 +8,56 @@
   "stance": "Warns that AI weaponry without guardrails could be as dangerous as nuclear weapons and has questioned the Pentagon's blacklisting of Anthropic.",
   "statements": [
     {
+      "date": "2022-11-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If we don’t have any constraints around their use, if we do not lead this effort, if we are not the ones who fundamentally set the ground rules agreed to by international treaty for the use and development of AI-enabled weapons and we leave that to adversaries like China — then we’re going to lose",
+      "target": null,
+      "joint": null,
+      "source": "https://defensescoop.com/2022/11/23/hasc-lawmaker-seth-moulton-urges-faster-adoption-and-more-restraint-of-military-ai/",
+      "outlet": "DefenseScoop"
+    },
+    {
+      "date": "2022-11-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I think it’s a national security imperative, not just a human imperative or an ethical imperative, that we have a major effort to establish the rules around the use and development of AI. And we’re really doing next to nothing in that department.",
+      "target": null,
+      "joint": null,
+      "source": "https://defensescoop.com/2022/11/23/hasc-lawmaker-seth-moulton-urges-faster-adoption-and-more-restraint-of-military-ai/",
+      "outlet": "DefenseScoop"
+    },
+    {
+      "date": "2023-05-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "When we get to the point of having killer robots, it’s going to be a real problem for us if we don’t have some established international norms for their use",
+      "target": null,
+      "joint": null,
+      "source": "https://www.foxnews.com/politics/ai-requires-new-generation-arms-control-deal-govern-future-warfighting-marine-veteran-lawmaker",
+      "outlet": "Fox News"
+    },
+    {
+      "date": "2023-05-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But AI at its worst could usher in an era of warfare more dangerous than anything we’ve seen before — more dangerous not just for America but for humanity itself. History has shown us that the first adopters of a new technology get to set the norms for its use. Today our adversaries are adopting AI faster than we are, and they are showing less concern for how it gets used. If America falls short in this new AI arms race, someone else will set the moral guardrails for its use.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.bostonglobe.com/2023/05/24/opinion/seth-moulton-ai-autonomous-weapons/",
+      "outlet": "The Boston Globe"
+    },
+    {
+      "date": "2023-05-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We have to therefore focus on these most extreme risk cases, one of which is AI used in warfare. Another of them, of course, is disinformation. We heard a lot of talk about that. These are the places where I think Congress needs to focus its regulatory oversight, not to just try to regulate AI overall, but just prevent the worst-case scenarios from happening.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.wgbh.org/news/politics/2023/05/25/rep-seth-moulton-unregulated-ai-in-the-military-could-be-as-dangerous-as-nuclear-weapons",
+      "outlet": "GBH News"
+    },
+    {
       "date": "2026-03-01",
       "arena": "federal",
       "kind": "quote",

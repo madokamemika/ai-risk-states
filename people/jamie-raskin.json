@@ -1,0 +1,40 @@
+{
+  "id": "jamie-raskin",
+  "name": "Jamie Raskin",
+  "office": "U.S. Representative, Maryland 8th District",
+  "office_type": "us_rep",
+  "state": "MD",
+  "party": "D",
+  "stance": "Argued at a hearing on federal preemption of state AI laws that the U.S. need not become more like China to compete with it, and that products built to protect Americans make American AI more competitive.",
+  "statements": [
+    {
+      "date": "2025-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "For generative AI, it’s not about creating speed laws and building guard rails but creating a road to begin with.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
+      "outlet": "House Judiciary Committee Democrats"
+    },
+    {
+      "date": "2025-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It would be unwise to assume that we need to become more like China to compete with China. In fact, many would argue that stronger, better products—developed in America, while protecting Americans and their data—ensure that American AI is both more advanced and more internationally competitive.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
+      "outlet": "House Judiciary Committee Democrats"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/R000606.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/R000606",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

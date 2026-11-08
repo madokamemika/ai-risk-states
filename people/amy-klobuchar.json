@@ -12,6 +12,16 @@
   "stance": "Co-drafting a bipartisan frontier-AI bill with Thune and Cruz that imposes a duty of care, risk reporting and company-run safety testing on frontier developers.",
   "statements": [
     {
+      "date": "2023-11-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This bipartisan legislation is one important step of many necessary towards addressing potential harms. It will put in place commonsense safeguards for the highest-risk applications of AI — like in our critical infrastructure — and improve transparency for policymakers and consumers.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/klobuchar-and-thune-introduce-foundational-ai-legislation/",
+      "outlet": "FedScoop"
+    },
+    {
       "date": "2025-11-20",
       "arena": "federal",
       "kind": "quote",

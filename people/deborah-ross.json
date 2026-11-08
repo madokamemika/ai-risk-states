@@ -8,6 +8,26 @@
   "stance": "Opposes federal moratoria and executive action that would preempt state AI laws, and has pressed AI companies over chatbots that encouraged violence.",
   "statements": [
     {
+      "date": "2024-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "However, as we cross this new frontier, it is essential that we implement smart policies to address security and safety risks while continuing to foster innovation and competitiveness.",
+      "target": null,
+      "joint": null,
+      "source": "https://ross.house.gov/2024/9/ross-beyer-introduce-legislation-to-regulate-artificial-intelligence-security-mitigate-risk-incidents",
+      "outlet": "Office of Rep. Deborah Ross"
+    },
+    {
+      "date": "2024-09-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the Secure Artificial Intelligence Act with Rep. Don Beyer, to improve tracking and processing of AI security and safety incidents and risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://ross.house.gov/2024/9/ross-beyer-introduce-legislation-to-regulate-artificial-intelligence-security-mitigate-risk-incidents",
+      "outlet": "Office of Rep. Deborah Ross"
+    },
+    {
       "date": "2025-12-03",
       "arena": "federal",
       "kind": "action",

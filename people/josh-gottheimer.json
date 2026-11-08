@@ -289,6 +289,26 @@
       "joint": null,
       "source": "https://x.com/RepJoshG/status/2113304464069202207",
       "outlet": "@RepJoshG on X"
+    },
+    {
+      "date": "2025-06-12",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-led the bipartisan Advanced AI Security Readiness Act with Rep. LaHood, directing the NSA to develop an AI security playbook to protect advanced US AI technology from foreign adversaries.",
+      "target": null,
+      "joint": null,
+      "source": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-introduce-legislation-to-defend-american-ai-innovation",
+      "outlet": "Office of Rep. Gottheimer"
+    },
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Americans need protection — but this means nothing if we allow the AI industry to be the Wild West. Preemption only makes sense if federal law effectively replaces what states have built with a standard that is truly comprehensive and protects Americans. Simply put, this framework still has a long way to go. Voluntary standards won’t do the trick.",
+      "target": null,
+      "joint": null,
+      "source": "https://gottheimer.house.gov/posts/statement-gottheimer-statement-on-white-house-ai-framework",
+      "outlet": "Office of Rep. Gottheimer"
     }
   ],
   "photo": {

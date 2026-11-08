@@ -8,6 +8,16 @@
   "stance": "Signed the bipartisan call for urgent federal guardrails and oversight of advanced AI; a member of the Congressional AI Caucus.",
   "statements": [
     {
+      "date": "2026-01-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This decision will erode the edge the United States maintains over China’s AI program and threaten our national security.",
+      "target": null,
+      "joint": null,
+      "source": "https://amo.house.gov/press-release/amo-meeks-challenge-trump-secretary-lutnick-plan-to-sell-advanced-ai-chips-to-china",
+      "outlet": "Office of Rep. Gabe Amo"
+    },
+    {
       "date": "2026-01-16",
       "arena": "federal",
       "kind": "quote",

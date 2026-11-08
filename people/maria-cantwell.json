@@ -89,6 +89,26 @@
       "joint": null,
       "source": "https://x.com/SenatorCantwell/status/2098158053585805508",
       "outlet": "@SenatorCantwell on X"
+    },
+    {
+      "date": "2024-04-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan Future of AI Innovation Act with Sens. Young, Hickenlooper and Blackburn, authorizing the U.S. AI Safety Institute at NIST to promote voluntary standards and creating AI testbeds with the national labs.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.commerce.senate.gov/press/dem/release/cantwell-young-hickenlooper-blackburn-introduce-bill-to-ensure-u-s-leads-global-ai-innovation/",
+      "outlet": "Senate Commerce Committee (Democrats)"
+    },
+    {
+      "date": "2024-04-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The NIST AI Safety Institute, testbeds at our national labs, and the grand challenge prizes will bring together private sector and government experts to develop standards, create new assessment tools, and overcome existing barriers.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.commerce.senate.gov/press/dem/release/cantwell-young-hickenlooper-blackburn-introduce-bill-to-ensure-u-s-leads-global-ai-innovation/",
+      "outlet": "Senate Commerce Committee (Democrats)"
     }
   ],
   "photo": {

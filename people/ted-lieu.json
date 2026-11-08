@@ -11,6 +11,66 @@
   "stance": "Wants frontier developers required to maintain a kill switch that DHS can order used when a model loses human control.",
   "statements": [
     {
+      "date": "2023-01-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As one of just three members of Congress with a computer science degree, I am enthralled by A.I. and excited about the incredible ways it will continue to advance society. And as a member of Congress, I am freaked out by A.I., specifically A.I. that is left unchecked and unregulated.",
+      "target": null,
+      "joint": null,
+      "source": "https://lieu.house.gov/media-center/editorials/new-york-times-op-ed-i-m-congressman-who-codes-ai-freaks-me-out",
+      "outlet": "The New York Times (op-ed, reposted by Office of Rep. Ted Lieu)"
+    },
+    {
+      "date": "2023-01-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We can harness and regulate A.I. to create a more utopian society or risk having an unchecked, unregulated A.I. push us toward a more dystopian future.",
+      "target": null,
+      "joint": null,
+      "source": "https://lieu.house.gov/media-center/editorials/new-york-times-op-ed-i-m-congressman-who-codes-ai-freaks-me-out",
+      "outlet": "The New York Times (op-ed, reposted by Office of Rep. Ted Lieu)"
+    },
+    {
+      "date": "2023-04-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That’s why I’m pleased to introduce the bipartisan, bicameral Block Nuclear Launch by Autonomous AI Act, which will ensure that no matter what happens in the future, a human being has control over the employment of a nuclear weapon – not a robot. AI can never be a substitute for human judgment when it comes to launching nuclear weapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-beyer-buck-and-sen-markey-introduce-bipartisan-bicameral-bill",
+      "outlet": "Office of Rep. Ted Lieu"
+    },
+    {
+      "date": "2023-05-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI that can destroy the world, literally",
+      "target": null,
+      "joint": null,
+      "source": "https://www.popsci.com/technology/ted-lieu-ai-nukes/",
+      "outlet": "Popular Science"
+    },
+    {
+      "date": "2023-09-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "For regulations that would harm innovation—if other countries aren’t doing it—I don’t think we should do those regulations unless we actually have to.",
+      "target": null,
+      "joint": null,
+      "source": "https://lieu.house.gov/media-center/in-the-news/ted-lieu-100-most-influential-people-ai",
+      "outlet": "TIME (reposted by Office of Rep. Ted Lieu)"
+    },
+    {
+      "date": "2024-05-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Even the most advanced AI frontier models can have errors and can hallucinate. That is why we need this law to protect future generations from potentially devastating consequences.",
+      "target": null,
+      "joint": null,
+      "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-jacobs-praise-armed-services-committee-including",
+      "outlet": "Office of Rep. Ted Lieu"
+    },
+    {
       "date": "2025-11-17",
       "arena": "federal",
       "kind": "quote",

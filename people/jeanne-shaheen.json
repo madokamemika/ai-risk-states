@@ -1,0 +1,40 @@
+{
+  "id": "jeanne-shaheen",
+  "name": "Jeanne Shaheen",
+  "office": "U.S. Senator from New Hampshire",
+  "office_type": "us_senator",
+  "state": "NH",
+  "party": "D",
+  "stance": "Co-signed statements opposing the administration's advanced AI chip export deals with the UAE and Saudi Arabia and its decision to allow Nvidia H200 exports to China, on national security grounds.",
+  "statements": [
+    {
+      "date": "2025-05-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signed a statement with Reps. Krishnamoorthi and Himes and Sens. Coons, Reed, Warner and Kelly opposing the administration's deals to export large volumes of advanced AI chips to the UAE and Saudi Arabia without credible security assurances, warning against offshoring frontier AI computing infrastructure and supplying chips to a company with ties to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/krishnamoorthi-himes-coons-shaheen-reed-warner-kelly-statement-trumps-middle",
+      "outlet": "House Select Committee on the CCP (Democrats)"
+    },
+    {
+      "date": "2025-12-08",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signed a national security Democrats' statement opposing the administration's decision to allow Nvidia H200 AI chip exports to China, warning the chips would give China's military technology to make its weapons more lethal and carry out more effective cyberattacks, and urging the president to reverse course.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/927fc6a0-687c-4312-9dcc-e0ade604150d",
+      "outlet": "Capitol Releases (mirror of Office of Sen. Michael Bennet)"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001181.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001181",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

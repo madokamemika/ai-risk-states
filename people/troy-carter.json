@@ -8,6 +8,26 @@
   "stance": "Sponsors legislation for a CISA task force on AI safety and national security challenges.",
   "statements": [
     {
+      "date": "2024-05-14",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced, with Rep. Bennie Thompson, the CISA Securing AI Task Force Act (H.R. 8348, 118th Congress) to establish a CISA task force on AI safety and security challenges.",
+      "target": null,
+      "joint": null,
+      "source": "https://troycarter.house.gov/media/press-releases/congressman-carter-thompson-introduce-cisa-securing-ai-task-force-act",
+      "outlet": "Office of Rep. Troy Carter"
+    },
+    {
+      "date": "2025-06-12",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-led, with Reps. Matsui, McClain Delaney and Landsman, a letter from 27 lawmakers urging Senate leadership to strike the reconciliation provision tying BEAD broadband funding to a ten-year moratorium on enforcing state AI laws.",
+      "target": null,
+      "joint": null,
+      "source": "https://matsui.house.gov/media/press-releases/matsui-mcclain-delaney-landsman-carter-urge-senate-leadership-strike-provision",
+      "outlet": "Office of Rep. Doris Matsui"
+    },
+    {
       "date": "2026-10-13",
       "arena": "federal",
       "kind": "action",

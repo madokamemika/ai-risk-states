@@ -12,6 +12,66 @@
   "stance": "Presses oversight of autonomous 'agentic AI' trading and co-signed the call for AI-safety diplomacy with China.",
   "statements": [
     {
+      "date": "2007-12-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There is one issue that I think is more explosive than even the spread of nuclear weapons: engineered intelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://sherman.house.gov/media-center/in-the-news/congressman-sherman-speech-on-artificial-intelligence",
+      "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
+      "date": "2007-12-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I believe in our lifetime we will see new species possessing intelligence which surpasses our own. The last time a new higher level of intelligence arose on this planet was roughly 50,000 years ago. It was our own ancestors, who then said hello to the previously most intelligent species, Neanderthals. It did not work out so well for the Neanderthals.",
+      "target": null,
+      "joint": null,
+      "source": "https://sherman.house.gov/media-center/in-the-news/congressman-sherman-speech-on-artificial-intelligence",
+      "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
+      "date": "2007-12-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I have urged DARPA to develop computer systems designed to maximize the computer's utility, while avoiding self-awareness, or at least ambition.",
+      "target": null,
+      "joint": null,
+      "source": "https://sherman.house.gov/media-center/in-the-news/congressman-sherman-speech-on-artificial-intelligence",
+      "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
+      "date": "2019-01-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I look forward to exploring the benefits and risks of new levels of intelligence, both artificial intelligence and genetic engineering,",
+      "target": null,
+      "joint": null,
+      "source": "https://sherman.house.gov/media-center/press-releases/sherman-returns-to-house-science-committee",
+      "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
+      "date": "2019-06-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "What amount of--what percentage of all the research being done on artificial intelligence is being used to detect and prevent self-awareness and ambition?",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-116hhrg36796/html/CHRG-116hhrg36796.htm",
+      "outlet": "House Committee on Science, Space, and Technology (hearing record, GPO)"
+    },
+    {
+      "date": "2025-07-11",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Signed a bipartisan letter to Elon Musk asking xAI to explain what in Grok's training or programming caused its antisemitic and violent posts.",
+      "target": null,
+      "joint": null,
+      "source": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-sound-the-alarm-over-grok-ais-antisemitic-and-violent-posts",
+      "outlet": "Office of Rep. Josh Gottheimer"
+    },
+    {
       "date": "2025-12-10",
       "arena": "federal",
       "kind": "action",
@@ -50,6 +110,16 @@
       "joint": null,
       "source": "https://x.com/BradSherman/status/2026404914193182947",
       "outlet": "@BradSherman on X"
+    },
+    {
+      "date": "2026-06-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "And you should know that if these ambitions go unchecked, perhaps the last decision our species will make is whether our successor species is carbon-based or silicon-based, the product of genetic engineering or the product of computer engineering.",
+      "target": null,
+      "joint": null,
+      "source": "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial",
+      "outlet": "Office of Rep. Brad Sherman"
     },
     {
       "date": "2026-06-24",

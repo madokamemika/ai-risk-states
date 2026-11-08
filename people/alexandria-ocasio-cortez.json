@@ -18,6 +18,26 @@
       "outlet": "@RepAOC on X"
     },
     {
+      "date": "2025-12-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Now, this is the seventh hearing we've had this year on the threats of AI. Yet our Congress has passed zero pieces of legislation to address the many, many legitimate concerns that have been raised regarding this issue.",
+      "target": null,
+      "joint": null,
+      "source": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-calls-out-pattern-corruption-behind-trump-and-republican-efforts",
+      "outlet": "Office of Rep. Ocasio-Cortez"
+    },
+    {
+      "date": "2025-12-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "And because Republicans couldn't pass their ten-year ban on state AI regulations, Trump then went around and skirted Congress with his own executive order, trying to ban states from imposing any AI regulations at all",
+      "target": null,
+      "joint": null,
+      "source": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-calls-out-pattern-corruption-behind-trump-and-republican-efforts",
+      "outlet": "Office of Rep. Ocasio-Cortez"
+    },
+    {
       "date": "2026-10-09",
       "arena": "federal",
       "kind": "action",

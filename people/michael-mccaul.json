@@ -18,6 +18,16 @@
       "outlet": "@RepMcCaul on X"
     },
     {
+      "date": "2025-11-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I see no reason, first of all, that we should be selling AI military-grade technology chips to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://mccaul.house.gov/media-center/press-releases/mccaul-remarks-hearing-semiconductor-export-controls",
+      "outlet": "Office of Rep. Michael McCaul"
+    },
+    {
       "date": "2025-12-09",
       "arena": "federal",
       "kind": "quote",
@@ -26,6 +36,16 @@
       "joint": null,
       "source": "https://x.com/RepMcCaul/status/1998520389132013574",
       "outlet": "@RepMcCaul on X"
+    },
+    {
+      "date": "2026-01-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "you cannot sell military-grade AI technology to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://mccaul.house.gov/media-center/press-releases/mccaul-discusses-importance-keeping-american-ai-out-ccps-hands-hfac",
+      "outlet": "Office of Rep. Michael McCaul"
     }
   ],
   "review": {

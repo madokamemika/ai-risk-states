@@ -1,0 +1,50 @@
+{
+  "id": "sarah-mcbride",
+  "name": "Sarah McBride",
+  "office": "U.S. Representative, Delaware At-Large District",
+  "office_type": "us_rep",
+  "state": "DE",
+  "party": "D",
+  "stance": "Introduced a bill for a voluntary NIST template for AI model evaluation documentation and co-signed the AI Caucus Democrats' call for safety guardrails as more powerful models are built.",
+  "statements": [
+    {
+      "date": "2025-07-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signed the Congressional AI Caucus Democrats' statement on the AI Action Plan, which said responsible innovation must go hand in hand with appropriate safety guardrails as developers build more powerful models such as artificial general intelligence, and objected to the plan's apparent targeting of state AI regulations.",
+      "target": null,
+      "joint": null,
+      "source": "https://matsui.house.gov/media/press-releases/congressional-ai-caucus-democrats-statement-president-trumps-ai-action-plan",
+      "outlet": "Office of Rep. Doris Matsui"
+    },
+    {
+      "date": "2025-12-04",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan READ AI Models Act with Rep. Obernolte, directing NIST to develop a voluntary, consensus-based template for AI model evaluation documentation.",
+      "target": null,
+      "joint": null,
+      "source": "https://mcbride.house.gov/media/press-releases/mcbride-introduces-bipartisan-read-ai-models-act-bring-more-transparency",
+      "outlet": "Office of Rep. Sarah McBride"
+    },
+    {
+      "date": "2025-12-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But right now, only big tech companies have the manpower and capacity to steadily compile and release information about the AI models they build and deploy.",
+      "target": null,
+      "joint": null,
+      "source": "https://mcbride.house.gov/media/press-releases/mcbride-introduces-bipartisan-read-ai-models-act-bring-more-transparency",
+      "outlet": "Office of Rep. Sarah McBride"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001238.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001238",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

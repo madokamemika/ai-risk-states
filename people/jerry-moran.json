@@ -1,0 +1,40 @@
+{
+  "id": "jerry-moran",
+  "name": "Jerry Moran",
+  "office": "U.S. Senator from Kansas",
+  "office_type": "us_senator",
+  "state": "KS",
+  "party": "R",
+  "stance": "Introduced a bill requiring federal agencies to use the NIST AI Risk Management Framework and cosponsored a bill creating a Commerce office to review frontier models for national security risks.",
+  "statements": [
+    {
+      "date": "2023-11-02",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the Federal Artificial Intelligence Risk Management Act with Sen. Mark Warner, requiring federal agencies to use the NIST AI Risk Management Framework.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/BILLS-118s3205is/html/BILLS-118s3205is.htm",
+      "outlet": "U.S. Government Publishing Office"
+    },
+    {
+      "date": "2024-12-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Original cosponsor of the Preserving American Dominance in AI Act (S. 5616, 118th Congress), which would create an AI Safety Review Office at Commerce to evaluate frontier models for chemical, biological, radiological, nuclear and cyber risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/BILLS-118s5616is/html/BILLS-118s5616is.htm",
+      "outlet": "U.S. Government Publishing Office"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M000934.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M000934",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

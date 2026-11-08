@@ -1,0 +1,30 @@
+{
+  "id": "lisa-murkowski",
+  "name": "Lisa Murkowski",
+  "office": "U.S. Senator from Alaska",
+  "office_type": "us_senator",
+  "state": "AK",
+  "party": "R",
+  "stance": "Introduced the Department of Energy AI Act, which would set up a DOE program to evaluate and mitigate AI safety and security risks.",
+  "statements": [
+    {
+      "date": "2024-07-10",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan Department of Energy AI Act with Sen. Manchin, which would establish a DOE AI risk evaluation and mitigation program to evaluate and mitigate safety and security risks of AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.murkowski.senate.gov/press/release/murkowski-manchin-introduce-bipartisan-legislation-to-advance-department-of-energy-ai-research-for-science-security-and-technology",
+      "outlet": "Office of Sen. Murkowski"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001153.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001153",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -8,6 +8,36 @@
   "stance": "Calls for a bipartisan Select Committee on AI and for negotiations with China on enforceable guardrails for the most powerful AI systems.",
   "statements": [
     {
+      "date": "2024-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signed, with Sens. Schatz, Welch, Warner and King, a letter to OpenAI CEO Sam Altman asking about the company's safety practices, its commitment of computing resources to safety research, pre-release independent testing, and employee whistleblower protections.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.artificialintelligence-news.com/news/senators-probe-openai-safety-employment-practices/",
+      "outlet": "AI News"
+    },
+    {
+      "date": "2025-05-07",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan TEST AI Act of 2025 with Sens. Blackburn, Durbin, Risch and Welch, directing NIST and the Department of Energy to build testbeds and measurement standards for evaluating AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/74e2c514-52dc-4041-8e2a-9233de39212b",
+      "outlet": "Office of Sen. Ben Ray Luján"
+    },
+    {
+      "date": "2025-05-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The TEST AI Act addresses these shortcomings by creating government testbeds to better evaluate AI systems. This will help leverage the talent of our National Laboratories and strengthen the federal government’s ability to implement responsible guardrails that protect our national security and the American people.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/74e2c514-52dc-4041-8e2a-9233de39212b",
+      "outlet": "Office of Sen. Ben Ray Luján"
+    },
+    {
       "date": "2026-09-24",
       "arena": "federal",
       "kind": "quote",
@@ -16,6 +46,26 @@
       "joint": null,
       "source": "https://x.com/SenatorLujan/status/2103111121217393113",
       "outlet": "@SenatorLujan on X"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Wrote to Senate Majority Leader Thune and Democratic Leader Schumer urging a bipartisan Senate Select Committee on Artificial Intelligence, citing AI agent containment failures, frontier-lab warnings of catastrophic risk and AI-enabled cyber operations.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/4031b749-b0b0-4efc-be4e-783d39fb441e",
+      "outlet": "Office of Sen. Ben Ray Luján"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is accelerating faster than our existing legislative processes, committee structures, and technical capacity can consistently evaluate and respond. The recent news of increasing incidents makes it clear that this is no longer a theoretical concern.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/4031b749-b0b0-4efc-be4e-783d39fb441e",
+      "outlet": "Office of Sen. Ben Ray Luján"
     },
     {
       "date": "2026-09-30",

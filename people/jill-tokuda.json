@@ -1,0 +1,40 @@
+{
+  "id": "jill-tokuda",
+  "name": "Jill Tokuda",
+  "office": "U.S. Representative, Hawaii 2nd District",
+  "office_type": "us_rep",
+  "state": "HI",
+  "party": "D",
+  "stance": "Has asked whether a loss of control over advanced AI could give rise to an independent AGI or ASI actor, and frames the AI race as one of control and governance.",
+  "statements": [
+    {
+      "date": "2025-06-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "And as much as the AI race is about speed and efficiency, it is a race for control and governance because at the end of the day, true power lives in the ability to wield AI safely and effectively with strong oversight and accountability to ensure it serves its intended purpose.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.congress.gov/119/meeting/house/118428/documents/HHRG-119-ZS00-Transcript-20250625.pdf",
+      "outlet": "House Select Committee on the CCP hearing transcript (congress.gov)"
+    },
+    {
+      "date": "2025-06-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "And is it possible that a loss of control by any nation-state, including our own, could give rise to an independent AGI or ASI actor that, globally, we will need to contend with?",
+      "target": null,
+      "joint": null,
+      "source": "https://www.congress.gov/119/meeting/house/118428/documents/HHRG-119-ZS00-Transcript-20250625.pdf",
+      "outlet": "House Select Committee on the CCP hearing transcript (congress.gov)"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/T000487.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/T000487",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

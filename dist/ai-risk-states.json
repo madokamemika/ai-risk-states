@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07",
+ "generated": "2026-11-08",
  "bill_counts_asof": "2026-10-13",
  "bill_counts": {
   "AK": 3,
@@ -158,6 +158,16 @@
    "party": "D",
    "stance": "Signed the bipartisan call for urgent federal guardrails and oversight of advanced AI; a member of the Congressional AI Caucus.",
    "statements": [
+    {
+     "date": "2026-01-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This decision will erode the edge the United States maintains over China’s AI program and threaten our national security.",
+     "target": null,
+     "joint": null,
+     "source": "https://amo.house.gov/press-release/amo-meeks-challenge-trump-secretary-lutnick-plan-to-sell-advanced-ai-chips-to-china",
+     "outlet": "Office of Rep. Gabe Amo"
+    },
     {
      "date": "2026-01-16",
      "arena": "federal",
@@ -644,6 +654,36 @@
    "party": "R",
    "stance": "Wants AI development closely monitored with guardrails if warranted, but warns that regulating AI now would cost the US the race with China.",
    "statements": [
+    {
+     "date": "2025-07-11",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-led, with Reps. Gottheimer and Suozzi, a bipartisan letter to Elon Musk asking xAI to explain what in Grok's training or programming caused its antisemitic and violent posts.",
+     "target": null,
+     "joint": null,
+     "source": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-sound-the-alarm-over-grok-ais-antisemitic-and-violent-posts",
+     "outlet": "Office of Rep. Josh Gottheimer"
+    },
+    {
+     "date": "2025-08-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Having Nvidia providing this technology to China is a mistake.",
+     "target": null,
+     "joint": null,
+     "source": "https://digital-release.thehill.com/?p=5447693",
+     "outlet": "The Hill"
+    },
+    {
+     "date": "2025-11-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "They have much higher technology, they are using AI, which gives you a lot more capability at finding weaknesses in your adversaries’ cyber-defenses.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.dailywire.com/news/were-rudderless-gop-rep-warns-that-china-is-stepping-up-its-cyber-threat-game-as-u-s-flounders",
+     "outlet": "The Daily Wire"
+    },
     {
      "date": "2026-09-04",
      "arena": "federal",
@@ -1259,6 +1299,16 @@
      "joint": null,
      "source": "https://x.com/RepBera/status/2102068724450640108",
      "outlet": "@RepBera on X"
+    },
+    {
+     "date": "2026-09-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "At the same time, the President should seek agreement on implementing AI guardrails and establishing reliable channels of communication that reduce the risk of miscalculation and provide mechanisms to deconflict during a crisis.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/64659b55-974d-486e-a67b-7a9b5c97a7e8",
+     "outlet": "Office of Rep. Ami Bera"
     }
    ],
    "review": {
@@ -1285,6 +1335,86 @@
    ],
    "stance": "The House's most AI-engaged member (co-chair of the Congressional AI Caucus, pursuing an ML master's): pushes frontier-AI oversight, transparency and independent evaluation, and safety verification before AI is deployed in critical government systems.",
    "statements": [
+    {
+     "date": "2023-04-26",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-introduced the bipartisan, bicameral Block Nuclear Launch by Autonomous Artificial Intelligence Act with Reps. Lieu and Buck and Sen. Markey, keeping a human in control of any nuclear launch decision.",
+     "target": null,
+     "joint": null,
+     "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-beyer-buck-and-sen-markey-introduce-bipartisan-bicameral-bill",
+     "outlet": "Office of Rep. Ted Lieu"
+    },
+    {
+     "date": "2023-10-30",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We know, however, that there are limits to what the Executive Branch can do on its own and in the long term, it is necessary for Congress to step up and legislate strong standards for equity, bias, risk management, and consumer protection.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.meritalk.com/articles/eyes-turn-to-congress-for-action-to-reinforce-ai-order/",
+     "outlet": "MeriTalk"
+    },
+    {
+     "date": "2023-12-22",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Artificial intelligence foundation models commonly described as a ‘black box’ make it hard to explain why a model gives a particular response. Giving users more information about the model—how it was built and what background information it bases its results on—would greatly increase transparency,",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=6052",
+     "outlet": "Office of Rep. Don Beyer"
+    },
+    {
+     "date": "2024-01-22",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I’m trying to learn as much as I can about them — and only because I think it’s really irresponsible not to learn as much as we can about the existential risk. Many in the industry say, Blah. That’s not real. We’re very far from artificial general intelligence. … Or we can always unplug it. But I don’t want to be calmed down by people who don’t take the risk seriously.",
+     "target": null,
+     "joint": null,
+     "source": "https://fedscoop.com/don-beyer-ai-legislation-congress-2024/",
+     "outlet": "FedScoop"
+    },
+    {
+     "date": "2024-04-11",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "There won’t be robots with red eyes coming after us any time soon. But there are other deeper existential risks that we need to pay attention to.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.wsls.com/news/politics/2024/04/11/a-congressman-wanted-to-understand-ai-so-he-went-back-to-a-college-classroom-to-learn/",
+     "outlet": "Associated Press (via WSLS)"
+    },
+    {
+     "date": "2024-09-23",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-introduced the Secure Artificial Intelligence Act with Rep. Deborah Ross, to improve tracking and processing of AI security and safety incidents and risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://ross.house.gov/2024/9/ross-beyer-introduce-legislation-to-regulate-artificial-intelligence-security-mitigate-risk-incidents",
+     "outlet": "Office of Rep. Deborah Ross"
+    },
+    {
+     "date": "2025-12-11",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "President Trump's AI order is an attempt to kill responsible safety reforms passed by states, which would create a lawless Wild West environment for AI companies that puts Americans at risk. This is a terrible idea.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.alxnow.com/press-releases/ai-caucus-co-chair-beyer-response-to-trumps-ai-order/",
+     "outlet": "Office of Rep. Don Beyer (press release, via ALXnow)"
+    },
+    {
+     "date": "2026-06-02",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The risks posed by frontier AI models and their advanced cyber capabilities are real and demand serious attention, but this executive order falls short of providing a credible framework to manage those risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9132",
+     "outlet": "Office of Rep. Don Beyer"
+    },
     {
      "date": "2026-06-27",
      "arena": "federal",
@@ -1750,6 +1880,86 @@
    "stance": "Wants mandatory independent testing and federal oversight of frontier AI models, as in his AI Risk Evaluation Act with Hawley.",
    "statements": [
     {
+     "date": "2023-05-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI companies ought to be required to test their systems, disclose known risks, and allow independent researcher access.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+     "outlet": "U.S. Government Publishing Office (Senate Judiciary hearing record)"
+    },
+    {
+     "date": "2023-07-25",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "the urgency here demands action. The future is not science fiction or fantasy. It's not even the future. It's here and now. And a number of you have put the timeline at 2 years before we see some of the biological, most severe dangers.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53503/html/CHRG-118shrg53503.htm",
+     "outlet": "U.S. Government Publishing Office (Senate Judiciary hearing record)"
+    },
+    {
+     "date": "2023-09-08",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Sen. Josh Hawley, released a bipartisan framework for AI legislation calling for a licensing regime run by an independent oversight body, legal accountability for harms, and export controls and sanctions to limit transfer of advanced AI models and hardware to adversary nations.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.insideprivacy.com/artificial-intelligence/senators-release-bipartisan-framework-for-ai-legislation/",
+     "outlet": "Inside Privacy (Covington & Burling)"
+    },
+    {
+     "date": "2023-09-08",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This bipartisan framework is a milestone – the first tough, comprehensive legislative blueprint for real, enforceable AI protections. It should put us on a path to addressing the promise and peril AI portends.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.insideprivacy.com/artificial-intelligence/senators-release-bipartisan-framework-for-ai-legislation/",
+     "outlet": "Inside Privacy (Covington & Burling)"
+    },
+    {
+     "date": "2023-09-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "And make no mistake, there will be regulation. The only question is, how soon and what?",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53879/html/CHRG-118shrg53879.htm",
+     "outlet": "U.S. Government Publishing Office (Senate Judiciary hearing record)"
+    },
+    {
+     "date": "2023-09-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We need to learn from our experience with social media that if we let this horse get out of the barn, it will be even more difficult to contain than social media.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53879/html/CHRG-118shrg53879.htm",
+     "outlet": "U.S. Government Publishing Office (Senate Judiciary hearing record)"
+    },
+    {
+     "date": "2024-09-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The idea that AGI might in 10 or 20 years be smarter or at least as smart as human beings is no longer that far out in the future. It's very far from science fiction. It's here and now one to three years has been the latest prediction, in fact, before this committee. And we know that artificial intelligence that's as smart as human beings is also capable of deceiving us, manipulating us, and concealing facts from us and having a mind of its own when it comes to warfare",
+     "target": null,
+     "joint": null,
+     "source": "https://techpolicy.press/transcript-senate-judiciary-subcommittee-hosts-hearing-on-oversight-of-ai-insiders-perspectives",
+     "outlet": "Tech Policy Press (hearing transcript)"
+    },
+    {
+     "date": "2024-09-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Sam Altman, for example, who sat where you are now, shared his worst fear that AI could cause significant harm to the world. But as he sat with me in my office and described a less advanced version of his technology, he assured me that there were going to be safeguards, red teams, all kinds of guardrails that would prevent those dangers.",
+     "target": null,
+     "joint": null,
+     "source": "https://techpolicy.press/transcript-senate-judiciary-subcommittee-hosts-hearing-on-oversight-of-ai-insiders-perspectives",
+     "outlet": "Tech Policy Press (hearing transcript)"
+    },
+    {
      "date": "2025-09-29",
      "arena": "federal",
      "kind": "action",
@@ -1914,6 +2124,16 @@
    "stance": "Backs enforceable AI guardrails and safety standards — independent evaluations, human oversight and the NIST AI Risk Management Framework — framed around education and the workforce.",
    "statements": [
     {
+     "date": "2024-02-26",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I don’t think we can have 50 different systems; I think it needs to be done at the federal level.",
+     "target": null,
+     "joint": null,
+     "source": "https://fedscoop.com/ai-task-force-work-rep-bonamici/",
+     "outlet": "FedScoop"
+    },
+    {
      "date": "2026-09-21",
      "arena": "federal",
      "kind": "quote",
@@ -2077,6 +2297,16 @@
      "joint": null,
      "source": "https://x.com/SenBooker/status/1993716509831532892",
      "outlet": "@SenBooker on X"
+    },
+    {
+     "date": "2026-01-07",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cosponsored the States' Right to Regulate AI Act, introduced by Sen. Markey, to prohibit implementation of the executive order that seeks to block states from regulating AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://vermontbiz.com/node/241141",
+     "outlet": "Vermont Business Magazine"
     },
     {
      "date": "2026-03-03",
@@ -2887,6 +3117,16 @@
      "joint": null,
      "source": "https://www.budd.senate.gov/press-releases/budd-markey-introduce-bipartisan-bills-to-prepare-for-ai-threats",
      "outlet": "Office of Sen. Budd"
+    },
+    {
+     "date": "2025-10-20",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We need federal preemption on anything that we do so we don’t have a patchwork problem,",
+     "target": null,
+     "joint": null,
+     "source": "https://bankingjournal.aba.com/2025/10/sen-budd-calls-for-federal-preemption-of-ai-regulation/",
+     "outlet": "ABA Banking Journal"
     }
    ],
    "review": {
@@ -2939,6 +3179,16 @@
    "party": "R",
    "stance": "Argues that AI-safety regulation sought by large AI companies is a bid to block competitors and that losing the AI race to China is the bigger risk.",
    "statements": [
+    {
+     "date": "2024-03-04",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I don’t want us to overregulate because I’m fearful that that will stamp out innovation.",
+     "target": null,
+     "joint": null,
+     "source": "https://fedscoop.com/election-integrity-and-digital-liberty-kat-cammack/",
+     "outlet": "FedScoop"
+    },
     {
      "date": "2026-09-17",
      "arena": "federal",
@@ -3113,6 +3363,26 @@
      "joint": null,
      "source": "https://x.com/SenatorCantwell/status/2098158053585805508",
      "outlet": "@SenatorCantwell on X"
+    },
+    {
+     "date": "2024-04-18",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the bipartisan Future of AI Innovation Act with Sens. Young, Hickenlooper and Blackburn, authorizing the U.S. AI Safety Institute at NIST to promote voluntary standards and creating AI testbeds with the national labs.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.commerce.senate.gov/press/dem/release/cantwell-young-hickenlooper-blackburn-introduce-bill-to-ensure-u-s-leads-global-ai-innovation/",
+     "outlet": "Senate Commerce Committee (Democrats)"
+    },
+    {
+     "date": "2024-04-18",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The NIST AI Safety Institute, testbeds at our national labs, and the grand challenge prizes will bring together private sector and government experts to develop standards, create new assessment tools, and overcome existing barriers.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.commerce.senate.gov/press/dem/release/cantwell-young-hickenlooper-blackburn-introduce-bill-to-ensure-u-s-leads-global-ai-innovation/",
+     "outlet": "Senate Commerce Committee (Democrats)"
     }
    ],
    "photo": {
@@ -3151,6 +3421,16 @@
      "outlet": "Office of Sen. Capito"
     },
     {
+     "date": "2025-08-01",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The VET AI Act is a commonsense bill that will allow for a voluntary set of guidelines for AI, which will only help the development of systems that choose to adopt them.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/0c88e476-fb30-42f4-a15b-ad1628da33ef",
+     "outlet": "Office of Sen. John Hickenlooper"
+    },
+    {
      "date": "2025-08-12",
      "arena": "federal",
      "kind": "action",
@@ -3159,6 +3439,26 @@
      "joint": null,
      "source": "https://www.capito.senate.gov/news/press-releases/in-case-you-missed-it-capito-hickenlooper-reintroduce-bipartisan-bill-to-boost-ai-standards-create-guidelines",
      "outlet": "Office of Sen. Capito"
+    },
+    {
+     "date": "2026-09-13",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "And the fact that they want to slow, I think, is a good thing. They can control the technologies, but as we know, we're in a race for international superiority here. And what the president is saying, we can't slow so that we get passed over because then we lose that race for the superiority in an area that's going to really carry us for the next decades.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/a10f773e-d5d6-44ab-aeea-bf3e2ce57c78",
+     "outlet": "Office of Sen. Shelley Moore Capito"
+    },
+    {
+     "date": "2026-09-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We see the CEOs of these companies coming to us asking for, you know some sort of regulatory floor, which is very rare that people come and ask the federal government to help. So, we are very much on top of this, and I think it can be a bipartisan effort to make sure the good parts of AI are preserved, but that the dangers and the red flags are definitely paid attention to.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/72397df3-a396-4dd2-895e-6ffd53a15a11",
+     "outlet": "Office of Sen. Shelley Moore Capito"
     }
    ],
    "review": {
@@ -3305,6 +3605,26 @@
    "party": "D",
    "stance": "Sponsors legislation for a CISA task force on AI safety and national security challenges.",
    "statements": [
+    {
+     "date": "2024-05-14",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced, with Rep. Bennie Thompson, the CISA Securing AI Task Force Act (H.R. 8348, 118th Congress) to establish a CISA task force on AI safety and security challenges.",
+     "target": null,
+     "joint": null,
+     "source": "https://troycarter.house.gov/media/press-releases/congressman-carter-thompson-introduce-cisa-securing-ai-task-force-act",
+     "outlet": "Office of Rep. Troy Carter"
+    },
+    {
+     "date": "2025-06-12",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-led, with Reps. Matsui, McClain Delaney and Landsman, a letter from 27 lawmakers urging Senate leadership to strike the reconciliation provision tying BEAD broadband funding to a ten-year moratorium on enforcing state AI laws.",
+     "target": null,
+     "joint": null,
+     "source": "https://matsui.house.gov/media/press-releases/matsui-mcclain-delaney-landsman-carter-urge-senate-leadership-strike-provision",
+     "outlet": "Office of Rep. Doris Matsui"
+    },
     {
      "date": "2026-10-13",
      "arena": "federal",
@@ -4135,6 +4455,36 @@
    "stance": "Says Big Tech cannot police itself and calls for pre-deployment testing, human control of frontier models and congressional answers after reported model-containment incidents; opposes any federal moratorium on state AI laws and led a 44-member letter against one in the FY26 NDAA.",
    "statements": [
     {
+     "date": "2023-07-21",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I applaud the Administration for securing commitments from some of our nation's leading AI companies for voluntary safeguards aimed at reducing bias, mitigating national security risks, and protecting the rights, information, and safety of the American people",
+     "target": null,
+     "joint": null,
+     "source": "https://clarke.house.gov/clarke-releases-statement-on-biden-harris-administration-securing-voluntary-risk-commitments-from-leading-ai-companies",
+     "outlet": "Office of Rep. Yvette Clarke"
+    },
+    {
+     "date": "2024-02-21",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "At the end of the day, companies have a profit motive. There may be blind spots that they’re not taking into account.",
+     "target": null,
+     "joint": null,
+     "source": "https://fedscoop.com/with-house-ai-task-force-rep-yvette-clarke-is-ready-to-get-to-the-table/",
+     "outlet": "FedScoop"
+    },
+    {
+     "date": "2024-02-21",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We can all speak to the potential of what AI can and cannot do. However, at the end of the day, it’s critical that we not get ahead of ourselves, but that we, again, build a strong foundation to assess how those harms can manifest themselves.",
+     "target": null,
+     "joint": null,
+     "source": "https://fedscoop.com/with-house-ai-task-force-rep-yvette-clarke-is-ready-to-get-to-the-table/",
+     "outlet": "FedScoop"
+    },
+    {
      "date": "2025-05-14",
      "arena": "federal",
      "kind": "quote",
@@ -4711,6 +5061,66 @@
      "joint": "ai-safety-disclosure-letters-2025",
      "source": "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-brian-schatz-colleagues-press-ai-companies-to-improve-transparency-commit-to-timely-consistent-safety-disclosures/",
      "outlet": "Office of Sen. Katie Britt"
+    },
+    {
+     "date": "2025-12-09",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Joined a statement by eight Democratic senators objecting to the decision to allow Nvidia H200 AI chip exports to China, warning the chips would make China's weapons more lethal and its cyberattacks more effective.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/581bc83f-0f6d-476b-b292-3005c29ca139",
+     "outlet": "Office of Sen. Elissa Slotkin (via Capitol Releases)"
+    },
+    {
+     "date": "2025-11-06",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We cannot allow China to leap ahead of us and bolster their weapons capabilities, maximize their cyberattacks against American industry, and threaten long-term U.S. economic and national security.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/c356150a-6c91-4e30-90fd-659b185e968f",
+     "outlet": "Office of Sen. Chris Coons (via Capitol Releases)"
+    },
+    {
+     "date": "2025-10-28",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I’m thrilled to hear Attorney General Jennings and OpenAI have reached an agreement that will allow OpenAI to continue its work to unlock AI’s immense potential while better protecting Americans from the risks of this emerging technology.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/b35b3fed-e92b-4d2e-8a40-de7b2738aa14",
+     "outlet": "Office of Sen. Chris Coons (via Capitol Releases)"
+    },
+    {
+     "date": "2025-07-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "President Trump’s decision today hands China cutting-edge technology that Beijing will use to erase our competitive advantage in artificial intelligence, undermine our military, and outpace our economy.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/d6d0a782-32e7-4dc5-bd2d-418b2457f55a",
+     "outlet": "Office of Sen. Chris Coons (via Capitol Releases)"
+    },
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI is rapidly evolving in ways that have the potential to radically reshape our society and transform our world for the better and for the worse",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/cc00605a-d91b-4fce-9948-a2b2cbbf2e73",
+     "outlet": "Office of Sen. Chuck Grassley (press release, via Capitol Releases)"
+    },
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-sponsored the bipartisan AI Whistleblower Protection Act, which protects employees of AI developers who report AI security vulnerabilities or violations.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/cc00605a-d91b-4fce-9948-a2b2cbbf2e73",
+     "outlet": "Office of Sen. Chuck Grassley (press release, via Capitol Releases)"
     }
    ],
    "review": {
@@ -5148,6 +5558,16 @@
    "stance": "Opposes restrictions on AI development and data centers, arguing America risks regulating itself into irrelevance, while rejecting both a halt to development and ignoring risks.",
    "statements": [
     {
+     "date": "2023-07-13",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Hosted AI researcher Eliezer Yudkowsky on his podcast Hold These Truths for an episode on the case for viewing AI as an existential threat to humanity and first steps Congress could take to limit AI's capabilities for harm.",
+     "target": null,
+     "joint": null,
+     "source": "https://holdthesetruthswithdancrenshaw.libsyn.com/website/can-we-stop-the-ai-apocalypse-eliezer-yudkowsky",
+     "outlet": "Hold These Truths with Dan Crenshaw"
+    },
+    {
      "date": "2026-09-17",
      "arena": "federal",
      "kind": "quote",
@@ -5220,6 +5640,46 @@
    ],
    "stance": "Favours light-touch federal AI rules and preemption of state AI laws; in 2026 is negotiating a narrower frontier-risk bill with Thune and Klobuchar focused on biological and nuclear threats.",
    "statements": [
+    {
+     "date": "2023-09-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I've heard concerns from my colleagues about misinformation, discrimination, and security. These certainly present challenges, but I have a hard time viewing them as existential risks, or even worthy of new regulation. To me, the biggest existential risk we face is ourselves.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg59704/html/CHRG-118shrg59704.htm",
+     "outlet": "Senate Commerce subcommittee hearing record, prepared statement (GovInfo)"
+    },
+    {
+     "date": "2023-09-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Unfortunately, the Biden Administration and some of my colleagues in Congress have embraced doomsday AI scenarios as justification for expanded Federal regulation.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg59704/html/CHRG-118shrg59704.htm",
+     "outlet": "Senate Commerce subcommittee hearing record, prepared statement (GovInfo)"
+    },
+    {
+     "date": "2023-09-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Instead of riling fears and pausing AI development, let's pause before we regulate.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg59704/html/CHRG-118shrg59704.htm",
+     "outlet": "Senate Commerce subcommittee hearing record, prepared statement (GovInfo)"
+    },
+    {
+     "date": "2025-05-09",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "If there are going to be killer robots, I’d rather they be American killer robots than Chinese",
+     "target": null,
+     "joint": null,
+     "source": "https://www.foxbusiness.com/politics/cruz-china-winning-ai-race-would-catastrophic-sam-altman-hearing",
+     "outlet": "Fox Business"
+    },
     {
      "date": "2025-07",
      "arena": "federal",
@@ -5480,6 +5940,36 @@
    "stance": "Voted against the AI moratorium (\"AI amnesty\") in the One Big Beautiful Bill, calls for congressional action on out-of-control AI, and opposes legal personhood for AI.",
    "statements": [
     {
+     "date": "2025-09-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Thankfully, stripping the AI regulatory exemption from the Big Beautiful Bill offers hope of accountability.",
+     "target": null,
+     "joint": null,
+     "source": "https://davidson.house.gov/media/op-eds/rep-warren-davidson-privacy-artificial-intelligence-and-congress",
+     "outlet": "Office of Rep. Warren Davidson"
+    },
+    {
+     "date": "2025-09-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Hollywood imagined rules in 2003 to keep humans safe from AI. Yet, over two decades later, Congress still has not written any rules to do the same. Even worse, many of my colleagues seem entirely unconcerned with the potential repercussions that could soon become reality.",
+     "target": null,
+     "joint": null,
+     "source": "https://davidson.house.gov/media/op-eds/rep-warren-davidson-privacy-artificial-intelligence-and-congress",
+     "outlet": "Office of Rep. Warren Davidson"
+    },
+    {
+     "date": "2025-09-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Failure to act is its own decision, but AI is moving far faster than Congress and momentum in the wrong direction makes change harder as time passes.",
+     "target": null,
+     "joint": null,
+     "source": "https://davidson.house.gov/media/op-eds/rep-warren-davidson-privacy-artificial-intelligence-and-congress",
+     "outlet": "Office of Rep. Warren Davidson"
+    },
+    {
      "date": "2026-09-09",
      "arena": "federal",
      "kind": "quote",
@@ -5709,6 +6199,26 @@
    "party": "D",
    "stance": "A leading voice for independently verified safety testing and accountability before AI is deployed in safety-critical systems.",
    "statements": [
+    {
+     "date": "2025-06-12",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-led a letter from 27 House members urging Senate leadership to strike the reconciliation provision conditioning BEAD broadband funding on a 10-year moratorium on enforcing state AI laws.",
+     "target": null,
+     "joint": "reconciliation-ai-moratorium-2025",
+     "source": "https://mcclaindelaney.house.gov/media/press-releases/mcclain-delaney-matsui-landsman-carter-urge-senate-leadership-strike-provision",
+     "outlet": "Office of Rep. April McClain Delaney"
+    },
+    {
+     "date": "2025-06-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "In contrast, the reconciliation text’s AI moratorium provision represents a reckless and dangerous attempt to force states to forfeit their ability to protect the public from the rapidly escalating risks of unregulated AI and automated decision systems. It is textbook federal overreach.",
+     "target": null,
+     "joint": "reconciliation-ai-moratorium-2025",
+     "source": "https://mcclaindelaney.house.gov/media/press-releases/mcclain-delaney-matsui-landsman-carter-urge-senate-leadership-strike-provision",
+     "outlet": "Office of Rep. April McClain Delaney"
+    },
     {
      "date": "2025-12-01",
      "arena": "federal",
@@ -6225,6 +6735,66 @@
    "photo": {
     "src": "https://unitedstates.github.io/images/congress/225x275/D000622.jpg",
     "page": "https://bioguide.congress.gov/search/bio/D000622",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
+   "id": "dick-durbin",
+   "name": "Dick Durbin",
+   "office": "U.S. Senator from Illinois",
+   "office_type": "us_senator",
+   "state": "IL",
+   "party": "D",
+   "stance": "Argues AI may be a qualitative change that calls for liability standards from the start, and introduced with Sen. Hawley a bill letting people sue AI companies for harms caused by their systems.",
+   "statements": [
+    {
+     "date": "2023-05-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "But the basic question we face is whether or not the issue of AI is a quantitative change in technology or a qualitative change. The suggestions that I've heard from experts in the field suggest it's qualitative. Is AI fundamentally different? Is it a game changer? Is it so disruptive that we need to treat it differently than other forms of innovation?",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+     "outlet": "Senate Judiciary Subcommittee hearing record (GovInfo)"
+    },
+    {
+     "date": "2023-05-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I don't want to repeat that mistake again. And what I hear is the opposite suggestion from the private sector, and that is, \"Come in on the front end of this thing and establish some liability standards, precision regulation.\"",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+     "outlet": "Senate Judiciary Subcommittee hearing record (GovInfo)"
+    },
+    {
+     "date": "2025-09-29",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the bipartisan AI LEAD Act with Sen. Hawley, which would classify AI systems as products and create a federal cause of action for product liability claims when an AI system causes harm.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.judiciary.senate.gov/press/dem/releases/durbin-hawley-introduce-bill-allowing-victims-to-sue-ai-companies",
+     "outlet": "Senate Judiciary Committee Democrats"
+    },
+    {
+     "date": "2025-09-29",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Big Tech’s time to police itself is over. Kids and adults across the country are turning to AI chatbots for advice and information, but greedy tech companies have designed these products to protect their own bottom line—not users’ safety. By opening the courtroom and allowing victims to sue, our bill will force AI companies to develop their products with safety in mind. Our message to AI companies is clear: keep innovating, but do it responsibly.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.judiciary.senate.gov/press/dem/releases/durbin-hawley-introduce-bill-allowing-victims-to-sue-ai-companies",
+     "outlet": "Senate Judiciary Committee Democrats"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/D000563.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/D000563",
     "license": "Public domain (US government work)",
     "artist": "US Congress"
    }
@@ -7034,6 +7604,36 @@
    "stance": "Congress's only PhD physicist: leads bipartisan AI-chip export-security legislation to keep advanced compute out of adversary hands, and presses oversight of agentic AI in the financial system.",
    "statements": [
     {
+     "date": "2024-02-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Over the last five years, I’ve become much more worried than I previously was. And the reason for that is there’s this analogy between the evolution of AI algorithms and the evolution in living organisms. And what if you look at living organisms and the strategies that have evolved, many of them are deceptive.",
+     "target": null,
+     "joint": null,
+     "source": "https://fedscoop.com/bill-foster-house-ai-task-force/",
+     "outlet": "FedScoop"
+    },
+    {
+     "date": "2024-02-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "There will be a survival advantage to being opaque. You are already seeing in some of these large language models behavior that looks like deceptive behavior.",
+     "target": null,
+     "joint": null,
+     "source": "https://fedscoop.com/bill-foster-house-ai-task-force/",
+     "outlet": "FedScoop"
+    },
+    {
+     "date": "2024-02-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "It will be a huge survival advantage for AI algorithms to be deceptive.",
+     "target": null,
+     "joint": null,
+     "source": "https://fedscoop.com/bill-foster-house-ai-task-force/",
+     "outlet": "FedScoop"
+    },
+    {
      "date": "2025-05-15",
      "arena": "federal",
      "kind": "action",
@@ -7267,6 +7867,26 @@
    ],
    "stance": "Backs urgent federal guardrails and oversight for advanced AI from the Science Committee.",
    "statements": [
+    {
+     "date": "2024-02-20",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Artificial Intelligence holds the incredible potential to transform many aspects of our society, however, it can pose grave risks without clear and rigorous oversight",
+     "target": null,
+     "joint": null,
+     "source": "https://foushee.house.gov/posts/reps-foushee-ross-host-ai-roundtable-discussion-with-senior-biden-administration-officials-and-local-industry-leaders",
+     "outlet": "Office of Rep. Valerie Foushee"
+    },
+    {
+     "date": "2025-07-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed the Congressional AI Caucus Democrats' statement on the AI Action Plan, which said responsible innovation must go hand in hand with appropriate safety guardrails as developers build more powerful models such as artificial general intelligence, and objected to the plan's apparent targeting of state AI regulations.",
+     "target": null,
+     "joint": null,
+     "source": "https://matsui.house.gov/media/press-releases/congressional-ai-caucus-democrats-statement-president-trumps-ai-action-plan",
+     "outlet": "Office of Rep. Doris Matsui"
+    },
     {
      "date": "2025-12-09",
      "arena": "federal",
@@ -7600,6 +8220,16 @@
    "stance": "Opposes federal preemption of state AI laws, including the 2025 moratorium and the executive order on state AI laws, and says Congress must ensure powerful AI is safe.",
    "statements": [
     {
+     "date": "2025-07-18",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Led nine House colleagues in a letter to Defense Secretary Hegseth on the Pentagon's $200 million xAI contract for Grok for Government, asking whether Elon Musk can alter the model's outputs, what safeguards and independent audits are in place, and whether Grok's extremist outputs could recur in military applications.",
+     "target": null,
+     "joint": null,
+     "source": "https://friedman.house.gov/media/press-releases/release-rep-friedman-leads-jewish-house-members-demanding-answers-200m",
+     "outlet": "Office of Rep. Laura Friedman"
+    },
+    {
      "date": "2025-12-03",
      "arena": "federal",
      "kind": "quote",
@@ -7640,6 +8270,16 @@
    "stance": "Calls for AI guardrails in response to warnings from AI developers.",
    "statements": [
     {
+     "date": "2025-04-01",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We should also be concerned about AI's use when it comes to national security, including the possible use of deepfakes on the battlefield, AI control of nuclear weapons, or autonomous weapons authorized to make decisions about the use of lethal force.",
+     "target": null,
+     "joint": null,
+     "source": "https://oversightdemocrats.house.gov/news/press-releases/subcommittee-ranking-member-frosts-opening-remarks-hearing-trumps-efforts-rush",
+     "outlet": "House Oversight Committee Democrats"
+    },
+    {
      "date": "2026-10-09",
      "arena": "federal",
      "kind": "quote",
@@ -7678,6 +8318,26 @@
      "joint": null,
      "source": "https://x.com/RepGarbarino/status/1933271552440549461",
      "outlet": "@RepGarbarino on X"
+    },
+    {
+     "date": "2025-11-26",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With subcommittee chairs Ogles and Brecheen, asked Anthropic, Google and Quantum Xchange to testify at a Homeland Security hearing after Anthropic reported a largely AI-executed PRC cyber operation using its Claude Code tool.",
+     "target": "Anthropic, Google and Quantum Xchange",
+     "joint": null,
+     "source": "https://homeland.house.gov/2025/11/26/homeland-republicans-request-anthropic-google-quantum-xchange-testimony-following-report-of-ai-assisted-partially-autonomous-prc-cyber-operation/",
+     "outlet": "House Committee on Homeland Security"
+    },
+    {
+     "date": "2025-11-26",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "For the first time, we are seeing a foreign adversary use a commercial AI system to carry out nearly an entire cyber operation with minimal human involvement.",
+     "target": null,
+     "joint": null,
+     "source": "https://decrypt.co/350213/us-ai-and-data-firms-to-testify-in-chinese-ai-espionage-probe",
+     "outlet": "Decrypt"
     },
     {
      "date": "2026-06-25",
@@ -8328,6 +8988,26 @@
      "joint": null,
      "source": "https://x.com/RepJoshG/status/2113304464069202207",
      "outlet": "@RepJoshG on X"
+    },
+    {
+     "date": "2025-06-12",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-led the bipartisan Advanced AI Security Readiness Act with Rep. LaHood, directing the NSA to develop an AI security playbook to protect advanced US AI technology from foreign adversaries.",
+     "target": null,
+     "joint": null,
+     "source": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-introduce-legislation-to-defend-american-ai-innovation",
+     "outlet": "Office of Rep. Gottheimer"
+    },
+    {
+     "date": "2026-03-20",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Americans need protection — but this means nothing if we allow the AI industry to be the Wild West. Preemption only makes sense if federal law effectively replaces what states have built with a standard that is truly comprehensive and protects Americans. Simply put, this framework still has a long way to go. Voluntary standards won’t do the trick.",
+     "target": null,
+     "joint": null,
+     "source": "https://gottheimer.house.gov/posts/statement-gottheimer-statement-on-white-house-ai-framework",
+     "outlet": "Office of Rep. Gottheimer"
     }
    ],
    "photo": {
@@ -8403,6 +9083,26 @@
    "stance": "Backs a dedicated federal regulator for AI and the largest tech platforms — the Warren-Graham commission model — to support safe AI development without stifling it.",
    "statements": [
     {
+     "date": "2023-05-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "my two cents' worth for the Committee is that we need to empower an agency that issues them a license and can take it away.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+     "outlet": "U.S. Government Publishing Office (Senate Judiciary hearing record)"
+    },
+    {
+     "date": "2023-05-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I just don't understand how you could say that you don't need an agency to deal with the most transformative technology maybe ever.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+     "outlet": "U.S. Government Publishing Office (Senate Judiciary hearing record)"
+    },
+    {
      "date": "2024-01-24",
      "arena": "federal",
      "kind": "action",
@@ -8421,6 +9121,26 @@
      "joint": null,
      "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-bennet-graham-welch-urge-leader-schumer-to-support-new-agency-to-regulate-digital-platforms/",
      "outlet": "Office of Sen. Warren"
+    },
+    {
+     "date": "2025-12-08",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "You're going to have to have national standards, or else you'll drive everybody crazy",
+     "target": null,
+     "joint": null,
+     "source": "https://www.rawstory.com/lindsey-graham-2674380915",
+     "outlet": "Raw Story"
+    },
+    {
+     "date": "2025-12-08",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We gotta have some guardrails on how to develop the technology, but if you lock it down and have too much government, you're going to be left behind",
+     "target": null,
+     "joint": null,
+     "source": "https://www.rawstory.com/lindsey-graham-2674380915",
+     "outlet": "Raw Story"
     }
    ],
    "review": {
@@ -8443,6 +9163,36 @@
    "party": "R",
    "stance": "Presses AI companies to guard against Chinese espionage and insider threats and to notify the government of breaches.",
    "statements": [
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the bipartisan AI Whistleblower Protection Act, which would protect current and former AI company employees who make whistleblower disclosures to Congress or federal agencies and provide relief against retaliation.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.judiciary.senate.gov/press/rep/releases/grassley-introduces-ai-whistleblower-protection-act",
+     "outlet": "Senate Judiciary Committee"
+    },
+    {
+     "date": "2025-05-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Transparency brings accountability. Today, too many people working in AI feel they’re unable to speak up when they see something wrong. Whistleblowers are one of the best ways to ensure Congress keeps pace as the AI industry rapidly develops. We need to act to make these protections crystal clear.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.judiciary.senate.gov/press/rep/releases/grassley-introduces-ai-whistleblower-protection-act",
+     "outlet": "Senate Judiciary Committee"
+    },
+    {
+     "date": "2025-06-04",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "My bill will explicitly protect communications of current and former AI employees making legally protected disclosure to Congress or a federal agency or to a supervisor. It seems as time goes on, AI is growing. My timely legislation will bring transparency and accountability to the artificial intelligence sector before it's too late.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.judiciary.senate.gov/press/rep/releases/icymi-grassley-discusses-ai-whistleblower-protection-act-during-a-starting-point-interview",
+     "outlet": "Senate Judiciary Committee"
+    },
     {
      "date": "2026-05-01",
      "arena": "federal",
@@ -8723,6 +9473,16 @@
    "stance": "Sponsors the BLADE Act against foreign distillation of American AI models, framed as national security.",
    "statements": [
     {
+     "date": "2023-09-27",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "My point is that Congress and the Biden Administration should not engage in heavy handed regulation with uncertain impacts that I believe pose a great risk to limiting political speech.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53678/html/CHRG-118shrg53678.htm",
+     "outlet": "Senate Rules Committee hearing record (GovInfo)"
+    },
+    {
      "date": "2026-07-22",
      "arena": "federal",
      "kind": "quote",
@@ -8988,6 +9748,66 @@
    }
   },
   {
+   "id": "maggie-hassan",
+   "name": "Maggie Hassan",
+   "office": "U.S. Senator from New Hampshire",
+   "office_type": "us_senator",
+   "state": "NH",
+   "party": "D",
+   "stance": "Has called for more congressional attention to catastrophic AI risks and for requiring AI to be designed in a fundamentally safer way, and cosponsored a bill creating a Commerce office to review frontier models.",
+   "statements": [
+    {
+     "date": "2023-09-19",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "For example, although there has been considerable congressional attention paid to many of the public safety risks posed by artificial intelligence, there has been less focus on so-called catastrophic risks posed by AI, such as the ability of AI to help terrorists develop and use unconventional weapons.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53708/html/CHRG-118shrg53708.htm",
+     "outlet": "Senate Homeland Security and Governmental Affairs Committee (hearing record, GPO)"
+    },
+    {
+     "date": "2023-09-19",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Congress needs to look closely at ways to require AI to be designed in a fundamentally safer way, and in time, require all AI hardware to be restricted to running only fundamentally safe systems.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53708/html/CHRG-118shrg53708.htm",
+     "outlet": "Senate Homeland Security and Governmental Affairs Committee (hearing record, GPO)"
+    },
+    {
+     "date": "2024-12-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the Preserving American Dominance in AI Act (S. 5616, 118th Congress), which would create an AI Safety Review Office at Commerce to evaluate frontier models for chemical, biological, radiological, nuclear and cyber risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/BILLS-118s5616is/html/BILLS-118s5616is.htm",
+     "outlet": "U.S. Government Publishing Office"
+    },
+    {
+     "date": "2025-12-03",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Sen. Joni Ernst, wrote to National Cyber Director Sean Cairncross urging a federal response after Anthropic reported that Chinese state-sponsored hackers directed its AI system to autonomously conduct a cyberattack campaign.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/bd8e7974-9f57-4b19-8efc-6571570cd493",
+     "outlet": "Office of Sen. Maggie Hassan (via Capitol Releases)"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H001076.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/H001076",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
    "id": "josh-hawley",
    "name": "Josh Hawley",
    "office": "U.S. Senator from Missouri",
@@ -9109,6 +9929,36 @@
      "joint": null,
      "source": "https://x.com/SenHawleyPress/status/2105730434852127139",
      "outlet": "@SenHawleyPress on X"
+    },
+    {
+     "date": "2023-06-07",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Congress can and should act to protect Americans’ privacy, stave off the harms of unchecked AI development, insulate kids from harmful impacts, and keep this valuable technology out of the hands of our adversaries",
+     "target": null,
+     "joint": null,
+     "source": "https://www.foxnews.com/politics/sen-hawley-introduces-guiding-principles-future-ai-legislation-weeks-after-senate-hearing",
+     "outlet": "Fox News"
+    },
+    {
+     "date": "2023-09-08",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Announced with Sen. Blumenthal a bipartisan framework for AI legislation, including a licensing regime for sophisticated AI models administered by an independent oversight body.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.insideprivacy.com/artificial-intelligence/senators-release-bipartisan-framework-for-ai-legislation/",
+     "outlet": "Inside Privacy (Covington & Burling)"
+    },
+    {
+     "date": "2025-09-04",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "But the transhumanist ideal rejects the common man’s worth. And artificial intelligence threatens the common man’s liberty. To state it in the clearest terms, then: Americanism and the transhumanist revolution cannot coexist.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/022d9829-7936-4ef8-8180-73bc0caf64b3",
+     "outlet": "Capitol Releases (mirror of Office of Sen. Josh Hawley)"
     }
    ],
    "review": {
@@ -9221,6 +10071,16 @@
    "stance": "Founder and co-chair of the Senate's bipartisan AI Caucus and a member of Schumer's bipartisan AI working group — pro-innovation but explicitly for guardrails against AI's risks.",
    "statements": [
     {
+     "date": "2024-09-05",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "It would be unwise to treat AI the way we did the internet and social media early on",
+     "target": null,
+     "joint": null,
+     "source": "https://time.com/collections/time100-ai-2024/7012815/martin-heinrich/",
+     "outlet": "TIME"
+    },
+    {
      "date": "2026",
      "arena": "federal",
      "kind": "quote",
@@ -9265,6 +10125,36 @@
    "stance": "Wants stronger federal AI guardrails — independent third-party evaluation and verification of frontier models, accountability when AI causes harm, and incident reporting — alongside support for AI innovation and U.S. competitiveness.",
    "statements": [
     {
+     "date": "2023-11-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Development and innovation will depend on the guardrails we put in place. This is a commonsense framework that protects Americans without stifling our competitive edge in AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-bipartisan-group-introduce-ai-bill-to-strengthen-accountability-boost-innovation/",
+     "outlet": "Office of Sen. John Hickenlooper"
+    },
+    {
+     "date": "2024-02-05",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We need qualified third parties to effectively audit Generative AI systems and verify their claims of compliance with federal laws and regulations.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-proposes-ai-auditing-standards-calls-for-protecting-consumer-data-increasing-transparency/",
+     "outlet": "Office of Sen. John Hickenlooper"
+    },
+    {
+     "date": "2024-02-05",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "What begins today as Generative AI may one day become Artificial General Intelligence. A wild, unregulated AI industry – that is accountable to no one – developing Artificial General Intelligence should scare us all into action.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-proposes-ai-auditing-standards-calls-for-protecting-consumer-data-increasing-transparency/",
+     "outlet": "Office of Sen. John Hickenlooper"
+    },
+    {
      "date": "2024-04-18",
      "arena": "federal",
      "kind": "action",
@@ -9273,6 +10163,26 @@
      "joint": null,
      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-bipartisan-senators-introduce-ai-bill-to-accelerate-innovation-strengthen-u-s-leadership/",
      "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+     "date": "2024-07-01",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "But we have to move just as fast to get sensible guardrails in place to develop AI responsibly before it’s too late.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-to-introduce-bill-to-provide-third-party-audits-for-ai/",
+     "outlet": "Office of Sen. John Hickenlooper"
+    },
+    {
+     "date": "2024-07-31",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI has enormous potential to boost American innovation. But without sensible guardrails or standards, it’s the Wild West out there.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-ai-bill-six-other-hick-bills-pass-senate-committee-all-bipartisan/",
+     "outlet": "Office of Sen. John Hickenlooper"
     },
     {
      "date": "2025-08-01",
@@ -9384,6 +10294,36 @@
     "page": "https://commons.wikimedia.org/wiki/File:John_Hickenlooper,_official_portrait,_117th_Congress.jpeg",
     "license": "Public domain",
     "artist": "Renee Bouchard, United States Senate Photographic Studio"
+   }
+  },
+  {
+   "id": "clay-higgins",
+   "name": "Clay Higgins",
+   "office": "U.S. Representative, Louisiana 3rd District",
+   "office_type": "us_rep",
+   "state": "LA",
+   "party": "R",
+   "stance": "Has called AI an Armageddon-level threat.",
+   "statements": [
+    {
+     "date": "2023-09-10",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI is an Armageddon level threat, far more ominous than any alleged pandemic or climate crisis",
+     "target": null,
+     "joint": null,
+     "source": "https://clayhiggins.house.gov/2023/09/10/higgins-introduce-legislation-banning-government-weaponization-artificial/",
+     "outlet": "Office of Rep. Clay Higgins"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H001077.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/H001077",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
    }
   },
   {
@@ -10378,6 +11318,36 @@
    "stance": "Among the most active House members on AI catastrophic and military-safety guardrails — human control of autonomous weapons, national-lab evaluation of frontier AI for CBRN and deception, and a Pentagon AI incident-reporting program.",
    "statements": [
     {
+     "date": "2024-05-29",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Led the House Armed Services Committee effort to include in the FY2025 NDAA language from the Block Nuclear Launch by Autonomous Artificial Intelligence Act, keeping a human in the loop for all nuclear launch decisions.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-and-lieu-praise-armed-services-committee-for-including-provision-in-defense-authorization-bill-to-prevent-autonomous-ai-from-launching-nuclear-weapons",
+     "outlet": "Office of Rep. Sara Jacobs"
+    },
+    {
+     "date": "2024-05-29",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We’ve seen that AI consistently makes more aggressive and escalatory decisions than humans in war game simulations, including launching nuclear weapons. That’s why I’m so proud that the House Armed Services Committee passed my amendment to ensure that humans are involved in every step of decision-making regarding nuclear weapons.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-and-lieu-praise-armed-services-committee-for-including-provision-in-defense-authorization-bill-to-prevent-autonomous-ai-from-launching-nuclear-weapons",
+     "outlet": "Office of Rep. Sara Jacobs"
+    },
+    {
+     "date": "2024-12-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI and autonomous systems also have major implications for the future of the battlefield – some of which can help save our service members’ time and lives and others which can be incredibly dangerous. That’s why I’m proud that our bipartisan report recommends Congress to support DOD’s policy requiring meaningful human control over the launch of nuclear weapons.",
+     "target": null,
+     "joint": null,
+     "source": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-secures-key-wins-in-bipartisan-ai-task-force-report",
+     "outlet": "Office of Rep. Sara Jacobs"
+    },
+    {
      "date": "2025-12-11",
      "arena": "federal",
      "kind": "quote",
@@ -11213,6 +12183,16 @@
    "stance": "Introduced the House companion to the AI Emergency Button Act requiring a human shutdown capability in advanced AI, backs stronger AI chip export-control enforcement, and supports a unified national AI policy framework.",
    "statements": [
     {
+     "date": "2024-12-11",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Sent letters to the CEOs of major U.S. AI companies citing security lapses that threaten advanced AI technology, calling for congressional oversight and asking how they are meeting their voluntary White House commitments.",
+     "target": null,
+     "joint": null,
+     "source": "https://kean.house.gov/media/press-releases/kean-urges-ai-companies-tackle-security-risks-amid-rising-threats",
+     "outlet": "Office of Rep. Tom Kean Jr."
+    },
+    {
      "date": "2025-12-03",
      "arena": "federal",
      "kind": "action",
@@ -11288,6 +12268,16 @@
    ],
    "stance": "Frontier-AI-risk hawk — wants binding international guardrails and global standards for developing and testing frontier AI, model oversight, human control of autonomous systems, and a possible mutual development pause with China.",
    "statements": [
+    {
+     "date": "2025-12-10",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI capacity ties in with nuclear command and control, so it’s directly connected to important military technology and U.S. military advantage.",
+     "target": null,
+     "joint": null,
+     "source": "https://bluevirginia.us/2025/12/video-sen-tim-kaine-raises-concerns-about-nvidias-sale-of-high-tech-chips-to-china-asks-is-this-transfer-being-done-out-of-a-financial-interest-to-undercut-americas-national-security-p",
+     "outlet": "Blue Virginia (statement from the Office of Sen. Tim Kaine)"
+    },
     {
      "date": "2026-09-24",
      "arena": "federal",
@@ -11525,6 +12515,26 @@
    "stance": "Keep humans in command of military AI — mandate human judgment and accountability when autonomous weapons and AI systems are involved in the use of force.",
    "statements": [
     {
+     "date": "2025-05-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "If this deal succeeds, the offshoring of frontier American AI will be recorded as an historic American blunder. People around the world deserve to enjoy the benefits we will reap from AI. However, AI chips must only be exported to trusted companies, in reasonable numbers, and in concert with credible security standards and assurances.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/cdc363f7-a28d-4835-bc3c-1e671d6e3f76",
+     "outlet": "Office of Sen. Jack Reed, joint statement (archived by Capitol Releases)"
+    },
+    {
+     "date": "2025-12-04",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We have to strengthen our infrastructure and we have to support smart, responsible laws that keep this technology safe and true to our values, because American leadership doesn’t happen by accident,",
+     "target": null,
+     "joint": null,
+     "source": "https://cyberscoop.com/mark-kelly-ai-safety-guardrails-center-for-american-progress/",
+     "outlet": "CyberScoop"
+    },
+    {
      "date": "2025-12-12",
      "arena": "federal",
      "kind": "quote",
@@ -11731,6 +12741,26 @@
    "stance": "Wants every advanced AI model sold in the US to carry a company-controlled kill switch in case a model escapes human control.",
    "statements": [
     {
+     "date": "2023-05-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Hypothesis number three that I would like you to assume: There is likely a berserk wing of the artificial intelligence community that intentionally or unintentionally could use artificial intelligence to kill all of us and hurt us the entire time that we are dying.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+     "outlet": "Senate Judiciary Subcommittee hearing record (GPO)"
+    },
+    {
+     "date": "2023-09-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "their general impression is that AI has extraordinary potential to make our lives better if it doesn't make our lives worse first. And that's about the extent of it. And in my judgment, we're not nearly ready to be able to craft a bill that looks like somebody designed it on purpose. I think we're more likely to take baby steps.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53879/html/CHRG-118shrg53879.htm",
+     "outlet": "Senate Judiciary Subcommittee hearing record (GPO)"
+    },
+    {
      "date": "2026-09-16",
      "arena": "federal",
      "kind": "action",
@@ -11815,6 +12845,26 @@
    ],
    "stance": "Wants a licensing agency for frontier AI, a ban on recursively self-improving models until guardrails exist, and US-China agreements on AI safety.",
    "statements": [
+    {
+     "date": "2023-04-26",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We have to be aware of the impact AI technology could have on jobs, disinformation, and our nation’s cybersecurity. Congress must craft smart and careful regulations to prevent any harmful uses of AI that won’t stifle innovation.",
+     "target": null,
+     "joint": null,
+     "source": "https://semafor.com/article/04/26/2023/rep-ro-khanna-on-ai-worries-and-why-dems-should-talk-to-elon-musk",
+     "outlet": "Semafor"
+    },
+    {
+     "date": "2024-08-13",
+     "arena": "state",
+     "kind": "quote",
+     "text": "I agree wholeheartedly that there is a need for legislation and appreciate the intention behind SB 1047 but am concerned that the bill as currently written would be ineffective, punishing of individual entrepreneurs and small businesses, and hurt California’s spirit of innovation.",
+     "target": null,
+     "joint": null,
+     "source": "https://khanna.house.gov/media/press-releases/khanna-statement-sb-1047-and-path-forward-artificial-intelligence",
+     "outlet": "Office of Rep. Khanna"
+    },
     {
      "date": "2025-06-08",
      "arena": "federal",
@@ -12029,6 +13079,56 @@
    }
   },
   {
+   "id": "andy-kim",
+   "name": "Andy Kim",
+   "office": "U.S. Senator from New Jersey",
+   "office_type": "us_senator",
+   "state": "NJ",
+   "party": "D",
+   "stance": "Calls for the U.S. to lead in setting global standards for how AI is governed and proliferated, and joined a statement opposing Nvidia H200 exports to China.",
+   "statements": [
+    {
+     "date": "2023-11-01",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We need a full-court-press of our diplomatic power to bring allies and partners into smart policies that allows the U.S., and not our competitors, to set global standards.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.insidernj.com/press-release/congressman-kim-statement-on-president-bidens-artificial-intelligence-executive-order",
+     "outlet": "Office of Rep. Andy Kim (press release, via Insider NJ)"
+    },
+    {
+     "date": "2025-01-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "America has led the way in developing these technologies, and we must continue to set the pace in how they’re proliferated and governed globally.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/02ffb85e-3555-4650-a8e7-4b8eb9c86c0d",
+     "outlet": "Office of Sen. Andy Kim (via Capitol Releases)"
+    },
+    {
+     "date": "2025-12-09",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Joined a statement by eight Democratic senators objecting to the decision to allow Nvidia H200 AI chip exports to China, warning the chips would make China's weapons more lethal and its cyberattacks more effective.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/581bc83f-0f6d-476b-b292-3005c29ca139",
+     "outlet": "Office of Sen. Elissa Slotkin (via Capitol Releases)"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/K000394.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/K000394",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
    "id": "josh-kimbrell",
    "name": "Josh Kimbrell",
    "office": "South Carolina State Senator",
@@ -12073,6 +13173,36 @@
    ],
    "stance": "Treats uncontrolled frontier AI as a potential catastrophic risk, and pushes both domestic regulation of the frontier labs and sustained U.S.-China dialogue on AI's shared risks.",
    "statements": [
+    {
+     "date": "2024-07-22",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Joined Sens. Schatz, Luján, Welch and Warner in a letter to OpenAI CEO Sam Altman asking about the company's safety and employment practices after whistleblowers alleged it barred employees from warning regulators about risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.themainewire.com/2024/07/angus-king-signs-onto-letter-probing-openai-over-safety-concerns/",
+     "outlet": "The Maine Wire"
+    },
+    {
+     "date": "2024-12-20",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-introduced the Preserving American Dominance in AI Act with Sens. Romney, Reed, Moran and Hassan, which would create an AI safety review office at the Commerce Department to address chemical, biological, radiological, nuclear and cyber risks from frontier models.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/ded4a2aa-13e7-4ef0-be34-b2df301963f3",
+     "outlet": "Office of Sen. Angus King (archived by Capitol Releases)"
+    },
+    {
+     "date": "2024-12-20",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "In the ever-evolving global threat landscape, the United States has to stay one step ahead of new technologies to protect both our national security and interests at home and abroad — and that means moving carefully, warily, and thoughtfully into an Artificial Intelligence future,",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/ded4a2aa-13e7-4ef0-be34-b2df301963f3",
+     "outlet": "Office of Sen. Angus King (archived by Capitol Releases)"
+    },
     {
      "date": "2026-09-17",
      "arena": "federal",
@@ -12138,6 +13268,16 @@
    ],
    "stance": "Co-drafting a bipartisan frontier-AI bill with Thune and Cruz that imposes a duty of care, risk reporting and company-run safety testing on frontier developers.",
    "statements": [
+    {
+     "date": "2023-11-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This bipartisan legislation is one important step of many necessary towards addressing potential harms. It will put in place commonsense safeguards for the highest-risk applications of AI — like in our critical infrastructure — and improve transparency for policymakers and consumers.",
+     "target": null,
+     "joint": null,
+     "source": "https://fedscoop.com/klobuchar-and-thune-introduce-foundational-ai-legislation/",
+     "outlet": "FedScoop"
+    },
     {
      "date": "2025-11-20",
      "arena": "federal",
@@ -12459,6 +13599,26 @@
      "joint": null,
      "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
      "outlet": "Office of Rep. Foster"
+    },
+    {
+     "date": "2025-05-23",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Chairman Moolenaar, urged Commerce Secretary Lutnick to expand the role of the U.S. AI Safety Institute to assess, benchmark and prepare for PRC frontier AI developments.",
+     "target": null,
+     "joint": null,
+     "source": "https://chinaselectcommittee.house.gov/media/press-releases/house-china-committee-urges-commerce-department-expand-ai-safety-institutes",
+     "outlet": "House Select Committee on the CCP"
+    },
+    {
+     "date": "2025-06-25",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Whether it's American AI or Chinese AI, it should not be released until we know it's safe. That's why I'm working on a new bill—the AGI Safety Act—that will require AGI to be aligned with human values and require it to comply with laws that apply to humans.",
+     "target": null,
+     "joint": null,
+     "source": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/transcript-ranking-member-krishnamoorthis-opening-statement-hearing-algorithms",
+     "outlet": "Select Committee on the CCP Democrats"
     },
     {
      "date": "2026-09-17",
@@ -12930,6 +14090,16 @@
    "stance": "Wants mandatory public disclosure of AI model capabilities and safeguards, including against autonomous loss of control, enforced by the FTC.",
    "statements": [
     {
+     "date": "2023-05-16",
+     "arena": "federal",
+     "kind": "urging",
+     "text": "After a Homeland Security Committee hearing on government use of AI, said Congress needs to define responsible AI so it can protect Americans from irresponsible AI, and that Congress needs to take some regulatory action.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.news9.com/story/646403bcf685ba09c4391622/multiple-senate-committees-hold-hearings-on-advancement-of-ai-technology",
+     "outlet": "News 9 (Oklahoma City)"
+    },
+    {
      "date": "2025-12-16",
      "arena": "federal",
      "kind": "action",
@@ -12969,6 +14139,36 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "rick-larsen",
+   "name": "Rick Larsen",
+   "office": "U.S. Representative, Washington 2nd District",
+   "office_type": "us_rep",
+   "state": "WA",
+   "party": "D",
+   "stance": "Has urged the Defense Department to make ethics recommendations for military AI actionable and to help set responsible global norms for its use.",
+   "statements": [
+    {
+     "date": "2020-02-25",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The JAIC and DoD must now make the DIB’s ethics recommendations actionable to strengthen national security and help set responsible global norms for the use of AI,",
+     "target": null,
+     "joint": null,
+     "source": "https://larsen.house.gov/press-release/larsen-commends-dod-decision-adopt-ai-ethics-recommendations",
+     "outlet": "Office of Rep. Rick Larsen"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000560.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000560",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
    }
   },
   {
@@ -13611,6 +14811,16 @@
      "joint": null,
      "source": "https://x.com/RepLiccardo/status/2000699340931699146",
      "outlet": "@RepLiccardo on X"
+    },
+    {
+     "date": "2025-07-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "As chair of the New Democrat Coalition's Innovation and Technology Working Group, led release of an innovation agenda urging Congress to regulate AI incrementally through transparency standards and model testing and evaluation frameworks rather than licensing mandates, with case-by-case exceptions for models that may inherently pose a threat such as artificial general intelligence.",
+     "target": null,
+     "joint": null,
+     "source": "https://newdemocratcoalition.house.gov/media-center/press-releases/new-dems-release-innovation-agenda-to-unleash-american-potential-and-lead-the-21st-century",
+     "outlet": "New Democrat Coalition"
     }
    ],
    "review": {
@@ -13636,6 +14846,66 @@
    ],
    "stance": "Wants frontier developers required to maintain a kill switch that DHS can order used when a model loses human control.",
    "statements": [
+    {
+     "date": "2023-01-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "As one of just three members of Congress with a computer science degree, I am enthralled by A.I. and excited about the incredible ways it will continue to advance society. And as a member of Congress, I am freaked out by A.I., specifically A.I. that is left unchecked and unregulated.",
+     "target": null,
+     "joint": null,
+     "source": "https://lieu.house.gov/media-center/editorials/new-york-times-op-ed-i-m-congressman-who-codes-ai-freaks-me-out",
+     "outlet": "The New York Times (op-ed, reposted by Office of Rep. Ted Lieu)"
+    },
+    {
+     "date": "2023-01-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We can harness and regulate A.I. to create a more utopian society or risk having an unchecked, unregulated A.I. push us toward a more dystopian future.",
+     "target": null,
+     "joint": null,
+     "source": "https://lieu.house.gov/media-center/editorials/new-york-times-op-ed-i-m-congressman-who-codes-ai-freaks-me-out",
+     "outlet": "The New York Times (op-ed, reposted by Office of Rep. Ted Lieu)"
+    },
+    {
+     "date": "2023-04-26",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "That’s why I’m pleased to introduce the bipartisan, bicameral Block Nuclear Launch by Autonomous AI Act, which will ensure that no matter what happens in the future, a human being has control over the employment of a nuclear weapon – not a robot. AI can never be a substitute for human judgment when it comes to launching nuclear weapons.",
+     "target": null,
+     "joint": null,
+     "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-beyer-buck-and-sen-markey-introduce-bipartisan-bicameral-bill",
+     "outlet": "Office of Rep. Ted Lieu"
+    },
+    {
+     "date": "2023-05-04",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI that can destroy the world, literally",
+     "target": null,
+     "joint": null,
+     "source": "https://www.popsci.com/technology/ted-lieu-ai-nukes/",
+     "outlet": "Popular Science"
+    },
+    {
+     "date": "2023-09-07",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "For regulations that would harm innovation—if other countries aren’t doing it—I don’t think we should do those regulations unless we actually have to.",
+     "target": null,
+     "joint": null,
+     "source": "https://lieu.house.gov/media-center/in-the-news/ted-lieu-100-most-influential-people-ai",
+     "outlet": "TIME (reposted by Office of Rep. Ted Lieu)"
+    },
+    {
+     "date": "2024-05-29",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Even the most advanced AI frontier models can have errors and can hallucinate. That is why we need this law to protect future generations from potentially devastating consequences.",
+     "target": null,
+     "joint": null,
+     "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-jacobs-praise-armed-services-committee-including",
+     "outlet": "Office of Rep. Ted Lieu"
+    },
     {
      "date": "2025-11-17",
      "arena": "federal",
@@ -14120,6 +15390,46 @@
    "stance": "As House Science ranking member, pushes frontier-AI safeguards — internal controls, cybersecurity, independent governance — and faults House leadership for not floor-voting the committee's AI bills.",
    "statements": [
     {
+     "date": "2023-10-30",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Not only must Congress adequately fund our federal science agencies to be able to do the important research and standards development described in this executive order, but I believe Congress must consider further regulations to protect Americans against demonstrable harms from AI systems.",
+     "target": null,
+     "joint": null,
+     "source": "https://democrats-science.house.gov/news/press-releases/ranking-member-lofgren-reacts-to-biden-administration-executive-order-on-artificial-intelligence",
+     "outlet": "House Science Committee Democrats"
+    },
+    {
+     "date": "2024-09-29",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "As I have said in my letters on the matter, any AI risk framework should be based on empirical data and fit for purpose. I also believe this is an issue that should be handled at the federal level.",
+     "target": null,
+     "joint": null,
+     "source": "https://democrats-science.house.gov/news/press-releases/ranking-member-lofgren-commends-governor-newsom-for-veto-of-over-restrictive-california-ai-bill",
+     "outlet": "House Science Committee Democrats"
+    },
+    {
+     "date": "2025-12-11",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "If the President really wants to address contradictory state laws, he can work with Congress on both sides of the aisle to debate and pass a federal standard. Unfortunately, the Republicans in Congress and the White House have been missing in action on creating AI legislation in Congress.",
+     "target": null,
+     "joint": null,
+     "source": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-slams-trump-white-house-illegal-plan-undermine-state-ai",
+     "outlet": "Office of Rep. Lofgren"
+    },
+    {
+     "date": "2026-01-14",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "In the absence of a Federal framework, we should be encouraging states to experiment with how best to manage the risks to their citizens. What we should not do is preempt the states from taking necessary actions to protect their citizens while we twiddle our thumbs here in Congress.",
+     "target": null,
+     "joint": null,
+     "source": "https://democrats-science.house.gov/news/press-releases/ranking-member-lofgren-opening-statement-for-hearing-on-ai-action-plan",
+     "outlet": "House Science Committee Democrats"
+    },
+    {
      "date": "2026-09-15",
      "arena": "federal",
      "kind": "action",
@@ -14249,6 +15559,36 @@
    "stance": "Calls for a bipartisan Select Committee on AI and for negotiations with China on enforceable guardrails for the most powerful AI systems.",
    "statements": [
     {
+     "date": "2024-07-23",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed, with Sens. Schatz, Welch, Warner and King, a letter to OpenAI CEO Sam Altman asking about the company's safety practices, its commitment of computing resources to safety research, pre-release independent testing, and employee whistleblower protections.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.artificialintelligence-news.com/news/senators-probe-openai-safety-employment-practices/",
+     "outlet": "AI News"
+    },
+    {
+     "date": "2025-05-07",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the bipartisan TEST AI Act of 2025 with Sens. Blackburn, Durbin, Risch and Welch, directing NIST and the Department of Energy to build testbeds and measurement standards for evaluating AI systems.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/74e2c514-52dc-4041-8e2a-9233de39212b",
+     "outlet": "Office of Sen. Ben Ray Luján"
+    },
+    {
+     "date": "2025-05-07",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The TEST AI Act addresses these shortcomings by creating government testbeds to better evaluate AI systems. This will help leverage the talent of our National Laboratories and strengthen the federal government’s ability to implement responsible guardrails that protect our national security and the American people.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/74e2c514-52dc-4041-8e2a-9233de39212b",
+     "outlet": "Office of Sen. Ben Ray Luján"
+    },
+    {
      "date": "2026-09-24",
      "arena": "federal",
      "kind": "quote",
@@ -14257,6 +15597,26 @@
      "joint": null,
      "source": "https://x.com/SenatorLujan/status/2103111121217393113",
      "outlet": "@SenatorLujan on X"
+    },
+    {
+     "date": "2026-09-28",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Wrote to Senate Majority Leader Thune and Democratic Leader Schumer urging a bipartisan Senate Select Committee on Artificial Intelligence, citing AI agent containment failures, frontier-lab warnings of catastrophic risk and AI-enabled cyber operations.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/4031b749-b0b0-4efc-be4e-783d39fb441e",
+     "outlet": "Office of Sen. Ben Ray Luján"
+    },
+    {
+     "date": "2026-09-28",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI is accelerating faster than our existing legislative processes, committee structures, and technical capacity can consistently evaluate and respond. The recent news of increasing incidents makes it clear that this is no longer a theoretical concern.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/4031b749-b0b0-4efc-be4e-783d39fb441e",
+     "outlet": "Office of Sen. Ben Ray Luján"
     },
     {
      "date": "2026-09-30",
@@ -14322,6 +15682,26 @@
    ],
    "stance": "Wants the US to win the AI race against China while protecting humanity and US citizens.",
    "statements": [
+    {
+     "date": "2025-06-05",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "And we are not gods or God, and so I think that we are playing a dangerous game, especially moving into a future that is simply unknown right now, especially if we do not essentially develop the first AI super weapon. Essentially, that is what this is. Whoever does will essentially control the world, and I think that that is a very serious topic that needs to be discussed right now.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg60818/html/CHRG-119hhrg60818.htm",
+     "outlet": "House Oversight Committee hearing record (GPO)"
+    },
+    {
+     "date": "2025-06-05",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Would either or any of you be in favor of the U.S. Government through either the DIA, NSA, all agencies involved, Pentagon, even creating a super AI--I would maybe term it guardian AI--to actually train up, based on our principles, to defend the United States and potentially world against maybe a more nefarious actor like China, creating the same super weapon, because AI can only fight AI",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg60818/html/CHRG-119hhrg60818.htm",
+     "outlet": "House Oversight Committee hearing record (GPO)"
+    },
     {
      "date": "2026-06-01",
      "arena": "federal",
@@ -14977,6 +16357,16 @@
      "outlet": "@DorisMatsui on X"
     },
     {
+     "date": "2025-07-24",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "As AI is integrated with daily life and tech leaders develop more powerful models, such as Artificial General Intelligence, responsible innovation must go hand in hand with appropriate safety guardrails.",
+     "target": null,
+     "joint": null,
+     "source": "https://matsui.house.gov/media/press-releases/congressional-ai-caucus-democrats-statement-president-trumps-ai-action-plan",
+     "outlet": "Office of Rep. Doris Matsui"
+    },
+    {
      "date": "2025-11-19",
      "arena": "federal",
      "kind": "quote",
@@ -15150,6 +16540,56 @@
    }
   },
   {
+   "id": "sarah-mcbride",
+   "name": "Sarah McBride",
+   "office": "U.S. Representative, Delaware At-Large District",
+   "office_type": "us_rep",
+   "state": "DE",
+   "party": "D",
+   "stance": "Introduced a bill for a voluntary NIST template for AI model evaluation documentation and co-signed the AI Caucus Democrats' call for safety guardrails as more powerful models are built.",
+   "statements": [
+    {
+     "date": "2025-07-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed the Congressional AI Caucus Democrats' statement on the AI Action Plan, which said responsible innovation must go hand in hand with appropriate safety guardrails as developers build more powerful models such as artificial general intelligence, and objected to the plan's apparent targeting of state AI regulations.",
+     "target": null,
+     "joint": null,
+     "source": "https://matsui.house.gov/media/press-releases/congressional-ai-caucus-democrats-statement-president-trumps-ai-action-plan",
+     "outlet": "Office of Rep. Doris Matsui"
+    },
+    {
+     "date": "2025-12-04",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the bipartisan READ AI Models Act with Rep. Obernolte, directing NIST to develop a voluntary, consensus-based template for AI model evaluation documentation.",
+     "target": null,
+     "joint": null,
+     "source": "https://mcbride.house.gov/media/press-releases/mcbride-introduces-bipartisan-read-ai-models-act-bring-more-transparency",
+     "outlet": "Office of Rep. Sarah McBride"
+    },
+    {
+     "date": "2025-12-04",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "But right now, only big tech companies have the manpower and capacity to steadily compile and release information about the AI models they build and deploy.",
+     "target": null,
+     "joint": null,
+     "source": "https://mcbride.house.gov/media/press-releases/mcbride-introduces-bipartisan-read-ai-models-act-bring-more-transparency",
+     "outlet": "Office of Rep. Sarah McBride"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001238.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001238",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
    "id": "michael-mccaul",
    "name": "Michael McCaul",
    "office": "U.S. Representative, Texas 10th District",
@@ -15169,6 +16609,16 @@
      "outlet": "@RepMcCaul on X"
     },
     {
+     "date": "2025-11-20",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I see no reason, first of all, that we should be selling AI military-grade technology chips to China.",
+     "target": null,
+     "joint": null,
+     "source": "https://mccaul.house.gov/media-center/press-releases/mccaul-remarks-hearing-semiconductor-export-controls",
+     "outlet": "Office of Rep. Michael McCaul"
+    },
+    {
      "date": "2025-12-09",
      "arena": "federal",
      "kind": "quote",
@@ -15177,6 +16627,16 @@
      "joint": null,
      "source": "https://x.com/RepMcCaul/status/1998520389132013574",
      "outlet": "@RepMcCaul on X"
+    },
+    {
+     "date": "2026-01-14",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "you cannot sell military-grade AI technology to China.",
+     "target": null,
+     "joint": null,
+     "source": "https://mccaul.house.gov/media-center/press-releases/mccaul-discusses-importance-keeping-american-ai-out-ccps-hands-hfac",
+     "outlet": "Office of Rep. Michael McCaul"
     }
    ],
    "review": {
@@ -15365,6 +16825,56 @@
    "photo": {
     "src": "https://unitedstates.github.io/images/congress/225x275/M001143.jpg",
     "page": "https://bioguide.congress.gov/search/bio/M001143",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
+   "id": "dave-mccormick",
+   "name": "Dave McCormick",
+   "office": "U.S. Senator from Pennsylvania",
+   "office_type": "us_senator",
+   "state": "PA",
+   "party": "R",
+   "stance": "Warns that state-by-state AI regulation would stifle innovation and has questioned the decision to allow advanced Nvidia chip exports to China.",
+   "statements": [
+    {
+     "date": "2025-12-05",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "If the government starts to regulate state by state and everything else, we're going to kill this unbelievable innovation that's happening.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.lehighvalleynews.com/environment-science/in-lehigh-university-talk-sen-dave-mccormick-argues-ai-revolution-could-revitalize-pennsylvania",
+     "outlet": "LehighValleyNews.com"
+    },
+    {
+     "date": "2025-12-05",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I don't think there is an anti-regulatory sentiment in the Congress or in the administration,",
+     "target": null,
+     "joint": null,
+     "source": "https://www.lehighvalleynews.com/environment-science/in-lehigh-university-talk-sen-dave-mccormick-argues-ai-revolution-could-revitalize-pennsylvania",
+     "outlet": "LehighValleyNews.com"
+    },
+    {
+     "date": "2025-12-10",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I'm concerned. I'm not clear on why that is the right path for us,",
+     "target": null,
+     "joint": null,
+     "source": "https://www.aol.com/articles/senate-republican-concerned-trump-approving-215602287.html",
+     "outlet": "The Hill (via AOL)"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001243.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001243",
     "license": "Public domain (US government work)",
     "artist": "US Congress"
    }
@@ -15914,6 +17424,26 @@
      "joint": null,
      "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
      "outlet": "Office of Rep. Foster"
+    },
+    {
+     "date": "2025-05-23",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Ranking Member Krishnamoorthi, urged Commerce Secretary Lutnick to expand the role of the U.S. AI Safety Institute to assess, benchmark and prepare for PRC frontier AI developments.",
+     "target": null,
+     "joint": null,
+     "source": "https://chinaselectcommittee.house.gov/media/press-releases/house-china-committee-urges-commerce-department-expand-ai-safety-institutes",
+     "outlet": "House Select Committee on the CCP"
+    },
+    {
+     "date": "2025-06-27",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI could enable non-state actors to generate step-by-step instructions for constructing bioweapons targeted at Americans. These risks are no longer hypothetical; they are present now and growing.",
+     "target": null,
+     "joint": null,
+     "source": "https://chinaselectcommittee.house.gov/media/press-releases/the-us-must-win-the-ai-race-moolenaar-s-framework-puts-america-first",
+     "outlet": "House Select Committee on the CCP"
     }
    ],
    "review": {
@@ -16002,6 +17532,46 @@
    }
   },
   {
+   "id": "jerry-moran",
+   "name": "Jerry Moran",
+   "office": "U.S. Senator from Kansas",
+   "office_type": "us_senator",
+   "state": "KS",
+   "party": "R",
+   "stance": "Introduced a bill requiring federal agencies to use the NIST AI Risk Management Framework and cosponsored a bill creating a Commerce office to review frontier models for national security risks.",
+   "statements": [
+    {
+     "date": "2023-11-02",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the Federal Artificial Intelligence Risk Management Act with Sen. Mark Warner, requiring federal agencies to use the NIST AI Risk Management Framework.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/BILLS-118s3205is/html/BILLS-118s3205is.htm",
+     "outlet": "U.S. Government Publishing Office"
+    },
+    {
+     "date": "2024-12-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the Preserving American Dominance in AI Act (S. 5616, 118th Congress), which would create an AI Safety Review Office at Commerce to evaluate frontier models for chemical, biological, radiological, nuclear and cyber risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/BILLS-118s5616is/html/BILLS-118s5616is.htm",
+     "outlet": "U.S. Government Publishing Office"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M000934.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M000934",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
    "id": "nathaniel-moran",
    "name": "Nathaniel Moran",
    "office": "U.S. Representative, Texas 1st District",
@@ -16030,6 +17600,46 @@
      "joint": null,
      "source": "https://x.com/RepNateMoran/status/1937901999900483631",
      "outlet": "@RepNateMoran on X"
+    },
+    {
+     "date": "2025-10-07",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This shift may be the most significant technological development since the internet. But unlike past tech waves, the systems we’re creating now are beginning to learn faster than we can regulate, adapt, or even fully understand.",
+     "target": null,
+     "joint": null,
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2454",
+     "outlet": "Office of Rep. Moran (op-ed in The Hill)"
+    },
+    {
+     "date": "2025-10-07",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "If the U.S. fails to lead in the responsible development of automated AI systems, we risk more than economic decline. We risk ceding control of a future shaped by black-box algorithms and self-directed machines, some of which do not align with democratic values or basic human safety.",
+     "target": null,
+     "joint": null,
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2454",
+     "outlet": "Office of Rep. Moran (op-ed in The Hill)"
+    },
+    {
+     "date": "2025-10-07",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "But I firmly believe that the pace and depth of this discussion (and resulting action) must quicken and intensify, before the next generation of AI systems begins writing the future without us in the loop.",
+     "target": null,
+     "joint": null,
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2454",
+     "outlet": "Office of Rep. Moran (op-ed in The Hill)"
+    },
+    {
+     "date": "2025-10-07",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This is not a call for sweeping regulation, nor is it a call for alarm. It’s a call to avoid falling asleep at the controls.",
+     "target": null,
+     "joint": null,
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2454",
+     "outlet": "Office of Rep. Moran (op-ed in The Hill)"
     },
     {
      "date": "2026-06-25",
@@ -16465,6 +18075,56 @@
    "stance": "Warns that AI weaponry without guardrails could be as dangerous as nuclear weapons and has questioned the Pentagon's blacklisting of Anthropic.",
    "statements": [
     {
+     "date": "2022-11-22",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "If we don’t have any constraints around their use, if we do not lead this effort, if we are not the ones who fundamentally set the ground rules agreed to by international treaty for the use and development of AI-enabled weapons and we leave that to adversaries like China — then we’re going to lose",
+     "target": null,
+     "joint": null,
+     "source": "https://defensescoop.com/2022/11/23/hasc-lawmaker-seth-moulton-urges-faster-adoption-and-more-restraint-of-military-ai/",
+     "outlet": "DefenseScoop"
+    },
+    {
+     "date": "2022-11-22",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I think it’s a national security imperative, not just a human imperative or an ethical imperative, that we have a major effort to establish the rules around the use and development of AI. And we’re really doing next to nothing in that department.",
+     "target": null,
+     "joint": null,
+     "source": "https://defensescoop.com/2022/11/23/hasc-lawmaker-seth-moulton-urges-faster-adoption-and-more-restraint-of-military-ai/",
+     "outlet": "DefenseScoop"
+    },
+    {
+     "date": "2023-05-03",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "When we get to the point of having killer robots, it’s going to be a real problem for us if we don’t have some established international norms for their use",
+     "target": null,
+     "joint": null,
+     "source": "https://www.foxnews.com/politics/ai-requires-new-generation-arms-control-deal-govern-future-warfighting-marine-veteran-lawmaker",
+     "outlet": "Fox News"
+    },
+    {
+     "date": "2023-05-24",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "But AI at its worst could usher in an era of warfare more dangerous than anything we’ve seen before — more dangerous not just for America but for humanity itself. History has shown us that the first adopters of a new technology get to set the norms for its use. Today our adversaries are adopting AI faster than we are, and they are showing less concern for how it gets used. If America falls short in this new AI arms race, someone else will set the moral guardrails for its use.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.bostonglobe.com/2023/05/24/opinion/seth-moulton-ai-autonomous-weapons/",
+     "outlet": "The Boston Globe"
+    },
+    {
+     "date": "2023-05-25",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We have to therefore focus on these most extreme risk cases, one of which is AI used in warfare. Another of them, of course, is disinformation. We heard a lot of talk about that. These are the places where I think Congress needs to focus its regulatory oversight, not to just try to regulate AI overall, but just prevent the worst-case scenarios from happening.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.wgbh.org/news/politics/2023/05/25/rep-seth-moulton-unregulated-ai-in-the-military-could-be-as-dangerous-as-nuclear-weapons",
+     "outlet": "GBH News"
+    },
+    {
      "date": "2026-03-01",
      "arena": "federal",
      "kind": "quote",
@@ -16568,6 +18228,36 @@
    }
   },
   {
+   "id": "lisa-murkowski",
+   "name": "Lisa Murkowski",
+   "office": "U.S. Senator from Alaska",
+   "office_type": "us_senator",
+   "state": "AK",
+   "party": "R",
+   "stance": "Introduced the Department of Energy AI Act, which would set up a DOE program to evaluate and mitigate AI safety and security risks.",
+   "statements": [
+    {
+     "date": "2024-07-10",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the bipartisan Department of Energy AI Act with Sen. Manchin, which would establish a DOE AI risk evaluation and mitigation program to evaluate and mitigate safety and security risks of AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.murkowski.senate.gov/press/release/murkowski-manchin-introduce-bipartisan-legislation-to-advance-department-of-energy-ai-research-for-science-security-and-technology",
+     "outlet": "Office of Sen. Murkowski"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001153.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001153",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
    "id": "chris-murphy",
    "name": "Chris Murphy",
    "office": "U.S. Senator from Connecticut",
@@ -16581,6 +18271,86 @@
    ],
    "stance": "Backs Connecticut's 2026 AI legislation and wants Congress to regulate AI as well.",
    "statements": [
+    {
+     "date": "2025-06-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The only value that guides the AI industry right now is the pursuit of profit. In all my meetings, it was crystal clear that companies like Google and Apple and OpenAI and Anthropic are in a race to deploy consumer-facing, job-killing AGI as quickly as possible, in order to beat each other to the market. Any talk about ethical or moral AI is just whitewash",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/94e90cb2-f21c-48ee-a402-83a142d43280",
+     "outlet": "Office of Sen. Chris Murphy (press release, via Capitol Releases archive)"
+    },
+    {
+     "date": "2025-06-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Every single executive I met with admitted that they had built a machine that they could not understand or control.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/94e90cb2-f21c-48ee-a402-83a142d43280",
+     "outlet": "Office of Sen. Chris Murphy (press release, via Capitol Releases archive)"
+    },
+    {
+     "date": "2025-06-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "A fraud is being perpetuated on the American people and our pliant, gullible political leaders.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/94e90cb2-f21c-48ee-a402-83a142d43280",
+     "outlet": "Office of Sen. Chris Murphy (press release, via Capitol Releases archive)"
+    },
+    {
+     "date": "2025-06-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "That China has been actively building towards a national AI law, while producing a cutting-edge model like DeepSeek’s, makes clear that AI regulation and innovation can, and do, co-exist.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/94e90cb2-f21c-48ee-a402-83a142d43280",
+     "outlet": "Office of Sen. Chris Murphy (press release, via Capitol Releases archive)"
+    },
+    {
+     "date": "2025-06-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I want to beat China in the race for advanced AI. I do. But not at any cost. If we do not use government policy and intervention to control for the job loss and to protect consumers, it won’t matter that we get to AGI before China.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/94e90cb2-f21c-48ee-a402-83a142d43280",
+     "outlet": "Office of Sen. Chris Murphy (press release, via Capitol Releases archive)"
+    },
+    {
+     "date": "2025-06-20",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The leaders of these companies, brimming with dangerous hubris, rapacious in their desire to build wealth and power, and far too comfortable in shrugging off the destructive power of their product",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/aab784a8-8052-4117-848a-247b4c589df5",
+     "outlet": "Office of Sen. Chris Murphy (press release, via Capitol Releases archive)"
+    },
+    {
+     "date": "2025-06-20",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Regulating AI isn't a gift to China – it's a way to make sure that we manage the growth of AI in a way that makes sure that we beat the Chinese in this race.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/aab784a8-8052-4117-848a-247b4c589df5",
+     "outlet": "Office of Sen. Chris Murphy (press release, via Capitol Releases archive)"
+    },
+    {
+     "date": "2026-02-13",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "A mandate for an American leader to prioritize working internationally to regulate AI doesn't come from nowhere. The industry right now is spending millions of dollars trying to suppress conversation in the United States at the state level, and at the federal level, around a regulatory framework",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/334a4872-70b9-44e0-b382-6a390b11169e",
+     "outlet": "Office of Sen. Chris Murphy (press release, via Capitol Releases archive)"
+    },
     {
      "date": "2026-05-06",
      "arena": "federal",
@@ -17323,6 +19093,26 @@
      "outlet": "@RepAOC on X"
     },
     {
+     "date": "2025-12-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Now, this is the seventh hearing we've had this year on the threats of AI. Yet our Congress has passed zero pieces of legislation to address the many, many legitimate concerns that have been raised regarding this issue.",
+     "target": null,
+     "joint": null,
+     "source": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-calls-out-pattern-corruption-behind-trump-and-republican-efforts",
+     "outlet": "Office of Rep. Ocasio-Cortez"
+    },
+    {
+     "date": "2025-12-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "And because Republicans couldn't pass their ten-year ban on state AI regulations, Trump then went around and skirted Congress with his own executive order, trying to ban states from imposing any AI regulations at all",
+     "target": null,
+     "joint": null,
+     "source": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-calls-out-pattern-corruption-behind-trump-and-republican-efforts",
+     "outlet": "Office of Rep. Ocasio-Cortez"
+    },
+    {
      "date": "2026-10-09",
      "arena": "federal",
      "kind": "action",
@@ -17549,6 +19339,36 @@
    "stance": "Treats advanced AI as a biosecurity and catastrophic-misuse risk, and as a child-safety risk, and uses his oversight perch to press the executive branch for safeguards.",
    "statements": [
     {
+     "date": "2023-06-13",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "AI capabilities are growing rapidly, and in ways even its creators cannot predict.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.ossoff.senate.gov/press-releases/watch-sen-ossoff-convenes-hearing-on-implications-of-artificial-intelligence-for-human-rights/",
+     "outlet": "Office of Sen. Jon Ossoff"
+    },
+    {
+     "date": "2023-06-13",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This technology has profound implications for the future of warfare, as kill chains are automated and predictive technology influences and mediates competition between nation-states. As AI technology develops, great powers competing in an AI arms race, engaged in strategic competition where AI is influencing the decisions made by leaders and militaries, face a different and new risk of escalation and miscalculation.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.ossoff.senate.gov/press-releases/watch-sen-ossoff-convenes-hearing-on-implications-of-artificial-intelligence-for-human-rights/",
+     "outlet": "Office of Sen. Jon Ossoff"
+    },
+    {
+     "date": "2023-06-13",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "And some influential technologists and engineers, including prominent figures and prominent leaders in the industry, warn of existential risks, ranging from catastrophic political destabilization, to the development and deployment of weapons of mass destruction, to catastrophic cybersecurity threats, and to unforeseeable and unknown forms of risk that may emergence alongside more and more powerful forms of artificial intelligences.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.ossoff.senate.gov/press-releases/watch-sen-ossoff-convenes-hearing-on-implications-of-artificial-intelligence-for-human-rights/",
+     "outlet": "Office of Sen. Jon Ossoff"
+    },
+    {
      "date": "2026-07-10",
      "arena": "federal",
      "kind": "action",
@@ -17599,6 +19419,16 @@
    "party": "D",
    "stance": "Supports nationwide AI safeguards including independent audits, transparency and whistleblower protections, and urged a U.S.-China AI safety agreement including a possible mutual pause.",
    "statements": [
+    {
+     "date": "2026-01-07",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cosponsored the States' Right to Regulate AI Act, introduced by Sen. Markey, to prohibit implementation of the executive order that seeks to block states from regulating AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://vermontbiz.com/node/241141",
+     "outlet": "Vermont Business Magazine"
+    },
     {
      "date": "2026-09-16",
      "arena": "federal",
@@ -17954,6 +19784,26 @@
    ],
    "stance": "Long-running focus on federal government use of AI — transparency, accountability and oversight of automated and augmented systems that interact with the public or make critical decisions.",
    "statements": [
+    {
+     "date": "2017-07-18",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Our adversaries often do not consider the same moral and ethical issues that we consider each and every day",
+     "target": null,
+     "joint": null,
+     "source": "https://www.ibtimes.co.uk/sentient-killer-robots-could-go-rogue-have-no-place-battle-field-warns-top-us-general-1630957",
+     "outlet": "International Business Times UK"
+    },
+    {
+     "date": "2023-03-08",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "While many government organizations and businesses are working to build AI systems that enhance our daily lives, we must be open-eyed about the risks presented by bad actors and adversaries who may use AI to intentionally cause harm, or undermine our national interests.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52483/html/CHRG-118shrg52483.htm",
+     "outlet": "Senate Homeland Security and Governmental Affairs Committee hearing record (GovInfo)"
+    },
     {
      "date": "2026",
      "arena": "federal",
@@ -18632,6 +20482,46 @@
    }
   },
   {
+   "id": "jamie-raskin",
+   "name": "Jamie Raskin",
+   "office": "U.S. Representative, Maryland 8th District",
+   "office_type": "us_rep",
+   "state": "MD",
+   "party": "D",
+   "stance": "Argued at a hearing on federal preemption of state AI laws that the U.S. need not become more like China to compete with it, and that products built to protect Americans make American AI more competitive.",
+   "statements": [
+    {
+     "date": "2025-09-18",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "For generative AI, it’s not about creating speed laws and building guard rails but creating a road to begin with.",
+     "target": null,
+     "joint": null,
+     "source": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
+     "outlet": "House Judiciary Committee Democrats"
+    },
+    {
+     "date": "2025-09-18",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "It would be unwise to assume that we need to become more like China to compete with China. In fact, many would argue that stronger, better products—developed in America, while protecting Americans and their data—ensure that American AI is both more advanced and more internationally competitive.",
+     "target": null,
+     "joint": null,
+     "source": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
+     "outlet": "House Judiciary Committee Democrats"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/R000606.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/R000606",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
    "id": "dan-rayfield",
    "name": "Dan Rayfield",
    "office": "Attorney General of Oregon",
@@ -18683,6 +20573,16 @@
    "stance": "Calls for congressional oversight, standards and speed limits on AI, including military AI use, criticizes rejection of AI guardrails and chip sales to China, and opposes preempting states' ability to regulate AI.",
    "statements": [
     {
+     "date": "2024-12-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor, with Sens. Romney, Moran, King and Hassan, of the Preserving American Dominance in Artificial Intelligence Act of 2024 (S. 5616), which would establish an Artificial Intelligence Safety Review Office in the Department of Commerce to oversee covered frontier AI models.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/BILLS-118s5616is/xml/BILLS-118s5616is.xml",
+     "outlet": "govinfo (S. 5616, 118th Congress)"
+    },
+    {
      "date": "2025-11-19",
      "arena": "federal",
      "kind": "quote",
@@ -18693,6 +20593,16 @@
      "outlet": "@SenJackReed on X"
     },
     {
+     "date": "2025-11-19",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We have to allow states to take the lead because we’re not able to, so far in Washington, come up with appropriate legislation",
+     "target": null,
+     "joint": null,
+     "source": "https://www.semafor.com/article/11/19/2025/democrats-fighting-to-preserve-states-ability-to-regulate-ai",
+     "outlet": "Semafor"
+    },
+    {
      "date": "2025-12-10",
      "arena": "federal",
      "kind": "quote",
@@ -18701,6 +20611,26 @@
      "joint": null,
      "source": "https://x.com/SenJackReed/status/1998904203167805795",
      "outlet": "@SenJackReed on X"
+    },
+    {
+     "date": "2026-06-08",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced with Sen. Coons the Responsible Artificial Intelligence Defense (RAIDA) Act, which would require human operators to be able to monitor and manually deactivate AI-enabled autonomous systems, bar AI from nuclear decision-making, and require testing before fielding.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/47a5a70c-bc01-4c29-8b94-5f3cbfe4eef9",
+     "outlet": "Office of Sen. Chris Coons"
+    },
+    {
+     "date": "2026-06-08",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "To begin, we should formalize international norms for military and civilian uses of AI to regulate areas where full human control over the technology is essential.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/47a5a70c-bc01-4c29-8b94-5f3cbfe4eef9",
+     "outlet": "Office of Sen. Chris Coons"
     },
     {
      "date": "2026-09-14",
@@ -19266,6 +21196,26 @@
    "stance": "Opposes federal moratoria and executive action that would preempt state AI laws, and has pressed AI companies over chatbots that encouraged violence.",
    "statements": [
     {
+     "date": "2024-09-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "However, as we cross this new frontier, it is essential that we implement smart policies to address security and safety risks while continuing to foster innovation and competitiveness.",
+     "target": null,
+     "joint": null,
+     "source": "https://ross.house.gov/2024/9/ross-beyer-introduce-legislation-to-regulate-artificial-intelligence-security-mitigate-risk-incidents",
+     "outlet": "Office of Rep. Deborah Ross"
+    },
+    {
+     "date": "2024-09-23",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the Secure Artificial Intelligence Act with Rep. Don Beyer, to improve tracking and processing of AI security and safety incidents and risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://ross.house.gov/2024/9/ross-beyer-introduce-legislation-to-regulate-artificial-intelligence-security-mitigate-risk-incidents",
+     "outlet": "Office of Rep. Deborah Ross"
+    },
+    {
      "date": "2025-12-03",
      "arena": "federal",
      "kind": "action",
@@ -19395,6 +21345,16 @@
    "stance": "Writes AI governance through a national-security and military lens — human judgment over autonomous weapons, testing and validation, and a central incident-reporting repository; a lead on bipartisan Senate AI policy.",
    "statements": [
     {
+     "date": "2024-07-25",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Bad guys can use artificial intelligence to create new pandemics, to use it for biological purposes and so forth, and to split genes in such a fashion that it would be extremely difficult to defend against it.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.dakotanewsnow.com/2024/07/25/senator-rounds-working-frame-us-policy-artificial-intelligence/",
+     "outlet": "Dakota News Now"
+    },
+    {
      "date": "2026-03-20",
      "arena": "federal",
      "kind": "action",
@@ -19423,6 +21383,16 @@
      "joint": null,
      "source": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-victories-in-senate-armed-services-committees-fiscal-year-2027-ndaa",
      "outlet": "Office of Sen. Rounds"
+    },
+    {
+     "date": "2026-10-13",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Sen. Cantwell, wrote to DNI Jay Clayton and OSTP Director Michael Kratsios urging a coordinated federal response to AI safety and AI-enabled cyber threats built on standards, independent testing, auditing and defensive AI, citing incidents of frontier models escaping sandboxes and bypassing safeguards.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/491814f5-7d0d-47a6-a610-262b3f703254",
+     "outlet": "Office of Sen. Maria Cantwell"
     }
    ],
    "review": {
@@ -19623,6 +21593,26 @@
    "stance": "Wants a permanent ban on artificial superintelligence, a pause on advanced AI development above 10^25 FLOP until a new Department of AI sets rules, and international agreements to the same end.",
    "statements": [
     {
+     "date": "2025-11-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I think we are not all that far away from the development of robotic soldiers,",
+     "target": null,
+     "joint": null,
+     "source": "https://www.nbcnews.com/tech/tech-news/bernie-sanders-ai-deepen-inequality-reshape-war-rcna244341",
+     "outlet": "NBC News"
+    },
+    {
+     "date": "2025-11-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Right now, politicians — at least sometimes — have to worry about loss of life when they decide to go to war. If you don’t have to worry about loss of life, and what you worry about is loss of robots, what does that mean for issues of war and peace globally? It’s a big issue.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.nbcnews.com/tech/tech-news/bernie-sanders-ai-deepen-inequality-reshape-war-rcna244341",
+     "outlet": "NBC News"
+    },
+    {
      "date": "2025-12-02",
      "arena": "federal",
      "kind": "quote",
@@ -19631,6 +21621,16 @@
      "joint": null,
      "source": "https://x.com/SenSanders/status/1995884815581925484",
      "outlet": "@SenSanders on X"
+    },
+    {
+     "date": "2025-12-28",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "So the science fiction fear of AI running the world is not quite so outrageous a concept as people may have thought it was",
+     "target": null,
+     "joint": null,
+     "source": "https://www.foxnews.com/media/sanders-says-science-fiction-fear-ai-running-world-not-quite-so-outrageous",
+     "outlet": "Fox News"
     },
     {
      "date": "2026-03-08",
@@ -20293,6 +22293,26 @@
      "outlet": "X"
     },
     {
+     "date": "2026-03-27",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Led six senators in introducing the GUARDRAILS Act to repeal President Trump's executive order seeking to prevent states from regulating artificial intelligence.",
+     "target": null,
+     "joint": null,
+     "source": "https://mauinow.com/2026/03/27/schatz-colleagues-introduce-legislation-to-repeal-trumps-ai-moratorium/",
+     "outlet": "Maui Now"
+    },
+    {
+     "date": "2026-03-27",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Discouraging states from enacting common-sense regulation that protects people from potential AI harms is dangerous. Congress has a responsibility to get this technology right, but states must not be penalized for acting in the public interest in the meantime.",
+     "target": null,
+     "joint": null,
+     "source": "https://mauinow.com/2026/03/27/schatz-colleagues-introduce-legislation-to-repeal-trumps-ai-moratorium/",
+     "outlet": "Maui Now"
+    },
+    {
      "date": "2025-12-16",
      "arena": "federal",
      "kind": "action",
@@ -20301,6 +22321,36 @@
      "joint": "ai-safety-disclosure-letters-2025",
      "source": "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-brian-schatz-colleagues-press-ai-companies-to-improve-transparency-commit-to-timely-consistent-safety-disclosures/",
      "outlet": "Office of Sen. Katie Britt"
+    },
+    {
+     "date": "2025-12-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Embracing the amazing possibilities of AI can’t come at the cost of leaving Americans vulnerable to its profound risks, which is exactly what this executive order does. Preventing states from enacting common-sense regulation that protects people from the very real harms of AI is absurd and dangerous. Congress has a responsibility to get this technology right – and quickly – but states must be allowed to act in the public interest in the meantime.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/856a1e88-929c-46db-9289-9c8f4bad5a27",
+     "outlet": "Office of Sen. Schatz (via Capitol Releases)"
+    },
+    {
+     "date": "2024-07-24",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "As the AI industry rapidly grows, it’s critical that we work to ensure the technology is safe for people to use and that companies are holding up their end of the bargain by following through on their safety commitments.",
+     "target": null,
+     "joint": null,
+     "source": "https://mauinow.com/2024/07/24/schatz-demands-answers-from-openai-in-controversial-chatgpt-spring-update/",
+     "outlet": "Maui Now"
+    },
+    {
+     "date": "2024-07-22",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Led five lawmakers in a letter asking OpenAI CEO Sam Altman how the company would meet its public safety commitments, after whistleblower claims that it rushed safety testing of GPT-4o and barred employees from warning the public about risks.",
+     "target": "OpenAI",
+     "joint": null,
+     "source": "https://mauinow.com/2024/07/24/schatz-demands-answers-from-openai-in-controversial-chatgpt-spring-update/",
+     "outlet": "Maui Now"
     }
    ],
    "photo": {
@@ -20579,6 +22629,36 @@
    }
   },
   {
+   "id": "debbie-wasserman-schultz",
+   "name": "Debbie Wasserman Schultz",
+   "office": "U.S. Representative, Florida 25th District",
+   "office_type": "us_rep",
+   "state": "FL",
+   "party": "D",
+   "stance": "Has pointed to warnings from experts who helped create AI that it is an existential threat to humanity.",
+   "statements": [
+    {
+     "date": "2023-06-02",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Experts that were part of creating this technology say that it's an existential threat to humanity.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.foxnews.com/politics/should-concerned-congress-opens-new-threats-posed-us-labor-market",
+     "outlet": "Fox News"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/W000797.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/W000797",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
    "id": "chuck-schumer",
    "name": "Chuck Schumer",
    "office": "U.S. Senator from New York; Senate Democratic Leader",
@@ -20590,6 +22670,26 @@
    ],
    "stance": "Wants serious federal guardrails on frontier AI and has demanded the administration brief all senators on frontier-model testing and AI risks.",
    "statements": [
+    {
+     "date": "2023-06-21",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We do not know what artificial intelligence will be capable of two years from now, 50 years from now, 100 years from now, in the hands of foreign adversaries, especially autocracies, or domestic rebel groups interested in extortionist financial gain or political upheaval. The dangers of AI could be extreme. We need to do everything we can to instill guardrails that make sure these groups cannot use our advances in AI for illicit and bad purpose.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.csis.org/analysis/sen-chuck-schumer-launches-safe-innovation-ai-age-csis",
+     "outlet": "CSIS (event transcript)"
+    },
+    {
+     "date": "2023-09-13",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "First, I asked everyone in the room, ‘Is government needed to play a role in regulating AI?’ and every single person raised their hands even though they had diverse views,",
+     "target": null,
+     "joint": null,
+     "source": "https://rollcall.com/2023/09/13/theres-consensus-not-details-on-ai-regulation-schumer-says/",
+     "outlet": "Roll Call"
+    },
     {
      "date": "2026-05-14",
      "arena": "federal",
@@ -20815,6 +22915,46 @@
    }
   },
   {
+   "id": "jeanne-shaheen",
+   "name": "Jeanne Shaheen",
+   "office": "U.S. Senator from New Hampshire",
+   "office_type": "us_senator",
+   "state": "NH",
+   "party": "D",
+   "stance": "Co-signed statements opposing the administration's advanced AI chip export deals with the UAE and Saudi Arabia and its decision to allow Nvidia H200 exports to China, on national security grounds.",
+   "statements": [
+    {
+     "date": "2025-05-16",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed a statement with Reps. Krishnamoorthi and Himes and Sens. Coons, Reed, Warner and Kelly opposing the administration's deals to export large volumes of advanced AI chips to the UAE and Saudi Arabia without credible security assurances, warning against offshoring frontier AI computing infrastructure and supplying chips to a company with ties to China.",
+     "target": null,
+     "joint": null,
+     "source": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/krishnamoorthi-himes-coons-shaheen-reed-warner-kelly-statement-trumps-middle",
+     "outlet": "House Select Committee on the CCP (Democrats)"
+    },
+    {
+     "date": "2025-12-08",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed a national security Democrats' statement opposing the administration's decision to allow Nvidia H200 AI chip exports to China, warning the chips would give China's military technology to make its weapons more lethal and carry out more effective cyberattacks, and urging the president to reverse course.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/927fc6a0-687c-4312-9dcc-e0ade604150d",
+     "outlet": "Capitol Releases (mirror of Office of Sen. Michael Bennet)"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001181.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001181",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
    "id": "josh-shapiro",
    "name": "Josh Shapiro",
    "office": "Governor of Pennsylvania",
@@ -20870,6 +23010,66 @@
    "stance": "Presses oversight of autonomous 'agentic AI' trading and co-signed the call for AI-safety diplomacy with China.",
    "statements": [
     {
+     "date": "2007-12-10",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "There is one issue that I think is more explosive than even the spread of nuclear weapons: engineered intelligence.",
+     "target": null,
+     "joint": null,
+     "source": "https://sherman.house.gov/media-center/in-the-news/congressman-sherman-speech-on-artificial-intelligence",
+     "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
+     "date": "2007-12-10",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I believe in our lifetime we will see new species possessing intelligence which surpasses our own. The last time a new higher level of intelligence arose on this planet was roughly 50,000 years ago. It was our own ancestors, who then said hello to the previously most intelligent species, Neanderthals. It did not work out so well for the Neanderthals.",
+     "target": null,
+     "joint": null,
+     "source": "https://sherman.house.gov/media-center/in-the-news/congressman-sherman-speech-on-artificial-intelligence",
+     "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
+     "date": "2007-12-10",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I have urged DARPA to develop computer systems designed to maximize the computer's utility, while avoiding self-awareness, or at least ambition.",
+     "target": null,
+     "joint": null,
+     "source": "https://sherman.house.gov/media-center/in-the-news/congressman-sherman-speech-on-artificial-intelligence",
+     "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
+     "date": "2019-01-23",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I look forward to exploring the benefits and risks of new levels of intelligence, both artificial intelligence and genetic engineering,",
+     "target": null,
+     "joint": null,
+     "source": "https://sherman.house.gov/media-center/press-releases/sherman-returns-to-house-science-committee",
+     "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
+     "date": "2019-06-26",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "What amount of--what percentage of all the research being done on artificial intelligence is being used to detect and prevent self-awareness and ambition?",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CHRG-116hhrg36796/html/CHRG-116hhrg36796.htm",
+     "outlet": "House Committee on Science, Space, and Technology (hearing record, GPO)"
+    },
+    {
+     "date": "2025-07-11",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Signed a bipartisan letter to Elon Musk asking xAI to explain what in Grok's training or programming caused its antisemitic and violent posts.",
+     "target": null,
+     "joint": null,
+     "source": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-sound-the-alarm-over-grok-ais-antisemitic-and-violent-posts",
+     "outlet": "Office of Rep. Josh Gottheimer"
+    },
+    {
      "date": "2025-12-10",
      "arena": "federal",
      "kind": "action",
@@ -20908,6 +23108,16 @@
      "joint": null,
      "source": "https://x.com/BradSherman/status/2026404914193182947",
      "outlet": "@BradSherman on X"
+    },
+    {
+     "date": "2026-06-14",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "And you should know that if these ambitions go unchecked, perhaps the last decision our species will make is whether our successor species is carbon-based or silicon-based, the product of genetic engineering or the product of computer engineering.",
+     "target": null,
+     "joint": null,
+     "source": "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial",
+     "outlet": "Office of Rep. Brad Sherman"
     },
     {
      "date": "2026-06-24",
@@ -21079,6 +23289,46 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "elissa-slotkin",
+   "name": "Elissa Slotkin",
+   "office": "U.S. Senator from Michigan",
+   "office_type": "us_senator",
+   "state": "MI",
+   "party": "D",
+   "stance": "Compares the questions AI raises to those raised by nuclear weapons, noting it can become smarter than its designers and is controlled by the private sector, and co-signed a statement opposing Nvidia H200 exports to China.",
+   "statements": [
+    {
+     "date": "2025-09-05",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I left this tour with the distinct feeling that AI raises some of the same fundamental questions that nukes did. How should they be used? By whom? Under what rules? Only this time we are creating a technology that can become smarter than the humans who are designing it, and unlike nuclear weapons AI is almost entirely created and controlled by the private sector.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.cfr.org/event/new-vision-americas-national-security",
+     "outlet": "Council on Foreign Relations"
+    },
+    {
+     "date": "2025-12-09",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed a national security Democrats' statement opposing the administration's decision to allow Nvidia H200 AI chip exports to China, warning the chips would give China's military technology to make its weapons more lethal and carry out more effective cyberattacks, and urging the president to reverse course.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/581bc83f-0f6d-476b-b292-3005c29ca139",
+     "outlet": "Capitol Releases (mirror of Office of Sen. Elissa Slotkin)"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001208.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001208",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
    }
   },
   {
@@ -21484,6 +23734,46 @@
    }
   },
   {
+   "id": "haley-stevens",
+   "name": "Haley Stevens",
+   "office": "U.S. Representative, Michigan 11th District",
+   "office_type": "us_rep",
+   "state": "MI",
+   "party": "D",
+   "stance": "Supports funding NIST's U.S. AI Safety Institute and says testing and evaluation of AI systems is needed to govern them.",
+   "statements": [
+    {
+     "date": "2023-10-18",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Testing and evaluation of AI systems will also be critical to enable governance. After all, it’s very hard to regulate what you can’t measure.",
+     "target": null,
+     "joint": null,
+     "source": "https://democrats-science.house.gov/news/press-releases/ranking-member-stevens-opening-statement-for-hearing-on-ai-risk-management",
+     "outlet": "House Science Committee Democrats"
+    },
+    {
+     "date": "2024-02-22",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Led a letter with Rep. Jay Obernolte to House appropriators urging an additional $10 million to establish NIST's U.S. AI Safety Institute in fiscal 2024.",
+     "target": null,
+     "joint": null,
+     "source": "https://stevens.house.gov/media/press-releases/stevens-and-obernolte-request-additional-10-million-secure-us-ai-leadership",
+     "outlet": "Office of Rep. Haley Stevens"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001215.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001215",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
    "id": "kevin-stitt",
    "name": "Kevin Stitt",
    "office": "Governor of Oklahoma",
@@ -21722,6 +24012,46 @@
    }
   },
   {
+   "id": "tom-suozzi",
+   "name": "Tom Suozzi",
+   "office": "U.S. Representative, New York 3rd District",
+   "office_type": "us_rep",
+   "state": "NY",
+   "party": "D",
+   "stance": "Co-led a letter to Elon Musk on antisemitic and violent outputs from xAI's Grok and says AI companies racing to ship products must guard against harmful outputs.",
+   "statements": [
+    {
+     "date": "2025-07-11",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-led with Reps. Gottheimer and Bacon a bipartisan letter to Elon Musk raising concerns over antisemitic and violent messages generated by xAI's Grok chatbot and asking about the internal actions that led to them.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/a491d5a1-afd3-487c-b540-e05802100570",
+     "outlet": "Capitol Releases (mirror of Office of Rep. Josh Gottheimer)"
+    },
+    {
+     "date": "2025-08-28",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "However, their investigation highlights a critical point: AI companies, in their race to create the most innovative and commercially successful product, must be vigilant in combatting biased, slanted, bigoted and antisemitic outputs. It’s a very slippery and dangerous slope.",
+     "target": null,
+     "joint": null,
+     "source": "https://jewishinsider.com/2025/08/grok-xai-antisemitism-platform-tom-suozzi/",
+     "outlet": "Jewish Insider"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001201.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001201",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
    "id": "mike-thompson",
    "name": "Mike Thompson",
    "office": "U.S. Representative, California 4th District",
@@ -21795,6 +24125,26 @@
    "stance": "Supports light-touch guardrails on frontier AI models that put the onus on companies to mitigate risks, and is co-drafting a bill with Klobuchar and Cruz.",
    "statements": [
     {
+     "date": "2023-11-28",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Unlike the White House's Executive order, our bill doesn't instantly assume that artificial technology is bad and that it should be subject to heavyhanded government intervention, nor does our legislation rush us into regulations before we have a clear idea of what aspects of this technology need to be regulated and in what way. Instead, our bill puts in place guardrails to mitigate the dangers posed by the highest-impact AI application, while leaving American innovators and entrepreneurs free to move forward with innovation.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CREC-2023-11-28/html/CREC-2023-11-28-pt1-PgS5620-2.htm",
+     "outlet": "Congressional Record (GovInfo)"
+    },
+    {
+     "date": "2023-11-28",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The light-touch approach the United States has taken to internet regulation is a good model to follow as we approach AI regulation.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.govinfo.gov/content/pkg/CREC-2023-11-28/html/CREC-2023-11-28-pt1-PgS5620-2.htm",
+     "outlet": "Congressional Record (GovInfo)"
+    },
+    {
      "date": "2026-09-23",
      "arena": "federal",
      "kind": "quote",
@@ -21834,6 +24184,56 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "thom-tillis",
+   "name": "Thom Tillis",
+   "office": "U.S. Senator from North Carolina",
+   "office_type": "us_senator",
+   "state": "NC",
+   "party": "R",
+   "stance": "Co-introduced a bill for a voluntary AI security and safety incident database, and cast the only Senate vote against stripping the proposed moratorium on state AI laws.",
+   "statements": [
+    {
+     "date": "2024-05-01",
+     "arena": "federal",
+     "kind": "action",
+     "text": "With Sen. Mark Warner, introduced the Secure Artificial Intelligence Act, which would have CISA and NIST set up a public, voluntary database for tracking AI security and safety incidents.",
+     "target": null,
+     "joint": null,
+     "source": "https://fedscoop.com/senate-bill-on-ai-security-bolster-voluntary-cyber-reporting/",
+     "outlet": "FedScoop"
+    },
+    {
+     "date": "2024-05-01",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "This commonsense legislation creates a voluntary database for reporting AI security and safety incidents and promotes best practices to mitigate AI risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://fedscoop.com/senate-bill-on-ai-security-bolster-voluntary-cyber-reporting/",
+     "outlet": "FedScoop"
+    },
+    {
+     "date": "2025-07-01",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cast the only vote against the Senate amendment that stripped the proposed moratorium on state AI law enforcement from the reconciliation bill, which passed 99-1.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.pbs.org/newshour/politics/senate-pulls-ai-regulatory-ban-from-gop-bill-after-complaints-from-states",
+     "outlet": "PBS News"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/T000476.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/T000476",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
    }
   },
   {
@@ -21903,6 +24303,46 @@
    "photo": {
     "src": "https://unitedstates.github.io/images/congress/225x275/T000481.jpg",
     "page": "https://bioguide.congress.gov/search/bio/T000481",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
+   "id": "jill-tokuda",
+   "name": "Jill Tokuda",
+   "office": "U.S. Representative, Hawaii 2nd District",
+   "office_type": "us_rep",
+   "state": "HI",
+   "party": "D",
+   "stance": "Has asked whether a loss of control over advanced AI could give rise to an independent AGI or ASI actor, and frames the AI race as one of control and governance.",
+   "statements": [
+    {
+     "date": "2025-06-25",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "And as much as the AI race is about speed and efficiency, it is a race for control and governance because at the end of the day, true power lives in the ability to wield AI safely and effectively with strong oversight and accountability to ensure it serves its intended purpose.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.congress.gov/119/meeting/house/118428/documents/HHRG-119-ZS00-Transcript-20250625.pdf",
+     "outlet": "House Select Committee on the CCP hearing transcript (congress.gov)"
+    },
+    {
+     "date": "2025-06-25",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "And is it possible that a loss of control by any nation-state, including our own, could give rise to an independent AGI or ASI actor that, globally, we will need to contend with?",
+     "target": null,
+     "joint": null,
+     "source": "https://www.congress.gov/119/meeting/house/118428/documents/HHRG-119-ZS00-Transcript-20250625.pdf",
+     "outlet": "House Select Committee on the CCP hearing transcript (congress.gov)"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/T000487.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/T000487",
     "license": "Public domain (US government work)",
     "artist": "US Congress"
    }
@@ -22556,6 +24996,46 @@
      "joint": null,
      "source": "https://x.com/RepLoriTrahan/status/2116244989105869282",
      "outlet": "@RepLoriTrahan on X"
+    },
+    {
+     "date": "2025-05-21",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "But what Republican members of this committee did find time to do last week – in the middle of the night by the way – is force through an unprecedented giveaway to the tech industry: A ten-year ban on state laws that could make AI safer for our constituents.",
+     "target": null,
+     "joint": null,
+     "source": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3591",
+     "outlet": "Office of Rep. Lori Trahan"
+    },
+    {
+     "date": "2026-06-25",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "There's much more to do, including giving CAISI the authority to create the standards we need to know whether a frontier model is safe before it ships, not after something goes wrong.",
+     "target": null,
+     "joint": null,
+     "source": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3802",
+     "outlet": "Office of Rep. Lori Trahan"
+    },
+    {
+     "date": "2026-10-01",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "It establishes uniform transparency and incident reporting, and emergency authority to stop a catastrophe before it happens.",
+     "target": null,
+     "joint": null,
+     "source": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3853",
+     "outlet": "Office of Rep. Lori Trahan"
+    },
+    {
+     "date": "2026-10-07",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Developers have already built systems capable of acting on their own and causing real damage. The CLAIM Act makes sure they answer for what their systems do.",
+     "target": null,
+     "joint": null,
+     "source": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3861",
+     "outlet": "Office of Rep. Lori Trahan"
     }
    ],
    "photo": {
@@ -22938,6 +25418,66 @@
    ],
    "stance": "Flagship advocate for enforceable, testable AI safety and security standards — pre-deployment testing, stronger cybersecurity, mandatory reporting of serious AI incidents, and keeping powerful systems under human control.",
    "statements": [
+    {
+     "date": "2023-04-26",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Sent letters to the CEOs of OpenAI, Scale AI, Meta, Google, Apple, Stability AI, Midjourney, Anthropic, Percipient.ai and Microsoft asking what they are doing to secure their AI systems and prevent misuse.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.kitco.com/news/off-the-wire/2023-04-26/us-senator-urges-ai-company-ceos-take-steps-address-risks",
+     "outlet": "Reuters (via Kitco)"
+    },
+    {
+     "date": "2023-04-26",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Beyond industry commitments, however, it is also clear that some level of regulation is necessary in this field,",
+     "target": null,
+     "joint": null,
+     "source": "https://www.kitco.com/news/off-the-wire/2023-04-26/us-senator-urges-ai-company-ceos-take-steps-address-risks",
+     "outlet": "Reuters (via Kitco)"
+    },
+    {
+     "date": "2024-10-10",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "They all say they want regulation until you put words on a page.",
+     "target": null,
+     "joint": null,
+     "source": "https://meritalk.com/articles/sen-warner-dont-hold-your-breath-for-ai-regulation/",
+     "outlet": "MeriTalk"
+    },
+    {
+     "date": "2024-10-10",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Now, do you do what the Europeans have overdone? We’ve done nothing. There is somewhere in the middle [for], I think, smart regulation,",
+     "target": null,
+     "joint": null,
+     "source": "https://meritalk.com/articles/sen-warner-dont-hold-your-breath-for-ai-regulation/",
+     "outlet": "MeriTalk"
+    },
+    {
+     "date": "2024-10-24",
+     "arena": "federal",
+     "kind": "urging",
+     "text": "Responding to the National Security Memorandum on AI, urged the administration to work with Congress on a clearer strategy for engaging the private sector on national security risks to AI systems across the AI supply chain.",
+     "target": null,
+     "joint": null,
+     "source": "https://fedscoop.com/ai-national-security-memo-avoid-squandering-lead/",
+     "outlet": "FedScoop"
+    },
+    {
+     "date": "2025-05-16",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "If this deal succeeds, the offshoring of frontier American AI will be recorded as an historic American blunder. People around the world deserve to enjoy the benefits we will reap from AI. However, AI chips must only be exported to trusted companies, in reasonable numbers, and in concert with credible security standards and assurances.",
+     "target": null,
+     "joint": null,
+     "source": "https://capitolreleases.com/releases/cdc363f7-a28d-4835-bc3c-1e671d6e3f76",
+     "outlet": "Office of Sen. Jack Reed, joint statement (archived by Capitol Releases)"
+    },
     {
      "date": "2026",
      "arena": "federal",
@@ -23441,6 +25981,66 @@
    }
   },
   {
+   "id": "maxine-waters",
+   "name": "Maxine Waters",
+   "office": "U.S. Representative, California 43rd District",
+   "office_type": "us_rep",
+   "state": "CA",
+   "party": "D",
+   "stance": "Opposes the moratorium and executive order aimed at state AI laws, wants guardrails and accountability for AI companies, and has sought information on AI risks in financial services.",
+   "statements": [
+    {
+     "date": "2024-01-11",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "I am also eager to get together with my colleagues on both sides of the aisle to examine the benefits and dangers of AI to ensure that this technology does not advance beyond our ability to regulate it, worsen existing inequities, and that consumers are properly protected from harm or abuse.",
+     "target": null,
+     "joint": null,
+     "source": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=411131",
+     "outlet": "House Financial Services Committee Democrats"
+    },
+    {
+     "date": "2025-12-10",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Twice this year, the White House and Congressional Republicans have tried—and failed—to impose a moratorium on state AI laws. And now, despite those failures, Trump announced he would sign an Executive Order that would block states from adopting their own AI safeguards by threatening legal challenges and withholding federal funding.",
+     "target": null,
+     "joint": null,
+     "source": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=414017",
+     "outlet": "House Financial Services Committee Democrats"
+    },
+    {
+     "date": "2025-12-10",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The stakes are too high, the risks are too great, and the consequences too real to hand this technology over to Big Tech billionaires with no guardrails and no accountability.",
+     "target": null,
+     "joint": null,
+     "source": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=414017",
+     "outlet": "House Financial Services Committee Democrats"
+    },
+    {
+     "date": "2026-07-07",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Launched a request for information on AI risks in financial services, citing Anthropic's warnings about the cyber and systemic threats posed by advanced AI models.",
+     "target": null,
+     "joint": null,
+     "source": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415374",
+     "outlet": "House Financial Services Committee Democrats"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/W000187.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/W000187",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
    "id": "phil-weiser",
    "name": "Phil Weiser",
    "office": "Attorney General of Colorado",
@@ -23536,6 +26136,66 @@
    "stance": "Wants a new federal agency able to pre-certify frontier AI models and pause dangerous releases.",
    "statements": [
     {
+     "date": "2024-07-22",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-signed a letter with Sens. Schatz, Luján, Warner and King to OpenAI CEO Sam Altman asking about the company's safety practices, including its commitment to dedicate 20% of computing resources to AI safety research, non-disparagement agreements and channels for employees to raise safety concerns.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.artificialintelligence-news.com/news/senators-probe-openai-safety-employment-practices/",
+     "outlet": "AI News"
+    },
+    {
+     "date": "2024-10-08",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Introduced the AI Weapons Accountability and Risk Evaluation (AWARE) Act, requiring the Pentagon to report to Congress on risk assessments of AI-enabled weapons, targeting and decision-support systems, including bias toward escalation, dependability and risk of civilian harm.",
+     "target": null,
+     "joint": null,
+     "source": "https://vermontbiz.com/node/235026",
+     "outlet": "Vermont Business Magazine"
+    },
+    {
+     "date": "2024-10-08",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We know that AI-enabled weapons are exacerbating harm to civilians in warzones, and without effective oversight these systems could dangerously reshape our future.",
+     "target": null,
+     "joint": null,
+     "source": "https://vermontbiz.com/node/235026",
+     "outlet": "Vermont Business Magazine"
+    },
+    {
+     "date": "2025-01-06",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The question is, can we get out in front and establish some standards that are going to protect the public good and protect the benefits and minimize the harms?",
+     "target": null,
+     "joint": null,
+     "source": "https://www.vermontpublic.org/show/vermont-edition/2025-01-06/sen-peter-welch-wants-to-better-regulate-generative-ai",
+     "outlet": "Vermont Public"
+    },
+    {
+     "date": "2026-01-07",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cosponsored the States' Right to Regulate AI Act, introduced by Sen. Markey, to prohibit implementation of the executive order that seeks to block states from regulating AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://vermontbiz.com/node/241141",
+     "outlet": "Vermont Business Magazine"
+    },
+    {
+     "date": "2026-01-07",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "At a moment when we should be putting every effort into finding ways to make AI safer, this executive order threatens consumer rights and safety by tying states’ hands",
+     "target": null,
+     "joint": null,
+     "source": "https://vermontbiz.com/node/241141",
+     "outlet": "Vermont Business Magazine"
+    },
+    {
      "date": "2026-09-23",
      "arena": "federal",
      "kind": "action",
@@ -23591,6 +26251,56 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "bruce-westerman",
+   "name": "Bruce Westerman",
+   "office": "U.S. Representative, Arkansas 4th District",
+   "office_type": "us_rep",
+   "state": "AR",
+   "party": "R",
+   "stance": "Describes a race with China to reach superintelligence that the U.S. must win, while saying humankind might have been better off had AI not been developed.",
+   "statements": [
+    {
+     "date": "2025-04-09",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "There's in essence a new Cold War on who's going to get to super intelligence with AI first, and it's a race between us and China, predominantly.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.csis.org/analysis/unleashing-americas-natural-resources-bruce-westerman",
+     "outlet": "CSIS (Power Map podcast transcript)"
+    },
+    {
+     "date": "2025-04-09",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The more I learn about it, it's kind of one of those things I think maybe humankind would've been better off if we didn't discover this and if we weren't developing it. But the cat's out of the bag and it is definitely a race to see who was going to win AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.csis.org/analysis/unleashing-americas-natural-resources-bruce-westerman",
+     "outlet": "CSIS (Power Map podcast transcript)"
+    },
+    {
+     "date": "2025-04-09",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The thought is that if we lose on the battle to AI, then everything we've got can be undermined: our financial systems, our defense systems. It's that big of a deal, who gets to AI first.",
+     "target": null,
+     "joint": null,
+     "source": "https://www.csis.org/analysis/unleashing-americas-natural-resources-bruce-westerman",
+     "outlet": "CSIS (Power Map podcast transcript)"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/W000821.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/W000821",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
    }
   },
   {
@@ -24162,6 +26872,26 @@
      "joint": null,
      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-bipartisan-senators-introduce-ai-bill-to-accelerate-innovation-strengthen-u-s-leadership/",
      "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+     "date": "2024-04-26",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "There, there's some threats out there that are being discussed. I mean, if AI technologies enable one to more effectively, more easily develop superbugs,",
+     "target": null,
+     "joint": null,
+     "source": "https://www.ndsmcobserver.com/article/2024/04/sen-todd-young-discusses-ai",
+     "outlet": "The Observer (Notre Dame)"
+    },
+    {
+     "date": "2024-04-26",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Imagine a world in which those things don’t happen because we don’t appreciate the opportunity cost of over regulating,",
+     "target": null,
+     "joint": null,
+     "source": "https://www.ndsmcobserver.com/article/2024/04/sen-todd-young-discusses-ai",
+     "outlet": "The Observer (Notre Dame)"
     },
     {
      "date": "2026-03-20",

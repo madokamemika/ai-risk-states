@@ -8,6 +8,36 @@
   "stance": "Presses AI companies to guard against Chinese espionage and insider threats and to notify the government of breaches.",
   "statements": [
     {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan AI Whistleblower Protection Act, which would protect current and former AI company employees who make whistleblower disclosures to Congress or federal agencies and provide relief against retaliation.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.judiciary.senate.gov/press/rep/releases/grassley-introduces-ai-whistleblower-protection-act",
+      "outlet": "Senate Judiciary Committee"
+    },
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Transparency brings accountability. Today, too many people working in AI feel they’re unable to speak up when they see something wrong. Whistleblowers are one of the best ways to ensure Congress keeps pace as the AI industry rapidly develops. We need to act to make these protections crystal clear.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.judiciary.senate.gov/press/rep/releases/grassley-introduces-ai-whistleblower-protection-act",
+      "outlet": "Senate Judiciary Committee"
+    },
+    {
+      "date": "2025-06-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "My bill will explicitly protect communications of current and former AI employees making legally protected disclosure to Congress or a federal agency or to a supervisor. It seems as time goes on, AI is growing. My timely legislation will bring transparency and accountability to the artificial intelligence sector before it's too late.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.judiciary.senate.gov/press/rep/releases/icymi-grassley-discusses-ai-whistleblower-protection-act-during-a-starting-point-interview",
+      "outlet": "Senate Judiciary Committee"
+    },
+    {
       "date": "2026-05-01",
       "arena": "federal",
       "kind": "action",

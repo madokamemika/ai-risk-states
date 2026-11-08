@@ -12,6 +12,26 @@
   "stance": "Wants a licensing agency for frontier AI, a ban on recursively self-improving models until guardrails exist, and US-China agreements on AI safety.",
   "statements": [
     {
+      "date": "2023-04-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We have to be aware of the impact AI technology could have on jobs, disinformation, and our nation’s cybersecurity. Congress must craft smart and careful regulations to prevent any harmful uses of AI that won’t stifle innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://semafor.com/article/04/26/2023/rep-ro-khanna-on-ai-worries-and-why-dems-should-talk-to-elon-musk",
+      "outlet": "Semafor"
+    },
+    {
+      "date": "2024-08-13",
+      "arena": "state",
+      "kind": "quote",
+      "text": "I agree wholeheartedly that there is a need for legislation and appreciate the intention behind SB 1047 but am concerned that the bill as currently written would be ineffective, punishing of individual entrepreneurs and small businesses, and hurt California’s spirit of innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://khanna.house.gov/media/press-releases/khanna-statement-sb-1047-and-path-forward-artificial-intelligence",
+      "outlet": "Office of Rep. Khanna"
+    },
+    {
       "date": "2025-06-08",
       "arena": "federal",
       "kind": "quote",

@@ -31,6 +31,26 @@
       "outlet": "Office of Rep. Foster"
     },
     {
+      "date": "2025-05-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Chairman Moolenaar, urged Commerce Secretary Lutnick to expand the role of the U.S. AI Safety Institute to assess, benchmark and prepare for PRC frontier AI developments.",
+      "target": null,
+      "joint": null,
+      "source": "https://chinaselectcommittee.house.gov/media/press-releases/house-china-committee-urges-commerce-department-expand-ai-safety-institutes",
+      "outlet": "House Select Committee on the CCP"
+    },
+    {
+      "date": "2025-06-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Whether it's American AI or Chinese AI, it should not be released until we know it's safe. That's why I'm working on a new bill—the AGI Safety Act—that will require AGI to be aligned with human values and require it to comply with laws that apply to humans.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/transcript-ranking-member-krishnamoorthis-opening-statement-hearing-algorithms",
+      "outlet": "Select Committee on the CCP Democrats"
+    },
+    {
       "date": "2026-09-17",
       "arena": "federal",
       "kind": "quote",

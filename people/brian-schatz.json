@@ -61,6 +61,26 @@
       "outlet": "X"
     },
     {
+      "date": "2026-03-27",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led six senators in introducing the GUARDRAILS Act to repeal President Trump's executive order seeking to prevent states from regulating artificial intelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://mauinow.com/2026/03/27/schatz-colleagues-introduce-legislation-to-repeal-trumps-ai-moratorium/",
+      "outlet": "Maui Now"
+    },
+    {
+      "date": "2026-03-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Discouraging states from enacting common-sense regulation that protects people from potential AI harms is dangerous. Congress has a responsibility to get this technology right, but states must not be penalized for acting in the public interest in the meantime.",
+      "target": null,
+      "joint": null,
+      "source": "https://mauinow.com/2026/03/27/schatz-colleagues-introduce-legislation-to-repeal-trumps-ai-moratorium/",
+      "outlet": "Maui Now"
+    },
+    {
       "date": "2025-12-16",
       "arena": "federal",
       "kind": "action",
@@ -69,6 +89,36 @@
       "joint": "ai-safety-disclosure-letters-2025",
       "source": "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-brian-schatz-colleagues-press-ai-companies-to-improve-transparency-commit-to-timely-consistent-safety-disclosures/",
       "outlet": "Office of Sen. Katie Britt"
+    },
+    {
+      "date": "2025-12-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Embracing the amazing possibilities of AI can’t come at the cost of leaving Americans vulnerable to its profound risks, which is exactly what this executive order does. Preventing states from enacting common-sense regulation that protects people from the very real harms of AI is absurd and dangerous. Congress has a responsibility to get this technology right – and quickly – but states must be allowed to act in the public interest in the meantime.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/856a1e88-929c-46db-9289-9c8f4bad5a27",
+      "outlet": "Office of Sen. Schatz (via Capitol Releases)"
+    },
+    {
+      "date": "2024-07-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As the AI industry rapidly grows, it’s critical that we work to ensure the technology is safe for people to use and that companies are holding up their end of the bargain by following through on their safety commitments.",
+      "target": null,
+      "joint": null,
+      "source": "https://mauinow.com/2024/07/24/schatz-demands-answers-from-openai-in-controversial-chatgpt-spring-update/",
+      "outlet": "Maui Now"
+    },
+    {
+      "date": "2024-07-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led five lawmakers in a letter asking OpenAI CEO Sam Altman how the company would meet its public safety commitments, after whistleblower claims that it rushed safety testing of GPT-4o and barred employees from warning the public about risks.",
+      "target": "OpenAI",
+      "joint": null,
+      "source": "https://mauinow.com/2024/07/24/schatz-demands-answers-from-openai-in-controversial-chatgpt-spring-update/",
+      "outlet": "Maui Now"
     }
   ],
   "photo": {

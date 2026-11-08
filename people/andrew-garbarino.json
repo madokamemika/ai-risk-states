@@ -18,6 +18,26 @@
       "outlet": "@RepGarbarino on X"
     },
     {
+      "date": "2025-11-26",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With subcommittee chairs Ogles and Brecheen, asked Anthropic, Google and Quantum Xchange to testify at a Homeland Security hearing after Anthropic reported a largely AI-executed PRC cyber operation using its Claude Code tool.",
+      "target": "Anthropic, Google and Quantum Xchange",
+      "joint": null,
+      "source": "https://homeland.house.gov/2025/11/26/homeland-republicans-request-anthropic-google-quantum-xchange-testimony-following-report-of-ai-assisted-partially-autonomous-prc-cyber-operation/",
+      "outlet": "House Committee on Homeland Security"
+    },
+    {
+      "date": "2025-11-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "For the first time, we are seeing a foreign adversary use a commercial AI system to carry out nearly an entire cyber operation with minimal human involvement.",
+      "target": null,
+      "joint": null,
+      "source": "https://decrypt.co/350213/us-ai-and-data-firms-to-testify-in-chinese-ai-espionage-probe",
+      "outlet": "Decrypt"
+    },
+    {
       "date": "2026-06-25",
       "arena": "federal",
       "kind": "quote",

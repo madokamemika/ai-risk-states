@@ -11,6 +11,26 @@
   "stance": "Wants every advanced AI model sold in the US to carry a company-controlled kill switch in case a model escapes human control.",
   "statements": [
     {
+      "date": "2023-05-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Hypothesis number three that I would like you to assume: There is likely a berserk wing of the artificial intelligence community that intentionally or unintentionally could use artificial intelligence to kill all of us and hurt us the entire time that we are dying.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+      "outlet": "Senate Judiciary Subcommittee hearing record (GPO)"
+    },
+    {
+      "date": "2023-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "their general impression is that AI has extraordinary potential to make our lives better if it doesn't make our lives worse first. And that's about the extent of it. And in my judgment, we're not nearly ready to be able to craft a bill that looks like somebody designed it on purpose. I think we're more likely to take baby steps.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53879/html/CHRG-118shrg53879.htm",
+      "outlet": "Senate Judiciary Subcommittee hearing record (GPO)"
+    },
+    {
       "date": "2026-09-16",
       "arena": "federal",
       "kind": "action",

@@ -186,6 +186,16 @@
       "joint": null,
       "source": "https://x.com/RepLiccardo/status/2000699340931699146",
       "outlet": "@RepLiccardo on X"
+    },
+    {
+      "date": "2025-07-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "As chair of the New Democrat Coalition's Innovation and Technology Working Group, led release of an innovation agenda urging Congress to regulate AI incrementally through transparency standards and model testing and evaluation frameworks rather than licensing mandates, with case-by-case exceptions for models that may inherently pose a threat such as artificial general intelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://newdemocratcoalition.house.gov/media-center/press-releases/new-dems-release-innovation-agenda-to-unleash-american-potential-and-lead-the-21st-century",
+      "outlet": "New Democrat Coalition"
     }
   ],
   "review": {

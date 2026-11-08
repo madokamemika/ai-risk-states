@@ -120,6 +120,66 @@
       "joint": "ai-safety-disclosure-letters-2025",
       "source": "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-brian-schatz-colleagues-press-ai-companies-to-improve-transparency-commit-to-timely-consistent-safety-disclosures/",
       "outlet": "Office of Sen. Katie Britt"
+    },
+    {
+      "date": "2025-12-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined a statement by eight Democratic senators objecting to the decision to allow Nvidia H200 AI chip exports to China, warning the chips would make China's weapons more lethal and its cyberattacks more effective.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/581bc83f-0f6d-476b-b292-3005c29ca139",
+      "outlet": "Office of Sen. Elissa Slotkin (via Capitol Releases)"
+    },
+    {
+      "date": "2025-11-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We cannot allow China to leap ahead of us and bolster their weapons capabilities, maximize their cyberattacks against American industry, and threaten long-term U.S. economic and national security.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/c356150a-6c91-4e30-90fd-659b185e968f",
+      "outlet": "Office of Sen. Chris Coons (via Capitol Releases)"
+    },
+    {
+      "date": "2025-10-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I’m thrilled to hear Attorney General Jennings and OpenAI have reached an agreement that will allow OpenAI to continue its work to unlock AI’s immense potential while better protecting Americans from the risks of this emerging technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/b35b3fed-e92b-4d2e-8a40-de7b2738aa14",
+      "outlet": "Office of Sen. Chris Coons (via Capitol Releases)"
+    },
+    {
+      "date": "2025-07-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "President Trump’s decision today hands China cutting-edge technology that Beijing will use to erase our competitive advantage in artificial intelligence, undermine our military, and outpace our economy.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/d6d0a782-32e7-4dc5-bd2d-418b2457f55a",
+      "outlet": "Office of Sen. Chris Coons (via Capitol Releases)"
+    },
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is rapidly evolving in ways that have the potential to radically reshape our society and transform our world for the better and for the worse",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/cc00605a-d91b-4fce-9948-a2b2cbbf2e73",
+      "outlet": "Office of Sen. Chuck Grassley (press release, via Capitol Releases)"
+    },
+    {
+      "date": "2025-05-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-sponsored the bipartisan AI Whistleblower Protection Act, which protects employees of AI developers who report AI security vulnerabilities or violations.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/cc00605a-d91b-4fce-9948-a2b2cbbf2e73",
+      "outlet": "Office of Sen. Chuck Grassley (press release, via Capitol Releases)"
     }
   ],
   "review": {

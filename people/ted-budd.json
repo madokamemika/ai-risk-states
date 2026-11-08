@@ -36,6 +36,16 @@
       "joint": null,
       "source": "https://www.budd.senate.gov/press-releases/budd-markey-introduce-bipartisan-bills-to-prepare-for-ai-threats",
       "outlet": "Office of Sen. Budd"
+    },
+    {
+      "date": "2025-10-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need federal preemption on anything that we do so we don’t have a patchwork problem,",
+      "target": null,
+      "joint": null,
+      "source": "https://bankingjournal.aba.com/2025/10/sen-budd-calls-for-federal-preemption-of-ai-regulation/",
+      "outlet": "ABA Banking Journal"
     }
   ],
   "review": { "status": "unreviewed", "note": "added October 2026 from budd.senate.gov primary sources; quotes verified verbatim" },

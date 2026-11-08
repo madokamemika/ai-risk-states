@@ -11,6 +11,26 @@
   "stance": "Backs urgent federal guardrails and oversight for advanced AI from the Science Committee.",
   "statements": [
     {
+      "date": "2024-02-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Artificial Intelligence holds the incredible potential to transform many aspects of our society, however, it can pose grave risks without clear and rigorous oversight",
+      "target": null,
+      "joint": null,
+      "source": "https://foushee.house.gov/posts/reps-foushee-ross-host-ai-roundtable-discussion-with-senior-biden-administration-officials-and-local-industry-leaders",
+      "outlet": "Office of Rep. Valerie Foushee"
+    },
+    {
+      "date": "2025-07-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signed the Congressional AI Caucus Democrats' statement on the AI Action Plan, which said responsible innovation must go hand in hand with appropriate safety guardrails as developers build more powerful models such as artificial general intelligence, and objected to the plan's apparent targeting of state AI regulations.",
+      "target": null,
+      "joint": null,
+      "source": "https://matsui.house.gov/media/press-releases/congressional-ai-caucus-democrats-statement-president-trumps-ai-action-plan",
+      "outlet": "Office of Rep. Doris Matsui"
+    },
+    {
       "date": "2025-12-09",
       "arena": "federal",
       "kind": "action",

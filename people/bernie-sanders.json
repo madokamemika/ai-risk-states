@@ -11,6 +11,26 @@
   "stance": "Wants a permanent ban on artificial superintelligence, a pause on advanced AI development above 10^25 FLOP until a new Department of AI sets rules, and international agreements to the same end.",
   "statements": [
     {
+      "date": "2025-11-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I think we are not all that far away from the development of robotic soldiers,",
+      "target": null,
+      "joint": null,
+      "source": "https://www.nbcnews.com/tech/tech-news/bernie-sanders-ai-deepen-inequality-reshape-war-rcna244341",
+      "outlet": "NBC News"
+    },
+    {
+      "date": "2025-11-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Right now, politicians — at least sometimes — have to worry about loss of life when they decide to go to war. If you don’t have to worry about loss of life, and what you worry about is loss of robots, what does that mean for issues of war and peace globally? It’s a big issue.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.nbcnews.com/tech/tech-news/bernie-sanders-ai-deepen-inequality-reshape-war-rcna244341",
+      "outlet": "NBC News"
+    },
+    {
       "date": "2025-12-02",
       "arena": "federal",
       "kind": "quote",
@@ -19,6 +39,16 @@
       "joint": null,
       "source": "https://x.com/SenSanders/status/1995884815581925484",
       "outlet": "@SenSanders on X"
+    },
+    {
+      "date": "2025-12-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "So the science fiction fear of AI running the world is not quite so outrageous a concept as people may have thought it was",
+      "target": null,
+      "joint": null,
+      "source": "https://www.foxnews.com/media/sanders-says-science-fiction-fear-ai-running-world-not-quite-so-outrageous",
+      "outlet": "Fox News"
     },
     {
       "date": "2026-03-08",

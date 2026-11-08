@@ -11,6 +11,36 @@
   "stance": "Congress's only PhD physicist: leads bipartisan AI-chip export-security legislation to keep advanced compute out of adversary hands, and presses oversight of agentic AI in the financial system.",
   "statements": [
     {
+      "date": "2024-02-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Over the last five years, I’ve become much more worried than I previously was. And the reason for that is there’s this analogy between the evolution of AI algorithms and the evolution in living organisms. And what if you look at living organisms and the strategies that have evolved, many of them are deceptive.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/bill-foster-house-ai-task-force/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2024-02-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There will be a survival advantage to being opaque. You are already seeing in some of these large language models behavior that looks like deceptive behavior.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/bill-foster-house-ai-task-force/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2024-02-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It will be a huge survival advantage for AI algorithms to be deceptive.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/bill-foster-house-ai-task-force/",
+      "outlet": "FedScoop"
+    },
+    {
       "date": "2025-05-15",
       "arena": "federal",
       "kind": "action",

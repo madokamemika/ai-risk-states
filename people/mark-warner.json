@@ -14,6 +14,66 @@
   "stance": "Flagship advocate for enforceable, testable AI safety and security standards — pre-deployment testing, stronger cybersecurity, mandatory reporting of serious AI incidents, and keeping powerful systems under human control.",
   "statements": [
     {
+      "date": "2023-04-26",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Sent letters to the CEOs of OpenAI, Scale AI, Meta, Google, Apple, Stability AI, Midjourney, Anthropic, Percipient.ai and Microsoft asking what they are doing to secure their AI systems and prevent misuse.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kitco.com/news/off-the-wire/2023-04-26/us-senator-urges-ai-company-ceos-take-steps-address-risks",
+      "outlet": "Reuters (via Kitco)"
+    },
+    {
+      "date": "2023-04-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Beyond industry commitments, however, it is also clear that some level of regulation is necessary in this field,",
+      "target": null,
+      "joint": null,
+      "source": "https://www.kitco.com/news/off-the-wire/2023-04-26/us-senator-urges-ai-company-ceos-take-steps-address-risks",
+      "outlet": "Reuters (via Kitco)"
+    },
+    {
+      "date": "2024-10-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "They all say they want regulation until you put words on a page.",
+      "target": null,
+      "joint": null,
+      "source": "https://meritalk.com/articles/sen-warner-dont-hold-your-breath-for-ai-regulation/",
+      "outlet": "MeriTalk"
+    },
+    {
+      "date": "2024-10-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Now, do you do what the Europeans have overdone? We’ve done nothing. There is somewhere in the middle [for], I think, smart regulation,",
+      "target": null,
+      "joint": null,
+      "source": "https://meritalk.com/articles/sen-warner-dont-hold-your-breath-for-ai-regulation/",
+      "outlet": "MeriTalk"
+    },
+    {
+      "date": "2024-10-24",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Responding to the National Security Memorandum on AI, urged the administration to work with Congress on a clearer strategy for engaging the private sector on national security risks to AI systems across the AI supply chain.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/ai-national-security-memo-avoid-squandering-lead/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2025-05-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If this deal succeeds, the offshoring of frontier American AI will be recorded as an historic American blunder. People around the world deserve to enjoy the benefits we will reap from AI. However, AI chips must only be exported to trusted companies, in reasonable numbers, and in concert with credible security standards and assurances.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/cdc363f7-a28d-4835-bc3c-1e671d6e3f76",
+      "outlet": "Office of Sen. Jack Reed, joint statement (archived by Capitol Releases)"
+    },
+    {
       "date": "2026",
       "arena": "federal",
       "kind": "action",

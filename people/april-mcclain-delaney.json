@@ -8,6 +8,26 @@
   "stance": "A leading voice for independently verified safety testing and accountability before AI is deployed in safety-critical systems.",
   "statements": [
     {
+      "date": "2025-06-12",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-led a letter from 27 House members urging Senate leadership to strike the reconciliation provision conditioning BEAD broadband funding on a 10-year moratorium on enforcing state AI laws.",
+      "target": null,
+      "joint": "reconciliation-ai-moratorium-2025",
+      "source": "https://mcclaindelaney.house.gov/media/press-releases/mcclain-delaney-matsui-landsman-carter-urge-senate-leadership-strike-provision",
+      "outlet": "Office of Rep. April McClain Delaney"
+    },
+    {
+      "date": "2025-06-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "In contrast, the reconciliation text’s AI moratorium provision represents a reckless and dangerous attempt to force states to forfeit their ability to protect the public from the rapidly escalating risks of unregulated AI and automated decision systems. It is textbook federal overreach.",
+      "target": null,
+      "joint": "reconciliation-ai-moratorium-2025",
+      "source": "https://mcclaindelaney.house.gov/media/press-releases/mcclain-delaney-matsui-landsman-carter-urge-senate-leadership-strike-provision",
+      "outlet": "Office of Rep. April McClain Delaney"
+    },
+    {
       "date": "2025-12-01",
       "arena": "federal",
       "kind": "quote",

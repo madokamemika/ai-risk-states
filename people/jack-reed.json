@@ -8,6 +8,16 @@
   "stance": "Calls for congressional oversight, standards and speed limits on AI, including military AI use, criticizes rejection of AI guardrails and chip sales to China, and opposes preempting states' ability to regulate AI.",
   "statements": [
     {
+      "date": "2024-12-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Original cosponsor, with Sens. Romney, Moran, King and Hassan, of the Preserving American Dominance in Artificial Intelligence Act of 2024 (S. 5616), which would establish an Artificial Intelligence Safety Review Office in the Department of Commerce to oversee covered frontier AI models.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/BILLS-118s5616is/xml/BILLS-118s5616is.xml",
+      "outlet": "govinfo (S. 5616, 118th Congress)"
+    },
+    {
       "date": "2025-11-19",
       "arena": "federal",
       "kind": "quote",
@@ -18,6 +28,16 @@
       "outlet": "@SenJackReed on X"
     },
     {
+      "date": "2025-11-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We have to allow states to take the lead because we’re not able to, so far in Washington, come up with appropriate legislation",
+      "target": null,
+      "joint": null,
+      "source": "https://www.semafor.com/article/11/19/2025/democrats-fighting-to-preserve-states-ability-to-regulate-ai",
+      "outlet": "Semafor"
+    },
+    {
       "date": "2025-12-10",
       "arena": "federal",
       "kind": "quote",
@@ -26,6 +46,26 @@
       "joint": null,
       "source": "https://x.com/SenJackReed/status/1998904203167805795",
       "outlet": "@SenJackReed on X"
+    },
+    {
+      "date": "2026-06-08",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced with Sen. Coons the Responsible Artificial Intelligence Defense (RAIDA) Act, which would require human operators to be able to monitor and manually deactivate AI-enabled autonomous systems, bar AI from nuclear decision-making, and require testing before fielding.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/47a5a70c-bc01-4c29-8b94-5f3cbfe4eef9",
+      "outlet": "Office of Sen. Chris Coons"
+    },
+    {
+      "date": "2026-06-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "To begin, we should formalize international norms for military and civilian uses of AI to regulate areas where full human control over the technology is essential.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/47a5a70c-bc01-4c29-8b94-5f3cbfe4eef9",
+      "outlet": "Office of Sen. Chris Coons"
     },
     {
       "date": "2026-09-14",

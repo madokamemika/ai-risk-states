@@ -12,6 +12,36 @@
   "stance": "Among the most active House members on AI catastrophic and military-safety guardrails — human control of autonomous weapons, national-lab evaluation of frontier AI for CBRN and deception, and a Pentagon AI incident-reporting program.",
   "statements": [
     {
+      "date": "2024-05-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led the House Armed Services Committee effort to include in the FY2025 NDAA language from the Block Nuclear Launch by Autonomous Artificial Intelligence Act, keeping a human in the loop for all nuclear launch decisions.",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-and-lieu-praise-armed-services-committee-for-including-provision-in-defense-authorization-bill-to-prevent-autonomous-ai-from-launching-nuclear-weapons",
+      "outlet": "Office of Rep. Sara Jacobs"
+    },
+    {
+      "date": "2024-05-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We’ve seen that AI consistently makes more aggressive and escalatory decisions than humans in war game simulations, including launching nuclear weapons. That’s why I’m so proud that the House Armed Services Committee passed my amendment to ensure that humans are involved in every step of decision-making regarding nuclear weapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/reps-jacobs-and-lieu-praise-armed-services-committee-for-including-provision-in-defense-authorization-bill-to-prevent-autonomous-ai-from-launching-nuclear-weapons",
+      "outlet": "Office of Rep. Sara Jacobs"
+    },
+    {
+      "date": "2024-12-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI and autonomous systems also have major implications for the future of the battlefield – some of which can help save our service members’ time and lives and others which can be incredibly dangerous. That’s why I’m proud that our bipartisan report recommends Congress to support DOD’s policy requiring meaningful human control over the launch of nuclear weapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-secures-key-wins-in-bipartisan-ai-task-force-report",
+      "outlet": "Office of Rep. Sara Jacobs"
+    },
+    {
       "date": "2025-12-11",
       "arena": "federal",
       "kind": "quote",

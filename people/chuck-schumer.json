@@ -11,6 +11,26 @@
   "stance": "Wants serious federal guardrails on frontier AI and has demanded the administration brief all senators on frontier-model testing and AI risks.",
   "statements": [
     {
+      "date": "2023-06-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We do not know what artificial intelligence will be capable of two years from now, 50 years from now, 100 years from now, in the hands of foreign adversaries, especially autocracies, or domestic rebel groups interested in extortionist financial gain or political upheaval. The dangers of AI could be extreme. We need to do everything we can to instill guardrails that make sure these groups cannot use our advances in AI for illicit and bad purpose.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.csis.org/analysis/sen-chuck-schumer-launches-safe-innovation-ai-age-csis",
+      "outlet": "CSIS (event transcript)"
+    },
+    {
+      "date": "2023-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "First, I asked everyone in the room, ‘Is government needed to play a role in regulating AI?’ and every single person raised their hands even though they had diverse views,",
+      "target": null,
+      "joint": null,
+      "source": "https://rollcall.com/2023/09/13/theres-consensus-not-details-on-ai-regulation-schumer-says/",
+      "outlet": "Roll Call"
+    },
+    {
       "date": "2026-05-14",
       "arena": "federal",
       "kind": "quote",

@@ -8,6 +8,16 @@
   "stance": "Opposes restrictions on AI development and data centers, arguing America risks regulating itself into irrelevance, while rejecting both a halt to development and ignoring risks.",
   "statements": [
     {
+      "date": "2023-07-13",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Hosted AI researcher Eliezer Yudkowsky on his podcast Hold These Truths for an episode on the case for viewing AI as an existential threat to humanity and first steps Congress could take to limit AI's capabilities for harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://holdthesetruthswithdancrenshaw.libsyn.com/website/can-we-stop-the-ai-apocalypse-eliezer-yudkowsky",
+      "outlet": "Hold These Truths with Dan Crenshaw"
+    },
+    {
       "date": "2026-09-17",
       "arena": "federal",
       "kind": "quote",

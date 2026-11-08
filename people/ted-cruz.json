@@ -11,6 +11,46 @@
   "stance": "Favours light-touch federal AI rules and preemption of state AI laws; in 2026 is negotiating a narrower frontier-risk bill with Thune and Klobuchar focused on biological and nuclear threats.",
   "statements": [
     {
+      "date": "2023-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I've heard concerns from my colleagues about misinformation, discrimination, and security. These certainly present challenges, but I have a hard time viewing them as existential risks, or even worthy of new regulation. To me, the biggest existential risk we face is ourselves.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg59704/html/CHRG-118shrg59704.htm",
+      "outlet": "Senate Commerce subcommittee hearing record, prepared statement (GovInfo)"
+    },
+    {
+      "date": "2023-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Unfortunately, the Biden Administration and some of my colleagues in Congress have embraced doomsday AI scenarios as justification for expanded Federal regulation.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg59704/html/CHRG-118shrg59704.htm",
+      "outlet": "Senate Commerce subcommittee hearing record, prepared statement (GovInfo)"
+    },
+    {
+      "date": "2023-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Instead of riling fears and pausing AI development, let's pause before we regulate.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg59704/html/CHRG-118shrg59704.htm",
+      "outlet": "Senate Commerce subcommittee hearing record, prepared statement (GovInfo)"
+    },
+    {
+      "date": "2025-05-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If there are going to be killer robots, I’d rather they be American killer robots than Chinese",
+      "target": null,
+      "joint": null,
+      "source": "https://www.foxbusiness.com/politics/cruz-china-winning-ai-race-would-catastrophic-sam-altman-hearing",
+      "outlet": "Fox Business"
+    },
+    {
       "date": "2025-07",
       "arena": "federal",
       "kind": "quote",
