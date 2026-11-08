@@ -11,7 +11,7 @@
     "source": "https://sfstandard.com/2026/11/04/scott-wiener-built-lead-connie-chan-s-unlikely-reverse/"
   },
   "committees": [],
-  "stance": "Author of SB 1047 and SB 53; wants binding catastrophic-risk safety rules on frontier developers and, after the 2026 OpenAI agent incident, a stronger SB 53.",
+  "stance": "Author of SB 1047 and SB 53; wants binding catastrophic-risk safety rules on frontier developers and, after the 2026 OpenAI agent incident, a stronger SB 53; has called for slowing down AI development.",
   "statements": [
     {
       "date": "2025-09-29",
@@ -42,6 +42,16 @@
       "joint": null,
       "source": "https://missionlocal.org/2026/09/california-ai-safety-law-sb-53-openai-hack-wiener-newsom/",
       "outlet": "Mission Local"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We must not let this just barrel forward. We know there’s risk — big risk — in addition to the benefits AI can deliver. We need to slow down, enact guardrails, and create a regulatory body. And we need global coordination.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/Scott_Wiener/status/2099165850712559754",
+      "outlet": "@Scott_Wiener on X"
     }
   ],
   "review": {

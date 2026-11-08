@@ -5,7 +5,7 @@
   "office_type": "us_rep",
   "state": "AZ",
   "party": "D",
-  "stance": "Supports international AI guardrails against uncontrollable frontier AI.",
+  "stance": "Supports international AI guardrails against uncontrollable frontier AI; original cosponsor of the Ban Artificial Superintelligence Act.",
   "statements": [
     {
       "date": "2026-09-17",
@@ -16,6 +16,16 @@
       "joint": null,
       "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
       "outlet": "Office of Rep. Ansari"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Original cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+      "outlet": "Congress.gov"
     }
   ],
   "review": {

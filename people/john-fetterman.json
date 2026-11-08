@@ -1,0 +1,40 @@
+{
+  "id": "john-fetterman",
+  "name": "John Fetterman",
+  "office": "U.S. Senator from Pennsylvania",
+  "office_type": "us_senator",
+  "state": "PA",
+  "party": "D",
+  "stance": "Opposes pausing AI development or AI data center construction, arguing that it would hand the lead on AI to China.",
+  "statements": [
+    {
+      "date": "2026-03-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called the proposed moratorium on AI data center construction from Sen. Sanders and Rep. Ocasio-Cortez \"China First,\" saying guardrails can be put in place without handing the win on AI to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenFettermanPA/status/2036815989556265200",
+      "outlet": "@SenFettermanPA on X"
+    },
+    {
+      "date": "2026-08-10",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Responded to Sen. Sanders's call for AI companies to pause AI development by saying America must lead in the development of AI or live under China's rules.",
+      "target": null,
+      "joint": null,
+      "source": "https://wset.com/news/nation-world/senator-john-fetterman-rejects-bernie-sanderss-call-to-pause-ai-development-must-not-happen-china",
+      "outlet": "WSET"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/F000479.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/F000479",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

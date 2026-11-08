@@ -307,6 +307,16 @@
       "joint": null,
       "source": "https://x.com/RepNateMoran/status/2105102569718665315",
       "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If we want to go down the highway of innovation quickly, we need a brake installed. Our AI Kill Switch Act gives us the ability to throttle back, pause, or stop frontier AI systems in an emergency.",
+      "target": null,
+      "joint": "ai-kill-switch-act",
+      "source": "https://x.com/RepNateMoran/status/2099908232474964087",
+      "outlet": "@RepNateMoran on X"
     }
   ],
   "photo": {

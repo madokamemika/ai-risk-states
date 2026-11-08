@@ -1,0 +1,30 @@
+{
+  "id": "melat-kiros",
+  "name": "Melat Kiros",
+  "office": "U.S. Representative-elect, Colorado 1st District",
+  "office_type": "us_rep",
+  "state": "CO",
+  "party": "D",
+  "stance": "Calls for pausing the development of artificial superintelligence and for aggressive AI regulation.",
+  "statements": [
+    {
+      "date": "2026-09-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to pause the development of ASI and pass aggressive AI regulations now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/MelatKirosCO/status/2095845307787715066",
+      "outlet": "@MelatKirosCO on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Melat_Kiros_Portrait_%28cropped%29.jpg/250px-Melat_Kiros_Portrait_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Melat_Kiros_Portrait_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Andra Turner"
+  }
+}

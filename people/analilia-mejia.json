@@ -1,0 +1,30 @@
+{
+  "id": "analilia-mejia",
+  "name": "Analilia Mejia",
+  "office": "U.S. Representative, New Jersey 11th District",
+  "office_type": "us_rep",
+  "state": "NJ",
+  "party": "D",
+  "stance": "Original cosponsor of the Ban Artificial Superintelligence Act.",
+  "statements": [
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Original cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+      "outlet": "Congress.gov"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://www.congress.gov/img/member/69eb9743277642362f6112ce_200.jpg",
+    "page": "https://www.congress.gov/member/analilia-mejia/M001246",
+    "license": "Official portrait, courtesy of the Member",
+    "artist": null
+  }
+}

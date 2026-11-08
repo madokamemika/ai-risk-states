@@ -1,0 +1,36 @@
+{
+  "id": "roy-cooper",
+  "name": "Roy Cooper",
+  "office": "Governor of North Carolina until January 2025",
+  "office_type": "governor",
+  "state": "NC",
+  "party": "D",
+  "left_office": "2025-01-01",
+  "elected_congress": {
+    "office": "U.S. Senator from North Carolina",
+    "takes_office": "2027-01-03",
+    "source": "https://www.wbtv.com/2026/11/04/roy-cooper-wins-2026-us-senate-race-north-carolina-ap-projects/"
+  },
+  "stance": "Says AI CEOs' warnings about slowing AI development should be heeded and that federal guardrails and oversight are needed.",
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It’s alarming to see reports on the potential of humans losing control of AI. We should heed the warnings sounded by the CEOs of these companies calling to slow down the pace of their own AI development.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RoyCooperNC/status/2099856361123148006",
+      "outlet": "@RoyCooperNC on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Roy_Cooper_in_November_2023.jpg/250px-Roy_Cooper_in_November_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Roy_Cooper_in_November_2023.jpg",
+    "license": "CC BY 2.0",
+    "artist": "NCDOTcommunications"
+  }
+}
