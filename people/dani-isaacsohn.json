@@ -31,6 +31,12 @@
       "outlet": "Spectrum News 1"
     }
   ],
+  "photo": {
+    "src": "https://ohiohouse.gov/assets/people/headshots/medium/2983.jpg",
+    "page": "https://ohiohouse.gov/members/dani-isaacsohn/biography",
+    "license": "Official portrait, Ohio House of Representatives",
+    "artist": "Ohio House of Representatives"
+  },
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"

@@ -19,6 +19,12 @@
       "outlet": "Capitol News Illinois"
     }
   ],
+  "photo": {
+    "src": "https://www.repdidech.com/wp-content/uploads/2018/12/dan_didech_hs.jpg",
+    "page": "https://www.repdidech.com/",
+    "license": "Official portrait, office of State Representative Daniel Didech",
+    "artist": "Office of State Representative Daniel Didech"
+  },
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"

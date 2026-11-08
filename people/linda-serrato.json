@@ -19,6 +19,12 @@
       "outlet": "Daily Lobo"
     }
   ],
+  "photo": {
+    "src": "https://www.nmlegis.gov/Images/Legislators/House/HSERR.jpg",
+    "page": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSERR",
+    "license": "Official portrait, New Mexico Legislature",
+    "artist": "New Mexico Legislature"
+  },
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
