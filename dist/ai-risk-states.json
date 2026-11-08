@@ -5409,6 +5409,12 @@
      "outlet": "WWNO / Louisiana Illuminator"
     }
    ],
+   "photo": {
+    "src": "https://house.louisiana.gov/H_Reps/RepPics/rep85.jpg",
+    "page": "https://house.louisiana.gov/H_Reps/members?ID=85",
+    "license": "Official portrait, offered for download",
+    "artist": "Louisiana House of Representatives"
+   },
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
@@ -15339,6 +15345,12 @@
      "outlet": "Michigan Legislature"
     }
    ],
+   "photo": {
+    "src": "https://dtj5wlj7ond0z.cloudfront.net/uploads/2026/09/HS_Lightner_0226_Z2S_6947-768x1075.jpg",
+    "page": "https://gophouse.org/member/repsarahlightner/about",
+    "license": "Official portrait, media kit",
+    "artist": "Michigan House Republicans"
+   },
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
@@ -15795,6 +15807,12 @@
      "outlet": "WWNO / Louisiana Illuminator"
     }
    ],
+   "photo": {
+    "src": "https://senate.la.gov/SenPics/Sen29.jpg",
+    "page": "https://senate.la.gov/smembers.aspx?ID=29",
+    "license": "Official portrait, offered for download",
+    "artist": "Louisiana State Senate"
+   },
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
@@ -20120,6 +20138,12 @@
      "outlet": "Michigan Legislature"
     }
    ],
+   "photo": {
+    "src": "https://senatedems.com/polehanki/wp-content/uploads/sites/11/2024/03/MDS_Polehanki_W3A6037-480x672.jpg",
+    "page": "https://senatedems.com/polehanki/bio/",
+    "license": "Official portrait, offered for download",
+    "artist": "Michigan Senate Democrats"
+   },
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
@@ -26248,6 +26272,12 @@
      "outlet": "OPB"
     }
    ],
+   "photo": {
+    "src": "https://leg.wa.gov/memberphoto/27211.jpg",
+    "page": "https://senatedemocrats.wa.gov/wellman/",
+    "license": "Official portrait, offered for download",
+    "artist": "Washington State Senate Democrats"
+   },
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
