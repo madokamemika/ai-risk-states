@@ -11,6 +11,46 @@
   "stance": "Wants a new Federal Digital Commission that pre-certifies frontier models and can pause release of models posing catastrophic risk for up to six months.",
   "statements": [
     {
+      "date": "2025-12-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "President Trump's reckless and short-sighted decision to let NVIDIA sell advanced AI chips to China threatens U.S. national security and technological leadership.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorBennet/status/2000635092700717493",
+      "outlet": "@SenatorBennet on X"
+    },
+    {
+      "date": "2026-02-02",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Offered an amendment, blocked by Republicans, to add ethics guardrails after the administration approved sales of advanced AI chips to the UAE despite national security concerns.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorBennet/status/2018436852588413398",
+      "outlet": "@SenatorBennet on X"
+    },
+    {
+      "date": "2026-06-01",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Secured Senate Intelligence Committee passage of his amendment requiring national security assessments before exports of advanced AI technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorBennet/status/2061465157063078356",
+      "outlet": "@SenatorBennet on X"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The CEOs of the major artificial intelligence companies themselves are sounding the alarm on unchecked AI. Yet President Trump continues to look the other way.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorBennet/status/2099266025250570519",
+      "outlet": "@SenatorBennet on X"
+    },
+    {
       "date": "2026-09-23",
       "arena": "federal",
       "kind": "action",
@@ -29,6 +69,66 @@
       "joint": "ai-regulator-act",
       "source": "https://www.bennet.senate.gov/2026/09/23/bennet-welch-release-proposal-to-establish-new-federal-agency-to-prevent-catastrophic-ai-risk-regulate-big-tech/",
       "outlet": "Office of Sen. Bennet"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI companies need to face real consequences, including the power to pause unsafe technology and impose serious penalties of up to 15% of global revenue.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorBennet/status/2102771376025420263",
+      "outlet": "@SenatorBennet on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Responding to a report that AI safety rules were dropped after a donation from OpenAI's president to a pro-Trump super PAC, called for an independent agency with authority to set and enforce AI rules.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorBennet/status/2103590581096300647",
+      "outlet": "@SenatorBennet on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Announced he is introducing legislation to create an independent agency to oversee AI and ensure AI companies follow the rules.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorBennet/status/2103542901343182955",
+      "outlet": "@SenatorBennet on X"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is exactly why we need an impartial regulator to assess powerful new AI models for serious risks before they reach the public.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorBennet/status/2104738158688796755",
+      "outlet": "@SenatorBennet on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We cannot rely on President Trump's honor system to protect the American people from the serious risks of AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorBennet/status/2105056547684618631",
+      "outlet": "@SenatorBennet on X"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is too powerful to regulate through a handshake agreement.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorBennet/status/2105808736363467026",
+      "outlet": "@SenatorBennet on X"
     }
   ],
   "photo": {

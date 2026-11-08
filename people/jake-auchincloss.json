@@ -1,0 +1,50 @@
+{
+  "id": "jake-auchincloss",
+  "name": "Jake Auchincloss",
+  "office": "U.S. Representative, Massachusetts 4th District",
+  "office_type": "us_rep",
+  "state": "MA",
+  "party": "D",
+  "stance": "Opposed the proposed 10-year moratorium on state AI regulation and argues AI regulation should start with liability, including tort liability for AI agents.",
+  "statements": [
+    {
+      "date": "2025-06-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is why the GOP's 10-year moratorium on states' AI regulation is a bad idea.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAuchincloss/status/1932900654474731549",
+      "outlet": "@RepAuchincloss on X"
+    },
+    {
+      "date": "2026-08-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI agents should be liable for torts, just like humans are. Current law is sketchy. My bipartisan bill makes it clear.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAuchincloss/status/2084280400138883340",
+      "outlet": "@RepAuchincloss on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI regulation starts with AI liability.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAuchincloss/status/2102056961927696622",
+      "outlet": "@RepAuchincloss on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/A000148.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/A000148",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ashley-hinson",
+  "name": "Ashley Hinson",
+  "office": "U.S. Representative, Iowa 2nd District",
+  "office_type": "us_rep",
+  "state": "IA",
+  "party": "R",
+  "stance": "Backs the Trump administration's national AI policy framework, which calls for a single federal AI policy rather than a patchwork of state laws.",
+  "statements": [
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Praised the White House National AI Policy Framework, quote-posting its call for \"one federal AI policy, not a 50 state patchwork,\" and said she would work with the administration on it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAshleyHinson/status/2035007583182856437",
+      "outlet": "@RepAshleyHinson on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H001091.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/H001091",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

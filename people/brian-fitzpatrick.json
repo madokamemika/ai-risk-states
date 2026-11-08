@@ -8,6 +8,16 @@
   "stance": "Signed the bipartisan call for urgent federal guardrails and oversight of advanced AI.",
   "statements": [
     {
+      "date": "2025-11-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This was more than a cyber breach—it was a warning shot. A reported Chinese state-sponsored group used AI to autonomously execute an espionage operation—rapid targeting, independent execution, almost no human touchpoints",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBrianFitz/status/1989433832622493832",
+      "outlet": "@RepBrianFitz on X"
+    },
+    {
       "date": "2026-09-16",
       "arena": "federal",
       "kind": "action",
@@ -16,6 +26,26 @@
       "joint": null,
       "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
       "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We’re now calling on House leadership to advance the dozens of bipartisan bills already on the table to strengthen AI security, transparency, and independent oversight—and better protect the systems our country depends on.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBrianFitz/status/2100276249495060760",
+      "outlet": "@RepBrianFitz on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With the Problem Solvers Caucus AI and Evolving Technologies Working Group, sent a letter ahead of Xi Jinping's visit urging the Administration to implement a coordinated international framework on AI safety and security anchored in American standards for testing and incident reporting.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBrianFitz/status/2103233169201713201",
+      "outlet": "@RepBrianFitz on X"
     }
   ],
   "review": {

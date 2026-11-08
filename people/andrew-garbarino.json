@@ -1,0 +1,80 @@
+{
+  "id": "andrew-garbarino",
+  "name": "Andrew Garbarino",
+  "office": "U.S. Representative, New York 2nd District",
+  "office_type": "us_rep",
+  "state": "NY",
+  "party": "R",
+  "stance": "As Homeland Security chair, focuses on AI as an emerging security threat, including jailbroken models and adversary misuse, while favoring innovation with safeguards.",
+  "statements": [
+    {
+      "date": "2025-06-12",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Chaired a Homeland Security subcommittee hearing on securing AI systems against adversaries who weaponize the technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGarbarino/status/1933271552440549461",
+      "outlet": "@RepGarbarino on X"
+    },
+    {
+      "date": "2025-11-26",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With subcommittee chairs Ogles and Brecheen, asked Anthropic, Google and Quantum Xchange to testify at a Homeland Security hearing after Anthropic reported a largely AI-executed PRC cyber operation using its Claude Code tool.",
+      "target": "Anthropic, Google and Quantum Xchange",
+      "joint": null,
+      "source": "https://homeland.house.gov/2025/11/26/homeland-republicans-request-anthropic-google-quantum-xchange-testimony-following-report-of-ai-assisted-partially-autonomous-prc-cyber-operation/",
+      "outlet": "House Committee on Homeland Security"
+    },
+    {
+      "date": "2025-11-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "For the first time, we are seeing a foreign adversary use a commercial AI system to carry out nearly an entire cyber operation with minimal human involvement.",
+      "target": null,
+      "joint": null,
+      "source": "https://decrypt.co/350213/us-ai-and-data-firms-to-testify-in-chinese-ai-espionage-probe",
+      "outlet": "Decrypt"
+    },
+    {
+      "date": "2026-06-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We must ensure America leads in innovation while putting the right safeguards in place.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGarbarino/status/2070252123929899311",
+      "outlet": "@RepGarbarino on X"
+    },
+    {
+      "date": "2026-09-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That includes the dangers posed by jailbroken AI models and the ways this technology can be exploited by bad actors.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGarbarino/status/2095227392784486848",
+      "outlet": "@RepGarbarino on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Released a Homeland Security Committee chairman's report on how AI is changing the threat landscape and what is needed to keep Americans safe.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGarbarino/status/2100213762980507756",
+      "outlet": "@RepGarbarino on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/G000597.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/G000597",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

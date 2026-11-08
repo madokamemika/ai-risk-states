@@ -12,6 +12,66 @@
   "stance": "Wants a federal AI framework with frontier-model transparency and independent verification, paired with temporary preemption of state laws regulating AI development.",
   "statements": [
     {
+      "date": "2025-04-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must enact a single unified federal regulatory framework for AI to avoid a complex patchwork of conflicting state laws.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/1913782909032403344",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2025-05-27",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced H.R. 3460, the AI Whistleblower Protection Act, to protect people who report potential risks in AI systems from retaliation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/1927449219595461100",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2025-05-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Those who identify potential risks in artificial intelligence systems must be able to speak up without fear of retaliation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/1927449219595461100",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-01-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I highlighted the need for Congress to do its job by putting a clear federal framework in place for AI so the United States can remain safe, competitive, support innovation, and address national security risks as this technology continues to advance.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2013084729193480193",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-01-31",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We discussed the risks of a patchwork of state AI laws, the importance of regulatory clarity, and what U.S. companies need to grow and invest here at home.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2017806141414166727",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I applaud the White House’s continued leadership in advancing a national policy framework for artificial intelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2034983699146506321",
+      "outlet": "@JayObernolte on X"
+    },
+    {
       "date": "2026-06-04",
       "arena": "federal",
       "kind": "action",
@@ -30,6 +90,36 @@
       "joint": "great-american-ai-act-draft",
       "source": "https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/",
       "outlet": "Roll Call"
+    },
+    {
+      "date": "2026-06-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress needs to do its job in regulating this new technology with a clear national framework that protects Americans while ensuring the United States remains the global leader in AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2062605308585988175",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-06-30",
+      "arena": "federal",
+      "kind": "action",
+      "text": "His AI Security and Innovation Act, which would establish a Center for AI Security and Innovation with federal evaluation capabilities for emerging AI risks, was advanced by the House Science, Space, and Technology Committee.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2071981243919442218",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-06-30",
+      "arena": "federal",
+      "kind": "action",
+      "text": "His READ AI Models Act, creating a framework for documenting AI models and their data to improve transparency and risk management, was advanced by the House Science, Space, and Technology Committee.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2071981251775390181",
+      "outlet": "@JayObernolte on X"
     },
     {
       "date": "2026-07-15",
@@ -60,6 +150,106 @@
       "joint": null,
       "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
       "outlet": "Office of Rep. Obernolte"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan FRONTIER Act with Rep. Lori Trahan, setting national rules for the largest AI developers including transparency, independent evaluations and reporting of serious incidents.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2080416005449298277",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This legislation builds on our Great American AI Act framework to protect Americans from catastrophic risks and ensure the United States remains the global leader in AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2080416005449298277",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-07-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America needs a national framework that protects innovation while establishing clear rules of the road for the most advanced AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2081820635269845262",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-07-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "At a Science Committee hearing, pressed OSTP Director Michael Kratsios on ensuring the Center for AI Standards and Innovation has the resources needed to evaluate advanced AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2082640625527030264",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Advanced AI raises important questions about safety and accountability, but stopping American innovation is not the answer.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2099678796001485310",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-09-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There are real risks associated with increasingly advanced AI systems, but we must mitigate those risks while still allowing the beneficial uses of AI to thrive.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2101818497034527081",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The United States can address the real risks posed by artificial intelligence while ensuring our regulatory approach does not undermine American innovation and global leadership in AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2103218535153758284",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-10-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As these systems grow more capable, Congress needs to understand the risks they present and ensure developers have appropriate processes to identify and address them.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2107221102468419724",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-10-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The creation of the new White House task force on advanced AI is an important step toward ensuring America remains the global leader in this transformative technology while addressing the risks posed by the most advanced systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2107945907400462765",
+      "outlet": "@JayObernolte on X"
+    },
+    {
+      "date": "2026-10-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is advancing rapidly, and Congress has an important role to play in addressing the most serious risks without undermining American innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JayObernolte/status/2109053291288043886",
+      "outlet": "@JayObernolte on X"
     }
   ],
   "photo": {

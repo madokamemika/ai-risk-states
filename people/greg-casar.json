@@ -41,6 +41,16 @@
       "outlet": "@RepCasar on X"
     },
     {
+      "date": "2026-02-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But these questions are too important to be left to private companies alone. Congress must act to protect Americans’ safety and civil liberties.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2027486557855199372",
+      "outlet": "@RepCasar on X"
+    },
+    {
       "date": "2026-05-06",
       "arena": "federal",
       "kind": "action",
@@ -138,6 +148,16 @@
       "target": null,
       "joint": null,
       "source": "https://x.com/RepCasar/status/2084280775881470144",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-08-04",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Called the White House's decision not to publicly release its framework for evaluating advanced AI models \"Unacceptable.\"",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2084788653843206468",
       "outlet": "@RepCasar on X"
     },
     {
@@ -288,6 +308,16 @@
       "target": null,
       "joint": "ban-artificial-superintelligence-act",
       "source": "https://x.com/RepCasar/status/2099620573340950586",
+      "outlet": "@RepCasar on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Mocked Speaker Mike Johnson's statement that tech companies, not Congress, must be responsible for AI safety, comparing it to making bank robbers responsible for bank safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCasar/status/2099487281677554158",
       "outlet": "@RepCasar on X"
     },
     {

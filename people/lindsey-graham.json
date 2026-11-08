@@ -28,6 +28,26 @@
   "stance": "Backs a dedicated federal regulator for AI and the largest tech platforms — the Warren-Graham commission model — to support safe AI development without stifling it.",
   "statements": [
     {
+      "date": "2023-05-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "my two cents' worth for the Committee is that we need to empower an agency that issues them a license and can take it away.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+      "outlet": "U.S. Government Publishing Office (Senate Judiciary hearing record)"
+    },
+    {
+      "date": "2023-05-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I just don't understand how you could say that you don't need an agency to deal with the most transformative technology maybe ever.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+      "outlet": "U.S. Government Publishing Office (Senate Judiciary hearing record)"
+    },
+    {
       "date": "2024-01-24",
       "arena": "federal",
       "kind": "action",
@@ -46,6 +66,26 @@
       "joint": null,
       "source": "https://www.warren.senate.gov/newsroom/press-releases/warren-bennet-graham-welch-urge-leader-schumer-to-support-new-agency-to-regulate-digital-platforms/",
       "outlet": "Office of Sen. Warren"
+    },
+    {
+      "date": "2025-12-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "You're going to have to have national standards, or else you'll drive everybody crazy",
+      "target": null,
+      "joint": null,
+      "source": "https://www.rawstory.com/lindsey-graham-2674380915",
+      "outlet": "Raw Story"
+    },
+    {
+      "date": "2025-12-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We gotta have some guardrails on how to develop the technology, but if you lock it down and have too much government, you're going to be left behind",
+      "target": null,
+      "joint": null,
+      "source": "https://www.rawstory.com/lindsey-graham-2674380915",
+      "outlet": "Raw Story"
     }
   ],
   "review": {

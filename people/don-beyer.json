@@ -12,6 +12,126 @@
   "stance": "The House's most AI-engaged member (co-chair of the Congressional AI Caucus, pursuing an ML master's): pushes frontier-AI oversight, transparency and independent evaluation, and safety verification before AI is deployed in critical government systems.",
   "statements": [
     {
+      "date": "2023-04-26",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced the bipartisan, bicameral Block Nuclear Launch by Autonomous Artificial Intelligence Act with Reps. Lieu and Buck and Sen. Markey, keeping a human in control of any nuclear launch decision.",
+      "target": null,
+      "joint": null,
+      "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-beyer-buck-and-sen-markey-introduce-bipartisan-bicameral-bill",
+      "outlet": "Office of Rep. Ted Lieu"
+    },
+    {
+      "date": "2023-10-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We know, however, that there are limits to what the Executive Branch can do on its own and in the long term, it is necessary for Congress to step up and legislate strong standards for equity, bias, risk management, and consumer protection.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.meritalk.com/articles/eyes-turn-to-congress-for-action-to-reinforce-ai-order/",
+      "outlet": "MeriTalk"
+    },
+    {
+      "date": "2023-12-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Artificial intelligence foundation models commonly described as a ‘black box’ make it hard to explain why a model gives a particular response. Giving users more information about the model—how it was built and what background information it bases its results on—would greatly increase transparency,",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=6052",
+      "outlet": "Office of Rep. Don Beyer"
+    },
+    {
+      "date": "2024-01-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I’m trying to learn as much as I can about them — and only because I think it’s really irresponsible not to learn as much as we can about the existential risk. Many in the industry say, Blah. That’s not real. We’re very far from artificial general intelligence. … Or we can always unplug it. But I don’t want to be calmed down by people who don’t take the risk seriously.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/don-beyer-ai-legislation-congress-2024/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2024-04-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There won’t be robots with red eyes coming after us any time soon. But there are other deeper existential risks that we need to pay attention to.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.wsls.com/news/politics/2024/04/11/a-congressman-wanted-to-understand-ai-so-he-went-back-to-a-college-classroom-to-learn/",
+      "outlet": "Associated Press (via WSLS)"
+    },
+    {
+      "date": "2024-09-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced the Secure Artificial Intelligence Act with Rep. Deborah Ross, to improve tracking and processing of AI security and safety incidents and risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://ross.house.gov/2024/9/ross-beyer-introduce-legislation-to-regulate-artificial-intelligence-security-mitigate-risk-incidents",
+      "outlet": "Office of Rep. Deborah Ross"
+    },
+    {
+      "date": "2025-12-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "President Trump's AI order is an attempt to kill responsible safety reforms passed by states, which would create a lawless Wild West environment for AI companies that puts Americans at risk. This is a terrible idea.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.alxnow.com/press-releases/ai-caucus-co-chair-beyer-response-to-trumps-ai-order/",
+      "outlet": "Office of Rep. Don Beyer (press release, via ALXnow)"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The risks posed by frontier AI models and their advanced cyber capabilities are real and demand serious attention, but this executive order falls short of providing a credible framework to manage those risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9132",
+      "outlet": "Office of Rep. Don Beyer"
+    },
+    {
+      "date": "2026-06-27",
+      "arena": "federal",
+      "kind": "action",
+      "text": "His bill with Rep. Deborah Ross to help AI developers respond to and fix vulnerabilities using cybersecurity best practices advanced out of the House Science Committee.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2070914033029619876",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Doing nothing on AI is unacceptable and dangerous. At a minimum we should be holding hearings, getting answers from the companies involved about these incidents, and passing those bills that are ready ASAP.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2097728914906869764",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While I appreciate the sentiments of private sector leaders expressing a willingness to voluntarily slow down model development, the federal government MUST take the lead here to ensure that the response is fully transparent to the American people, and industry-wide.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2099550068466495859",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "He’s doing what his big tech backers like Mark Zuckerberg and David Sacks tell him to do. They’re telling him to put Americans at risk so they can make more money.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2099902932984410484",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
       "date": "2026-09-16",
       "arena": "federal",
       "kind": "action",
@@ -42,6 +162,96 @@
       "outlet": "Office of Rep. Beyer"
     },
     {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Recent cyberattacks involving AI agents and growing warnings from leaders and researchers at the companies developing this technology make clear that these risks are no longer hypothetical. We cannot wait for disaster to strike.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2100231752476201345",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The increasing number of AI-enabled cyberattacks and existential warnings from the experts building this technology should be a wake up call. Congress must act NOW to put the appropriate guardrails in place, not recess until November.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2100975034026066319",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I’m calling on the FAA to immediately suspend use of this AI system at Washington area airports until its safety has been established.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2102132126959210647",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Said AI-assisted air traffic control should be thoroughly tested, developed with controllers' involvement and training, and transparent to the public before use.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2102818370714554628",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
+      "date": "2026-09-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We’re hearing about AI loss of control incidents almost daily. This time the targets were US government websites like the Department of Education, Census Bureau, and SEC. Congress must take action to protect the American people, doing nothing right now is wildly irresponsible.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2103922632953667637",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It's great that these companies are talking about doing good things, but that is not enough, and it is not a substitute for Congress passing meaningful federal AI regulation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2105034697369653715",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This investigation alone is not enough. Congress must act to protect the American people and close any gaps that leave consumers vulnerable.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2105687517014184187",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
+      "date": "2026-10-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It's nice to think that big AI companies will regulate themselves and put the security of the American people first, but it's just not the reality. We need laws that mandate higher standards of testing and independent review to make sure AI systems are safe and secure.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2106364896271389149",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
+      "date": "2026-10-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Giving this job to the Director of National Intelligence indicates - again - that Trump takes neither the risks of AI nor the DNI's national security role seriously.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2107188063906722180",
+      "outlet": "@RepDonBeyer on X"
+    },
+    {
       "date": "2026-10-09",
       "arena": "federal",
       "kind": "action",
@@ -50,6 +260,16 @@
       "joint": null,
       "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
       "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As AI becomes more capable and widespread, we need a clear regulatory framework for its safe and secure development and deployment. A White House task force can help coordinate federal AI policy, but only Congress can enact durable federal guardrails.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBeyer/status/2108648627308556519",
+      "outlet": "@RepDonBeyer on X"
     }
   ],
   "review": {

@@ -1,0 +1,30 @@
+{
+  "id": "darrell-issa",
+  "name": "Darrell Issa",
+  "office": "U.S. Representative, California 48th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "R",
+  "stance": "Praised Vice President Vance's February 2025 Paris AI summit speech.",
+  "statements": [
+    {
+      "date": "2025-02-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This by @JDVance is one of the best speeches about AI I've ever heard.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repdarrellissa/status/1890170212298953048",
+      "outlet": "@repdarrellissa on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/I000056.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/I000056",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

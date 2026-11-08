@@ -1,0 +1,30 @@
+{
+  "id": "nick-lalota",
+  "name": "Nick LaLota",
+  "office": "U.S. Representative, New York 1st District",
+  "office_type": "us_rep",
+  "state": "NY",
+  "party": "R",
+  "stance": "Favors winning the AI race while putting safeguards in place against misuse by bad actors.",
+  "statements": [
+    {
+      "date": "2026-05-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That means embracing innovation while putting smart safeguards in place to address real risks. At a recent Homeland Security AI Demo Day, I saw how bad actors are already using this technology to do harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLaLota/status/2053849494056259599",
+      "outlet": "@RepLaLota on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000598.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000598",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "troy-downing",
+  "name": "Troy Downing",
+  "office": "U.S. Representative, Montana 2nd District",
+  "office_type": "us_rep",
+  "state": "MT",
+  "party": "R",
+  "stance": "Supports reasonable limits on AI that protect national security but opposes overregulating American innovation.",
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We should establish reasonable sideboards and always protect our national security, but we should not overregulate American innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/reptroydowning/status/2099982827085275513",
+      "outlet": "@reptroydowning on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/D000634.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/D000634",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

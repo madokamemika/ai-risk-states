@@ -11,6 +11,36 @@
   "stance": "\"Innovation plus guardrails\": export controls on advanced AI chips to stay ahead of China, with consumer and child-safety guardrails — the safety angle real but secondary to competitiveness.",
   "statements": [
     {
+      "date": "2025-12-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Denying Beijing access to these AI chips is essential to our national security.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorRicketts/status/1996976935558144040",
+      "outlet": "@SenatorRicketts on X"
+    },
+    {
+      "date": "2025-12-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "By limiting the number of high-end AI chips that are going to Communist China, we can maintain our compute lead and ensure that the United States, and not Communist China, leads the world on AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorRicketts/status/2001426008440779090",
+      "outlet": "@SenatorRicketts on X"
+    },
+    {
+      "date": "2026-06-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That’s why I introduced the MATCH Act. This bill ensures that Communist China and other adversaries cannot purchase key semiconductor manufacturing equipment (SME) technology from the United States or our allies.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorRicketts/status/2062201102943093025",
+      "outlet": "@SenatorRicketts on X"
+    },
+    {
       "date": "2026-10-14",
       "arena": "federal",
       "kind": "action",

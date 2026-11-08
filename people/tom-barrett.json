@@ -1,0 +1,60 @@
+{
+  "id": "tom-barrett",
+  "name": "Tom Barrett",
+  "office": "U.S. Representative, Michigan 7th District",
+  "office_type": "us_rep",
+  "state": "MI",
+  "party": "R",
+  "stance": "Introduced legislation requiring human control of lethal autonomous weapons and a Cabinet-level AI official, and urges an international AI treaty.",
+  "statements": [
+    {
+      "date": "2026-07-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That’s why I introduced bipartisan legislation last week to put clear safeguards in place for autonomous tech in our military to make sure a human — not a computer — is in control of lethal force.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTomBarrett/status/2079664588010693036",
+      "outlet": "@RepTomBarrett on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It’s clear we need an international agreement to put strong guardrails on this rapidly developing technology before it’s too late.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTomBarrett/status/2105027553681440883",
+      "outlet": "@RepTomBarrett on X"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That’s why I’m fighting to put safeguards around this innovative technology and urging the Trump administration to negotiate an AI treaty that keeps our world safe.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTomBarrett/status/2105667133447262240",
+      "outlet": "@RepTomBarrett on X"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "These risks cannot be ignored, and my new bill will create a seat at the Cabinet table for an official to monitor AI technology, ensure strong guardrails, and prepare us for this new era of technological innovation and beyond.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTomBarrett/status/2108685185021886479",
+      "outlet": "@RepTomBarrett on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Rep._Tom_Barrett_official_photo%2C_119th_Congress_%28cropped%29.jpg/250px-Rep._Tom_Barrett_official_photo%2C_119th_Congress_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rep._Tom_Barrett_official_photo,_119th_Congress_(cropped).jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
+  }
+}

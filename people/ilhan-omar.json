@@ -1,0 +1,50 @@
+{
+  "id": "ilhan-omar",
+  "name": "Ilhan Omar",
+  "office": "U.S. Representative, Minnesota 5th District",
+  "office_type": "us_rep",
+  "state": "MN",
+  "party": "D",
+  "stance": "Says AI needs strong public-protective guardrails and that industry offers to help write its own rules warrant skepticism.",
+  "statements": [
+    {
+      "date": "2026-02-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The problem is deploying powerful tools without guardrails, transparency, or accountability.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/Ilhan/status/2021707672903454813",
+      "outlet": "@Ilhan on X"
+    },
+    {
+      "date": "2026-06-30",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced NDAA amendments including one to strengthen oversight of the Department of Defense's use of AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/Ilhan/status/2071980590220378515",
+      "outlet": "@Ilhan on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Any time an industry comes to you and says, “Help us regulate ourselves,” you have to be skeptical. AI needs strong guardrails to protect the public—not rules written to make tech CEOs and billionaires even richer.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/Ilhan/status/2102484886145671492",
+      "outlet": "@Ilhan on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/O000173.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/O000173",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

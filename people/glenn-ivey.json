@@ -1,0 +1,50 @@
+{
+  "id": "glenn-ivey",
+  "name": "Glenn Ivey",
+  "office": "U.S. Representative, Maryland 4th District",
+  "office_type": "us_rep",
+  "state": "MD",
+  "party": "D",
+  "stance": "Wants guardrails holding AI companies accountable for risks to Americans and objects to the House recessing while AI legislation is pending.",
+  "statements": [
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need guardrails that hold AI companies accountable when they put Americans at risk. At the same time, government needs to work with scientists and industry leaders on technological safeguards that can keep pace with the technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGlennIvey/status/2099652717236896038",
+      "outlet": "@RepGlennIvey on X"
+    },
+    {
+      "date": "2026-10-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI isn’t taking a 7 week recess. Congress shouldn’t either. We have bipartisan legislation on the table in the House to address the risks of AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGlennIvey/status/2106166227227832551",
+      "outlet": "@RepGlennIvey on X"
+    },
+    {
+      "date": "2026-10-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need real oversight and accountability that puts people first.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGlennIvey/status/2107600414921142479",
+      "outlet": "@RepGlennIvey on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/I000058.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/I000058",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

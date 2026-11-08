@@ -1,0 +1,30 @@
+{
+  "id": "mark-alford",
+  "name": "Mark Alford",
+  "office": "U.S. Representative, Missouri 4th District",
+  "office_type": "us_rep",
+  "state": "MO",
+  "party": "R",
+  "stance": "Opposes government intervention to slow AI development, citing competition with China.",
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If big AI companies want to slow development, they are welcome to do so. That doesn’t require government intervention.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMarkAlford/status/2099876299586109542",
+      "outlet": "@RepMarkAlford on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/A000379.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/A000379",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

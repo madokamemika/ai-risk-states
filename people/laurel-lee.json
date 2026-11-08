@@ -1,0 +1,30 @@
+{
+  "id": "laurel-lee",
+  "name": "Laurel Lee",
+  "office": "U.S. Representative, Florida 15th District",
+  "office_type": "us_rep",
+  "state": "FL",
+  "party": "R",
+  "stance": "Supports federal AI legislation that sets enforceable safety standards and prevents a patchwork of state rules.",
+  "statements": [
+    {
+      "date": "2025-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Federal legislation should protect innovation, set clear and enforceable safety standards, and prevent a patchwork of conflicting state rules.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLaurelLee/status/1972675207681777869",
+      "outlet": "@RepLaurelLee on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000597.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000597",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

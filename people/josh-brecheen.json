@@ -1,0 +1,50 @@
+{
+  "id": "josh-brecheen",
+  "name": "Josh Brecheen",
+  "office": "U.S. Representative, Oklahoma 2nd District",
+  "office_type": "us_rep",
+  "state": "OK",
+  "party": "R",
+  "stance": "Co-chaired a hearing on AI cyber threats after the reported Chinese hijacking of Claude, and calls for monitoring AI against vulnerabilities.",
+  "statements": [
+    {
+      "date": "2026-01-07",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-chaired a House Homeland Security hearing on AI and cybersecurity, following the reported hijacking of Anthropic's Claude by Chinese state hackers.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBrecheen/status/2008908094839910759",
+      "outlet": "@RepBrecheen on X"
+    },
+    {
+      "date": "2026-01-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must stand alert to the fact that Communist China is actively working to weaponize AI, and other emerging technologies, to harm America.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBrecheen/status/2008908094839910759",
+      "outlet": "@RepBrecheen on X"
+    },
+    {
+      "date": "2026-01-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must work to Constitutionally ensure that AI is properly monitored against vulnerabilities.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBrecheen/status/2016970287137333437",
+      "outlet": "@RepBrecheen on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/B001317.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/B001317",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

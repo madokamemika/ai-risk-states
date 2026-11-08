@@ -1,0 +1,40 @@
+{
+  "id": "haley-stevens",
+  "name": "Haley Stevens",
+  "office": "U.S. Representative, Michigan 11th District",
+  "office_type": "us_rep",
+  "state": "MI",
+  "party": "D",
+  "stance": "Supports funding NIST's U.S. AI Safety Institute and says testing and evaluation of AI systems is needed to govern them.",
+  "statements": [
+    {
+      "date": "2023-10-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Testing and evaluation of AI systems will also be critical to enable governance. After all, it’s very hard to regulate what you can’t measure.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-science.house.gov/news/press-releases/ranking-member-stevens-opening-statement-for-hearing-on-ai-risk-management",
+      "outlet": "House Science Committee Democrats"
+    },
+    {
+      "date": "2024-02-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led a letter with Rep. Jay Obernolte to House appropriators urging an additional $10 million to establish NIST's U.S. AI Safety Institute in fiscal 2024.",
+      "target": null,
+      "joint": null,
+      "source": "https://stevens.house.gov/media/press-releases/stevens-and-obernolte-request-additional-10-million-secure-us-ai-leadership",
+      "outlet": "Office of Rep. Haley Stevens"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001215.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001215",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -8,6 +8,86 @@
   "stance": "A leading voice for independently verified safety testing and accountability before AI is deployed in safety-critical systems.",
   "statements": [
     {
+      "date": "2025-06-12",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-led a letter from 27 House members urging Senate leadership to strike the reconciliation provision conditioning BEAD broadband funding on a 10-year moratorium on enforcing state AI laws.",
+      "target": null,
+      "joint": "reconciliation-ai-moratorium-2025",
+      "source": "https://mcclaindelaney.house.gov/media/press-releases/mcclain-delaney-matsui-landsman-carter-urge-senate-leadership-strike-provision",
+      "outlet": "Office of Rep. April McClain Delaney"
+    },
+    {
+      "date": "2025-06-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "In contrast, the reconciliation text’s AI moratorium provision represents a reckless and dangerous attempt to force states to forfeit their ability to protect the public from the rapidly escalating risks of unregulated AI and automated decision systems. It is textbook federal overreach.",
+      "target": null,
+      "joint": "reconciliation-ai-moratorium-2025",
+      "source": "https://mcclaindelaney.house.gov/media/press-releases/mcclain-delaney-matsui-landsman-carter-urge-senate-leadership-strike-provision",
+      "outlet": "Office of Rep. April McClain Delaney"
+    },
+    {
+      "date": "2025-12-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Freezing state and local AI safeguards is a step backwards for safe and dependable AI development. I was proud to join @DorisMatsui and lead 81 Members of Congress in making our stance clear: state-led, commonsense guardrails are key to ensuring AI works for American families, not against them.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAprilDelaney/status/1995525158191178186",
+      "outlet": "@RepAprilDelaney on X"
+    },
+    {
+      "date": "2026-02-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Applaud @AnthropicAl and @DarioAmodei for taking a principled stance on contracts with the United States. Al companies engaging national security with transparency, guardrails, and ethical scrutiny is what we need.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAprilDelaney/status/2027524107588268483",
+      "outlet": "@RepAprilDelaney on X"
+    },
+    {
+      "date": "2026-03-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined Rep. Don Beyer in introducing the GUARDRAILS Act to preserve states' ability to enact AI protections, in response to the administration's executive order on preemption.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAprilDelaney/status/2035813439394718030",
+      "outlet": "@RepAprilDelaney on X"
+    },
+    {
+      "date": "2026-06-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This bill isn't the answer; we need stronger protections for states, consumers and families, not loopholes that let them operate unchecked.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAprilDelaney/status/2063022761220465062",
+      "outlet": "@RepAprilDelaney on X"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Good. OpenAI saw serious safety concerns and hit the brakes. If only Republicans in Congress would stop stalling and move with the same urgency on real AI guardrails.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAprilDelaney/status/2104752973951758648",
+      "outlet": "@RepAprilDelaney on X"
+    },
+    {
+      "date": "2026-10-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "When AI can be used to develop bioweapons, Congress cannot afford to sit back. I’m pushing for clear standards, early detection, and strong guardrails.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAprilDelaney/status/2108299536305439103",
+      "outlet": "@RepAprilDelaney on X"
+    },
+    {
       "date": "2026-10-09",
       "arena": "federal",
       "kind": "action",
@@ -26,6 +106,46 @@
       "joint": null,
       "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240",
       "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-10-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Reports that AI industry leaders are preparing for the possibility of a catastrophic event within the next six to twelve months are deeply concerning. This is not a prediction set in stone—but it is a warning we cannot afford to ignore. If AI-enabled cyberattacks could disrupt our banks, internet, power, or water, then we must prepare before—not after—our critical systems are put at risk.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAprilDelaney/status/2109083680324923572",
+      "outlet": "@RepAprilDelaney on X"
+    },
+    {
+      "date": "2026-10-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Now Musk is pouring $276 million into keeping Republicans in power and corruptly stopping all safety guardrails on AI and Big Tech.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAprilDelaney/status/2109744016090960036",
+      "outlet": "@RepAprilDelaney on X"
+    },
+    {
+      "date": "2026-10-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This Congress must exercise its Article 1 oversight powers with respect to any FAA ownership in private AI companies and demand answers about whether the systems being deployed at our airports have been adequately tested, are properly monitored, and are safe for the traveling public.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAprilDelaney/status/2111163258681880881",
+      "outlet": "@RepAprilDelaney on X"
+    },
+    {
+      "date": "2026-10-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led a letter with Reps. Ocasio-Cortez, Beyer, Mfume, Subramanyam and Elfreth calling on the FAA to pause its AI air traffic control tool at DCA, Dulles and BWI and show its safety testing.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAprilDelaney/status/2111077622771847650",
+      "outlet": "@RepAprilDelaney on X"
     }
   ],
   "review": {

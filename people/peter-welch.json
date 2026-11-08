@@ -12,6 +12,66 @@
   "stance": "Wants a new federal agency able to pre-certify frontier AI models and pause dangerous releases.",
   "statements": [
     {
+      "date": "2024-07-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signed a letter with Sens. Schatz, Luján, Warner and King to OpenAI CEO Sam Altman asking about the company's safety practices, including its commitment to dedicate 20% of computing resources to AI safety research, non-disparagement agreements and channels for employees to raise safety concerns.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.artificialintelligence-news.com/news/senators-probe-openai-safety-employment-practices/",
+      "outlet": "AI News"
+    },
+    {
+      "date": "2024-10-08",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the AI Weapons Accountability and Risk Evaluation (AWARE) Act, requiring the Pentagon to report to Congress on risk assessments of AI-enabled weapons, targeting and decision-support systems, including bias toward escalation, dependability and risk of civilian harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://vermontbiz.com/node/235026",
+      "outlet": "Vermont Business Magazine"
+    },
+    {
+      "date": "2024-10-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We know that AI-enabled weapons are exacerbating harm to civilians in warzones, and without effective oversight these systems could dangerously reshape our future.",
+      "target": null,
+      "joint": null,
+      "source": "https://vermontbiz.com/node/235026",
+      "outlet": "Vermont Business Magazine"
+    },
+    {
+      "date": "2025-01-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The question is, can we get out in front and establish some standards that are going to protect the public good and protect the benefits and minimize the harms?",
+      "target": null,
+      "joint": null,
+      "source": "https://www.vermontpublic.org/show/vermont-edition/2025-01-06/sen-peter-welch-wants-to-better-regulate-generative-ai",
+      "outlet": "Vermont Public"
+    },
+    {
+      "date": "2026-01-07",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cosponsored the States' Right to Regulate AI Act, introduced by Sen. Markey, to prohibit implementation of the executive order that seeks to block states from regulating AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://vermontbiz.com/node/241141",
+      "outlet": "Vermont Business Magazine"
+    },
+    {
+      "date": "2026-01-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "At a moment when we should be putting every effort into finding ways to make AI safer, this executive order threatens consumer rights and safety by tying states’ hands",
+      "target": null,
+      "joint": null,
+      "source": "https://vermontbiz.com/node/241141",
+      "outlet": "Vermont Business Magazine"
+    },
+    {
       "date": "2026-09-23",
       "arena": "federal",
       "kind": "action",

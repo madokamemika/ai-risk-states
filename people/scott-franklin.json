@@ -12,6 +12,36 @@
   "stance": "Backs a targeted, size-tiered federal framework of guardrails for the handful of companies building the most powerful frontier AI models.",
   "statements": [
     {
+      "date": "2025-05-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Welcomed the rescission of the Biden-era AI chip export rule, which he had urged alongside Rep. McCormick, framing it as protecting national security and keeping China in check.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepFranklin/status/1920950151818211770",
+      "outlet": "@RepFranklin on X"
+    },
+    {
+      "date": "2025-11-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As AI evolves, so do the threats. @RepPfluger's Generative AI Terrorism Risk Assessment Act takes a practical step toward understanding how terrorists may try to exploit this technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepFranklin/status/1991676018076348510",
+      "outlet": "@RepFranklin on X"
+    },
+    {
+      "date": "2026-06-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This proposal builds on the bipartisan House AI Task Force's work and takes a needed step toward establishing clear rules of the road for advanced AI systems while encouraging innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepFranklin/status/2062639399167553703",
+      "outlet": "@RepFranklin on X"
+    },
+    {
       "date": "2026-07-23",
       "arena": "federal",
       "kind": "action",
@@ -32,6 +62,16 @@
       "outlet": "Office of Rep. Obernolte"
     },
     {
+      "date": "2026-07-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As a cosponsor of the bipartisan FRONTIER Act, I'm working with @JayObernolte to ensure our regulatory framework keeps pace with sophisticated frontier AI models while fostering American innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepFranklin/status/2080643049810501978",
+      "outlet": "@RepFranklin on X"
+    },
+    {
       "date": "2026-09-16",
       "arena": "federal",
       "kind": "action",
@@ -40,6 +80,16 @@
       "joint": null,
       "source": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
       "outlet": "Office of Rep. Beyer"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Cutting edge Frontier AI models are now showing the ability to do things their creators didn’t intend or anticipate.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepFranklin/status/2101003503795658948",
+      "outlet": "@RepFranklin on X"
     }
   ],
   "review": {

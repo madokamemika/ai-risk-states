@@ -40,6 +40,36 @@
       "joint": null,
       "source": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=404341",
       "outlet": "Office of Rep. Huizenga"
+    },
+    {
+      "date": "2026-07-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Called his Deterring American AI Model Theft Act a must-pass bill to stop model extraction (distillation) attacks, after the White House said Moonshot AI had distilled an Anthropic model.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepHuizenga/status/2079940772904743335",
+      "outlet": "@RepHuizenga on X"
+    },
+    {
+      "date": "2026-08-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America, not China must set the rules of the road on AI. @SenFettermanPA is right and Bernie Sanders is incredibly wrong.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepHuizenga/status/2086907251223069058",
+      "outlet": "@RepHuizenga on X"
+    },
+    {
+      "date": "2026-08-10",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Promoted his Chip Security Act, a bill to stop China from acquiring the advanced chips needed for its civilian and military AI capabilities.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepHuizenga/status/2086907251223069058",
+      "outlet": "@RepHuizenga on X"
     }
   ],
   "review": {

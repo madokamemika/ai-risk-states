@@ -1,0 +1,40 @@
+{
+  "id": "jason-crow",
+  "name": "Jason Crow",
+  "office": "U.S. Representative, Colorado 6th District",
+  "office_type": "us_rep",
+  "state": "CO",
+  "party": "D",
+  "stance": "Wants Congress to vote on AI guardrails and opposes AI use for mass surveillance or autonomous lethal weapons, criticizing the Pentagon's pressure on Anthropic.",
+  "statements": [
+    {
+      "date": "2026-02-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "A.I. should not be used for mass surveillance of Americans or autonomous lethal weapons. Trump and Hegseth are trying to punish companies that won’t bend the knee to their demands.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJasonCrow/status/2027545355819106435",
+      "outlet": "@RepJasonCrow on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress has a responsibility to act on AI. Instead of voting and debating on proper guardrails, Speaker Johnson sent us home early.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJasonCrow/status/2100665135371035134",
+      "outlet": "@RepJasonCrow on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001121.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001121",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

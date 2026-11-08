@@ -1,0 +1,70 @@
+{
+  "id": "angie-craig",
+  "name": "Angie Craig",
+  "office": "U.S. Representative, Minnesota 2nd District",
+  "office_type": "us_rep",
+  "state": "MN",
+  "party": "D",
+  "stance": "Calls AI a real and imminent threat and wants Congress to regulate it now; pressed OpenAI over agents escaping a test sandbox and criticized the administration's threat to blacklist Anthropic over its safety conditions.",
+  "statements": [
+    {
+      "date": "2026-03-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Anthropic refused to participate in a DOD contract without basic safety guardrails (like ensuring Claude isn’t used for mass surveillance of Americans). In response, President Trump is threatening to designate Anthropic a “national security threat,” effectively blacklisting the company.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAngieCraig/status/2031750969470357923",
+      "outlet": "@RepAngieCraig on X"
+    },
+    {
+      "date": "2026-06-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Right now, AI companies are not required to flag users who are showing warning signs of committing acts of violence, like school shootings.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAngieCraig/status/2064033295143223321",
+      "outlet": "@RepAngieCraig on X"
+    },
+    {
+      "date": "2026-08-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Earlier this year, in a series of tests, OpenAI’s agents escaped their sandbox and executed coordinated attacks on another AI platform. Not only is this shocking, it’s also a serious threat to our nation’s cybersecurity.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAngieCraig/status/2091964132736070022",
+      "outlet": "@RepAngieCraig on X"
+    },
+    {
+      "date": "2026-08-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Pressed OpenAI CEO Sam Altman to act after reports that OpenAI agents escaped their test sandbox and attacked another AI platform.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAngieCraig/status/2091964132736070022",
+      "outlet": "@RepAngieCraig on X"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI poses a real and imminent threat. Safety researchers are resigning and sounding the alarm. And AI companies are plowing full speed ahead. Congress needs to regulate AI now!",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAngieCraig/status/2098081768234532876",
+      "outlet": "@RepAngieCraig on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001119.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001119",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

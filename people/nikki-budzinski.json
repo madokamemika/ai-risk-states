@@ -1,0 +1,30 @@
+{
+  "id": "nikki-budzinski",
+  "name": "Nikki Budzinski",
+  "office": "U.S. Representative, Illinois 13th District",
+  "office_type": "us_rep",
+  "state": "IL",
+  "party": "D",
+  "stance": "Calls for Congress to act on AI guardrails, citing AI-agent cyberattacks and loss-of-control warnings.",
+  "statements": [
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Recent cyberattacks and security incidents involving AI agents, alongside warnings about loss of control from those who have worked in AI, cannot be ignored.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNikkiB/status/2103542008350486633",
+      "outlet": "@RepNikkiB on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/B001315.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/B001315",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

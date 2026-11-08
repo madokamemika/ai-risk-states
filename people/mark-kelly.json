@@ -11,6 +11,86 @@
   "stance": "Keep humans in command of military AI — mandate human judgment and accountability when autonomous weapons and AI systems are involved in the use of force.",
   "statements": [
     {
+      "date": "2025-05-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If this deal succeeds, the offshoring of frontier American AI will be recorded as an historic American blunder. People around the world deserve to enjoy the benefits we will reap from AI. However, AI chips must only be exported to trusted companies, in reasonable numbers, and in concert with credible security standards and assurances.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/cdc363f7-a28d-4835-bc3c-1e671d6e3f76",
+      "outlet": "Office of Sen. Jack Reed, joint statement (archived by Capitol Releases)"
+    },
+    {
+      "date": "2025-12-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We have to strengthen our infrastructure and we have to support smart, responsible laws that keep this technology safe and true to our values, because American leadership doesn’t happen by accident,",
+      "target": null,
+      "joint": null,
+      "source": "https://cyberscoop.com/mark-kelly-ai-safety-guardrails-center-for-american-progress/",
+      "outlet": "CyberScoop"
+    },
+    {
+      "date": "2025-12-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Blocking states from protecting workers and kids doesn’t help America lead the world in AI. It makes us weaker and less safe while big corporations get richer.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkKelly/status/1999542569907159455",
+      "outlet": "@SenMarkKelly on X"
+    },
+    {
+      "date": "2026-02-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If Hegseth kicks out the most capable provider because they want responsible guardrails, that makes us less safe and raises serious questions about how this administration plans to use AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkKelly/status/2027402470272713080",
+      "outlet": "@SenMarkKelly on X"
+    },
+    {
+      "date": "2026-02-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Anthropic didn't want their AI tech used for surveillance on Americans or autonomous weapons strikes. Guess what the Trump administration did? Threatened them and then cut off all work with the federal government. This is dumb and dangerous.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkKelly/status/2027549889568100858",
+      "outlet": "@SenMarkKelly on X"
+    },
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "A national approach to AI makes sense, but it can’t be about taking power away from states.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkKelly/status/2035157588090728652",
+      "outlet": "@SenMarkKelly on X"
+    },
+    {
+      "date": "2026-05-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "From what has been reported, it would have created a voluntary process for government agencies to evaluate some frontier AI systems for risks and vulnerabilities before public release. I don’t think that goes nearly far enough for a technology changing this rapidly, but even that modest step was apparently too much once a few powerful tech executives pushed back.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkKelly/status/2057898225609400812",
+      "outlet": "@SenMarkKelly on X"
+    },
+    {
+      "date": "2026-05-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The Secretary of Defense even had Anthropic branded a national security risk. This kind of decision-making could put our servicemembers in greater danger.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkKelly/status/2058279133763809616",
+      "outlet": "@SenMarkKelly on X"
+    },
+    {
       "date": "2026-06-01",
       "arena": "federal",
       "kind": "action",
@@ -19,6 +99,56 @@
       "joint": null,
       "source": "https://www.kelly.senate.gov/newsroom/press-releases/icymi-kelly-writes-washington-times-op-ed-on-keeping-humans-in-command-as-ai-transforms-warfare/",
       "outlet": "Office of Sen. Kelly"
+    },
+    {
+      "date": "2026-06-06",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced two bills to keep humans in control of life-and-death decisions as the military adopts AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkKelly/status/2063275438797918588",
+      "outlet": "@SenMarkKelly on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The reality is that the Big Tech approach of \"build fast and break things\" is not the right one for AI, and Washington needs to wake up and take this seriously.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkKelly/status/2097779067109900749",
+      "outlet": "@SenMarkKelly on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Not taking action on AI now is just plain dumb.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkKelly/status/2099593608319967553",
+      "outlet": "@SenMarkKelly on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "U.S. servicemembers were nearly sent into harm’s way over a false intelligence report written by AI, and it could’ve escalated into a war with China.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkKelly/status/2102105475672154287",
+      "outlet": "@SenMarkKelly on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced provisions in the Intelligence Authorization Act to study and prevent escalation risks from AI-generated intelligence errors.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkKelly/status/2102105475672154287",
+      "outlet": "@SenMarkKelly on X"
     },
     {
       "date": "2026-10-13",

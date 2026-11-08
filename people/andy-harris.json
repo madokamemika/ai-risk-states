@@ -1,0 +1,30 @@
+{
+  "id": "andy-harris",
+  "name": "Andy Harris",
+  "office": "U.S. Representative, Maryland 1st District",
+  "office_type": "us_rep",
+  "state": "MD",
+  "party": "R",
+  "stance": "Opposes liability immunity for AI companies and supports guardrails holding them responsible for damage.",
+  "statements": [
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "One of those guardrails should be holding companies responsible when their AI products cause damage. AI companies should not be given immunity from liability.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAndyHarrisMD/status/2102085986037412209",
+      "outlet": "@RepAndyHarrisMD on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H001052.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/H001052",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

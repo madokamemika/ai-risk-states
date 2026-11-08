@@ -1,0 +1,30 @@
+{
+  "id": "mark-desaulnier",
+  "name": "Mark DeSaulnier",
+  "office": "U.S. Representative, California 10th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Supports federal AI safeguards and joined colleagues urging the Speaker to keep the House in session to vote on them.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined more than 100 House colleagues in calling on Speaker Johnson to keep the House in session to vote on AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDeSaulnier/status/2100363643644973235",
+      "outlet": "@RepDeSaulnier on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/D000623.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/D000623",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

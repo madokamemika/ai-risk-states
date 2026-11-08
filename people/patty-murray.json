@@ -13,6 +13,16 @@
   "stance": "Backs federal AI regulation with independent oversight, and opposes blanket federal preemption of state AI laws.",
   "statements": [
     {
+      "date": "2026-10-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The need for federal guardrails around AI is absolutely urgent.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/PattyMurray/status/2108955957967651090",
+      "outlet": "@PattyMurray on X"
+    },
+    {
       "date": "2026-10-08",
       "arena": "federal",
       "kind": "action",
@@ -31,6 +41,36 @@
       "joint": null,
       "source": "https://www.kaine.senate.gov/press-releases/kaine-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi-jinping",
       "outlet": "Office of Sen. Kaine"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need smart, GLOBAL AI safety guardrails to protect our kids, jobs, and futures.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/PattyMurray/status/2102843198934495524",
+      "outlet": "@PattyMurray on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Experts are warning powerful AI could mean catastrophe. Trump's response? Call it a hoax.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/PattyMurray/status/2099905504965181672",
+      "outlet": "@PattyMurray on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If we are smart enough to create such powerful AI, then we are smart enough to regulate it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/PattyMurray/status/2097721427348611452",
+      "outlet": "@PattyMurray on X"
     }
   ],
   "review": { "status": "unreviewed", "note": "added October 2026 from murray.senate.gov / kaine.senate.gov primary sources" },

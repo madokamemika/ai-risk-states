@@ -29,6 +29,126 @@
       "joint": null,
       "source": "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling",
       "outlet": "Office of Rep. Foster"
+    },
+    {
+      "date": "2025-05-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Chairman Moolenaar, urged Commerce Secretary Lutnick to expand the role of the U.S. AI Safety Institute to assess, benchmark and prepare for PRC frontier AI developments.",
+      "target": null,
+      "joint": null,
+      "source": "https://chinaselectcommittee.house.gov/media/press-releases/house-china-committee-urges-commerce-department-expand-ai-safety-institutes",
+      "outlet": "House Select Committee on the CCP"
+    },
+    {
+      "date": "2025-06-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Whether it's American AI or Chinese AI, it should not be released until we know it's safe. That's why I'm working on a new bill—the AGI Safety Act—that will require AGI to be aligned with human values and require it to comply with laws that apply to humans.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/transcript-ranking-member-krishnamoorthis-opening-statement-hearing-algorithms",
+      "outlet": "Select Committee on the CCP Democrats"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The most powerful frontier AI models shouldn’t be released without serious scrutiny. They need independent inspection and validation, government oversight while they’re being built, and tougher controls on high-end chips going to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanRaja/status/2100592640307642435",
+      "outlet": "@CongressmanRaja on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Maybe the first question at the AI hearing should be: “Has anyone here actually tried it—or are we regulating it by rumor?”",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanRaja/status/2100923828520010024",
+      "outlet": "@CongressmanRaja on X"
+    },
+    {
+      "date": "2026-09-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI systems are increasingly capable of improving not just their own code, but the strategies they use to improve themselves. That’s why we need safeguards that keep humans firmly in control as these systems become more powerful.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanRaja/status/2101402199074939091",
+      "outlet": "@CongressmanRaja on X"
+    },
+    {
+      "date": "2026-09-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "A false AI-generated intelligence report nearly led U.S. forces to board a Chinese ship, risking a much wider confrontation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanRaja/status/2101343108822626376",
+      "outlet": "@CongressmanRaja on X"
+    },
+    {
+      "date": "2026-09-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI pioneer Geoffrey Hinton estimates there is still a 10–20% chance that artificial intelligence could lead to human extinction within the next three decades.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanRaja/status/2104185555105763422",
+      "outlet": "@CongressmanRaja on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "An AI emergency hotline with Beijing is useful but preventing the emergency in the first place is essential. AI can threaten our financial system, critical infrastructure, biological security, and even nuclear command and control. Those risks belong at the center of all future U.S.-China talks.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanRaja/status/2104990855794762148",
+      "outlet": "@CongressmanRaja on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The goal should be preventing AI’s dangers, not just setting up a hotline to discuss them after the fact.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanRaja/status/2104910312503738719",
+      "outlet": "@CongressmanRaja on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We got two pandas, with no meaningful progress on human rights, no comprehensive AI safeguards, and no pressure on Beijing over its support for Russia’s war machine.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanRaja/status/2105407358461456809",
+      "outlet": "@CongressmanRaja on X"
+    },
+    {
+      "date": "2026-10-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trump says the AI industry can “self-police.” For technology this powerful, an honor system is not a safety policy. We need real oversight and enforceable safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanRaja/status/2106076802649121051",
+      "outlet": "@CongressmanRaja on X"
+    },
+    {
+      "date": "2026-10-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If we want America to lead on AI, we cannot hand China our most advanced chips or let Chinese companies evade export controls through overseas data centers. We should be tightening these safeguards now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/CongressmanRaja/status/2106007558129365067",
+      "outlet": "@CongressmanRaja on X"
     }
   ],
   "review": {

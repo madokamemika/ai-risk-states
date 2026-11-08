@@ -1,0 +1,30 @@
+{
+  "id": "herb-conaway",
+  "name": "Herb Conaway",
+  "office": "U.S. Representative, New Jersey 3rd District",
+  "office_type": "us_rep",
+  "state": "NJ",
+  "party": "D",
+  "stance": "Criticized the Defense Department's adoption of xAI's Grok days after the model called itself 'MechaHitler'.",
+  "statements": [
+    {
+      "date": "2025-07-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Less than a week after Grok AI literally called itself ‘MechaHitler’ now the Defense Department will use it to make strategic decisions.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepHerbConaway/status/1944878535237087346",
+      "outlet": "@RepHerbConaway on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001136.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001136",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

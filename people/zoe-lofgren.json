@@ -12,6 +12,46 @@
   "stance": "As House Science ranking member, pushes frontier-AI safeguards — internal controls, cybersecurity, independent governance — and faults House leadership for not floor-voting the committee's AI bills.",
   "statements": [
     {
+      "date": "2023-10-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Not only must Congress adequately fund our federal science agencies to be able to do the important research and standards development described in this executive order, but I believe Congress must consider further regulations to protect Americans against demonstrable harms from AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-science.house.gov/news/press-releases/ranking-member-lofgren-reacts-to-biden-administration-executive-order-on-artificial-intelligence",
+      "outlet": "House Science Committee Democrats"
+    },
+    {
+      "date": "2024-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As I have said in my letters on the matter, any AI risk framework should be based on empirical data and fit for purpose. I also believe this is an issue that should be handled at the federal level.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-science.house.gov/news/press-releases/ranking-member-lofgren-commends-governor-newsom-for-veto-of-over-restrictive-california-ai-bill",
+      "outlet": "House Science Committee Democrats"
+    },
+    {
+      "date": "2025-12-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If the President really wants to address contradictory state laws, he can work with Congress on both sides of the aisle to debate and pass a federal standard. Unfortunately, the Republicans in Congress and the White House have been missing in action on creating AI legislation in Congress.",
+      "target": null,
+      "joint": null,
+      "source": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-slams-trump-white-house-illegal-plan-undermine-state-ai",
+      "outlet": "Office of Rep. Lofgren"
+    },
+    {
+      "date": "2026-01-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "In the absence of a Federal framework, we should be encouraging states to experiment with how best to manage the risks to their citizens. What we should not do is preempt the states from taking necessary actions to protect their citizens while we twiddle our thumbs here in Congress.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-science.house.gov/news/press-releases/ranking-member-lofgren-opening-statement-for-hearing-on-ai-action-plan",
+      "outlet": "House Science Committee Democrats"
+    },
+    {
       "date": "2026-09-15",
       "arena": "federal",
       "kind": "action",

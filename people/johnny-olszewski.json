@@ -1,0 +1,30 @@
+{
+  "id": "johnny-olszewski",
+  "name": "Johnny Olszewski",
+  "office": "U.S. Representative, Maryland 2nd District",
+  "office_type": "us_rep",
+  "state": "MD",
+  "party": "D",
+  "stance": "Says warnings from AI builders warrant urgent congressional action.",
+  "statements": [
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "When the people building AI technology are the ones warning us about it, we should listen. Congress needs to act with urgency—instead, Speaker Johnson sent us home.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJohnnyO/status/2101014136536658358",
+      "outlet": "@RepJohnnyO on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/O000176.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/O000176",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

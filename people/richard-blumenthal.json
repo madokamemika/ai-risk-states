@@ -12,6 +12,86 @@
   "stance": "Wants mandatory independent testing and federal oversight of frontier AI models, as in his AI Risk Evaluation Act with Hawley.",
   "statements": [
     {
+      "date": "2023-05-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI companies ought to be required to test their systems, disclose known risks, and allow independent researcher access.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+      "outlet": "U.S. Government Publishing Office (Senate Judiciary hearing record)"
+    },
+    {
+      "date": "2023-07-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "the urgency here demands action. The future is not science fiction or fantasy. It's not even the future. It's here and now. And a number of you have put the timeline at 2 years before we see some of the biological, most severe dangers.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53503/html/CHRG-118shrg53503.htm",
+      "outlet": "U.S. Government Publishing Office (Senate Judiciary hearing record)"
+    },
+    {
+      "date": "2023-09-08",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Sen. Josh Hawley, released a bipartisan framework for AI legislation calling for a licensing regime run by an independent oversight body, legal accountability for harms, and export controls and sanctions to limit transfer of advanced AI models and hardware to adversary nations.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.insideprivacy.com/artificial-intelligence/senators-release-bipartisan-framework-for-ai-legislation/",
+      "outlet": "Inside Privacy (Covington & Burling)"
+    },
+    {
+      "date": "2023-09-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This bipartisan framework is a milestone – the first tough, comprehensive legislative blueprint for real, enforceable AI protections. It should put us on a path to addressing the promise and peril AI portends.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.insideprivacy.com/artificial-intelligence/senators-release-bipartisan-framework-for-ai-legislation/",
+      "outlet": "Inside Privacy (Covington & Burling)"
+    },
+    {
+      "date": "2023-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "And make no mistake, there will be regulation. The only question is, how soon and what?",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53879/html/CHRG-118shrg53879.htm",
+      "outlet": "U.S. Government Publishing Office (Senate Judiciary hearing record)"
+    },
+    {
+      "date": "2023-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to learn from our experience with social media that if we let this horse get out of the barn, it will be even more difficult to contain than social media.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53879/html/CHRG-118shrg53879.htm",
+      "outlet": "U.S. Government Publishing Office (Senate Judiciary hearing record)"
+    },
+    {
+      "date": "2024-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The idea that AGI might in 10 or 20 years be smarter or at least as smart as human beings is no longer that far out in the future. It's very far from science fiction. It's here and now one to three years has been the latest prediction, in fact, before this committee. And we know that artificial intelligence that's as smart as human beings is also capable of deceiving us, manipulating us, and concealing facts from us and having a mind of its own when it comes to warfare",
+      "target": null,
+      "joint": null,
+      "source": "https://techpolicy.press/transcript-senate-judiciary-subcommittee-hosts-hearing-on-oversight-of-ai-insiders-perspectives",
+      "outlet": "Tech Policy Press (hearing transcript)"
+    },
+    {
+      "date": "2024-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Sam Altman, for example, who sat where you are now, shared his worst fear that AI could cause significant harm to the world. But as he sat with me in my office and described a less advanced version of his technology, he assured me that there were going to be safeguards, red teams, all kinds of guardrails that would prevent those dangers.",
+      "target": null,
+      "joint": null,
+      "source": "https://techpolicy.press/transcript-senate-judiciary-subcommittee-hosts-hearing-on-oversight-of-ai-insiders-perspectives",
+      "outlet": "Tech Policy Press (hearing transcript)"
+    },
+    {
       "date": "2025-09-29",
       "arena": "federal",
       "kind": "action",
@@ -32,6 +112,76 @@
       "outlet": "FedScoop"
     },
     {
+      "date": "2026-05-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There is widespread public support for sensible safeguards on AI & strong interest in the Senate for reforms & rules.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2053535061413118367",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-05-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Humongous AI investor SoftBank donated $50 million to Trump’s presidential library & foundation just before Trump withdrew his AI regulatory Executive Order.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2058246922406629485",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to know beforehand if the next OpenAI & Anthropic release will empower hackers & foreign adversaries.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2061984438032986376",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The White House should go further to require AI companies contracting with the federal government participate & expand the program to other forms of weaponization.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2061984439681401291",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-06-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI safety requires Congressional action—as many seem to believe, but avoid supporting specifics. The Hawley-Blumenthal framework provides a good beginning.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2070877750718562785",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-09-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Big Tech can never be trusted to supervise itself, especially when trillions of dollars of investments & potential profits are at stake.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2095962098886934691",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-09-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Incidents like the hacking of Hugging Face show that we need an independent federal agency scrutinizing AI models & doing NTSB-like investigations of failures.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2095962102238167304",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
       "date": "2026-09-09",
       "arena": "federal",
       "kind": "quote",
@@ -50,6 +200,36 @@
       "joint": "openai-hugging-face-letters-2026",
       "source": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sam-altman-after-new-reporting-reveals-how-ai-agents-went-rogue-to-conduct-major-cyber-breach-and-conceal-their-operations",
       "outlet": "Office of Sen. Blumenthal"
+    },
+    {
+      "date": "2026-09-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "OpenAI’s rogue bots threaten civil privacy, national security, & public safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2098441373527457926",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It must be a statutorily established regimen, with power to determine whether models & new products are safe & effective, just as independent scientists are authorized to do under the FDA.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2099167122119143704",
+      "outlet": "@SenBlumenthal on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "OpenAI, Meta & Anthropic must be held legally accountable for their rogue, dangerous AI agents, including through my AI Risk Evaluation Act.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBlumenthal/status/2105320956025606380",
+      "outlet": "@SenBlumenthal on X"
     }
   ],
   "photo": {

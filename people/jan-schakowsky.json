@@ -1,0 +1,50 @@
+{
+  "id": "jan-schakowsky",
+  "name": "Jan Schakowsky",
+  "office": "U.S. Representative, Illinois 9th District",
+  "office_type": "us_rep",
+  "state": "IL",
+  "party": "D",
+  "stance": "Opposes federal preemption of state AI laws and backs strong oversight of AI companies, including in trade agreements.",
+  "statements": [
+    {
+      "date": "2025-06-11",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Urged House Republicans to vote against the reconciliation bill containing the moratorium on state AI regulation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JanSchakowsky/status/1932858109464137869",
+      "outlet": "@JanSchakowsky on X"
+    },
+    {
+      "date": "2025-12-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There’s a reason attempts to block state AI protections keep failing in Congress: they’re unpopular, undemocratic, and dangerous.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JanSchakowsky/status/1999517922109030866",
+      "outlet": "@JanSchakowsky on X"
+    },
+    {
+      "date": "2026-07-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Big Tech shouldn't get to write the rules for global AI. That's why I joined @SenWarren in urging the Trump Administration to stand up for strong oversight of AI companies.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/JanSchakowsky/status/2082132057929425357",
+      "outlet": "@JanSchakowsky on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001145.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001145",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

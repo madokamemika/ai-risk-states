@@ -1,0 +1,30 @@
+{
+  "id": "jared-moskowitz",
+  "name": "Jared Moskowitz",
+  "office": "U.S. Representative, Florida 23rd District",
+  "office_type": "us_rep",
+  "state": "FL",
+  "party": "D",
+  "stance": "Co-introduced the RESTRICT Act to bar advanced AI chip sales to China and other countries of concern.",
+  "statements": [
+    {
+      "date": "2025-12-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That's why we must do all we can to ensure advanced U.S. AI chips are not sold to China or other countries of concern. The RESTRICT Act does just that.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMoskowitz/status/2002072156251853003",
+      "outlet": "@RepMoskowitz on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001217.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001217",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "jim-costa",
+  "name": "Jim Costa",
+  "office": "U.S. Representative, California 21st District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Has raised national security concerns about advanced AI chip exports.",
+  "statements": [
+    {
+      "date": "2026-02-25",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Raised national security risks tied to advanced AI chip exports at a House Foreign Affairs Committee hearing.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJimCosta/status/2026824549606555919",
+      "outlet": "@RepJimCosta on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001059.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001059",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

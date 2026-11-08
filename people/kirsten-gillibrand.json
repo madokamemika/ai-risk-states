@@ -12,6 +12,66 @@
   "stance": "Presses the administration over chaotic, opaque oversight of new AI models and demands a standardized federal AI regulatory framework — naming frontier-model misalignment and test-environment escapes directly.",
   "statements": [
     {
+      "date": "2026-03-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Obtained on-the-record commitments from two senior generals that the military will not use AI for domestic surveillance.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/GillibrandNY/status/2034737744119767098",
+      "outlet": "@GillibrandNY on X"
+    },
+    {
+      "date": "2026-03-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Designating an American company as a supply chain risk for refusing to compromise on its safety principles is dangerous, short-sighted, and a sure way to stifle innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/GillibrandNY/status/2037337939521200343",
+      "outlet": "@GillibrandNY on X"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Right now, the Pentagon is moving toward deploying incredibly powerful AI technology without commonsense guardrails in place, which could have catastrophic consequences that make all of us less safe.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/GillibrandNY/status/2061891543955296286",
+      "outlet": "@GillibrandNY on X"
+    },
+    {
+      "date": "2026-06-05",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced a framework bill to keep military commanders, not AI, in control of life-and-death decisions.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/GillibrandNY/status/2062932522791587905",
+      "outlet": "@GillibrandNY on X"
+    },
+    {
+      "date": "2026-06-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The time to act is now — not to stifle technological progress, but to establish clear rules of the road that keep humans in charge and keep AI’s use in warfare smart and safe.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/GillibrandNY/status/2064043774087409839",
+      "outlet": "@GillibrandNY on X"
+    },
+    {
+      "date": "2026-06-12",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Secured guardrails on AI use for domestic surveillance and nuclear weapons in the Senate defense authorization bill.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/GillibrandNY/status/2065522033312592262",
+      "outlet": "@GillibrandNY on X"
+    },
+    {
       "date": "2026-08-04",
       "arena": "federal",
       "kind": "action",

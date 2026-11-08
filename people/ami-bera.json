@@ -11,6 +11,16 @@
   "stance": "A co-leader on international AI-safety diplomacy — shared safety standards and red lines with China and a crisis-communications channel.",
   "statements": [
     {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined more than 100 colleagues urging Speaker Johnson to keep the House in session to address AI risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBera/status/2100286584255873102",
+      "outlet": "@RepBera on X"
+    },
+    {
       "date": "2026-09-18",
       "arena": "federal",
       "kind": "action",
@@ -19,6 +29,36 @@
       "joint": null,
       "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
       "outlet": "Office of Rep. Jacobs"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led a letter with Reps. Gregory Meeks and Sara Jacobs, signed by 26 Democrats, urging administration officials to open sustained dialogue with China on AI safety risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBera/status/2101040027341910055",
+      "outlet": "@RepBera on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The United States and China need reliable crisis communication channels and serious dialogue on AI guardrails before a mistake like this becomes a disaster.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBera/status/2102068724450640108",
+      "outlet": "@RepBera on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "At the same time, the President should seek agreement on implementing AI guardrails and establishing reliable channels of communication that reduce the risk of miscalculation and provide mechanisms to deconflict during a crisis.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/64659b55-974d-486e-a67b-7a9b5c97a7e8",
+      "outlet": "Office of Rep. Ami Bera"
     }
   ],
   "review": {

@@ -1,0 +1,50 @@
+{
+  "id": "joe-courtney",
+  "name": "Joe Courtney",
+  "office": "U.S. Representative, Connecticut 2nd District",
+  "office_type": "us_rep",
+  "state": "CT",
+  "party": "D",
+  "stance": "Supports binding AI safeguards, including the AI Kill Switch Act against rogue AI agents, and urged the House to stay in session to pass them.",
+  "statements": [
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined dozens of colleagues in a letter asking Speaker Johnson to cancel a scheduled recess so the House could enact AI safeguards, citing AI company CEOs' calls for Congress to slow the pace of AI development.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoeCourtney/status/2099211286131163380",
+      "outlet": "@RepJoeCourtney on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That’s unacceptable given the urgent warning from AI executives that Congress needs to act. There are bipartisan bills that will put long-overdue guardrails on AI, to protect program “breakouts,” and minors from AI deepfakes that we could vote on right now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoeCourtney/status/2100594227658862753",
+      "outlet": "@RepJoeCourtney on X"
+    },
+    {
+      "date": "2026-10-06",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cosponsored the bipartisan AI Kill Switch Act, a bill to establish third-party protections against rogue AI agents, citing a growing number of incidents involving rogue AI agents.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoeCourtney/status/2107559813513163150",
+      "outlet": "@RepJoeCourtney on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001069.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001069",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

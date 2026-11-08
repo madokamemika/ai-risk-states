@@ -1,0 +1,40 @@
+{
+  "id": "greg-steube",
+  "name": "Greg Steube",
+  "office": "U.S. Representative, Florida 17th District",
+  "office_type": "us_rep",
+  "state": "FL",
+  "party": "R",
+  "stance": "Wants humans to keep control over AI use in military targeting, and opposes letting fear drive AI policy.",
+  "statements": [
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We cannot let fear dictate America’s future. We need common sense, responsible AI development and policies that ensure America stays on top!",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGregSteube/status/2099632430680268982",
+      "outlet": "@RepGregSteube on X"
+    },
+    {
+      "date": "2026-09-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "No chatbot or algorithm should determine a target without human verification. AI can be a powerful tool for our military, but humans MUST remain in control!",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGregSteube/status/2101364337566736564",
+      "outlet": "@RepGregSteube on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001214.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001214",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

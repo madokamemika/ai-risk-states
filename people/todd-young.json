@@ -21,6 +21,46 @@
       "outlet": "Office of Sen. Hickenlooper"
     },
     {
+      "date": "2024-04-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There, there's some threats out there that are being discussed. I mean, if AI technologies enable one to more effectively, more easily develop superbugs,",
+      "target": null,
+      "joint": null,
+      "source": "https://www.ndsmcobserver.com/article/2024/04/sen-todd-young-discusses-ai",
+      "outlet": "The Observer (Notre Dame)"
+    },
+    {
+      "date": "2024-04-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Imagine a world in which those things don’t happen because we don’t appreciate the opportunity cost of over regulating,",
+      "target": null,
+      "joint": null,
+      "source": "https://www.ndsmcobserver.com/article/2024/04/sen-todd-young-discusses-ai",
+      "outlet": "The Observer (Notre Dame)"
+    },
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Welcomed the White House national AI legislative framework and said he looks forward to partnering on its goals.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenToddYoung/status/2035076270795481486",
+      "outlet": "@SenToddYoung on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is a positive development. Similar lines of communication existed during the Cold War and helped lower the chance of dangerous misperceptions.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenToddYoung/status/2102519886731989126",
+      "outlet": "@SenToddYoung on X"
+    },
+    {
       "date": "2026-09-24",
       "arena": "federal",
       "kind": "action",
@@ -49,6 +89,16 @@
       "joint": null,
       "source": "https://www.young.senate.gov/newsroom/press-releases/young-calls-for-national-security-council-discussions-on-emerging-ai-threats/",
       "outlet": "Office of Sen. Young"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I am calling for the National Security Council to hold regular meetings on the emerging national security threats posed by advanced AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenToddYoung/status/2103236267030802934",
+      "outlet": "@SenToddYoung on X"
     }
   ],
   "review": { "status": "unreviewed", "note": "added October 2026 from young.senate.gov primary sources; quotes verified verbatim" },

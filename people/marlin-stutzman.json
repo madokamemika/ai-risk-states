@@ -1,0 +1,50 @@
+{
+  "id": "marlin-stutzman",
+  "name": "Marlin Stutzman",
+  "office": "U.S. Representative, Indiana 3rd District",
+  "office_type": "us_rep",
+  "state": "IN",
+  "party": "R",
+  "stance": "Places responsibility for AI harms on the companies building it rather than government, and rejects AI doomsday warnings.",
+  "statements": [
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The responsibility of ensuring that no human being is harmed by the advancement of AI is directly on these tech companies that are producing it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepStutzman/status/2102142270380130410",
+      "outlet": "@RepStutzman on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I’ll take Jensen’s opinion over a random AI whistleblower any day of the week. The world isn’t ending, AI companies just need to learn responsibility when it comes to their own products.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepStutzman/status/2102173767560519985",
+      "outlet": "@RepStutzman on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Government shouldn’t have to be responsible for the kill switch.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepStutzman/status/2102503200246923775",
+      "outlet": "@RepStutzman on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001188.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001188",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

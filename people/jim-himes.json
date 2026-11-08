@@ -1,0 +1,40 @@
+{
+  "id": "jim-himes",
+  "name": "Jim Himes",
+  "office": "U.S. Representative, Connecticut 4th District",
+  "office_type": "us_rep",
+  "state": "CT",
+  "party": "D",
+  "stance": "Says AI is powerful and dangerous, that keeping a human in the loop in military use is a priority, and criticizes congressional inaction on AI regulation.",
+  "statements": [
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I watched Speaker Johnson on the Sunday shows this morning make yet another set of excuses for Congressional inaction on AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/jahimes/status/2099285890392543543",
+      "outlet": "@jahimes on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I do know that AI is tremendously powerful but it can also be tremendously dangerous. Making sure we employ these tools in a smart way that keeps a human in the loop is a day one priority for House Democrats.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/jahimes/status/2101039374200680463",
+      "outlet": "@jahimes on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H001047.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/H001047",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

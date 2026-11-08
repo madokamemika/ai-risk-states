@@ -1,0 +1,30 @@
+{
+  "id": "cynthia-lummis",
+  "name": "Cynthia Lummis",
+  "office": "U.S. Senator from Wyoming",
+  "office_type": "us_senator",
+  "state": "WY",
+  "party": "R",
+  "stance": "Endorsed the Trump administration's National AI Legislative Framework.",
+  "statements": [
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Endorsed President Trump's National AI Legislative Framework and committed to working with colleagues and the administration on it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenLummis/status/2035064419168702963",
+      "outlet": "@SenLummis on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000571.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000571",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

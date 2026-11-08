@@ -1,0 +1,70 @@
+{
+  "id": "jim-clyburn",
+  "name": "Jim Clyburn",
+  "office": "U.S. Representative, South Carolina 6th District",
+  "office_type": "us_rep",
+  "state": "SC",
+  "party": "D",
+  "stance": "Criticizes President Trump for rejecting AI safeguards and encouraging superintelligence despite warnings of catastrophic harm, and links AI-industry donations to the push to block AI regulation.",
+  "statements": [
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "You cannot read this and think this is a person capable of understanding or caring about the very serious threat AI poses.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJamesClyburn/status/2099656480152555926",
+      "outlet": "@RepJamesClyburn on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The American people should never forget that when they faced exploding costs from a failed war in Iran and dangerous uncertainty from unchecked artificial intelligence, House Republicans decided to cancel work in Washington and go home for nearly eight weeks.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJamesClyburn/status/2100328053528260748",
+      "outlet": "@RepJamesClyburn on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trump doesn’t want any safeguards on AI because he’s concerned they would cause the stock market to go down under his watch.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJamesClyburn/status/2101070669672824925",
+      "outlet": "@RepJamesClyburn on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Leaders of the world’s largest AI companies are calling for slower development because they fear “superintelligence” could cause catastrophic harm. Trump is openly encouraging it while rejecting new safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJamesClyburn/status/2102497686171660799",
+      "outlet": "@RepJamesClyburn on X"
+    },
+    {
+      "date": "2026-10-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Tens of millions of dollars came from big tech and artificial intelligence companies—the very companies that stand to benefit from Trump’s reckless push to block AI regulation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJamesClyburn/status/2111087547585622215",
+      "outlet": "@RepJamesClyburn on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C000537.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C000537",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

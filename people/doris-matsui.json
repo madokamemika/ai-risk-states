@@ -1,0 +1,160 @@
+{
+  "id": "doris-matsui",
+  "name": "Doris Matsui",
+  "office": "U.S. Representative, California 7th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Leads House opposition to federal moratoria and preemption of state AI laws, co-authored the GUARDRAILS Act to repeal the December 2025 executive order, and calls for transparency, independent testing and accountability for advanced AI.",
+  "statements": [
+    {
+      "date": "2025-05-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "To stall any state or local legislative progress on artificial intelligence, for a decade, is a slap in the face to American consumers.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/1922525045072814219",
+      "outlet": "@DorisMatsui on X"
+    },
+    {
+      "date": "2025-06-05",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led California House Democrats in demanding removal of the 10-year ban on state and local AI regulation from the budget reconciliation bill.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/1930691588969337180",
+      "outlet": "@DorisMatsui on X"
+    },
+    {
+      "date": "2025-07-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "A 10-year ban on state AI regulations would’ve handcuffed states, endangered consumers, and put Big Tech profits over safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/1940166778774225020",
+      "outlet": "@DorisMatsui on X"
+    },
+    {
+      "date": "2025-07-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As AI is integrated with daily life and tech leaders develop more powerful models, such as Artificial General Intelligence, responsible innovation must go hand in hand with appropriate safety guardrails.",
+      "target": null,
+      "joint": null,
+      "source": "https://matsui.house.gov/media/press-releases/congressional-ai-caucus-democrats-statement-president-trumps-ai-action-plan",
+      "outlet": "Office of Rep. Doris Matsui"
+    },
+    {
+      "date": "2025-11-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI can't be a free-for-all. It needs firm rules and real accountability to promote innovation and safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/1991287385490092418",
+      "outlet": "@DorisMatsui on X"
+    },
+    {
+      "date": "2025-11-26",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Led 81 House lawmakers in opposing any attempt to reintroduce a moratorium on state and local AI laws in the NDAA or by executive order.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/1993734518851654008",
+      "outlet": "@DorisMatsui on X"
+    },
+    {
+      "date": "2025-12-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Now they are threatening to illegally freeze $20B in BEAD funding unless states drop AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/1996299208178159680",
+      "outlet": "@DorisMatsui on X"
+    },
+    {
+      "date": "2025-12-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trump’s order would block states from responding to real, evolving risks. It’s a gift to big tech at the expense of everyday Americans.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/1999282354913976504",
+      "outlet": "@DorisMatsui on X"
+    },
+    {
+      "date": "2026-02-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Anthropic said no to mass surveillance and autonomous weapons. Look what happened.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/2027521690742435946",
+      "outlet": "@DorisMatsui on X"
+    },
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the GUARDRAILS Act with colleagues to repeal the administration's AI executive order and stop it from using broadband funding to deter states from enforcing their AI laws.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/2035055748812788076",
+      "outlet": "@DorisMatsui on X"
+    },
+    {
+      "date": "2026-06-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But I have concerns that the Obernolte/Trahan draft goes too far in preempting states from responding to fast-moving AI harms. We should not take away states’ ability to protect consumers, workers, children, and communities, especially without clear, meaningful federal protections.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/2062993778596893014",
+      "outlet": "@DorisMatsui on X"
+    },
+    {
+      "date": "2026-06-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Now, the NTIA is attempting to tie broadband funding for rural and underserved communities to a requirement that states abandon their right to enact commonsense AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/2072030243209298095",
+      "outlet": "@DorisMatsui on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The people building today’s most advanced AI systems are issuing urgent warnings about the risks ahead. We must put meaningful safeguards including transparency, independent testing, and accountably in place.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/2100349506986647720",
+      "outlet": "@DorisMatsui on X"
+    },
+    {
+      "date": "2026-10-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must act on regulating AI — now. That’s why I’ve been working with my colleagues to introduce legislation that protects our national security, our jobs, and our children.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/DorisMatsui/status/2106162166797828454",
+      "outlet": "@DorisMatsui on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001163.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001163",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -23,6 +23,16 @@
       "outlet": "Office of Sen. Capito"
     },
     {
+      "date": "2025-08-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The VET AI Act is a commonsense bill that will allow for a voluntary set of guidelines for AI, which will only help the development of systems that choose to adopt them.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/0c88e476-fb30-42f4-a15b-ad1628da33ef",
+      "outlet": "Office of Sen. John Hickenlooper"
+    },
+    {
       "date": "2025-08-12",
       "arena": "federal",
       "kind": "action",
@@ -31,6 +41,26 @@
       "joint": null,
       "source": "https://www.capito.senate.gov/news/press-releases/in-case-you-missed-it-capito-hickenlooper-reintroduce-bipartisan-bill-to-boost-ai-standards-create-guidelines",
       "outlet": "Office of Sen. Capito"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "And the fact that they want to slow, I think, is a good thing. They can control the technologies, but as we know, we're in a race for international superiority here. And what the president is saying, we can't slow so that we get passed over because then we lose that race for the superiority in an area that's going to really carry us for the next decades.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/a10f773e-d5d6-44ab-aeea-bf3e2ce57c78",
+      "outlet": "Office of Sen. Shelley Moore Capito"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We see the CEOs of these companies coming to us asking for, you know some sort of regulatory floor, which is very rare that people come and ask the federal government to help. So, we are very much on top of this, and I think it can be a bipartisan effort to make sure the good parts of AI are preserved, but that the dangers and the red flags are definitely paid attention to.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/72397df3-a396-4dd2-895e-6ffd53a15a11",
+      "outlet": "Office of Sen. Shelley Moore Capito"
     }
   ],
   "review": {

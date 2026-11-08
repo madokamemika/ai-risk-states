@@ -1,0 +1,70 @@
+{
+  "id": "chris-deluzio",
+  "name": "Chris Deluzio",
+  "office": "U.S. Representative, Pennsylvania 17th District",
+  "office_type": "us_rep",
+  "state": "PA",
+  "party": "D",
+  "stance": "Calls superintelligence risk an emergency, is an original cosponsor of the Sanders-Casar bill to ban artificial superintelligence, and urges Congress to stay in session to pass AI safety legislation.",
+  "statements": [
+    {
+      "date": "2026-06-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Governments should not sacrifice our humanity to the powerful in their quest to innovate at any cost.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDeluzio/status/2061572602187972835",
+      "outlet": "@RepDeluzio on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "For those still burying their heads in the sand about the risks of superintelligence to humanity: wake up! We need to pump the brakes and get national action on superintelligence. This is an emergency and our government should act like it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDeluzio/status/2097690483497578605",
+      "outlet": "@RepDeluzio on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The American people are screaming at Congress to do something about a technology that they’re hearing may kill their jobs, upend their lives, or even wipe out humanity—but House Republican leadership has their ears plugged. We should stay in DC until we pass real AI safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDeluzio/status/2100254376837222472",
+      "outlet": "@RepDeluzio on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I’m a proud original cosponsor of @SenSanders & @RepCasar's bill to ban AI superintelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDeluzio/status/2103595833279090895",
+      "outlet": "@RepDeluzio on X"
+    },
+    {
+      "date": "2026-10-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need national action toward real AI safety. The world needs American leadership in this moment.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDeluzio/status/2110857418976428367",
+      "outlet": "@RepDeluzio on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/D000530.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/D000530",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sheri-biggs",
+  "name": "Sheri Biggs",
+  "office": "U.S. Representative, South Carolina 3rd District",
+  "office_type": "us_rep",
+  "state": "SC",
+  "party": "R",
+  "stance": "Supports AI safeguards after a Homeland Security briefing on unfiltered AI.",
+  "statements": [
+    {
+      "date": "2026-05-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "At a recent House Homeland Security Committee briefing, I saw firsthand how powerful unfiltered AI can be and the real risks it can pose without accountability.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSheriBiggs/status/2054311883352531057",
+      "outlet": "@RepSheriBiggs on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/B001325.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/B001325",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

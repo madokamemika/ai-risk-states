@@ -1,0 +1,60 @@
+{
+  "id": "jimmy-panetta",
+  "name": "Jimmy Panetta",
+  "office": "U.S. Representative, California 19th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Calls for Congress to slow AI development and set safety standards in coordination with global partners, including testing, reporting and international coordination starting with China.",
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The United States Congress must take decisive action now to slow AI development by coordinating both across the aisle and with our global partners to set strong safety standards and guardrails for this technology while preserving American innovation and competitiveness.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJimmyPanetta/status/2099920692112187556",
+      "outlet": "@RepJimmyPanetta on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined Rep. Sam Liccardo and more than 100 colleagues in calling on Speaker Johnson to keep the House in session to vote on AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJimmyPanetta/status/2100724485410156921",
+      "outlet": "@RepJimmyPanetta on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The AI boom has significant potential but creates serious new threats.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJimmyPanetta/status/2102868359129751598",
+      "outlet": "@RepJimmyPanetta on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined a bipartisan group urging the President to strengthen AI testing, reporting and international coordination, starting with China.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJimmyPanetta/status/2103560903576686908",
+      "outlet": "@RepJimmyPanetta on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/P000613.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/P000613",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

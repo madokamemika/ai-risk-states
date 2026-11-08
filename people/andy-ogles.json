@@ -1,0 +1,90 @@
+{
+  "id": "andy-ogles",
+  "name": "Andy Ogles",
+  "office": "U.S. Representative, Tennessee 5th District",
+  "office_type": "us_rep",
+  "state": "TN",
+  "party": "R",
+  "stance": "Calls AI catastrophe warnings a pretext for control and opposes slowing US AI development, while pressing for coordination with AI developers on AI-enabled cyber threats.",
+  "statements": [
+    {
+      "date": "2026-04-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There is an AI arms race. Jailbroken AI used by our adversaries poses a monumental cyber threat.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepOgles/status/2047734025884737562",
+      "outlet": "@RepOgles on X"
+    },
+    {
+      "date": "2026-05-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Announced a cybersecurity subcommittee hearing on how AI is transforming the cybersecurity landscape, saying AI can hack and destroy infrastructure.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepOgles/status/2060357986162213101",
+      "outlet": "@RepOgles on X"
+    },
+    {
+      "date": "2026-07-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "OpenAI’s reported autonomous AI cyber incident should be a wake-up call. As Chairman of the Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection, I'm calling for better coordination between Congress, my Subcommittee, federal agencies, and the companies developing these powerful AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepOgles/status/2080050260593070466",
+      "outlet": "@RepOgles on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Endorsed Richard Grenell's criticism of Rep. Ted Lieu for trying to slow down American AI development.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepOgles/status/2100271560456020302",
+      "outlet": "@RepOgles on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The same people who INVENTED the climate hoaxes and the COVID scam are telling us to SLOW DOWN our AI capabilities.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepOgles/status/2100339302647361551",
+      "outlet": "@RepOgles on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Dems want control over AI, and they are inventing hysteria to take it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepOgles/status/2100967067658674550",
+      "outlet": "@RepOgles on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "the AI doomsday narrative is about CONTROL. Big Tech is pushing fear to tighten its grip on American innovation and bake its liberal worldview into our AI models.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepOgles/status/2102061969247244691",
+      "outlet": "@RepOgles on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/O000175.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/O000175",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

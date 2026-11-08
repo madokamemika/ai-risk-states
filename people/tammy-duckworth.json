@@ -1,0 +1,50 @@
+{
+  "id": "tammy-duckworth",
+  "name": "Tammy Duckworth",
+  "office": "U.S. Senator from Illinois",
+  "office_type": "us_senator",
+  "state": "IL",
+  "party": "D",
+  "stance": "Opposes AI industry self-regulation and voluntary promises, calls on Congress to act, and opposes efforts to bar states from setting AI safety guardrails.",
+  "statements": [
+    {
+      "date": "2025-11-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trump and House Republicans are pushing to ban states' ability to place safety guardrails on AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenDuckworth/status/1993388592920772714",
+      "outlet": "@SenDuckworth on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "A “strong and smart President” would not trust billionaire AI tech companies to regulate themselves and put people before their own bottom line.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenDuckworth/status/2099543912595476900",
+      "outlet": "@SenDuckworth on X"
+    },
+    {
+      "date": "2026-10-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Not voluntary \"promises\" and tech companies writing their own rules.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenDuckworth/status/2111101387526517055",
+      "outlet": "@SenDuckworth on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/D000622.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/D000622",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

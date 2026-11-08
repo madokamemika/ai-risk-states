@@ -1,0 +1,30 @@
+{
+  "id": "bill-cassidy",
+  "name": "Bill Cassidy",
+  "office": "U.S. Senator from Louisiana",
+  "office_type": "us_senator",
+  "state": "LA",
+  "party": "R",
+  "stance": "Says AI should stay answerable to human purposes, judgment and responsibility rather than building autonomous superintelligence.",
+  "statements": [
+    {
+      "date": "2026-10-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We face two choices: Build autonomous superintelligence and depend on judgments we cannot evaluate. Or keep AI answerable to human purposes, judgment, and responsibility.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBillCassidy/status/2109671663667171654",
+      "outlet": "@SenBillCassidy on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001075.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001075",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

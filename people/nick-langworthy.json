@@ -1,0 +1,40 @@
+{
+  "id": "nick-langworthy",
+  "name": "Nick Langworthy",
+  "office": "U.S. Representative, New York 23rd District",
+  "office_type": "us_rep",
+  "state": "NY",
+  "party": "R",
+  "stance": "Supports one federal AI policy framework in place of 50 different state rule sets.",
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The process of this cannot be the \"Wild West,\" with 50 states writing 50 different sets of rules. America needs one clear federal framework that protects people while strengthening innovation here at home.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLangworthy/status/2102842940347539493",
+      "outlet": "@RepLangworthy on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America needs one, unified federal AI policy with smart guardrails.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepLangworthy/status/2103206333432594865",
+      "outlet": "@RepLangworthy on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000600.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000600",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

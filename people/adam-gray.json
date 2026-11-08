@@ -1,0 +1,30 @@
+{
+  "id": "adam-gray",
+  "name": "Adam Gray",
+  "office": "U.S. Representative, California 13th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Endorses Rep. Whitesides's call for a pause or safety stand-down at frontier AI labs to assess risks before moving ahead.",
+  "statements": [
+    {
+      "date": "2026-09-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI has enormous potential, but moving fast shouldn’t mean ignoring serious risks. George makes a compelling case for borrowing a lesson from aerospace: when the stakes are high, taking the time to understand the risks and put the right safeguards in place is just common sense.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepAdamGrayCA/status/2101460039152115737",
+      "outlet": "@RepAdamGrayCA on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/G000605.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/G000605",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

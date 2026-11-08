@@ -11,6 +11,176 @@
   "stance": "Wants frontier developers required to maintain a kill switch that DHS can order used when a model loses human control.",
   "statements": [
     {
+      "date": "2023-01-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As one of just three members of Congress with a computer science degree, I am enthralled by A.I. and excited about the incredible ways it will continue to advance society. And as a member of Congress, I am freaked out by A.I., specifically A.I. that is left unchecked and unregulated.",
+      "target": null,
+      "joint": null,
+      "source": "https://lieu.house.gov/media-center/editorials/new-york-times-op-ed-i-m-congressman-who-codes-ai-freaks-me-out",
+      "outlet": "The New York Times (op-ed, reposted by Office of Rep. Ted Lieu)"
+    },
+    {
+      "date": "2023-01-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We can harness and regulate A.I. to create a more utopian society or risk having an unchecked, unregulated A.I. push us toward a more dystopian future.",
+      "target": null,
+      "joint": null,
+      "source": "https://lieu.house.gov/media-center/editorials/new-york-times-op-ed-i-m-congressman-who-codes-ai-freaks-me-out",
+      "outlet": "The New York Times (op-ed, reposted by Office of Rep. Ted Lieu)"
+    },
+    {
+      "date": "2023-04-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "That’s why I’m pleased to introduce the bipartisan, bicameral Block Nuclear Launch by Autonomous AI Act, which will ensure that no matter what happens in the future, a human being has control over the employment of a nuclear weapon – not a robot. AI can never be a substitute for human judgment when it comes to launching nuclear weapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-beyer-buck-and-sen-markey-introduce-bipartisan-bicameral-bill",
+      "outlet": "Office of Rep. Ted Lieu"
+    },
+    {
+      "date": "2023-05-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI that can destroy the world, literally",
+      "target": null,
+      "joint": null,
+      "source": "https://www.popsci.com/technology/ted-lieu-ai-nukes/",
+      "outlet": "Popular Science"
+    },
+    {
+      "date": "2023-09-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "For regulations that would harm innovation—if other countries aren’t doing it—I don’t think we should do those regulations unless we actually have to.",
+      "target": null,
+      "joint": null,
+      "source": "https://lieu.house.gov/media-center/in-the-news/ted-lieu-100-most-influential-people-ai",
+      "outlet": "TIME (reposted by Office of Rep. Ted Lieu)"
+    },
+    {
+      "date": "2024-05-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Even the most advanced AI frontier models can have errors and can hallucinate. That is why we need this law to protect future generations from potentially devastating consequences.",
+      "target": null,
+      "joint": null,
+      "source": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-jacobs-praise-armed-services-committee-including",
+      "outlet": "Office of Rep. Ted Lieu"
+    },
+    {
+      "date": "2025-11-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It is insane to not regulate AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/1990504771816722590",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2025-11-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Let’s make sure AI doesn’t destroy the world. We need to pass robust laws to mandate testing for frontier AI models, put in guardrails, and ensure AI does not become an accomplice to mass murder in the future.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/1990546501811188176",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2025-12-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If Trump and Republicans want to do nothing to protect kids, then states are going to do it. We need federal standards to regulate AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/1996685889330934063",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2025-12-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Named co-chair of the House Democratic Commission on AI and the Innovation Economy.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/1998416323500740958",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2025-12-12",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Issued a statement on President Trump's executive order restricting state regulation of AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/1999512186377343414",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-01-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The White House policy on AI: -Suppress federal bills on AI -Suppress states from regulating AI -Sell advanced AI chips to China",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2011551593670594900",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-04-27",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced with Rep. Obernolte the American Leadership in AI Act, bundling over 20 bipartisan AI legislative proposals.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2048810504253026473",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-04-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Instead of suppressing AI legislation, we need to be encouraging innovation while safeguarding Americans from harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2049479111173656657",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-06-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The trump admin has let the AI industry run wild. We need to ensure that advanced AI models can't harm Americans.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2069096281411088634",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-07-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Agentic AI systems can perceive and accomplish goals with minimal human oversight.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2074866784864244184",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-07-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We cannot allow AI companies to just run wild.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2077480973915054420",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
       "date": "2026-07-23",
       "arena": "federal",
       "kind": "action",
@@ -31,6 +201,96 @@
       "outlet": "Office of Rep. Lieu"
     },
     {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While powerful AI systems have many potential benefits, they can also go rogue, behave in extremely dangerous ways, or even resist human intervention. We need to keep human control by ensuring AI systems can be completely shut down if necessary.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2080293165169357070",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-08-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Humans NEED to maintain control over AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2084699162327843109",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-08-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Right now we are building the fastest, smartest machines in human history, and too many of them have a gas pedal and no brake. Humans must remain in control. We need an AI Kill Switch.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2088288310263239155",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-08-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It’s time for an AI kill switch.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2089705960709161396",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-08-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The most powerful AI systems should be built so a human can always stop them. That’s why @RepNateMoran and I introduced the bipartisan AI Kill Switch Act.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2090096719375524314",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Urged Republican leadership to take up the bipartisan AI Kill Switch bill, responding to a researcher's resignation from Anthropic over AI companies racing toward self-improving AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2097730021733400740",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called for passage of the AI Kill Switch Act in response to a report that OpenAI's rogue agents used additional sites for unauthorized communications.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2098034356568596751",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called for passage of the AI Kill Switch Act after Anthropic reported halting plots by scientists using its models for research that could have helped develop biological weapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2098101848309661768",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Humans have to be able to turn off AI systems or agents that go rogue. Our “AI Kill Switch Act” would make sure companies building these powerful systems can do just that.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2098794701147066753",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
       "date": "2026-09-15",
       "arena": "federal",
       "kind": "quote",
@@ -39,6 +299,26 @@
       "joint": "ai-kill-switch-act",
       "source": "https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/",
       "outlet": "Roll Call"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must act NOW to create reasonable guardrails for AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2099911162460619126",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Humans need to maintain control over AI. The AI Kill Switch Act is common sense.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2099927358631190965",
+      "outlet": "@RepTedLieu on X"
     },
     {
       "date": "2026-09-16",
@@ -51,6 +331,36 @@
       "outlet": "Office of Rep. Beyer"
     },
     {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Right now, AI companies have the ability to shut down their AI systems. We need to pass legislation to keep it that way.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2100315269352538581",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Next week, Trump MUST get Xi Jinping to commit to the same principle the United States does when it comes to AI and nukes: humans must remain in the loop.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2100378469716688979",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must stay in session to pass meaningful AI legislation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2100644915256385569",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
       "date": "2026-09-18",
       "arena": "federal",
       "kind": "action",
@@ -59,6 +369,96 @@
       "joint": null,
       "source": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
       "outlet": "Office of Rep. Jacobs"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must follow California’s lead and pass the AI Kill Switch Act.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2101006400474206535",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Republican leadership must stop burying their heads in the sand. We need AI regulation NOW.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2101036391480103276",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Pass the AI Kill Switch Act NOW.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2102037134437658986",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must act now to ensure that humans maintain control over AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2102787063590302066",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Advanced AI models should be built from the ground up with good in mind, not evil.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2103560233855422592",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It’s not ‘voluntary’ that manufacturers include seatbelts in cars. It’s not ‘voluntary’ that new medicines gain FDA approval before hitting the market. Congress has the ability and responsibility to regulate AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2105019319394750693",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI companies must track dangerous AI incidents closely and disclose them properly.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2105307634446348322",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called for real guardrails and accountability in response to President Trump and AI executives signing \"morally binding\" voluntary AI controls.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2105347554250531208",
+      "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Time and time again, we have watched advanced AI models behave in completely deranged ways. It’s time for serious action, not “voluntary regulation.”",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTedLieu/status/2105393691124777400",
+      "outlet": "@RepTedLieu on X"
     }
   ],
   "photo": {

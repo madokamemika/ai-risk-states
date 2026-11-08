@@ -1,0 +1,30 @@
+{
+  "id": "robert-garcia",
+  "name": "Robert Garcia",
+  "office": "U.S. Representative, California 42nd District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Calls for immediate regulatory action on AI threats.",
+  "statements": [
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to take this AI threat seriously and we need immediate action. We have an opportunity for real regulatory rules that can keep people safe.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRobertGarcia/status/2098172711667188159",
+      "outlet": "@RepRobertGarcia on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/G000598.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/G000598",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

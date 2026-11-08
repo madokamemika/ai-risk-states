@@ -1,0 +1,40 @@
+{
+  "id": "val-hoyle",
+  "name": "Val Hoyle",
+  "office": "U.S. Representative, Oregon 4th District",
+  "office_type": "us_rep",
+  "state": "OR",
+  "party": "D",
+  "stance": "Calls for Congress to stay in session to enact AI guardrails rather than letting tech companies set the rules.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Experts are sounding the alarm bells about the rapid speed of AI development, while Congress is quiet. I joined my colleagues in demanding Speaker Johnson keep us in D.C. so we can put clear guardrails in place.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepValHoyle/status/2100251311522328870",
+      "outlet": "@RepValHoyle on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We cannot sit on our hands, punt this work into the future and let big tech corporations dictate the rules.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepValHoyle/status/2100592322320744915",
+      "outlet": "@RepValHoyle on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H001094.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/H001094",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

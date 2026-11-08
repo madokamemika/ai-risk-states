@@ -1,0 +1,40 @@
+{
+  "id": "maggie-goodlander",
+  "name": "Maggie Goodlander",
+  "office": "U.S. Representative, New Hampshire 2nd District",
+  "office_type": "us_rep",
+  "state": "NH",
+  "party": "D",
+  "stance": "Supports bipartisan AI guardrails legislation and tighter controls on AI chipmaking equipment going to China.",
+  "statements": [
+    {
+      "date": "2026-04-02",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Promoted the bipartisan MATCH Act to close loopholes China exploits in controls on AI chipmaking equipment, coordinated with allies.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGoodlander/status/2039771704554033299",
+      "outlet": "@RepGoodlander on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As America’s tech leaders call for stronger guardrails, we are demanding Speaker Johnson to bring the House back into session, so we can get to work on bipartisan AI legislation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGoodlander/status/2102118992487854475",
+      "outlet": "@RepGoodlander on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/G000604.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/G000604",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

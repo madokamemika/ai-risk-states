@@ -1,0 +1,30 @@
+{
+  "id": "joe-morelle",
+  "name": "Joe Morelle",
+  "office": "U.S. Representative, New York 25th District",
+  "office_type": "us_rep",
+  "state": "NY",
+  "party": "D",
+  "stance": "Faults House Republicans for adjourning without acting on AI safety regulation.",
+  "statements": [
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Republicans have failed to act when it comes to AI safety regulations.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoeMorelle/status/2104705781652226184",
+      "outlet": "@RepJoeMorelle on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001206.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001206",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

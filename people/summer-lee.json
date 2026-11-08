@@ -1,0 +1,30 @@
+{
+  "id": "summer-lee",
+  "name": "Summer Lee",
+  "office": "U.S. Representative, Pennsylvania 12th District",
+  "office_type": "us_rep",
+  "state": "PA",
+  "party": "D",
+  "stance": "Says leading on AI does not mean more data centers at any cost or an arms race to superintelligence.",
+  "statements": [
+    {
+      "date": "2026-10-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Leading on AI doesn’t mean more data centers at any cost or an arms race to superintelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSummerLee/status/2106128803734954190",
+      "outlet": "@RepSummerLee on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000602.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000602",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

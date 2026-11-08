@@ -1,0 +1,100 @@
+{
+  "id": "cory-booker",
+  "name": "Cory Booker",
+  "office": "U.S. Senator from New Jersey",
+  "office_type": "us_senator",
+  "state": "NJ",
+  "party": "D",
+  "stance": "Called for a special session of Congress on AI safety, praised Anthropic's refusal to allow mass surveillance and autonomous weapons uses, and opposes federal preemption of state AI laws.",
+  "statements": [
+    {
+      "date": "2025-06-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "the Republican budget bill would punish states that adopt AI regulations at any point over the next decade.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBooker/status/1937533659055063456",
+      "outlet": "@SenBooker on X"
+    },
+    {
+      "date": "2025-06-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Stated his opposition to the budget bill provision penalizing states that adopt AI regulations for ten years.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBooker/status/1937533659055063456",
+      "outlet": "@SenBooker on X"
+    },
+    {
+      "date": "2025-11-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If we’re serious about preserving America’s edge in AI, our focus should be on reversing these and other policies from the Trump Administration—not on tying the hands of states like mine.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBooker/status/1993716509831532892",
+      "outlet": "@SenBooker on X"
+    },
+    {
+      "date": "2026-01-07",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cosponsored the States' Right to Regulate AI Act, introduced by Sen. Markey, to prohibit implementation of the executive order that seeks to block states from regulating AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://vermontbiz.com/node/241141",
+      "outlet": "Vermont Business Magazine"
+    },
+    {
+      "date": "2026-03-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Anthropic refused government pressure to deploy AI for mass domestic surveillance and fully autonomous lethal weapons. It chose principle over profit.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBooker/status/2028919008213250196",
+      "outlet": "@SenBooker on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called on President Trump to immediately convene a special session of Congress focused on artificial intelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBooker/status/2100628267929636908",
+      "outlet": "@SenBooker on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The safety of artificial intelligence systems demands urgent attention.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBooker/status/2100605087978541330",
+      "outlet": "@SenBooker on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I have been calling for AI safety measures for several years now. It’s time for Congress to act.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenBooker/status/2100754435274154153",
+      "outlet": "@SenBooker on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/B001288.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/B001288",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

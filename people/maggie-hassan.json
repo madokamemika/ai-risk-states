@@ -1,0 +1,60 @@
+{
+  "id": "maggie-hassan",
+  "name": "Maggie Hassan",
+  "office": "U.S. Senator from New Hampshire",
+  "office_type": "us_senator",
+  "state": "NH",
+  "party": "D",
+  "stance": "Has called for more congressional attention to catastrophic AI risks and for requiring AI to be designed in a fundamentally safer way, and cosponsored a bill creating a Commerce office to review frontier models.",
+  "statements": [
+    {
+      "date": "2023-09-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "For example, although there has been considerable congressional attention paid to many of the public safety risks posed by artificial intelligence, there has been less focus on so-called catastrophic risks posed by AI, such as the ability of AI to help terrorists develop and use unconventional weapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53708/html/CHRG-118shrg53708.htm",
+      "outlet": "Senate Homeland Security and Governmental Affairs Committee (hearing record, GPO)"
+    },
+    {
+      "date": "2023-09-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress needs to look closely at ways to require AI to be designed in a fundamentally safer way, and in time, require all AI hardware to be restricted to running only fundamentally safe systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53708/html/CHRG-118shrg53708.htm",
+      "outlet": "Senate Homeland Security and Governmental Affairs Committee (hearing record, GPO)"
+    },
+    {
+      "date": "2024-12-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Original cosponsor of the Preserving American Dominance in AI Act (S. 5616, 118th Congress), which would create an AI Safety Review Office at Commerce to evaluate frontier models for chemical, biological, radiological, nuclear and cyber risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/BILLS-118s5616is/html/BILLS-118s5616is.htm",
+      "outlet": "U.S. Government Publishing Office"
+    },
+    {
+      "date": "2025-12-03",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Sen. Joni Ernst, wrote to National Cyber Director Sean Cairncross urging a federal response after Anthropic reported that Chinese state-sponsored hackers directed its AI system to autonomously conduct a cyberattack campaign.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/bd8e7974-9f57-4b19-8efc-6571570cd493",
+      "outlet": "Office of Sen. Maggie Hassan (via Capitol Releases)"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H001076.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/H001076",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}
