@@ -1,0 +1,70 @@
+{
+  "id": "don-bacon",
+  "name": "Don Bacon",
+  "office": "U.S. Representative, Nebraska 2nd District",
+  "office_type": "us_rep",
+  "state": "NE",
+  "party": "R",
+  "stance": "Wants AI development closely monitored with guardrails if warranted, but warns that regulating AI now would cost the US the race with China.",
+  "statements": [
+    {
+      "date": "2025-07-11",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-led, with Reps. Gottheimer and Suozzi, a bipartisan letter to Elon Musk asking xAI to explain what in Grok's training or programming caused its antisemitic and violent posts.",
+      "target": null,
+      "joint": null,
+      "source": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-sound-the-alarm-over-grok-ais-antisemitic-and-violent-posts",
+      "outlet": "Office of Rep. Josh Gottheimer"
+    },
+    {
+      "date": "2025-08-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Having Nvidia providing this technology to China is a mistake.",
+      "target": null,
+      "joint": null,
+      "source": "https://digital-release.thehill.com/?p=5447693",
+      "outlet": "The Hill"
+    },
+    {
+      "date": "2025-11-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "They have much higher technology, they are using AI, which gives you a lot more capability at finding weaknesses in your adversaries’ cyber-defenses.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.dailywire.com/news/were-rudderless-gop-rep-warns-that-china-is-stepping-up-its-cyber-threat-game-as-u-s-flounders",
+      "outlet": "The Daily Wire"
+    },
+    {
+      "date": "2026-09-04",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Praised University of Nebraska Omaha NCITE researchers for demonstrating on Capitol Hill how terrorists can exploit jailbroken AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBacon/status/2095937795789410595",
+      "outlet": "@RepDonBacon on X"
+    },
+    {
+      "date": "2026-09-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "At the same time, we should closely monitor AI development & be prepared to put in guardrails if warranted. But, over regulating AI now is a recipe for defeat.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDonBacon/status/2101333841327833539",
+      "outlet": "@RepDonBacon on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/B001298.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/B001298",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

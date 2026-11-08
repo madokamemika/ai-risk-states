@@ -1,0 +1,30 @@
+{
+  "id": "dan-goldman",
+  "name": "Dan Goldman",
+  "office": "U.S. Representative, New York 10th District",
+  "office_type": "us_rep",
+  "state": "NY",
+  "party": "D",
+  "stance": "Wants Congress to pass AI legislation with independent oversight of government and military use of frontier AI models.",
+  "statements": [
+    {
+      "date": "2026-05-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Allowing the government – especially this government – to use AI tools for “any lawful purpose” without independent oversight is an invitation to weaponize them. Congress must pass serious legislation on AI to protect Americans’ privacy, safety, and civil liberties from government overreach.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDanGoldman/status/2050634163967897909",
+      "outlet": "@RepDanGoldman on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/G000599.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/G000599",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

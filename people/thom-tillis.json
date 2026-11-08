@@ -1,0 +1,50 @@
+{
+  "id": "thom-tillis",
+  "name": "Thom Tillis",
+  "office": "U.S. Senator from North Carolina",
+  "office_type": "us_senator",
+  "state": "NC",
+  "party": "R",
+  "stance": "Co-introduced a bill for a voluntary AI security and safety incident database, and cast the only Senate vote against stripping the proposed moratorium on state AI laws.",
+  "statements": [
+    {
+      "date": "2024-05-01",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Sen. Mark Warner, introduced the Secure Artificial Intelligence Act, which would have CISA and NIST set up a public, voluntary database for tracking AI security and safety incidents.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/senate-bill-on-ai-security-bolster-voluntary-cyber-reporting/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2024-05-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This commonsense legislation creates a voluntary database for reporting AI security and safety incidents and promotes best practices to mitigate AI risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/senate-bill-on-ai-security-bolster-voluntary-cyber-reporting/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2025-07-01",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cast the only vote against the Senate amendment that stripped the proposed moratorium on state AI law enforcement from the reconciliation bill, which passed 99-1.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.pbs.org/newshour/politics/senate-pulls-ai-regulatory-ban-from-gop-bill-after-complaints-from-states",
+      "outlet": "PBS News"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/T000476.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/T000476",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

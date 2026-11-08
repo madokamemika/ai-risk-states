@@ -11,6 +11,26 @@
   "stance": "Wants every advanced AI model sold in the US to carry a company-controlled kill switch in case a model escapes human control.",
   "statements": [
     {
+      "date": "2023-05-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Hypothesis number three that I would like you to assume: There is likely a berserk wing of the artificial intelligence community that intentionally or unintentionally could use artificial intelligence to kill all of us and hurt us the entire time that we are dying.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+      "outlet": "Senate Judiciary Subcommittee hearing record (GPO)"
+    },
+    {
+      "date": "2023-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "their general impression is that AI has extraordinary potential to make our lives better if it doesn't make our lives worse first. And that's about the extent of it. And in my judgment, we're not nearly ready to be able to craft a bill that looks like somebody designed it on purpose. I think we're more likely to take baby steps.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg53879/html/CHRG-118shrg53879.htm",
+      "outlet": "Senate Judiciary Subcommittee hearing record (GPO)"
+    },
+    {
       "date": "2026-09-16",
       "arena": "federal",
       "kind": "action",
@@ -39,6 +59,36 @@
       "joint": "ai-emergency-button-act",
       "source": "http://www.washingtonexaminer.com/news/senate/4730945/gop-ai-kill-switch-bill-killed-by-rand-paul/",
       "outlet": "Washington Examiner"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced a bill requiring AI models to have a kill switch.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJohnKennedy/status/2100588824191537455",
+      "outlet": "@SenJohnKennedy on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The AI guys say they’re worried about what their models could do. They ought to do something about it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJohnKennedy/status/2100588824191537455",
+      "outlet": "@SenJohnKennedy on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Advanced AI models need a kill switch in case they go off the rails. We don’t need another government-run committee to tell us that.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJohnKennedy/status/2100984894075658539",
+      "outlet": "@SenJohnKennedy on X"
     }
   ],
   "photo": {

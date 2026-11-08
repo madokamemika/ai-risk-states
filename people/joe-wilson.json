@@ -1,0 +1,30 @@
+{
+  "id": "joe-wilson",
+  "name": "Joe Wilson",
+  "office": "U.S. Representative, South Carolina 2nd District",
+  "office_type": "us_rep",
+  "state": "SC",
+  "party": "R",
+  "stance": "Cosponsors the Frontier Act, a Republican-led framework pairing AI innovation with regulation aimed at catastrophic risk.",
+  "statements": [
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cosponsored Rep. Jay Obernolte's Frontier Act, describing it as a bipartisan framework for AI innovation with regulation aimed at eliminating catastrophic risk.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoeWilson/status/2101064670295831020",
+      "outlet": "@RepJoeWilson on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/W000795.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/W000795",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

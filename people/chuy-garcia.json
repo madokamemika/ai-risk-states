@@ -1,0 +1,30 @@
+{
+  "id": "chuy-garcia",
+  "name": "Chuy García",
+  "office": "U.S. Representative, Illinois 4th District",
+  "office_type": "us_rep",
+  "state": "IL",
+  "party": "D",
+  "stance": "Calls on Congress to ban AI superintelligence, pause advanced AI development and data center construction, and mandate independent oversight.",
+  "statements": [
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The unchecked development of AI by reckless, for-profit corporations and Big Tech oligarchs threatens our economy, democracy, and humanity itself. Congress must act to ban AI superintelligence, pause data center construction and advanced AI development, mandate independent oversight, and much more.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepChuyGarcia/status/2097795378905018543",
+      "outlet": "@RepChuyGarcia on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/G000586.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/G000586",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

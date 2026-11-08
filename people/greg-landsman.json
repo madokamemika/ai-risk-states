@@ -1,0 +1,100 @@
+{
+  "id": "greg-landsman",
+  "name": "Greg Landsman",
+  "office": "U.S. Representative, Ohio 1st District",
+  "office_type": "us_rep",
+  "state": "OH",
+  "party": "D",
+  "stance": "Calls for federal AI safety laws and a national framework, rejects industry self-regulation, and criticizes Speaker Johnson's position that AI companies, not Congress, are responsible for AI safety.",
+  "statements": [
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Another AI wakeup call for Congress… We need to pass safeguards and protect our communities.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGregLandsman/status/2097791752048427457",
+      "outlet": "@RepGregLandsman on X"
+    },
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Should Americans be on their own with food safety or the spreading of infectious diseases? Of course not, and AI is no different.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGregLandsman/status/2099242326342189376",
+      "outlet": "@RepGregLandsman on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Responded \"We're cooked\" to a report that President Trump poured cold water on a new push for AI regulation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGregLandsman/status/2099546184297697611",
+      "outlet": "@RepGregLandsman on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Appealed to congressional Republicans to work with Democrats now on AI safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGregLandsman/status/2100663387688415352",
+      "outlet": "@RepGregLandsman on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We should be back in DC today voting to lower the cost of living, expand access to healthcare, and protect our communities from AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGregLandsman/status/2102461148725412101",
+      "outlet": "@RepGregLandsman on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We can’t rely on Big Tech to self-police its AI companies. We need strong laws to protect our communities from the risks of AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGregLandsman/status/2105366138821423498",
+      "outlet": "@RepGregLandsman on X"
+    },
+    {
+      "date": "2026-10-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress needs to pass a national framework on AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGregLandsman/status/2107211701355790396",
+      "outlet": "@RepGregLandsman on X"
+    },
+    {
+      "date": "2026-10-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We can’t wait for Big Tech to “self-regulate” AI and data centers.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGregLandsman/status/2112281542110458342",
+      "outlet": "@RepGregLandsman on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000601.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000601",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

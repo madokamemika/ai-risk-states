@@ -11,6 +11,36 @@
   "stance": "Wants stronger federal AI guardrails — independent third-party evaluation and verification of frontier models, accountability when AI causes harm, and incident reporting — alongside support for AI innovation and U.S. competitiveness.",
   "statements": [
     {
+      "date": "2023-11-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Development and innovation will depend on the guardrails we put in place. This is a commonsense framework that protects Americans without stifling our competitive edge in AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-bipartisan-group-introduce-ai-bill-to-strengthen-accountability-boost-innovation/",
+      "outlet": "Office of Sen. John Hickenlooper"
+    },
+    {
+      "date": "2024-02-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need qualified third parties to effectively audit Generative AI systems and verify their claims of compliance with federal laws and regulations.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-proposes-ai-auditing-standards-calls-for-protecting-consumer-data-increasing-transparency/",
+      "outlet": "Office of Sen. John Hickenlooper"
+    },
+    {
+      "date": "2024-02-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "What begins today as Generative AI may one day become Artificial General Intelligence. A wild, unregulated AI industry – that is accountable to no one – developing Artificial General Intelligence should scare us all into action.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-proposes-ai-auditing-standards-calls-for-protecting-consumer-data-increasing-transparency/",
+      "outlet": "Office of Sen. John Hickenlooper"
+    },
+    {
       "date": "2024-04-18",
       "arena": "federal",
       "kind": "action",
@@ -19,6 +49,26 @@
       "joint": null,
       "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-bipartisan-senators-introduce-ai-bill-to-accelerate-innovation-strengthen-u-s-leadership/",
       "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2024-07-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But we have to move just as fast to get sensible guardrails in place to develop AI responsibly before it’s too late.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-to-introduce-bill-to-provide-third-party-audits-for-ai/",
+      "outlet": "Office of Sen. John Hickenlooper"
+    },
+    {
+      "date": "2024-07-31",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI has enormous potential to boost American innovation. But without sensible guardrails or standards, it’s the Wild West out there.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-ai-bill-six-other-hick-bills-pass-senate-committee-all-bipartisan/",
+      "outlet": "Office of Sen. John Hickenlooper"
     },
     {
       "date": "2025-08-01",
@@ -61,6 +111,16 @@
       "outlet": "Office of Sen. Hickenlooper"
     },
     {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This new era of AI is dangerous and it needs guardrails. Swift action is required to meet this moment.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorHick/status/2100637934214881367",
+      "outlet": "@SenatorHick on X"
+    },
+    {
       "date": "2026-09-29",
       "arena": "federal",
       "kind": "quote",
@@ -79,6 +139,36 @@
       "joint": null,
       "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-on-trump-ai-ceos-to-work-with-congress-on-responsible-ai-guardrails-ahead-of-white-house-meeting/",
       "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Ahead of today’s White House meeting with AI leaders we’re pressing Trump to support guardrails for AI: → Independent testing of our most powerful AI models → Real accountability when AI companies cause harm → Mandatory reporting of serious AI incidents",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorHick/status/2104992455758160310",
+      "outlet": "@SenatorHick on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Guardrails on AI can’t wait. We need to get going now and protect communities from the risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorHick/status/2105454033196712432",
+      "outlet": "@SenatorHick on X"
+    },
+    {
+      "date": "2026-10-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need stronger tools to protect against consequences both profound and irreversible without totally squashing innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorHick/status/2106861993575723215",
+      "outlet": "@SenatorHick on X"
     }
   ],
   "review": {

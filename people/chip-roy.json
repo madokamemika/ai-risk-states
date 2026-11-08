@@ -1,0 +1,90 @@
+{
+  "id": "chip-roy",
+  "name": "Chip Roy",
+  "office": "U.S. Representative, Texas 21st District",
+  "office_type": "us_rep",
+  "state": "TX",
+  "party": "R",
+  "stance": "Calls AI a potential human replacement raising existential questions and wants transparency and congressional oversight with tech leaders testifying, while opposing regulation that he sees as government interference in competition.",
+  "statements": [
+    {
+      "date": "2026-08-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I think we need to have a serious conversation in Washington among national leaders, about what the guardrails are going to be when we talk about Artificial Intelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepChipRoy/status/2092274351236133043",
+      "outlet": "@RepChipRoy on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is an earth shattering potential human replacement on multiple levels. And with no clear direction for what it means, and then ultimately no clear understanding of who’s in charge of what is supposed to be a tool for humanity — but can ultimately make humans the tools of the technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepChipRoy/status/2099586846497866212",
+      "outlet": "@RepChipRoy on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It is absolutely correct for Congress to ask for transparency, raise questions, bring people forward, because these are existential questions, and we need to stand up for the American people, not just Big Tech or government or any other powers that be.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepChipRoy/status/2099524650124407014",
+      "outlet": "@RepChipRoy on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to protect innovation, protect the ability of the smartest people in the world to solve these problems, but with the idea of putting humans FIRST.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepChipRoy/status/2099966953410404488",
+      "outlet": "@RepChipRoy on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need massive transparency, we need answers, but we also need robust competition. AI needs to be a tool for humans. God gave us dominion over this planet. We should NOT be a tool of AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepChipRoy/status/2099882027407356343",
+      "outlet": "@RepChipRoy on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I want competition and free enterprise to rule the day. I don't want crony capitalism, crony government interference, but we do need tech leaders to come forward and answer Congress' questions.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepChipRoy/status/2100948858855465319",
+      "outlet": "@RepChipRoy on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Told CNBC he does not want to regulate AI but that Congress should have an oversight role.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepChipRoy/status/2102464058876436549",
+      "outlet": "@RepChipRoy on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/R000614.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/R000614",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

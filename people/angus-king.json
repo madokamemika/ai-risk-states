@@ -12,6 +12,36 @@
   "stance": "Treats uncontrolled frontier AI as a potential catastrophic risk, and pushes both domestic regulation of the frontier labs and sustained U.S.-China dialogue on AI's shared risks.",
   "statements": [
     {
+      "date": "2024-07-22",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined Sens. Schatz, Luján, Welch and Warner in a letter to OpenAI CEO Sam Altman asking about the company's safety and employment practices after whistleblowers alleged it barred employees from warning regulators about risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.themainewire.com/2024/07/angus-king-signs-onto-letter-probing-openai-over-safety-concerns/",
+      "outlet": "The Maine Wire"
+    },
+    {
+      "date": "2024-12-20",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-introduced the Preserving American Dominance in AI Act with Sens. Romney, Reed, Moran and Hassan, which would create an AI safety review office at the Commerce Department to address chemical, biological, radiological, nuclear and cyber risks from frontier models.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/ded4a2aa-13e7-4ef0-be34-b2df301963f3",
+      "outlet": "Office of Sen. Angus King (archived by Capitol Releases)"
+    },
+    {
+      "date": "2024-12-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "In the ever-evolving global threat landscape, the United States has to stay one step ahead of new technologies to protect both our national security and interests at home and abroad — and that means moving carefully, warily, and thoughtfully into an Artificial Intelligence future,",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/ded4a2aa-13e7-4ef0-be34-b2df301963f3",
+      "outlet": "Office of Sen. Angus King (archived by Capitol Releases)"
+    },
+    {
       "date": "2026-09-17",
       "arena": "federal",
       "kind": "action",
@@ -40,6 +70,16 @@
       "joint": null,
       "source": "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks",
       "outlet": "Office of Sen. King"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The threat posed by AI isn't science fiction; it's fact -- and damn serious.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAngusKing/status/2104605689448628329",
+      "outlet": "@SenAngusKing on X"
     }
   ],
   "review": { "status": "unreviewed", "note": "added October 2026 from king.senate.gov primary sources; quotes verified verbatim" },

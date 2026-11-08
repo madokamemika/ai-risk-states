@@ -17,6 +17,76 @@
       "joint": "stop-rogue-ai-act",
       "source": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6424",
       "outlet": "Office of Rep. Lawler"
+    },
+    {
+      "date": "2026-09-03",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Announced with Rep. Josh Gottheimer the bipartisan Stop Rogue AI Act to help organizations identify AI agents on their networks, verify their actions and keep secure records.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMikeLawler/status/2095547644470870339",
+      "outlet": "@RepMikeLawler on X"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Our bill would establish standards to help the federal government identify AI agents, verify who is behind them, track their activity, and keep them accountable.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMikeLawler/status/2098196515840045370",
+      "outlet": "@RepMikeLawler on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The AI companies themselves have a responsibility to self regulate, especially while they are going through testing phases and expanding capabilities.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMikeLawler/status/2099921356871877102",
+      "outlet": "@RepMikeLawler on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This isn’t about stopping AI or stifling innovation. It is about making sure we can safely deploy AI. A pause is not a safeguard.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMikeLawler/status/2100581774724087865",
+      "outlet": "@RepMikeLawler on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "My biggest concern with AI from the beginning has been foreign bad actors using AI to undermine our financial institutions and our capital markets.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMikeLawler/status/2100608401055072409",
+      "outlet": "@RepMikeLawler on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The goal is simple: keep humans in control while continuing to innovate.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMikeLawler/status/2100663084037578903",
+      "outlet": "@RepMikeLawler on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As AI becomes more prevalent in our lives and has the ability to impact our national security and capital markets, we should be testing these systems to ensure they are safe to use and do not negatively impact the American people.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMikeLawler/status/2102878935482507435",
+      "outlet": "@RepMikeLawler on X"
     }
   ],
   "photo": {

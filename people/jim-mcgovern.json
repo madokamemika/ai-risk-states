@@ -1,0 +1,90 @@
+{
+  "id": "jim-mcgovern",
+  "name": "Jim McGovern",
+  "office": "U.S. Representative, Massachusetts 2nd District",
+  "office_type": "us_rep",
+  "state": "MA",
+  "party": "D",
+  "stance": "Describes AI as an existential threat, cites expert estimates of extinction risk, rejects industry self-regulation and urges Congress to legislate safeguards.",
+  "statements": [
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Responded to President Trump's assurance that there would always be a way to stop AI if it turned against humanity with \"He is going to get us all killed.\"",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcGovern/status/2099548159990989021",
+      "outlet": "@RepMcGovern on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress should be working around the clock to lower costs, address the affordability crisis, and confront the existential threat of AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcGovern/status/2099568470060908749",
+      "outlet": "@RepMcGovern on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If Congress won’t act, who the hell will, @SpeakerJohnson? Are the Data centers and tech bro billionaires making a fortune off AI going to regulate themselves?",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcGovern/status/2099575758595219746",
+      "outlet": "@RepMcGovern on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Rejected Speaker Johnson's statement that OpenAI and Anthropic can self-police and self-regulate, comparing it to Facebook and Instagram's record on protecting children.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcGovern/status/2099915458128257329",
+      "outlet": "@RepMcGovern on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Left unchecked, AI poses immense risks to humanity. We must take fast action to ensure that human rights are safeguarded from AI threats.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcGovern/status/2100263548609774059",
+      "outlet": "@RepMcGovern on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Chaired a Tom Lantos Human Rights Commission hearing on the human rights implications of AI in the military domain.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcGovern/status/2100263548609774059",
+      "outlet": "@RepMcGovern on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI experts say there’s a greater than 10% chance their technology could wipe out humanity within a decade. Even a fraction of that possibility is unacceptable.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcGovern/status/2100312689641709871",
+      "outlet": "@RepMcGovern on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M000312.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M000312",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

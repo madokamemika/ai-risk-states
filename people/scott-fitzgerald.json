@@ -1,0 +1,30 @@
+{
+  "id": "scott-fitzgerald",
+  "name": "Scott Fitzgerald",
+  "office": "U.S. Representative, Wisconsin 5th District",
+  "office_type": "us_rep",
+  "state": "WI",
+  "party": "R",
+  "stance": "Opposes regulator-led AI policy, saying entrepreneurs rather than unelected regulators should shape AI's future.",
+  "statements": [
+    {
+      "date": "2025-04-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The U.S. must remain the best place in the world to build, test, and deploy AI. That means making room for new entrants, protecting free speech, and making sure American entrepreneurs—not unelected regulators—shape its future.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepFitzgerald/status/1907459485297156554",
+      "outlet": "@RepFitzgerald on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/F000471.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/F000471",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

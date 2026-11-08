@@ -1,0 +1,40 @@
+{
+  "id": "john-larson",
+  "name": "John Larson",
+  "office": "U.S. Representative, Connecticut 1st District",
+  "office_type": "us_rep",
+  "state": "CT",
+  "party": "D",
+  "stance": "Supports AI safeguards in Congress and state AI laws such as Connecticut's, and opposes federal efforts to block state AI regulation.",
+  "statements": [
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While Trump tries to block states from regulating artificial intelligence, Connecticut is leading the nation to make sure AI works for us, not Big Tech billionaires.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJohnLarson/status/2061924378833547692",
+      "outlet": "@RepJohnLarson on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Joined Democratic colleagues in calling on Speaker Johnson to keep Congress in session to pass AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJohnLarson/status/2100380890366869568",
+      "outlet": "@RepJohnLarson on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000557.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000557",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

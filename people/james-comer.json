@@ -1,0 +1,40 @@
+{
+  "id": "james-comer",
+  "name": "James Comer",
+  "office": "U.S. Representative, Kentucky 1st District",
+  "office_type": "us_rep",
+  "state": "KY",
+  "party": "R",
+  "stance": "Supports limited AI guardrails but opposes heavy-handed AI regulation and new federal AI bureaucracies.",
+  "statements": [
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI does need smart regulatory guardrails. AI does not need heavy-handed regulations that crush innovation or allow Washington bureaucrats to pick winners and losers in the industry.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJamesComer/status/2102099916285788626",
+      "outlet": "@RepJamesComer on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It's because they want to create a bunch of new government agencies and bureaucracies and hire new federal employees. That's not the way to address AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJamesComer/status/2103520070219489345",
+      "outlet": "@RepJamesComer on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001108.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001108",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

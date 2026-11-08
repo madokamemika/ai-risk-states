@@ -1,0 +1,90 @@
+{
+  "id": "warren-davidson",
+  "name": "Warren Davidson",
+  "office": "U.S. Representative, Ohio 8th District",
+  "office_type": "us_rep",
+  "state": "OH",
+  "party": "R",
+  "stance": "Voted against the AI moratorium (\"AI amnesty\") in the One Big Beautiful Bill, calls for congressional action on out-of-control AI, and opposes legal personhood for AI.",
+  "statements": [
+    {
+      "date": "2025-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Thankfully, stripping the AI regulatory exemption from the Big Beautiful Bill offers hope of accountability.",
+      "target": null,
+      "joint": null,
+      "source": "https://davidson.house.gov/media/op-eds/rep-warren-davidson-privacy-artificial-intelligence-and-congress",
+      "outlet": "Office of Rep. Warren Davidson"
+    },
+    {
+      "date": "2025-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Hollywood imagined rules in 2003 to keep humans safe from AI. Yet, over two decades later, Congress still has not written any rules to do the same. Even worse, many of my colleagues seem entirely unconcerned with the potential repercussions that could soon become reality.",
+      "target": null,
+      "joint": null,
+      "source": "https://davidson.house.gov/media/op-eds/rep-warren-davidson-privacy-artificial-intelligence-and-congress",
+      "outlet": "Office of Rep. Warren Davidson"
+    },
+    {
+      "date": "2025-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Failure to act is its own decision, but AI is moving far faster than Congress and momentum in the wrong direction makes change harder as time passes.",
+      "target": null,
+      "joint": null,
+      "source": "https://davidson.house.gov/media/op-eds/rep-warren-davidson-privacy-artificial-intelligence-and-congress",
+      "outlet": "Office of Rep. Warren Davidson"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Perhaps amnesty for AI isn't the most rational idea? Congress must take action while we still can.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/WarrenDavidson/status/2097747254438203673",
+      "outlet": "@WarrenDavidson on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "For the skeptics, when that AI amnesty paragraph was in the One Big Beautiful Bill, I voted NO.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/WarrenDavidson/status/2097752138185064805",
+      "outlet": "@WarrenDavidson on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If AI can break bank level encryption, you have to unplug the bank until you have a guaranteed countermeasure.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/WarrenDavidson/status/2097833618135560527",
+      "outlet": "@WarrenDavidson on X"
+    },
+    {
+      "date": "2026-11-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI can never be treated as a person or have standing in matters of law. Without liability there will be no accountability.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/WarrenDavidson/status/2119092994129395885",
+      "outlet": "@WarrenDavidson on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/D000626.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/D000626",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

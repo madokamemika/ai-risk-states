@@ -1,0 +1,50 @@
+{
+  "id": "andy-kim",
+  "name": "Andy Kim",
+  "office": "U.S. Senator from New Jersey",
+  "office_type": "us_senator",
+  "state": "NJ",
+  "party": "D",
+  "stance": "Calls for the U.S. to lead in setting global standards for how AI is governed and proliferated, and joined a statement opposing Nvidia H200 exports to China.",
+  "statements": [
+    {
+      "date": "2023-11-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need a full-court-press of our diplomatic power to bring allies and partners into smart policies that allows the U.S., and not our competitors, to set global standards.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.insidernj.com/press-release/congressman-kim-statement-on-president-bidens-artificial-intelligence-executive-order",
+      "outlet": "Office of Rep. Andy Kim (press release, via Insider NJ)"
+    },
+    {
+      "date": "2025-01-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America has led the way in developing these technologies, and we must continue to set the pace in how they’re proliferated and governed globally.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/02ffb85e-3555-4650-a8e7-4b8eb9c86c0d",
+      "outlet": "Office of Sen. Andy Kim (via Capitol Releases)"
+    },
+    {
+      "date": "2025-12-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined a statement by eight Democratic senators objecting to the decision to allow Nvidia H200 AI chip exports to China, warning the chips would make China's weapons more lethal and its cyberattacks more effective.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/581bc83f-0f6d-476b-b292-3005c29ca139",
+      "outlet": "Office of Sen. Elissa Slotkin (via Capitol Releases)"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/K000394.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/K000394",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

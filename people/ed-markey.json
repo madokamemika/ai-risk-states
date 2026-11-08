@@ -21,6 +21,26 @@
       "outlet": "Nextgov/FCW"
     },
     {
+      "date": "2026-06-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I’ve led the charge to stop Trump’s outrageous efforts to block state AI regulations before. I’m ready to do it again.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkey/status/2064786806273413289",
+      "outlet": "@SenMarkey on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to pass my AI Accountability agenda to address current harms now and act to stop existential threats to our future.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkey/status/2100618580739920131",
+      "outlet": "@SenMarkey on X"
+    },
+    {
       "date": "2026-09-24",
       "arena": "federal",
       "kind": "action",
@@ -39,6 +59,26 @@
       "joint": null,
       "source": "https://www.markey.senate.gov/news/press-releases/as-ai-agents-carry-out-attacks-senator-markey-introduces-legislation-establishing-independent-body-to-investigate-cyber-hacks-assisted-by-artificial-intelligence",
       "outlet": "Office of Sen. Markey"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need a Cybersecurity & AI Board of Investigations to demand answers from the rogue people behind these “rogue agents.”",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkey/status/2103238220821495923",
+      "outlet": "@SenMarkey on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Donald Trump is like AI itself—over confident, often wrong, and prone to hallucinating facts. His “morally binding” agreement means nothing.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenMarkey/status/2105123426830864745",
+      "outlet": "@SenMarkey on X"
     }
   ],
   "photo": {

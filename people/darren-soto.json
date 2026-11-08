@@ -1,0 +1,30 @@
+{
+  "id": "darren-soto",
+  "name": "Darren Soto",
+  "office": "U.S. Representative, Florida 9th District",
+  "office_type": "us_rep",
+  "state": "FL",
+  "party": "D",
+  "stance": "Has called on the Energy and Commerce Committee to establish AI guardrails to protect the public.",
+  "statements": [
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I called upon our Committee to establish critical AI guardrails to protect the public.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDarrenSoto/status/2102028059758985556",
+      "outlet": "@RepDarrenSoto on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001200.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001200",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

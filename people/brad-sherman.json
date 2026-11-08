@@ -12,6 +12,116 @@
   "stance": "Presses oversight of autonomous 'agentic AI' trading and co-signed the call for AI-safety diplomacy with China.",
   "statements": [
     {
+      "date": "2007-12-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There is one issue that I think is more explosive than even the spread of nuclear weapons: engineered intelligence.",
+      "target": null,
+      "joint": null,
+      "source": "https://sherman.house.gov/media-center/in-the-news/congressman-sherman-speech-on-artificial-intelligence",
+      "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
+      "date": "2007-12-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I believe in our lifetime we will see new species possessing intelligence which surpasses our own. The last time a new higher level of intelligence arose on this planet was roughly 50,000 years ago. It was our own ancestors, who then said hello to the previously most intelligent species, Neanderthals. It did not work out so well for the Neanderthals.",
+      "target": null,
+      "joint": null,
+      "source": "https://sherman.house.gov/media-center/in-the-news/congressman-sherman-speech-on-artificial-intelligence",
+      "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
+      "date": "2007-12-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I have urged DARPA to develop computer systems designed to maximize the computer's utility, while avoiding self-awareness, or at least ambition.",
+      "target": null,
+      "joint": null,
+      "source": "https://sherman.house.gov/media-center/in-the-news/congressman-sherman-speech-on-artificial-intelligence",
+      "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
+      "date": "2019-01-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I look forward to exploring the benefits and risks of new levels of intelligence, both artificial intelligence and genetic engineering,",
+      "target": null,
+      "joint": null,
+      "source": "https://sherman.house.gov/media-center/press-releases/sherman-returns-to-house-science-committee",
+      "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
+      "date": "2019-06-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "What amount of--what percentage of all the research being done on artificial intelligence is being used to detect and prevent self-awareness and ambition?",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-116hhrg36796/html/CHRG-116hhrg36796.htm",
+      "outlet": "House Committee on Science, Space, and Technology (hearing record, GPO)"
+    },
+    {
+      "date": "2025-07-11",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Signed a bipartisan letter to Elon Musk asking xAI to explain what in Grok's training or programming caused its antisemitic and violent posts.",
+      "target": null,
+      "joint": null,
+      "source": "https://gottheimer.house.gov/posts/release-gottheimer-bipartisan-colleagues-sound-the-alarm-over-grok-ais-antisemitic-and-violent-posts",
+      "outlet": "Office of Rep. Josh Gottheimer"
+    },
+    {
+      "date": "2025-12-10",
+      "arena": "federal",
+      "kind": "action",
+      "text": "At a House Financial Services Committee hearing, pressed AI executives on the responsibility to prevent AI from drifting toward self-awareness.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/BradSherman/status/1998835123832164368",
+      "outlet": "@BradSherman on X"
+    },
+    {
+      "date": "2025-12-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "U.S. companies should not be allowed to hand over to China the very technology it needs to beat America in the AI race – especially when we know that China won’t put any safeguards on AI technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/BradSherman/status/1999231492430659914",
+      "outlet": "@BradSherman on X"
+    },
+    {
+      "date": "2026-01-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to monitor AI to detect and prevent self-awareness and ambition. China is not the only threat.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/BradSherman/status/2011480697383346395",
+      "outlet": "@BradSherman on X"
+    },
+    {
+      "date": "2026-02-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We’re spending trillions to make AI more powerful and almost nothing to ensure it remains controllable. I’m pushing legislation to change that.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/BradSherman/status/2026404914193182947",
+      "outlet": "@BradSherman on X"
+    },
+    {
+      "date": "2026-06-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "And you should know that if these ambitions go unchecked, perhaps the last decision our species will make is whether our successor species is carbon-based or silicon-based, the product of genetic engineering or the product of computer engineering.",
+      "target": null,
+      "joint": null,
+      "source": "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial",
+      "outlet": "Office of Rep. Brad Sherman"
+    },
+    {
       "date": "2026-06-24",
       "arena": "federal",
       "kind": "action",
@@ -20,6 +130,36 @@
       "joint": null,
       "source": "https://foster.house.gov/media/press-releases/foster-sherman-seek-regulatory-clarity-agentic-ai-trading",
       "outlet": "Office of Rep. Foster"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI experts have been clear on the need to monitor for and prevent the emergence of ambitious, self aware AI systems that are rapidly emerging, and I have legislation to do just that.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/BradSherman/status/2098099069365137583",
+      "outlet": "@BradSherman on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "President Trump just announced to the entire world his worst decision: a refusal to regulate AI or enter into international agreements to regulate AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/BradSherman/status/2102435022825242939",
+      "outlet": "@BradSherman on X"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We must immediately do more to address the existential threats that dangerous AI systems already pose. I’m leading my colleagues in urging an immediate and significant increase in funding for AI safety. The $15 million currently proposed for the Center for AI Standards and Innovation (CAISI) is ridiculously inadequate to evaluate increasingly powerful AI systems.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/BradSherman/status/2108710728769196057",
+      "outlet": "@BradSherman on X"
     }
   ],
   "review": {

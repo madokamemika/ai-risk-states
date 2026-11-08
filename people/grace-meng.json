@@ -1,0 +1,40 @@
+{
+  "id": "grace-meng",
+  "name": "Grace Meng",
+  "office": "U.S. Representative, New York 6th District",
+  "office_type": "us_rep",
+  "state": "NY",
+  "party": "D",
+  "stance": "Supports sustained US-China dialogue and guardrails to manage AI safety risks.",
+  "statements": [
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is advancing fast—and the world needs clear lines of communication and meaningful guardrails to manage its risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGraceMeng/status/2103475524290900370",
+      "outlet": "@RepGraceMeng on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined 28 House Democrats in a letter led by Rep. Gregory Meeks calling for a sustained and substantive dialogue with China to address AI-related safety risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGraceMeng/status/2103475524290900370",
+      "outlet": "@RepGraceMeng on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001188.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001188",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

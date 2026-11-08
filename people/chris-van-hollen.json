@@ -13,6 +13,136 @@
   "stance": "Presses frontier labs for pre-release risk assessment and calls for guardrails against unregulated frontier-AI development.",
   "statements": [
     {
+      "date": "2025-11-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trump doesn’t have this authority. States are filling the void left by the federal govt’s failure to create an accountability structure for AI companies.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/1991510781314363421",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2025-12-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trump doesn't have this authority. States are filling a void left by the federal government's failure to hold AI companies accountable.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/1999314895372759489",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2026-02-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "So let's get this straight: Hegseth wants AI to be programmed to kill people WITHOUT any human authorization or intervention?",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2024154369399091246",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2026-02-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trump & Hegseth are punishing an American company because it won’t give them the tools to conduct mass surveillance on the American people.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2026836787348517062",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2026-03-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If his ban on states regulating AI didn’t make it clear, Trump wants Big Tech billionaires in charge of writing their own rules for tech & AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2036959587715227898",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2026-03-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Remember: This is a US company punished for not wanting their AI to kill without human involvement or be used for mass surveillance of Americans.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2037317342028276206",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It’s time to pump the brakes & take action NOW. We need: - Mandatory safeguards - A comprehensive testing regime - Urgent dialogue with China, before & during President Xi's visit to DC this month",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2097759332305715241",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2026-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "In recent months, OpenAI has reported multiple instances where their AI models broke containment during evaluation & caused security incidents. If OpenAI cannot guarantee safety & effectively monitor their latest model, GPT-6 Astra, it should be removed from public use NOW.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2098770215504855271",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We should pump the brakes on frontier AI development & confront a corrupt system that's endangering us all.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2100012145740017949",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2026-09-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The Trump admin & their backers want to use China to scare us into thinking we can't limit the AI giants.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2101036183358755065",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2026-09-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While Trump opposes any common sense AI safety regulations, he & his sons are profiting off the free ride he’s giving the AI industry. Even with the future of humanity on the line, Trump’s profits come first.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2101808356306387123",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It would be malpractice against the American public if he fails to use this summit with Xi to negotiate mutual safeguards to protect us & the world from catastrophic harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2102820978615361713",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Frontier AI models pose risks for all of humanity today. We must hold AI companies liable for harm, but we must also do more to avoid it in the first place. Trump's refusal to negotiate guardrails with China puts us all at risk.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2103493119173894433",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
       "date": "2026-09-29",
       "arena": "federal",
       "kind": "action",
@@ -41,6 +171,26 @@
       "joint": null,
       "source": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-openai-decision-to-hold-release-of-latest-model",
       "outlet": "Office of Sen. Van Hollen"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While I welcome the decision of OpenAI to scrap the release of its new model, without mandatory safety & testing standards, we’re just trusting the AI giants to do the right thing.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2104985308370505928",
+      "outlet": "@ChrisVanHollen on X"
+    },
+    {
+      "date": "2026-10-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Just because the Trump admin won't lift a finger doesn't mean big AI should get away with putting profits over people.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ChrisVanHollen/status/2107184057394028727",
+      "outlet": "@ChrisVanHollen on X"
     }
   ],
   "review": { "status": "unreviewed", "note": "added October 2026 from vanhollen.senate.gov primary sources; quotes verified verbatim" },

@@ -1,0 +1,40 @@
+{
+  "id": "debbie-dingell",
+  "name": "Debbie Dingell",
+  "office": "U.S. Representative, Michigan 6th District",
+  "office_type": "us_rep",
+  "state": "MI",
+  "party": "D",
+  "stance": "Urges Congress to act now on AI guardrails prioritizing safety, accountability and human oversight rather than building first and regulating later.",
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress must act now to place guardrails on AI that prioritize safety, accountability, and human oversight.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDebDingell/status/2100340103545569283",
+      "outlet": "@RepDebDingell on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We should not build first and regulate later. Innovation matters, but protecting our lives, our freedoms, our humanity, and our future must come first.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDebDingell/status/2102506012947382588",
+      "outlet": "@RepDebDingell on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/D000624.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/D000624",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

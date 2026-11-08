@@ -12,6 +12,106 @@
   "stance": "Wants a licensing agency for frontier AI, a ban on recursively self-improving models until guardrails exist, and US-China agreements on AI safety.",
   "statements": [
     {
+      "date": "2023-04-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We have to be aware of the impact AI technology could have on jobs, disinformation, and our nation’s cybersecurity. Congress must craft smart and careful regulations to prevent any harmful uses of AI that won’t stifle innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://semafor.com/article/04/26/2023/rep-ro-khanna-on-ai-worries-and-why-dems-should-talk-to-elon-musk",
+      "outlet": "Semafor"
+    },
+    {
+      "date": "2024-08-13",
+      "arena": "state",
+      "kind": "quote",
+      "text": "I agree wholeheartedly that there is a need for legislation and appreciate the intention behind SB 1047 but am concerned that the bill as currently written would be ineffective, punishing of individual entrepreneurs and small businesses, and hurt California’s spirit of innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://khanna.house.gov/media/press-releases/khanna-statement-sb-1047-and-path-forward-artificial-intelligence",
+      "outlet": "Office of Rep. Khanna"
+    },
+    {
+      "date": "2025-06-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I have spoken out against the 10-year moratorium on our states to pass AI legislation to protect workers, consumers, and kids despite pressure from lobbyists.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRoKhanna/status/1931721229343600729",
+      "outlet": "@RepRoKhanna on X"
+    },
+    {
+      "date": "2025-06-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Banning state AI regulation for 10 years will endanger kids, threaten job security, and raise prices for consumers. This provision is dangerous. The Senate cannot let it pass.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRoKhanna/status/1938671691095277700",
+      "outlet": "@RepRoKhanna on X"
+    },
+    {
+      "date": "2025-09-21",
+      "arena": "federal",
+      "kind": "action",
+      "text": "On a House delegation to China, discussed the importance of international AI safety standards with Chinese Premier Li Qiang.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRoKhanna/status/1969842084807893285",
+      "outlet": "@RepRoKhanna on X"
+    },
+    {
+      "date": "2025-12-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Trump signed an illegal Executive Order on AI that will hurt workers and our kids.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRoKhanna/status/2001006527294160943",
+      "outlet": "@RepRoKhanna on X"
+    },
+    {
+      "date": "2026-08-20",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Wrote to AI company CEOs asking what they are doing to ensure humans make decisions and to prevent mass unemployment, after meeting Pope Leo on AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRoKhanna/status/2090459888413515981",
+      "outlet": "@RepRoKhanna on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We are being ruled by tech lords who are regulating themselves. Instead of acting, Johnson is sending Congress home at the end of the week because he does not see AI as urgent. The future of AI cannot be governed by the companies building it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRoKhanna/status/2099657064872104019",
+      "outlet": "@RepRoKhanna on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Mike Johnson just said that AI companies can self-regulate and self-police. Take it from the guy representing Silicon Valley, that is crazy!",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRoKhanna/status/2099991953022570974",
+      "outlet": "@RepRoKhanna on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Mike Johnson sent Congress on vacation through November to prevent votes on the Epstein files, Pete Hegseth’s impeachment and AI regulation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRoKhanna/status/2100416965571485776",
+      "outlet": "@RepRoKhanna on X"
+    },
+    {
       "date": "2026-09-23",
       "arena": "federal",
       "kind": "quote",
@@ -20,6 +120,26 @@
       "joint": null,
       "source": "https://rollcall.com/2026/09/23/ai-superintelligence-ban-proposed-by-casar-sanders/",
       "outlet": "Roll Call"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As the top Democrat on the China Committee, I'm convening an unprecedented hearing today on what it will take to reach an international AI safety agreement with China. Trump and Xi Jinping must reach an agreement on AI safety standards at their meeting tomorrow.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRoKhanna/status/2102754639418626339",
+      "outlet": "@RepRoKhanna on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I asked Dr. Geoffrey Hinton and Lt. Gen. Shanahan if the US has the technical capacity to monitor advanced AI models at frontier labs. They said no.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRoKhanna/status/2102868340507111896",
+      "outlet": "@RepRoKhanna on X"
     },
     {
       "date": "2026-09-24",
@@ -50,6 +170,26 @@
       "joint": null,
       "source": "https://thenextweb.com/news/human-control-over-ai-act-khanna-self-improving-ai",
       "outlet": "The Next Web (citing CNBC)"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This is the most comprehensive AI safety legislation to date.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRoKhanna/status/2104964805924683918",
+      "outlet": "@RepRoKhanna on X"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to hold the executives of these AI companies civilly and criminally liable when their models cause this kind of catastrophic harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRoKhanna/status/2105747309237620911",
+      "outlet": "@RepRoKhanna on X"
     }
   ],
   "photo": {

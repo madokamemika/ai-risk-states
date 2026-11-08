@@ -1,0 +1,30 @@
+{
+  "id": "rick-larsen",
+  "name": "Rick Larsen",
+  "office": "U.S. Representative, Washington 2nd District",
+  "office_type": "us_rep",
+  "state": "WA",
+  "party": "D",
+  "stance": "Has urged the Defense Department to make ethics recommendations for military AI actionable and to help set responsible global norms for its use.",
+  "statements": [
+    {
+      "date": "2020-02-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The JAIC and DoD must now make the DIB’s ethics recommendations actionable to strengthen national security and help set responsible global norms for the use of AI,",
+      "target": null,
+      "joint": null,
+      "source": "https://larsen.house.gov/press-release/larsen-commends-dod-decision-adopt-ai-ethics-recommendations",
+      "outlet": "Office of Rep. Rick Larsen"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000560.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000560",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

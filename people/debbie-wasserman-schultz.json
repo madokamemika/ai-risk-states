@@ -1,0 +1,30 @@
+{
+  "id": "debbie-wasserman-schultz",
+  "name": "Debbie Wasserman Schultz",
+  "office": "U.S. Representative, Florida 25th District",
+  "office_type": "us_rep",
+  "state": "FL",
+  "party": "D",
+  "stance": "Has pointed to warnings from experts who helped create AI that it is an existential threat to humanity.",
+  "statements": [
+    {
+      "date": "2023-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Experts that were part of creating this technology say that it's an existential threat to humanity.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.foxnews.com/politics/should-concerned-congress-opens-new-threats-posed-us-labor-market",
+      "outlet": "Fox News"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/W000797.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/W000797",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "josh-harder",
+  "name": "Josh Harder",
+  "office": "U.S. Representative, California 9th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Backs defensive measures against AI-enabled cyberattacks and mandatory DNA synthesis screening to prevent AI-assisted bioweapons.",
+  "statements": [
+    {
+      "date": "2026-04-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But as AI makes cyberattacks easier, we need defensive innovation to protect our grid & critical infrastructure. America’s lead in AI capabilities should be used to cement our security, not undermine it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshHarder/status/2041997454350975461",
+      "outlet": "@RepJoshHarder on X"
+    },
+    {
+      "date": "2026-06-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is an exciting tool for accelerating innovation, but it’s also exposing risks in our biotech industry. Requiring supply chain safeguards to stop bioweapons from ending up in the hands of bad actors should be a no-brainer.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJoshHarder/status/2062605962515542303",
+      "outlet": "@RepJoshHarder on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H001090.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/H001090",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "tim-scott",
+  "name": "Tim Scott",
+  "office": "U.S. Senator from South Carolina",
+  "office_type": "us_senator",
+  "state": "SC",
+  "party": "R",
+  "stance": "Co-sponsors the BLADE Act to expose and punish foreign adversaries exploiting American AI models.",
+  "statements": [
+    {
+      "date": "2026-08-06",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined Sens. Hagerty and Andy Kim on the BLADE Act to expose and punish foreign actors behind attacks on American AI models.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorTimScott/status/2085381098435969461",
+      "outlet": "@SenatorTimScott on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001184.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001184",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

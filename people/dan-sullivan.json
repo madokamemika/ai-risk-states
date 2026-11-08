@@ -1,0 +1,30 @@
+{
+  "id": "dan-sullivan",
+  "name": "Dan Sullivan",
+  "office": "U.S. Senator from Alaska",
+  "office_type": "us_senator",
+  "state": "AK",
+  "party": "R",
+  "stance": "Supports the White House national AI framework, including a uniform national AI policy.",
+  "statements": [
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This framework gets the big things right: protecting our kids online, protecting our First Amendment rights, establishing a uniform national policy that gives innovators certainty, and recognizing that, to win the AI race with China, we need to continue unleashing American energy dominance.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenDanSullivan/status/2035083274654241177",
+      "outlet": "@SenDanSullivan on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001198.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001198",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

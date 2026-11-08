@@ -1,0 +1,40 @@
+{
+  "id": "roger-wicker",
+  "name": "Roger Wicker",
+  "office": "U.S. Senator from Mississippi",
+  "office_type": "us_senator",
+  "state": "MS",
+  "party": "R",
+  "stance": "Backed the administration's statement on Anthropic sharing its Claude Mythos model with the government before public release, and supported rescinding the Biden-era AI diffusion rule in favor of a more targeted export framework against China.",
+  "statements": [
+    {
+      "date": "2025-05-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I applaud the Trump administration for rescinding the Biden-era AI diffusion rule, which would have hurt America's competitiveness in the global AI race.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorWicker/status/1922382338643919064",
+      "outlet": "@SenatorWicker on X"
+    },
+    {
+      "date": "2026-04-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Anthropic has made this model available to the U.S. government ahead of public release. The President is absolutely right. AI is evolving too fast and is too important for us not to work together.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorWicker/status/2046688023660683315",
+      "outlet": "@SenatorWicker on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/W000437.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/W000437",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

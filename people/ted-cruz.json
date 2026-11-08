@@ -11,6 +11,46 @@
   "stance": "Favours light-touch federal AI rules and preemption of state AI laws; in 2026 is negotiating a narrower frontier-risk bill with Thune and Klobuchar focused on biological and nuclear threats.",
   "statements": [
     {
+      "date": "2023-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I've heard concerns from my colleagues about misinformation, discrimination, and security. These certainly present challenges, but I have a hard time viewing them as existential risks, or even worthy of new regulation. To me, the biggest existential risk we face is ourselves.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg59704/html/CHRG-118shrg59704.htm",
+      "outlet": "Senate Commerce subcommittee hearing record, prepared statement (GovInfo)"
+    },
+    {
+      "date": "2023-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Unfortunately, the Biden Administration and some of my colleagues in Congress have embraced doomsday AI scenarios as justification for expanded Federal regulation.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg59704/html/CHRG-118shrg59704.htm",
+      "outlet": "Senate Commerce subcommittee hearing record, prepared statement (GovInfo)"
+    },
+    {
+      "date": "2023-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Instead of riling fears and pausing AI development, let's pause before we regulate.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg59704/html/CHRG-118shrg59704.htm",
+      "outlet": "Senate Commerce subcommittee hearing record, prepared statement (GovInfo)"
+    },
+    {
+      "date": "2025-05-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If there are going to be killer robots, I’d rather they be American killer robots than Chinese",
+      "target": null,
+      "joint": null,
+      "source": "https://www.foxbusiness.com/politics/cruz-china-winning-ai-race-would-catastrophic-sam-altman-hearing",
+      "outlet": "Fox Business"
+    },
+    {
       "date": "2025-07",
       "arena": "federal",
       "kind": "quote",
@@ -29,6 +69,36 @@
       "joint": null,
       "source": "https://www.commerce.senate.gov/press/rep/release/sen-cruz-unveils-ai-policy-framework-to-strengthen-american-ai-leadership/",
       "outlet": "Senate Commerce Committee"
+    },
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I look forward to working with the White House and members of the Commerce Committee to advance meaningful AI legislation that safeguards free speech, establishes regulatory sandboxes, protects children, and provides a national standard for AI in the United States.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTedCruz/status/2035033969444405503",
+      "outlet": "@SenTedCruz on X"
+    },
+    {
+      "date": "2026-06-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This administration is right to recognize the cybersecurity risks posed by advanced models. Now, it's Congress's turn. We must address catastrophic risk without ceding ground to China or restricting Americans’ free expression.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTedCruz/status/2061943941927219346",
+      "outlet": "@SenTedCruz on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "And I’m working with Senators Amy Klobuchar and John Thune on legislation to address catastrophic risks involving biological or nuclear threats. We cannot stick our heads in the sand and pretend this technology isn’t happening. We need guardrails. But America needs to lead.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTedCruz/status/2097727324011536877",
+      "outlet": "@SenTedCruz on X"
     },
     {
       "date": "2026-09-10",
@@ -59,6 +129,16 @@
       "joint": "thune-klobuchar-cruz-frontier-bill-2026",
       "source": "https://www.semafor.com/article/09/16/2026/bipartisan-ai-safety-talks-accelerate-in-senate",
       "outlet": "Semafor"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "we're seeing the giant AI companies going to government saying, “Hey, why don't you put us in charge of government and let's set the rules so no one can compete with us?” That's an incredibly foolish idea.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenTedCruz/status/2104586346073374972",
+      "outlet": "@SenTedCruz on X"
     }
   ],
   "photo": {

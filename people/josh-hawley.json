@@ -60,6 +60,96 @@
       "joint": "rogue-ai-hearing-2026",
       "source": "https://legis1.com/news/rogue-ai-threat-senate-panel-will-examine",
       "outlet": "Legis1"
+    },
+    {
+      "date": "2025-09-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Unveiled with Sen. Blumenthal an AI evaluation bill, saying Congress must not allow national security, civil liberties and labor protections to take a back seat to AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenHawleyPress/status/1972712645431276022",
+      "outlet": "@SenHawleyPress on X"
+    },
+    {
+      "date": "2026-06-04",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Gave the keynote at the American Compass New World Gala, titled 'Artificial Intelligence Will Not Choose Moral Liberty'.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenHawleyPress/status/2062521987063283807",
+      "outlet": "@SenHawleyPress on X"
+    },
+    {
+      "date": "2026-06-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Published an op-ed titled 'AI Will Control Us If We Do Not Control It'.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenHawleyPress/status/2064360609571881388",
+      "outlet": "@SenHawleyPress on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Published an op-ed arguing AI companies shouldn't get a free pass to break things.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenHawleyPress/status/2104992301546422561",
+      "outlet": "@SenHawleyPress on X"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Announced with Sen. Murphy the bipartisan AI Agent Accountability Act.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenHawleyPress/status/2105675867254866135",
+      "outlet": "@SenHawleyPress on X"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Convened the first Senate hearing on rogue AI attacks (Homeland Security subcommittee hearing 'Rogue AI: Securing the Homeland Against AI Agent Attacks').",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenHawleyPress/status/2105730434852127139",
+      "outlet": "@SenHawleyPress on X"
+    },
+    {
+      "date": "2023-06-07",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress can and should act to protect Americans’ privacy, stave off the harms of unchecked AI development, insulate kids from harmful impacts, and keep this valuable technology out of the hands of our adversaries",
+      "target": null,
+      "joint": null,
+      "source": "https://www.foxnews.com/politics/sen-hawley-introduces-guiding-principles-future-ai-legislation-weeks-after-senate-hearing",
+      "outlet": "Fox News"
+    },
+    {
+      "date": "2023-09-08",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Announced with Sen. Blumenthal a bipartisan framework for AI legislation, including a licensing regime for sophisticated AI models administered by an independent oversight body.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.insideprivacy.com/artificial-intelligence/senators-release-bipartisan-framework-for-ai-legislation/",
+      "outlet": "Inside Privacy (Covington & Burling)"
+    },
+    {
+      "date": "2025-09-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But the transhumanist ideal rejects the common man’s worth. And artificial intelligence threatens the common man’s liberty. To state it in the clearest terms, then: Americanism and the transhumanist revolution cannot coexist.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/022d9829-7936-4ef8-8180-73bc0caf64b3",
+      "outlet": "Capitol Releases (mirror of Office of Sen. Josh Hawley)"
     }
   ],
   "review": {

@@ -13,6 +13,26 @@
   "stance": "Writes AI governance through a national-security and military lens — human judgment over autonomous weapons, testing and validation, and a central incident-reporting repository; a lead on bipartisan Senate AI policy.",
   "statements": [
     {
+      "date": "2024-07-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Bad guys can use artificial intelligence to create new pandemics, to use it for biological purposes and so forth, and to split genes in such a fashion that it would be extremely difficult to defend against it.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.dakotanewsnow.com/2024/07/25/senator-rounds-working-frame-us-policy-artificial-intelligence/",
+      "outlet": "Dakota News Now"
+    },
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Welcomed the White House National AI Policy Framework, which calls for one federal AI policy rather than a 50-state patchwork, and pledged to work on legislation to advance it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorRounds/status/2035000640015880287",
+      "outlet": "@SenatorRounds on X"
+    },
+    {
       "date": "2026-06-16",
       "arena": "federal",
       "kind": "action",
@@ -31,6 +51,16 @@
       "joint": null,
       "source": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-victories-in-senate-armed-services-committees-fiscal-year-2027-ndaa",
       "outlet": "Office of Sen. Rounds"
+    },
+    {
+      "date": "2026-10-13",
+      "arena": "federal",
+      "kind": "action",
+      "text": "With Sen. Cantwell, wrote to DNI Jay Clayton and OSTP Director Michael Kratsios urging a coordinated federal response to AI safety and AI-enabled cyber threats built on standards, independent testing, auditing and defensive AI, citing incidents of frontier models escaping sandboxes and bypassing safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://capitolreleases.com/releases/491814f5-7d0d-47a6-a610-262b3f703254",
+      "outlet": "Office of Sen. Maria Cantwell"
     }
   ],
   "review": { "status": "unreviewed", "note": "added October 2026 from rounds.senate.gov primary sources; quote verified verbatim" },

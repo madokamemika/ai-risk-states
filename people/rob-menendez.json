@@ -1,0 +1,80 @@
+{
+  "id": "rob-menendez",
+  "name": "Rob Menendez",
+  "office": "U.S. Representative, New Jersey 8th District",
+  "office_type": "us_rep",
+  "state": "NJ",
+  "party": "D",
+  "stance": "Opposes federal preemption of state AI laws and backs legislation to block the executive order on them, supports Anthropic's refusal to drop safeguards on weapons without human oversight, and wants Congress to regulate AI urgently.",
+  "statements": [
+    {
+      "date": "2026-02-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Important that Anthropic rejected Hegseth’s pressure to allow the DOD to use their technology to enable mass surveillance or the development of weapons without human oversight.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMenendez/status/2027397392710959304",
+      "outlet": "@RepMenendez on X"
+    },
+    {
+      "date": "2026-03-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "A blanket ban on state AI laws would stop NJ from advancing responsible AI regulation & derail the common-sense guardrails we’re already leading on.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMenendez/status/2036431104635212202",
+      "outlet": "@RepMenendez on X"
+    },
+    {
+      "date": "2026-03-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined colleagues on legislation to block the administration's executive order preempting state AI laws from taking effect.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMenendez/status/2036431104635212202",
+      "outlet": "@RepMenendez on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Republicans have failed to regulate AI and have absolutely no plan or sense of urgency.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMenendez/status/2100334643719414212",
+      "outlet": "@RepMenendez on X"
+    },
+    {
+      "date": "2026-10-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We can harness the promise of AI to improve our lives but we have to first address the peril.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMenendez/status/2113710886334464214",
+      "outlet": "@RepMenendez on X"
+    },
+    {
+      "date": "2026-10-26",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "My @HouseDemocrats colleagues and I are ready to take action to address AI with the urgency it requires.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMenendez/status/2114805483106148363",
+      "outlet": "@RepMenendez on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001226.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001226",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

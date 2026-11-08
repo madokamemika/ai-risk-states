@@ -1,0 +1,50 @@
+{
+  "id": "emanuel-cleaver",
+  "name": "Emanuel Cleaver",
+  "office": "U.S. Representative, Missouri 5th District",
+  "office_type": "us_rep",
+  "state": "MO",
+  "party": "D",
+  "stance": "Rejects AI industry self-policing and calls for immediate congressional guardrails, citing industry warnings of extraordinary damage.",
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Even leaders in the AI industry have acknowledged the technology’s potential to do extraordinary damage to society if left unchecked.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCleaver/status/2099937422658207750",
+      "outlet": "@RepCleaver on X"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "“Self-policing” is not acceptable. Republicans must work with Democrats to enact guardrails that will protect our communities.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCleaver/status/2105648611845378558",
+      "outlet": "@RepCleaver on X"
+    },
+    {
+      "date": "2026-10-02",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The president continues to make clear that Republicans will do nothing to regulate AI, hold Silicon Valley billionaires accountable, or put our communities before Big Tech corporate profits.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepCleaver/status/2106094483230294172",
+      "outlet": "@RepCleaver on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/C001061.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/C001061",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tom-mcclintock",
+  "name": "Tom McClintock",
+  "office": "U.S. Representative, California 5th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "R",
+  "stance": "Opposes calls to halt or slow AI development, characterizing them as fearmongering.",
+  "statements": [
+    {
+      "date": "2026-04-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "No surprise that Bernie @SenSanders and the Chinese communists want America to abandon AI development.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcClintock/status/2049852844316999754",
+      "outlet": "@RepMcClintock on X"
+    },
+    {
+      "date": "2026-04-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Their fearmongering set the American nuclear program back 50 years – we can’t afford to let them do the same with AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcClintock/status/2049852844316999754",
+      "outlet": "@RepMcClintock on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001177.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001177",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "julie-johnson",
+  "name": "Julie Johnson",
+  "office": "U.S. Representative, Texas 32nd District",
+  "office_type": "us_rep",
+  "state": "TX",
+  "party": "D",
+  "stance": "Supports stronger enforcement of export controls on advanced AI chips to China and criticized concessions on chips in a US-China trade deal.",
+  "statements": [
+    {
+      "date": "2025-10-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Now, his “deal” gets us soybeans & one year of minerals while China gets our advanced AI chips.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJulieJohnson/status/1984031560799076522",
+      "outlet": "@RepJulieJohnson on X"
+    },
+    {
+      "date": "2025-12-03",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-leads the bipartisan Stop Stealing Our Chips Act to strengthen enforcement of export controls against Chinese efforts to obtain US AI chips.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJulieJohnson/status/1996349164729585776",
+      "outlet": "@RepJulieJohnson on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/J000310.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/J000310",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

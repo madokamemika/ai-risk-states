@@ -1,0 +1,60 @@
+{
+  "id": "maxine-waters",
+  "name": "Maxine Waters",
+  "office": "U.S. Representative, California 43rd District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Opposes the moratorium and executive order aimed at state AI laws, wants guardrails and accountability for AI companies, and has sought information on AI risks in financial services.",
+  "statements": [
+    {
+      "date": "2024-01-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I am also eager to get together with my colleagues on both sides of the aisle to examine the benefits and dangers of AI to ensure that this technology does not advance beyond our ability to regulate it, worsen existing inequities, and that consumers are properly protected from harm or abuse.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=411131",
+      "outlet": "House Financial Services Committee Democrats"
+    },
+    {
+      "date": "2025-12-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Twice this year, the White House and Congressional Republicans have tried—and failed—to impose a moratorium on state AI laws. And now, despite those failures, Trump announced he would sign an Executive Order that would block states from adopting their own AI safeguards by threatening legal challenges and withholding federal funding.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=414017",
+      "outlet": "House Financial Services Committee Democrats"
+    },
+    {
+      "date": "2025-12-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The stakes are too high, the risks are too great, and the consequences too real to hand this technology over to Big Tech billionaires with no guardrails and no accountability.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=414017",
+      "outlet": "House Financial Services Committee Democrats"
+    },
+    {
+      "date": "2026-07-07",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Launched a request for information on AI risks in financial services, citing Anthropic's warnings about the cyber and systemic threats posed by advanced AI models.",
+      "target": null,
+      "joint": null,
+      "source": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415374",
+      "outlet": "House Financial Services Committee Democrats"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/W000187.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/W000187",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

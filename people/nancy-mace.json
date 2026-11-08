@@ -1,0 +1,80 @@
+{
+  "id": "nancy-mace",
+  "name": "Nancy Mace",
+  "office": "U.S. Representative, South Carolina 1st District",
+  "office_type": "us_rep",
+  "state": "SC",
+  "party": "R",
+  "stance": "Opposes AI regulation and a pause as ceding the race to China, and is skeptical of AI companies' safety warnings and of AI doom predictions.",
+  "statements": [
+    {
+      "date": "2026-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "America has to win the AI race. China isn’t going to hit pause for anyone.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNancyMace/status/2099309658515370327",
+      "outlet": "@RepNancyMace on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This AI race to singularity is one we cannot lose, it's a matter of national security and global dominance. This is not the time for regulations, we're full steam ahead.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNancyMace/status/2099558804434125197",
+      "outlet": "@RepNancyMace on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Every time an AI company warns you they're moving 'too fast,' ask yourself: who's stopping them? Not themselves. But they have the kill switch.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNancyMace/status/2099943854828839358",
+      "outlet": "@RepNancyMace on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Quote-posted a comparison of Time magazine covers on climate change and \"AI will destroy humanity\" with the comment \"The doom fatigue is real.\"",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNancyMace/status/2100336424759517417",
+      "outlet": "@RepNancyMace on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If these billion-dollar tech companies are so worried about AI moving too fast, nothing’s stopping them from hitting pause themselves. They won’t. Because this was never about safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNancyMace/status/2102208764036137102",
+      "outlet": "@RepNancyMace on X"
+    },
+    {
+      "date": "2026-10-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "China, Russia, and Iran are not stopping or dropping this ball. For us to put unnecessary guidelines would be to give them the upper hand.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNancyMace/status/2106463294315708820",
+      "outlet": "@RepNancyMace on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M000194.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M000194",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

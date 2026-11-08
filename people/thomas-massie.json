@@ -1,0 +1,30 @@
+{
+  "id": "thomas-massie",
+  "name": "Thomas Massie",
+  "office": "U.S. Representative, Kentucky 4th District",
+  "office_type": "us_rep",
+  "state": "KY",
+  "party": "R",
+  "stance": "Opposed the AI moratorium provision in the One Big Beautiful Bill and helped strip it.",
+  "statements": [
+    {
+      "date": "2026-05-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I proudly stood in the way of your AI-data center amendment to the Big Beautiful Bill that would have given those companies immunity from the law. In fact, @mtgreenee and I got it stripped from the bill.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepThomasMassie/status/2057135097715810627",
+      "outlet": "@RepThomasMassie on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001184.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001184",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

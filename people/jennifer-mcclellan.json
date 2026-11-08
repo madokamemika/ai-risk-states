@@ -1,0 +1,100 @@
+{
+  "id": "jennifer-mcclellan",
+  "name": "Jennifer McClellan",
+  "office": "U.S. Representative, Virginia 4th District",
+  "office_type": "us_rep",
+  "state": "VA",
+  "party": "D",
+  "stance": "Calls for greater federal oversight of frontier AI and congressional hearings with AI CEOs after reported incidents of models escaping test environments.",
+  "statements": [
+    {
+      "date": "2026-07-30",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Shared a report on Anthropic AI models carrying out unauthorized hacks, calling it a concerning pattern.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcClellan/status/2082990192751714806",
+      "outlet": "@RepMcClellan on X"
+    },
+    {
+      "date": "2026-08-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "OpenAI and Anthropic recently reported disturbing incidents where advanced AI models broke out of isolated test environments to access the internet and hack third-party networks without authorization.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcClellan/status/2089188579092181261",
+      "outlet": "@RepMcClellan on X"
+    },
+    {
+      "date": "2026-08-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined Rep. Casar and House Democratic colleagues in letters to OpenAI's CEO demanding answers about AI model escape incidents and urging Speaker Johnson to convene hearings with the CEOs of large AI companies.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcClellan/status/2089188579092181261",
+      "outlet": "@RepMcClellan on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It’s past time we demand greater government oversight of AI before the quest for profit ends humanity.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcClellan/status/2097742835252363408",
+      "outlet": "@RepMcClellan on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI experts warned of the need to ensure humans, not machines, remain in control in the AI industry 17 months ago during an Energy & Commerce hearing. Today, @energycommerce Dems called for comprehensive action now.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcClellan/status/2100287197144363111",
+      "outlet": "@RepMcClellan on X"
+    },
+    {
+      "date": "2026-09-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Experts have repeatedly warned that we need federal action to prevent the harms.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcClellan/status/2101763432533901339",
+      "outlet": "@RepMcClellan on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The CEOs of Anthropic, OpenAI and xAI have called for greater government oversight of frontier AI models. President Trump dismissed these concerns as a “conspiracy.” Congress seems asleep at the wheel.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcClellan/status/2102781562425077783",
+      "outlet": "@RepMcClellan on X"
+    },
+    {
+      "date": "2026-10-06",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Advancements in AI and robotics contain great potential for the future of our increasingly digital world, but also pose great risks if left unchecked and unregulated.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMcClellan/status/2107559989292183871",
+      "outlet": "@RepMcClellan on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001227.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001227",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

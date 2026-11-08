@@ -1,0 +1,70 @@
+{
+  "id": "seth-magaziner",
+  "name": "Seth Magaziner",
+  "office": "U.S. Representative, Rhode Island 2nd District",
+  "office_type": "us_rep",
+  "state": "RI",
+  "party": "D",
+  "stance": "Wants independent pre-release safety testing of new AI models, global negotiations on AI safeguards, and no advanced AI chip sales to China.",
+  "statements": [
+    {
+      "date": "2026-05-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As AI models become more powerful, there needs to be an independent process to test each new model for safety before public release.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/Rep_Magaziner/status/2051714347534110730",
+      "outlet": "@Rep_Magaziner on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Everyone is talking about AI insiders saying their technology is a threat to humanity. Here is what Congress can do about it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/Rep_Magaziner/status/2097807998429130876",
+      "outlet": "@Rep_Magaziner on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI will get out of control if America doesn’t set the standard. I joined 40 colleagues in asking President Trump to initiate global negotiations to build safeguards and avert disaster.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/Rep_Magaziner/status/2102443154452402386",
+      "outlet": "@Rep_Magaziner on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We’re seeing the risks of the AI race unfold in real time. Selling advanced AI chips to China would make those risks worse. I’m joining 14 of my colleagues in urging President Trump: Do not sell advanced American AI chips to the Chinese government.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/Rep_Magaziner/status/2103169103720587358",
+      "outlet": "@Rep_Magaziner on X"
+    },
+    {
+      "date": "2026-09-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Here’s the truth about why we don’t have AI safety standards:",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/Rep_Magaziner/status/2104261654741467483",
+      "outlet": "@Rep_Magaziner on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001223.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001223",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

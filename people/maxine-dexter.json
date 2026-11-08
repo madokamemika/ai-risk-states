@@ -1,0 +1,40 @@
+{
+  "id": "maxine-dexter",
+  "name": "Maxine Dexter",
+  "office": "U.S. Representative, Oregon 3rd District",
+  "office_type": "us_rep",
+  "state": "OR",
+  "party": "D",
+  "stance": "Calls for immediate congressional action on AI, including legal liability for AI firms when rogue agents cause harm, and calls self-regulation a recipe for catastrophic harm.",
+  "statements": [
+    {
+      "date": "2026-09-19",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Urged Congress to return to Washington to legislatively define the liability AI firms must assume when their products cause harm, and to declare the government will not bail out AI firms.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDexterOR/status/2101382601340485797",
+      "outlet": "@RepDexterOR on X"
+    },
+    {
+      "date": "2026-10-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Companies must be held liable for rogue agents breaking the law and doing harm while international agreements and guardrails are negotiated. Self-regulation is a recipe for catastrophic harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDexterOR/status/2113718220003877210",
+      "outlet": "@RepDexterOR on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/D000635.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/D000635",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

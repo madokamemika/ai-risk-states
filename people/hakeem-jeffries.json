@@ -19,6 +19,16 @@
       "joint": null,
       "source": "https://abcnews.com/Politics/house-democratic-leader-jeffries-calls-lawmakers-act-urgently/story?id=136401544",
       "outlet": "ABC News"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "House Republicans just cut and run on AI safety.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJeffries/status/2100704190104269248",
+      "outlet": "@RepJeffries on X"
     }
   ],
   "review": {

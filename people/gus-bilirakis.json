@@ -1,0 +1,30 @@
+{
+  "id": "gus-bilirakis",
+  "name": "Gus Bilirakis",
+  "office": "U.S. Representative, Florida 12th District",
+  "office_type": "us_rep",
+  "state": "FL",
+  "party": "R",
+  "stance": "Argues that burdensome and conflicting AI legislation stifles innovation and favors a pro-innovation federal AI agenda.",
+  "statements": [
+    {
+      "date": "2025-05-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Burdensome and conflicting AI legislation stifles innovation and undermines the success of entrepreneurs. Europe is seeing the effects of their heavy-handed regulations, as they continue to fall further behind on cutting-edge technologies.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepGusBilirakis/status/1925633386166558850",
+      "outlet": "@RepGusBilirakis on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/B001257.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/B001257",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

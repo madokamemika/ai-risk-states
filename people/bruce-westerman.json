@@ -1,0 +1,50 @@
+{
+  "id": "bruce-westerman",
+  "name": "Bruce Westerman",
+  "office": "U.S. Representative, Arkansas 4th District",
+  "office_type": "us_rep",
+  "state": "AR",
+  "party": "R",
+  "stance": "Describes a race with China to reach superintelligence that the U.S. must win, while saying humankind might have been better off had AI not been developed.",
+  "statements": [
+    {
+      "date": "2025-04-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There's in essence a new Cold War on who's going to get to super intelligence with AI first, and it's a race between us and China, predominantly.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.csis.org/analysis/unleashing-americas-natural-resources-bruce-westerman",
+      "outlet": "CSIS (Power Map podcast transcript)"
+    },
+    {
+      "date": "2025-04-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The more I learn about it, it's kind of one of those things I think maybe humankind would've been better off if we didn't discover this and if we weren't developing it. But the cat's out of the bag and it is definitely a race to see who was going to win AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.csis.org/analysis/unleashing-americas-natural-resources-bruce-westerman",
+      "outlet": "CSIS (Power Map podcast transcript)"
+    },
+    {
+      "date": "2025-04-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The thought is that if we lose on the battle to AI, then everything we've got can be undermined: our financial systems, our defense systems. It's that big of a deal, who gets to AI first.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.csis.org/analysis/unleashing-americas-natural-resources-bruce-westerman",
+      "outlet": "CSIS (Power Map podcast transcript)"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/W000821.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/W000821",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

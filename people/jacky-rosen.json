@@ -30,6 +30,16 @@
       "joint": null,
       "source": "https://www.rosen.senate.gov/2026/09/14/following-dire-warnings-from-ai-researchers-rosen-calls-on-senate-commerce-committee-to-immediately-hold-hearing-with-top-ai-executives/",
       "outlet": "Office of Sen. Rosen"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The AI industry itself says that this technology is a threat to humanity. Closed-door meetings aren't nearly enough – the American people need to hear for themselves about the dangers of AI and what guardrails we need to keep people safe.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenJackyRosen/status/2099586553500643829",
+      "outlet": "@SenJackyRosen on X"
     }
   ],
   "review": { "status": "unreviewed", "note": "added October 2026 from rosen.senate.gov primary sources; quote verified verbatim" },

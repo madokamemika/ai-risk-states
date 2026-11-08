@@ -12,6 +12,56 @@
   "stance": "Co-drafting a bipartisan frontier-AI bill with Thune and Cruz that imposes a duty of care, risk reporting and company-run safety testing on frontier developers.",
   "statements": [
     {
+      "date": "2023-11-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This bipartisan legislation is one important step of many necessary towards addressing potential harms. It will put in place commonsense safeguards for the highest-risk applications of AI — like in our critical infrastructure — and improve transparency for policymakers and consumers.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/klobuchar-and-thune-introduce-foundational-ai-legislation/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2025-11-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This unlawful Executive Order would attack states for enacting AI guardrails that protect consumers, children, and creators—including by threatening high-speed internet for rural communities.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAmyKlobuchar/status/1991374204961431871",
+      "outlet": "@SenAmyKlobuchar on X"
+    },
+    {
+      "date": "2025-12-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "States are leading with responsible safeguards. President Trump’s executive order threatens to override them.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAmyKlobuchar/status/1998421095876317206",
+      "outlet": "@SenAmyKlobuchar on X"
+    },
+    {
+      "date": "2025-12-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "we need a strong federal safety standard, but we should not remove the few protections Americans currently have from the downsides of AI",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAmyKlobuchar/status/1999270333514489887",
+      "outlet": "@SenAmyKlobuchar on X"
+    },
+    {
+      "date": "2025-12-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need common-sense rules of the road on AI, not to eliminate the few safeguards Americans have at the state level.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAmyKlobuchar/status/2001019784499241106",
+      "outlet": "@SenAmyKlobuchar on X"
+    },
+    {
       "date": "2026-09-10",
       "arena": "federal",
       "kind": "quote",
@@ -30,6 +80,16 @@
       "joint": "thune-klobuchar-cruz-frontier-bill-2026",
       "source": "https://www.semafor.com/article/09/16/2026/bipartisan-ai-safety-talks-accelerate-in-senate",
       "outlet": "Semafor"
+    },
+    {
+      "date": "2026-09-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I’m working on bipartisan legislation to stop dangerous AI models before they hit the market. It’s clear we cannot wait.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenAmyKlobuchar/status/2101301390874136614",
+      "outlet": "@SenAmyKlobuchar on X"
     }
   ],
   "photo": {

@@ -1,0 +1,30 @@
+{
+  "id": "rudy-yakym",
+  "name": "Rudy Yakym",
+  "office": "U.S. Representative, Indiana 2nd District",
+  "office_type": "us_rep",
+  "state": "IN",
+  "party": "R",
+  "stance": "Has spoken in favor of AI safeguards so that the technology serves people.",
+  "statements": [
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "How do we ensure that no human being is ever harmed by AI, and that this new technology exists to serve us and to make humanity better off, not worse off?",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepRudyYakym/status/2102062779167289805",
+      "outlet": "@RepRudyYakym on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/Y000067.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/Y000067",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

@@ -11,6 +11,136 @@
   "stance": "Backs urgent federal guardrails and oversight for advanced AI from the Science Committee.",
   "statements": [
     {
+      "date": "2024-02-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Artificial Intelligence holds the incredible potential to transform many aspects of our society, however, it can pose grave risks without clear and rigorous oversight",
+      "target": null,
+      "joint": null,
+      "source": "https://foushee.house.gov/posts/reps-foushee-ross-host-ai-roundtable-discussion-with-senior-biden-administration-officials-and-local-industry-leaders",
+      "outlet": "Office of Rep. Valerie Foushee"
+    },
+    {
+      "date": "2025-07-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-signed the Congressional AI Caucus Democrats' statement on the AI Action Plan, which said responsible innovation must go hand in hand with appropriate safety guardrails as developers build more powerful models such as artificial general intelligence, and objected to the plan's apparent targeting of state AI regulations.",
+      "target": null,
+      "joint": null,
+      "source": "https://matsui.house.gov/media/press-releases/congressional-ai-caucus-democrats-statement-president-trumps-ai-action-plan",
+      "outlet": "Office of Rep. Doris Matsui"
+    },
+    {
+      "date": "2025-12-09",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Named co-chair of the House Democrats' Commission on AI alongside Reps. Ted Lieu and Josh Gottheimer.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/1998493853859381325",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
+      "date": "2025-12-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "While Americans are asking for real AI protections for consumers, Trump is bulldozing state-level safeguards through an executive order.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2000995559524720890",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
+      "date": "2026-02-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Republicans are blocking all legislation to prevent AI job cuts and protect civil rights in the age of AI, but we remain ready to pass AI guardrails immediately to protect our communities.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2022107358936044016",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
+      "date": "2026-02-27",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I urge Secretary Hegseth and the Department to withdraw any demands that would undermine established AI safety guardrails.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2027413390616916376",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
+      "date": "2026-03-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The White House’s AI policy framework falls far short of what is required to protect everyday Americans.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2035093145680323014",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
+      "date": "2026-03-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I’m proud to be an original cosponsor of the GUARDRAILS Act to repeal Trump’s Executive Order designed to prevent states from enacting AI policies that protect local communities.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2036878807949345181",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
+      "date": "2026-06-03",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "In light of recent reports surrounding AI policy frameworks that preempt states from further regulating AI, I want to be very clear that I oppose any and all efforts to do so.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2062208187399381218",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
+      "date": "2026-06-04",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Demanded with Rep. Mike Thompson that OpenAI and Google DeepMind brief members of Congress on reports and lawsuits alleging chatbots were used in connection with violent acts, and said Congress must protect state AI laws.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2062621765541519630",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
+      "date": "2026-06-04",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As Co-Chair of the House Democratic AI Commission, I want to be clear that I do not support the draft AI bill proposed by Reps. Obernolte and Trahan in its current form.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2062630123661083122",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
+      "date": "2026-07-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I'm proud to be an original cosponsor the Human Authority over Autonomous Weapons Act to ensure that weapons systems always have a human decision-maker in control.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2079612728130355646",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
+      "date": "2026-07-23",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Met with members of the European Parliament to discuss AI and digital policy, saying the U.S. must work with allies on how AI is developed.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2080369662139756753",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
       "date": "2026-09-16",
       "arena": "federal",
       "kind": "action",
@@ -21,6 +151,16 @@
       "outlet": "Office of Rep. Beyer"
     },
     {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Democrats are ready to deliver AI safeguards, better healthcare, and lower grocery costs for the American people.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2100636185244709194",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
       "date": "2026-09-22",
       "arena": "federal",
       "kind": "action",
@@ -29,6 +169,36 @@
       "joint": null,
       "source": "https://bonamici.house.gov/media/press-releases/bonamici-introduces-human-centered-framework-provide-guardrails-ai-education",
       "outlet": "Office of Rep. Bonamici"
+    },
+    {
+      "date": "2026-10-01",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Responded to President Trump calling AI concerns a hoax by saying Trump undercuts Republican claims to care about regulating AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2105716440578081068",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
+      "date": "2026-10-28",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Claude’s access to paywalled Georgia voter data further demonstrates that AI corporations cannot be trusted to regulate themselves.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2115468513066328500",
+      "outlet": "@ValerieFoushee on X"
+    },
+    {
+      "date": "2026-10-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "OpenAI claims they were fired because they mishandled information, but the firings came after the researchers raised concerns about new AI architecture possibly making AI harder to control.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ValerieFoushee/status/2116193484084334683",
+      "outlet": "@ValerieFoushee on X"
     }
   ],
   "review": {

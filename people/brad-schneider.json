@@ -1,0 +1,30 @@
+{
+  "id": "brad-schneider",
+  "name": "Brad Schneider",
+  "office": "U.S. Representative, Illinois 10th District",
+  "office_type": "us_rep",
+  "state": "IL",
+  "party": "D",
+  "stance": "Praised Illinois's approach to AI regulation.",
+  "statements": [
+    {
+      "date": "2026-07-07",
+      "arena": "state",
+      "kind": "quote",
+      "text": "Illinois is leading the way on protecting citizens while ensuring the U.S. continues to drive the road to the future.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepSchneider/status/2074540746913268209",
+      "outlet": "@RepSchneider on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/S001190.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/S001190",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

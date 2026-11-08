@@ -1,0 +1,60 @@
+{
+  "id": "dick-durbin",
+  "name": "Dick Durbin",
+  "office": "U.S. Senator from Illinois",
+  "office_type": "us_senator",
+  "state": "IL",
+  "party": "D",
+  "stance": "Argues AI may be a qualitative change that calls for liability standards from the start, and introduced with Sen. Hawley a bill letting people sue AI companies for harms caused by their systems.",
+  "statements": [
+    {
+      "date": "2023-05-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But the basic question we face is whether or not the issue of AI is a quantitative change in technology or a qualitative change. The suggestions that I've heard from experts in the field suggest it's qualitative. Is AI fundamentally different? Is it a game changer? Is it so disruptive that we need to treat it differently than other forms of innovation?",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+      "outlet": "Senate Judiciary Subcommittee hearing record (GovInfo)"
+    },
+    {
+      "date": "2023-05-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I don't want to repeat that mistake again. And what I hear is the opposite suggestion from the private sector, and that is, \"Come in on the front end of this thing and establish some liability standards, precision regulation.\"",
+      "target": null,
+      "joint": null,
+      "source": "https://www.govinfo.gov/content/pkg/CHRG-118shrg52706/html/CHRG-118shrg52706.htm",
+      "outlet": "Senate Judiciary Subcommittee hearing record (GovInfo)"
+    },
+    {
+      "date": "2025-09-29",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan AI LEAD Act with Sen. Hawley, which would classify AI systems as products and create a federal cause of action for product liability claims when an AI system causes harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.judiciary.senate.gov/press/dem/releases/durbin-hawley-introduce-bill-allowing-victims-to-sue-ai-companies",
+      "outlet": "Senate Judiciary Committee Democrats"
+    },
+    {
+      "date": "2025-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Big Tech’s time to police itself is over. Kids and adults across the country are turning to AI chatbots for advice and information, but greedy tech companies have designed these products to protect their own bottom line—not users’ safety. By opening the courtroom and allowing victims to sue, our bill will force AI companies to develop their products with safety in mind. Our message to AI companies is clear: keep innovating, but do it responsibly.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.judiciary.senate.gov/press/dem/releases/durbin-hawley-introduce-bill-allowing-victims-to-sue-ai-companies",
+      "outlet": "Senate Judiciary Committee Democrats"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/D000563.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/D000563",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

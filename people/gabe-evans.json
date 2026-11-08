@@ -1,0 +1,40 @@
+{
+  "id": "gabe-evans",
+  "name": "Gabe Evans",
+  "office": "U.S. Representative, Colorado 8th District",
+  "office_type": "us_rep",
+  "state": "CO",
+  "party": "R",
+  "stance": "Supports a single national AI framework over state AI regulations and federal guardrails that do not slow competition with China.",
+  "statements": [
+    {
+      "date": "2026-02-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined Rep. Langworthy in a letter to Commerce Secretary Howard Lutnick raising concerns about burdensome state AI regulations and urging a coherent national framework.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repgabeevans/status/2024616236076687858",
+      "outlet": "@repgabeevans on X"
+    },
+    {
+      "date": "2026-07-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need commonsense federal guardrails that protect Americans without crushing innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/repgabeevans/status/2080737549728018517",
+      "outlet": "@repgabeevans on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/E000300.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/E000300",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

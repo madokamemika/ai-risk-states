@@ -1,0 +1,50 @@
+{
+  "id": "dave-mccormick",
+  "name": "Dave McCormick",
+  "office": "U.S. Senator from Pennsylvania",
+  "office_type": "us_senator",
+  "state": "PA",
+  "party": "R",
+  "stance": "Warns that state-by-state AI regulation would stifle innovation and has questioned the decision to allow advanced Nvidia chip exports to China.",
+  "statements": [
+    {
+      "date": "2025-12-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "If the government starts to regulate state by state and everything else, we're going to kill this unbelievable innovation that's happening.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.lehighvalleynews.com/environment-science/in-lehigh-university-talk-sen-dave-mccormick-argues-ai-revolution-could-revitalize-pennsylvania",
+      "outlet": "LehighValleyNews.com"
+    },
+    {
+      "date": "2025-12-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I don't think there is an anti-regulatory sentiment in the Congress or in the administration,",
+      "target": null,
+      "joint": null,
+      "source": "https://www.lehighvalleynews.com/environment-science/in-lehigh-university-talk-sen-dave-mccormick-argues-ai-revolution-could-revitalize-pennsylvania",
+      "outlet": "LehighValleyNews.com"
+    },
+    {
+      "date": "2025-12-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "I'm concerned. I'm not clear on why that is the right path for us,",
+      "target": null,
+      "joint": null,
+      "source": "https://www.aol.com/articles/senate-republican-concerned-trump-approving-215602287.html",
+      "outlet": "The Hill (via AOL)"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001243.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001243",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

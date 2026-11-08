@@ -1,0 +1,40 @@
+{
+  "id": "betty-mccollum",
+  "name": "Betty McCollum",
+  "office": "U.S. Representative, Minnesota 4th District",
+  "office_type": "us_rep",
+  "state": "MN",
+  "party": "D",
+  "stance": "Calls for congressional guardrails holding AI companies accountable for the risks of their products and for hearings on the Pentagon's use of Anthropic's AI.",
+  "statements": [
+    {
+      "date": "2026-02-27",
+      "arena": "federal",
+      "kind": "urging",
+      "text": "Called for tough congressional scrutiny and hearings on how the Department of Defense intends to use Anthropic's AI and on the use of AI in the military.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/BettyMcCollum04/status/2027504793804280236",
+      "outlet": "@BettyMcCollum04 on X"
+    },
+    {
+      "date": "2026-09-30",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "President Trump and Republicans are failing to hold AI companies accountable for the risks posed by their products. Congress must pass common sense guardrails to protect the health and safety of the public, ensuring that AI doesn’t harm our communities or institutions.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/BettyMcCollum04/status/2105397097583223235",
+      "outlet": "@BettyMcCollum04 on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001143.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001143",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

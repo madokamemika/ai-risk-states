@@ -59,6 +59,56 @@
       "joint": "thune-klobuchar-cruz-frontier-bill-2026",
       "source": "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/",
       "outlet": "Nextgov/FCW"
+    },
+    {
+      "date": "2025-06-20",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Members of the House and Senate are trying to prohibit AI policy that is already on the books.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorCantwell/status/1936193472148783381",
+      "outlet": "@SenatorCantwell on X"
+    },
+    {
+      "date": "2025-06-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Dozens of states have laws regulating AI in some way. Now Congress is threatening these laws, which will leave hundreds of millions of Americans vulnerable to AI harm.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorCantwell/status/1937587198158655936",
+      "outlet": "@SenatorCantwell on X"
+    },
+    {
+      "date": "2026-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But the answer is not a weak federal standard that becomes a backdoor for wiping out stronger state protections. Meaningful legislation would require the most powerful AI models undergo testing by scientists and experts at our national laboratories to assess whether they could enable sophisticated cyberattacks or aid the development of biological or nuclear weapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenatorCantwell/status/2098158053585805508",
+      "outlet": "@SenatorCantwell on X"
+    },
+    {
+      "date": "2024-04-18",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Introduced the bipartisan Future of AI Innovation Act with Sens. Young, Hickenlooper and Blackburn, authorizing the U.S. AI Safety Institute at NIST to promote voluntary standards and creating AI testbeds with the national labs.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.commerce.senate.gov/press/dem/release/cantwell-young-hickenlooper-blackburn-introduce-bill-to-ensure-u-s-leads-global-ai-innovation/",
+      "outlet": "Senate Commerce Committee (Democrats)"
+    },
+    {
+      "date": "2024-04-18",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The NIST AI Safety Institute, testbeds at our national labs, and the grand challenge prizes will bring together private sector and government experts to develop standards, create new assessment tools, and overcome existing barriers.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.commerce.senate.gov/press/dem/release/cantwell-young-hickenlooper-blackburn-introduce-bill-to-ensure-u-s-leads-global-ai-innovation/",
+      "outlet": "Senate Commerce Committee (Democrats)"
     }
   ],
   "photo": {

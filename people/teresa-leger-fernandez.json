@@ -1,0 +1,40 @@
+{
+  "id": "teresa-leger-fernandez",
+  "name": "Teresa Leger Fernandez",
+  "office": "U.S. Representative, New Mexico 3rd District",
+  "office_type": "us_rep",
+  "state": "NM",
+  "party": "D",
+  "stance": "Wants a strong, enforceable national AI regulatory framework with civil and criminal liability, and rejects AI industry self-regulation.",
+  "statements": [
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We cannot just let AI and data centers regulate themselves or depend on their goodwill to lower utility costs and limit the most destructive possibilities inherent in this rapidly evolving technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTeresaLF/status/2102185950914703642",
+      "outlet": "@RepTeresaLF on X"
+    },
+    {
+      "date": "2026-09-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "But Congress must act. There must be a strong, enforceable national regulatory framework. We must have civil and criminal liability.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepTeresaLF/status/2102185950914703642",
+      "outlet": "@RepTeresaLF on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000273.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000273",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

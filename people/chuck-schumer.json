@@ -11,6 +11,36 @@
   "stance": "Wants serious federal guardrails on frontier AI and has demanded the administration brief all senators on frontier-model testing and AI risks.",
   "statements": [
     {
+      "date": "2023-06-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We do not know what artificial intelligence will be capable of two years from now, 50 years from now, 100 years from now, in the hands of foreign adversaries, especially autocracies, or domestic rebel groups interested in extortionist financial gain or political upheaval. The dangers of AI could be extreme. We need to do everything we can to instill guardrails that make sure these groups cannot use our advances in AI for illicit and bad purpose.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.csis.org/analysis/sen-chuck-schumer-launches-safe-innovation-ai-age-csis",
+      "outlet": "CSIS (event transcript)"
+    },
+    {
+      "date": "2023-09-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "First, I asked everyone in the room, ‘Is government needed to play a role in regulating AI?’ and every single person raised their hands even though they had diverse views,",
+      "target": null,
+      "joint": null,
+      "source": "https://rollcall.com/2023/09/13/theres-consensus-not-details-on-ai-regulation-schumer-says/",
+      "outlet": "Roll Call"
+    },
+    {
+      "date": "2026-05-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Giving China access to this premier US technology is dangerous and threatens our lead in the AI race that will shape the global economy for decades.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenSchumer/status/2054976282933260647",
+      "outlet": "@SenSchumer on X"
+    },
+    {
       "date": "2026-09-14",
       "arena": "federal",
       "kind": "urging",
@@ -29,6 +59,46 @@
       "joint": null,
       "source": "https://www.democrats.senate.gov/newsroom/press-releases/as-ai-industry-leaders-sound-alarm-on-ai-risks-and-trump-dismisses-warnings-schumer-demands-immediate-classified-all-senators-briefing",
       "outlet": "Senate Democrats"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We cannot afford to turn a blind eye to AI. The warning signs have never been clearer.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenSchumer/status/2099613901772005515",
+      "outlet": "@SenSchumer on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need a full accounting of their framework for testing AI models.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenSchumer/status/2099608670782799889",
+      "outlet": "@SenSchumer on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The unchecked danger of catastrophic risks from AI is a serious problem that demands action.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenSchumer/status/2099914115548389858",
+      "outlet": "@SenSchumer on X"
+    },
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We've heard nothing but crickets over a week after I called for a classified Senate briefing on AI risks, including cybersecurity and stopping the flow of AI chips and manufacturing equipment to China.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SenSchumer/status/2102518997300474168",
+      "outlet": "@SenSchumer on X"
     }
   ],
   "photo": {

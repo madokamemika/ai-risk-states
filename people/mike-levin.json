@@ -1,0 +1,50 @@
+{
+  "id": "mike-levin",
+  "name": "Mike Levin",
+  "office": "U.S. Representative, California 49th District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Calls for urgent federal AI regulation, citing developer warnings of losing control, and criticizes the House recess and the President's opposition to regulating AI.",
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI developers are sounding the alarm. They are losing control over the technology they are building, and we are on the precipice of something that could be catastrophic.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMikeLevin/status/2100579992165822916",
+      "outlet": "@RepMikeLevin on X"
+    },
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We are a nation at war, gas and diesel prices are through the roof, we desperately need to be regulating AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMikeLevin/status/2100624718554337623",
+      "outlet": "@RepMikeLevin on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "His own investment accounts have bought shares in companies powering the AI boom. And he is the one making decisions that could affect what those investments are worth. And we wonder why Trump’s so opposed to regulating AI...",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMikeLevin/status/2103490615199600864",
+      "outlet": "@RepMikeLevin on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000593.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000593",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

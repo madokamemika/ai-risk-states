@@ -1,0 +1,60 @@
+{
+  "id": "zach-nunn",
+  "name": "Zach Nunn",
+  "office": "U.S. Representative, Iowa 3rd District",
+  "office_type": "us_rep",
+  "state": "IA",
+  "party": "R",
+  "stance": "Backs one national AI standard under the White House framework, proposes a bipartisan AI Commission on national-security threats, and sponsors the AI Plan Act on AI-driven threats.",
+  "statements": [
+    {
+      "date": "2026-03-21",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "This framework is the next step: one national standard that protects families, drives innovation, and keeps Iowa innovators ahead in the global AI race.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ZachNunn/status/2035406080692379650",
+      "outlet": "@ZachNunn on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI development is moving too quickly for another study.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ZachNunn/status/2100228220494680327",
+      "outlet": "@ZachNunn on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Submitted a plan to congressional leadership for a bipartisan AI Commission on national security, and questioned Treasury Secretary Bessent on keeping China from leapfrogging US frontier models.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ZachNunn/status/2100228220494680327",
+      "outlet": "@ZachNunn on X"
+    },
+    {
+      "date": "2026-10-13",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The Administration's 120-day AI task force reflects key priorities of my bipartisan AI Plan Act, including identifying emerging threats, coordinating with industry partners, and developing a national response.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/ZachNunn/status/2110067720637309083",
+      "outlet": "@ZachNunn on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/N000193.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/N000193",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

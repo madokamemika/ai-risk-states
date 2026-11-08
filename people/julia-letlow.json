@@ -1,0 +1,30 @@
+{
+  "id": "julia-letlow",
+  "name": "Julia Letlow",
+  "office": "U.S. Representative, Louisiana 5th District",
+  "office_type": "us_rep",
+  "state": "LA",
+  "party": "R",
+  "stance": "Welcomed President Trump's national AI policy framework.",
+  "statements": [
+    {
+      "date": "2026-03-25",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Welcomed President Trump's national AI policy framework: \"We can unleash AI innovation and create jobs while protecting American families and our children.\"",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepJuliaLetlow/status/2036806949216411953",
+      "outlet": "@RepJuliaLetlow on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000595.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000595",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

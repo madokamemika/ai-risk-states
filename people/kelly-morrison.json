@@ -1,0 +1,50 @@
+{
+  "id": "kelly-morrison",
+  "name": "Kelly Morrison",
+  "office": "U.S. Representative, Minnesota 3rd District",
+  "office_type": "us_rep",
+  "state": "MN",
+  "party": "D",
+  "stance": "Calls for hearings, investigations and comprehensive AI regulation in response to researchers' warnings of existential risk, and criticizes the executive order blocking state AI guardrails.",
+  "statements": [
+    {
+      "date": "2025-12-12",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Criticized President Trump's executive order blocking states from setting their own AI guardrails as selling democracy to tech billionaires.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/KellyMorrisonMN/status/1999600307291193597",
+      "outlet": "@KellyMorrisonMN on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI researchers themselves are warning of an existential threat to humanity. Congress can’t wait. Mike Johnson needs to cancel recess so we can get to work immediately – hearings, investigations, and comprehensive regulation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/KellyMorrisonMN/status/2097787186665951287",
+      "outlet": "@KellyMorrisonMN on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The threat from AI is serious. We need a president who will take it seriously.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/KellyMorrisonMN/status/2103121280094347466",
+      "outlet": "@KellyMorrisonMN on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/M001234.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/M001234",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

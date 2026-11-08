@@ -1,0 +1,40 @@
+{
+  "id": "maxwell-frost",
+  "name": "Maxwell Frost",
+  "office": "U.S. Representative, Florida 10th District",
+  "office_type": "us_rep",
+  "state": "FL",
+  "party": "D",
+  "stance": "Calls for AI guardrails in response to warnings from AI developers.",
+  "statements": [
+    {
+      "date": "2025-04-01",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We should also be concerned about AI's use when it comes to national security, including the possible use of deepfakes on the battlefield, AI control of nuclear weapons, or autonomous weapons authorized to make decisions about the use of lethal force.",
+      "target": null,
+      "joint": null,
+      "source": "https://oversightdemocrats.house.gov/news/press-releases/subcommittee-ranking-member-frosts-opening-remarks-hearing-trumps-efforts-rush",
+      "outlet": "House Oversight Committee Democrats"
+    },
+    {
+      "date": "2026-10-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The people building AI are warning us about the risks. We shouldn’t have to wait for something to go wrong before we take them seriously. We need real guardrails before it’s too late.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepMaxwellFrost/status/2108619537289490454",
+      "outlet": "@RepMaxwellFrost on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/F000476.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/F000476",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

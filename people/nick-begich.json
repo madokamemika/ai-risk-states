@@ -1,0 +1,30 @@
+{
+  "id": "nick-begich",
+  "name": "Nick Begich",
+  "office": "U.S. Representative, Alaska At-Large District",
+  "office_type": "us_rep",
+  "state": "AK",
+  "party": "R",
+  "stance": "Wants Congress to anticipate frontier AI risks while supporting innovation.",
+  "statements": [
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "As frontier AI and other emerging technologies advance, we must work with experts to anticipate potential risks while simultaneously supporting the impressive pace of American innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepNickBegich/status/2102426402091884571",
+      "outlet": "@RepNickBegich on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Nick_Begich_III_119th_Congress.jpg/250px-Nick_Begich_III_119th_Congress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nick_Begich_III_119th_Congress.jpg",
+    "license": "Public domain",
+    "artist": "House Creative Services"
+  }
+}

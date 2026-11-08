@@ -1,0 +1,30 @@
+{
+  "id": "dusty-johnson",
+  "name": "Dusty Johnson",
+  "office": "U.S. Representative, South Dakota At-Large District",
+  "office_type": "us_rep",
+  "state": "SD",
+  "party": "R",
+  "stance": "Supports reasonable AI guardrails that do not stifle U.S. competitiveness with China.",
+  "statements": [
+    {
+      "date": "2026-09-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "China isn’t going to follow America’s lead on artificial intelligence regulation. We can put reasonable guardrails in place that protect Americans without stifling the innovation that keeps us competitive.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepDustyJohnson/status/2102416857168834714",
+      "outlet": "@RepDustyJohnson on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/J000301.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/J000301",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

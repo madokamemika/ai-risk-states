@@ -11,6 +11,36 @@
   "stance": "Congress's only PhD physicist: leads bipartisan AI-chip export-security legislation to keep advanced compute out of adversary hands, and presses oversight of agentic AI in the financial system.",
   "statements": [
     {
+      "date": "2024-02-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Over the last five years, I’ve become much more worried than I previously was. And the reason for that is there’s this analogy between the evolution of AI algorithms and the evolution in living organisms. And what if you look at living organisms and the strategies that have evolved, many of them are deceptive.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/bill-foster-house-ai-task-force/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2024-02-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "There will be a survival advantage to being opaque. You are already seeing in some of these large language models behavior that looks like deceptive behavior.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/bill-foster-house-ai-task-force/",
+      "outlet": "FedScoop"
+    },
+    {
+      "date": "2024-02-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It will be a huge survival advantage for AI algorithms to be deceptive.",
+      "target": null,
+      "joint": null,
+      "source": "https://fedscoop.com/bill-foster-house-ai-task-force/",
+      "outlet": "FedScoop"
+    },
+    {
       "date": "2025-05-15",
       "arena": "federal",
       "kind": "action",
@@ -41,6 +71,26 @@
       "outlet": "Office of Rep. Foster"
     },
     {
+      "date": "2026-03-26",
+      "arena": "federal",
+      "kind": "action",
+      "text": "His Chip Security Act, co-led with Reps. Huizenga, Moolenaar and Krishnamoorthi, passed committee.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2037292880214081831",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-06-05",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is leveling the playing field for dangerous technical knowledge, like how to misuse commercially available synthetic DNA and RNA to create bioweapons.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2062963275017355280",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
       "date": "2026-06-24",
       "arena": "federal",
       "kind": "action",
@@ -49,6 +99,156 @@
       "joint": null,
       "source": "https://foster.house.gov/media/press-releases/foster-sherman-seek-regulatory-clarity-agentic-ai-trading",
       "outlet": "Office of Rep. Foster"
+    },
+    {
+      "date": "2026-07-08",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Proud to see Illinois help lead the nation in AI safety, and I commend @GovPritzker for signing these guardrails into law.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2074921737280459122",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-07-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "When business leaders get together and ask to be regulated, Congress should pay attention.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2082552502315094290",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-07-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "It is time for Congress to pass AI regulation that is technically feasible, internationally coordinated, and protects our children, workers, and national security.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2082552505959952412",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-09-09",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Any continuing work on adversarial superhuman intelligence must rely on the physical containment methods used for nuclear security: including air gap isolation, data diodes, and a two-person rule for data exfiltration.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2097791328319152411",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-09-11",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "My Chip Security Act would require advanced AI chips to include hardware that allows us to track where they are and how they are being used.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2098485992868958318",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-09-14",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Speaker Johnson should keep us in Washington to debate and pass serious, technically feasible laws that protect Americans from the risks posed by advanced AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2099562389922353514",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "One of the biggest risks with AI is recursive self-improvement—where AI agents continuously code better versions of themselves that could evade human oversight.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2099938885744640103",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "International cooperation on AI is essential. The Trump Administration must reverse course and begin talks with China on AI safeguards.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2099890021608075626",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "At a critical time for our country, when AI companies are asking to be regulated, the Speaker has decided the House should go home and do nothing.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2100296389448126828",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Met with Science Committee colleagues and representatives of OpenAI, Anthropic, Hugging Face and METR about rogue hacking incidents by AI agents.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2100284052850741333",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-09-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Software-only solutions will not be enough to protect against AI risks. Air gapping, similar to what they use in nuclear weapons security, should be used to secure high-level research and ensure advanced AI doesn't get into the wrong hands.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2100220524282397128",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Joined colleagues calling on Speaker Johnson to bring the House back to Washington to work on AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2103186541300306176",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "He had the opportunity to make progress with China this week on global AI cooperation, but he is more interested in protecting Big Tech billionaires than safeguarding Americans from potentially dangerous technology.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2103556910335349206",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-09-29",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "“Morally binding” agreements like this aren’t going to cut it when AI agents continuously code better versions of themselves that could evade human oversight.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2105070676218347976",
+      "outlet": "@RepBillFoster on X"
+    },
+    {
+      "date": "2026-10-22",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Congress and regulators must step up their game to harden our financial system against these vulnerabilities.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepBillFoster/status/2113341376318361877",
+      "outlet": "@RepBillFoster on X"
     }
   ],
   "review": {

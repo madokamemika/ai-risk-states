@@ -1,0 +1,30 @@
+{
+  "id": "pete-aguilar",
+  "name": "Pete Aguilar",
+  "office": "U.S. Representative, California 33rd District",
+  "office_type": "us_rep",
+  "state": "CA",
+  "party": "D",
+  "stance": "Criticized House Republicans for leaving Washington while Americans demand action on AI.",
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Americans are demanding action on AI. House Democrats are ready to work. House Republicans left town early.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepPeteAguilar/status/2100611702488236494",
+      "outlet": "@RepPeteAguilar on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/A000371.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/A000371",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

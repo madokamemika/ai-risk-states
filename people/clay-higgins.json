@@ -1,0 +1,30 @@
+{
+  "id": "clay-higgins",
+  "name": "Clay Higgins",
+  "office": "U.S. Representative, Louisiana 3rd District",
+  "office_type": "us_rep",
+  "state": "LA",
+  "party": "R",
+  "stance": "Has called AI an Armageddon-level threat.",
+  "statements": [
+    {
+      "date": "2023-09-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "AI is an Armageddon level threat, far more ominous than any alleged pandemic or climate crisis",
+      "target": null,
+      "joint": null,
+      "source": "https://clayhiggins.house.gov/2023/09/10/higgins-introduce-legislation-banning-government-weaponization-artificial/",
+      "outlet": "Office of Rep. Clay Higgins"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/H001077.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/H001077",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}

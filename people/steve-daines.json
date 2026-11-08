@@ -1,0 +1,60 @@
+{
+  "id": "steve-daines",
+  "name": "Steve Daines",
+  "office": "U.S. Senator from Montana",
+  "office_type": "us_senator",
+  "state": "MT",
+  "party": "R",
+  "stance": "Supports guardrails that do not inhibit innovation but says AI's complexity exceeds government's capacity to regulate it and opposes slowing down; welcomes US-China dialogue on AI.",
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The complexity of AI far exceeds the capacity of government to understand & regulate it.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SteveDaines/status/2099922460518789574",
+      "outlet": "@SteveDaines on X"
+    },
+    {
+      "date": "2026-09-15",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need to be the gold medalists in the AI race- we can’t slow down.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SteveDaines/status/2099911669908472040",
+      "outlet": "@SteveDaines on X"
+    },
+    {
+      "date": "2026-09-23",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "When it comes to AI, we need to put the right guardrails in place that protect the American public without inhibiting American innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SteveDaines/status/2102853292938137845",
+      "outlet": "@SteveDaines on X"
+    },
+    {
+      "date": "2026-09-25",
+      "arena": "federal",
+      "kind": "quote",
+      "text": ".@POTUS & @SecScottBessent’s positive dialogue with China is a good thing as it relates to AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/SteveDaines/status/2103547026776461605",
+      "outlet": "@SteveDaines on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/D000618.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/D000618",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+  }
+}
