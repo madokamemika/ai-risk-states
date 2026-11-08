@@ -19,6 +19,12 @@
       "outlet": "Americans for Responsible Innovation"
     }
   ],
+  "photo": {
+    "src": "https://ohiosenate.gov/assets/people/louis-w-blessing-iii/headshots/thumbnails/medium/louis-w-blessing-iii-march-2025-headshot_medium.jpg",
+    "page": "https://ohiosenate.gov/senators/blessing/bio",
+    "license": "Official portrait, Ohio Senate",
+    "artist": "Ohio Senate"
+  },
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"

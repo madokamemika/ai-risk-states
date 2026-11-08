@@ -19,6 +19,12 @@
       "outlet": "KFVS12"
     }
   ],
+  "photo": {
+    "src": "https://images.house.mo.gov/MemberPhoto.aspx?id=2520",
+    "page": "https://house.mo.gov/MemberDetails.aspx?year=2026&code=R&district=128",
+    "license": "Official portrait, Missouri House of Representatives",
+    "artist": "Missouri House of Representatives"
+  },
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"

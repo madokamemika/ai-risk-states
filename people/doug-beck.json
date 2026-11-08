@@ -19,6 +19,12 @@
       "outlet": "KFVS12"
     }
   ],
+  "photo": {
+    "src": "https://www.senate.mo.gov/WebPhotos/SenatorPortraits/Beck01.jpg",
+    "page": "https://www.senate.mo.gov/Senators/Member?id=3",
+    "license": "Official portrait, Missouri Senate",
+    "artist": "Missouri Senate"
+  },
   "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
