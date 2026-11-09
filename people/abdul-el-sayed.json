@@ -1,10 +1,15 @@
 {
   "id": "abdul-el-sayed",
   "name": "Abdul El-Sayed",
-  "office": "U.S. Senator-elect from Michigan",
-  "office_type": "us_senator",
+  "office": "Holds no office",
+  "office_type": "none",
   "state": "MI",
   "party": "D",
+  "elected_congress": {
+    "office": "U.S. Senator from Michigan",
+    "takes_office": "2027-01-03",
+    "source": "https://www.michiganpublic.org/2026-11-04/democrat-abdul-el-sayed-defeats-republican-mike-rogers-in-key-michigan-senate-race"
+  },
   "stance": "Calls for a pause in AI development, saying it is outpacing the ability to keep it safe.",
   "statements": [
     {

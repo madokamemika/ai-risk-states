@@ -1,10 +1,15 @@
 {
   "id": "will-lawrence",
   "name": "Will Lawrence",
-  "office": "U.S. Representative-elect, Michigan 7th District",
-  "office_type": "us_rep",
+  "office": "Holds no office",
+  "office_type": "none",
   "state": "MI",
   "party": "D",
+  "elected_congress": {
+    "office": "U.S. Representative from Michigan's 7th district",
+    "takes_office": "2027-01-03",
+    "source": "https://www.michiganpublic.org/politics-government/2026-11-04/barrett-concedes-to-lawrence-as-democrats-net-another-battleground-victory-in-se-michigan"
+  },
   "stance": "Campaigned on immediately pausing new AI and data center development, followed by a national AI compact that taxes AI development.",
   "statements": [
     {

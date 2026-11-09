@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08",
+ "generated": "2026-11-09",
  "bill_counts_asof": "2026-10-13",
  "bill_counts": {
   "AK": 3,
@@ -6898,10 +6898,15 @@
   {
    "id": "abdul-el-sayed",
    "name": "Abdul El-Sayed",
-   "office": "U.S. Senator-elect from Michigan",
-   "office_type": "us_senator",
+   "office": "Holds no office",
+   "office_type": "none",
    "state": "MI",
    "party": "D",
+   "elected_congress": {
+    "office": "U.S. Senator from Michigan",
+    "takes_office": "2027-01-03",
+    "source": "https://www.michiganpublic.org/2026-11-04/democrat-abdul-el-sayed-defeats-republican-mike-rogers-in-key-michigan-senate-race"
+   },
    "stance": "Calls for a pause in AI development, saying it is outpacing the ability to keep it safe.",
    "statements": [
     {
@@ -13460,10 +13465,15 @@
   {
    "id": "melat-kiros",
    "name": "Melat Kiros",
-   "office": "U.S. Representative-elect, Colorado 1st District",
-   "office_type": "us_rep",
+   "office": "Holds no office",
+   "office_type": "none",
    "state": "CO",
    "party": "D",
+   "elected_congress": {
+    "office": "U.S. Representative from Colorado's 1st district",
+    "takes_office": "2027-01-03",
+    "source": "https://www.coloradopolitics.com/2026/11/03/melat-kiros-shimon-blau-election-results-cd1-colorado/"
+   },
    "stance": "Calls for pausing the development of artificial superintelligence and for aggressive AI regulation.",
    "statements": [
     {
@@ -14624,10 +14634,15 @@
   {
    "id": "will-lawrence",
    "name": "Will Lawrence",
-   "office": "U.S. Representative-elect, Michigan 7th District",
-   "office_type": "us_rep",
+   "office": "Holds no office",
+   "office_type": "none",
    "state": "MI",
    "party": "D",
+   "elected_congress": {
+    "office": "U.S. Representative from Michigan's 7th district",
+    "takes_office": "2027-01-03",
+    "source": "https://www.michiganpublic.org/politics-government/2026-11-04/barrett-concedes-to-lawrence-as-democrats-net-another-battleground-victory-in-se-michigan"
+   },
    "stance": "Campaigned on immediately pausing new AI and data center development, followed by a national AI compact that taxes AI development.",
    "statements": [
     {

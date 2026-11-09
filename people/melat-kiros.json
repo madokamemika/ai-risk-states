@@ -1,10 +1,15 @@
 {
   "id": "melat-kiros",
   "name": "Melat Kiros",
-  "office": "U.S. Representative-elect, Colorado 1st District",
-  "office_type": "us_rep",
+  "office": "Holds no office",
+  "office_type": "none",
   "state": "CO",
   "party": "D",
+  "elected_congress": {
+    "office": "U.S. Representative from Colorado's 1st district",
+    "takes_office": "2027-01-03",
+    "source": "https://www.coloradopolitics.com/2026/11/03/melat-kiros-shimon-blau-election-results-cd1-colorado/"
+  },
   "stance": "Calls for pausing the development of artificial superintelligence and for aggressive AI regulation.",
   "statements": [
     {
