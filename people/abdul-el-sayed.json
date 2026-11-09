@@ -1,0 +1,45 @@
+{
+  "id": "abdul-el-sayed",
+  "name": "Abdul El-Sayed",
+  "office": "Holds no office",
+  "office_type": "none",
+  "state": "MI",
+  "party": "D",
+  "elected_congress": {
+    "office": "U.S. Senator from Michigan",
+    "takes_office": "2027-01-03",
+    "source": "https://www.michiganpublic.org/2026-11-04/democrat-abdul-el-sayed-defeats-republican-mike-rogers-in-key-michigan-senate-race"
+  },
+  "stance": "Calls for a pause in AI development, saying it is outpacing the ability to keep it safe.",
+  "statements": [
+    {
+      "date": "2026-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Even the CEO of Anthropic agrees—the risks are far too great. We need a pause in AI development.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/AbdulElSayed/status/2098950896285605958",
+      "outlet": "@AbdulElSayed on X"
+    },
+    {
+      "date": "2026-09-12",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The speed at which AI is being developed far outpaces the speed at which we can keep it safe.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/AbdulElSayed/status/2098950896285605958",
+      "outlet": "@AbdulElSayed on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_10.jpg/250px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_10.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_10.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Conlan Houston"
+  }
+}

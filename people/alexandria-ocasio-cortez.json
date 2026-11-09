@@ -5,7 +5,7 @@
   "office_type": "us_rep",
   "state": "NY",
   "party": "D",
-  "stance": "Pushes transparency, independent testing and human oversight before AI is deployed in safety-critical systems; a member of the Congressional AI Caucus.",
+  "stance": "Pushes transparency, independent testing and human oversight before AI is deployed in safety-critical systems; a member of the Congressional AI Caucus and a cosponsor of the Ban Artificial Superintelligence Act.",
   "statements": [
     {
       "date": "2025-12-17",
@@ -66,6 +66,16 @@
       "joint": null,
       "source": "https://x.com/RepAOC/status/2110064293895196706",
       "outlet": "@RepAOC on X"
+    },
+    {
+      "date": "2026-09-28",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Cosponsored the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+      "outlet": "Congress.gov"
     }
   ],
   "review": {

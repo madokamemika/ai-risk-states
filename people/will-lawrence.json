@@ -1,0 +1,35 @@
+{
+  "id": "will-lawrence",
+  "name": "Will Lawrence",
+  "office": "Holds no office",
+  "office_type": "none",
+  "state": "MI",
+  "party": "D",
+  "elected_congress": {
+    "office": "U.S. Representative from Michigan's 7th district",
+    "takes_office": "2027-01-03",
+    "source": "https://www.michiganpublic.org/politics-government/2026-11-04/barrett-concedes-to-lawrence-as-democrats-net-another-battleground-victory-in-se-michigan"
+  },
+  "stance": "Campaigned on immediately pausing new AI and data center development, followed by a national AI compact that taxes AI development.",
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "FIRST: We will immediately pause new AI and data center development.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/WeWillMi/status/2100707967020433534",
+      "outlet": "@WeWillMi on X"
+    }
+  ],
+  "review": {
+    "status": "unreviewed"
+  },
+  "photo": {
+    "src": "https://pbs.twimg.com/profile_images/2102122052215787520/MAwyKo1Z_400x400.jpg",
+    "page": "https://x.com/WeWillMi",
+    "license": "Campaign photo",
+    "artist": null
+  }
+}

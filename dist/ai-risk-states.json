@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08",
+ "generated": "2026-11-09",
  "bill_counts_asof": "2026-10-13",
  "bill_counts": {
   "AK": 3,
@@ -475,7 +475,7 @@
      "kind": "action",
      "text": "Announced support as one of the first House co-sponsors of Rep. Casar's bill with Sen. Sanders to ban artificial superintelligence.",
      "target": null,
-     "joint": null,
+     "joint": "ban-artificial-superintelligence-act",
      "source": "https://x.com/RepYassAnsari/status/2103288596195156080",
      "outlet": "@RepYassAnsari on X"
     },
@@ -5141,6 +5141,42 @@
    }
   },
   {
+   "id": "roy-cooper",
+   "name": "Roy Cooper",
+   "office": "Governor of North Carolina until January 2025",
+   "office_type": "governor",
+   "state": "NC",
+   "party": "D",
+   "left_office": "2025-01-01",
+   "elected_congress": {
+    "office": "U.S. Senator from North Carolina",
+    "takes_office": "2027-01-03",
+    "source": "https://www.wbtv.com/2026/11/04/roy-cooper-wins-2026-us-senate-race-north-carolina-ap-projects/"
+   },
+   "stance": "Says AI CEOs' warnings about slowing AI development should be heeded and that federal guardrails and oversight are needed.",
+   "statements": [
+    {
+     "date": "2026-09-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "It’s alarming to see reports on the potential of humans losing control of AI. We should heed the warnings sounded by the CEOs of these companies calling to slow down the pace of their own AI development.",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/RoyCooperNC/status/2099856361123148006",
+     "outlet": "@RoyCooperNC on X"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Roy_Cooper_in_November_2023.jpg/250px-Roy_Cooper_in_November_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Roy_Cooper_in_November_2023.jpg",
+    "license": "CC BY 2.0",
+    "artist": "NCDOTcommunications"
+   }
+  },
+  {
    "id": "john-cornyn",
    "name": "John Cornyn",
    "office": "U.S. Senator from Texas",
@@ -6421,6 +6457,16 @@
      "joint": null,
      "source": "https://x.com/RepDeluzio/status/2110857418976428367",
      "outlet": "@RepDeluzio on X"
+    },
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+     "target": null,
+     "joint": "ban-artificial-superintelligence-act",
+     "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+     "outlet": "Congress.gov"
     }
    ],
    "review": {
@@ -6847,6 +6893,51 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "abdul-el-sayed",
+   "name": "Abdul El-Sayed",
+   "office": "Holds no office",
+   "office_type": "none",
+   "state": "MI",
+   "party": "D",
+   "elected_congress": {
+    "office": "U.S. Senator from Michigan",
+    "takes_office": "2027-01-03",
+    "source": "https://www.michiganpublic.org/2026-11-04/democrat-abdul-el-sayed-defeats-republican-mike-rogers-in-key-michigan-senate-race"
+   },
+   "stance": "Calls for a pause in AI development, saying it is outpacing the ability to keep it safe.",
+   "statements": [
+    {
+     "date": "2026-09-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Even the CEO of Anthropic agrees—the risks are far too great. We need a pause in AI development.",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/AbdulElSayed/status/2098950896285605958",
+     "outlet": "@AbdulElSayed on X"
+    },
+    {
+     "date": "2026-09-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "The speed at which AI is being developed far outpaces the speed at which we can keep it safe.",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/AbdulElSayed/status/2098950896285605958",
+     "outlet": "@AbdulElSayed on X"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_10.jpg/250px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_10.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_10.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Conlan Houston"
    }
   },
   {
@@ -7314,6 +7405,46 @@
    "photo": {
     "src": "https://unitedstates.github.io/images/congress/225x275/L000273.jpg",
     "page": "https://bioguide.congress.gov/search/bio/L000273",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
+   "id": "john-fetterman",
+   "name": "John Fetterman",
+   "office": "U.S. Senator from Pennsylvania",
+   "office_type": "us_senator",
+   "state": "PA",
+   "party": "D",
+   "stance": "Opposes pausing AI development or AI data center construction, arguing that it would hand the lead on AI to China.",
+   "statements": [
+    {
+     "date": "2026-03-25",
+     "arena": "federal",
+     "kind": "urging",
+     "text": "Called the proposed moratorium on AI data center construction from Sen. Sanders and Rep. Ocasio-Cortez \"China First,\" saying guardrails can be put in place without handing the win on AI to China.",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/SenFettermanPA/status/2036815989556265200",
+     "outlet": "@SenFettermanPA on X"
+    },
+    {
+     "date": "2026-08-10",
+     "arena": "federal",
+     "kind": "urging",
+     "text": "Responded to Sen. Sanders's call for AI companies to pause AI development by saying America must lead in the development of AI or live under China's rules.",
+     "target": null,
+     "joint": null,
+     "source": "https://wset.com/news/nation-world/senator-john-fetterman-rejects-bernie-sanderss-call-to-pause-ai-development-must-not-happen-china",
+     "outlet": "WSET"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/F000479.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/F000479",
     "license": "Public domain (US government work)",
     "artist": "US Congress"
    }
@@ -8452,6 +8583,16 @@
      "joint": null,
      "source": "https://x.com/RepChuyGarcia/status/2097795378905018543",
      "outlet": "@RepChuyGarcia on X"
+    },
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+     "target": null,
+     "joint": "ban-artificial-superintelligence-act",
+     "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+     "outlet": "Congress.gov"
     }
    ],
    "review": {
@@ -9367,7 +9508,7 @@
    "office_type": "us_rep",
    "state": "AZ",
    "party": "D",
-   "stance": "Supports international AI guardrails against uncontrollable frontier AI.",
+   "stance": "Supports international AI guardrails against uncontrollable frontier AI; original cosponsor of the Ban Artificial Superintelligence Act.",
    "statements": [
     {
      "date": "2026-09-17",
@@ -9378,6 +9519,16 @@
      "joint": null,
      "source": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
      "outlet": "Office of Rep. Ansari"
+    },
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+     "target": null,
+     "joint": "ban-artificial-superintelligence-act",
+     "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+     "outlet": "Congress.gov"
     }
    ],
    "review": {
@@ -10891,7 +11042,7 @@
    "office_type": "us_rep",
    "state": "OR",
    "party": "D",
-   "stance": "Calls for Congress to stay in session to enact AI guardrails rather than letting tech companies set the rules.",
+   "stance": "Calls for Congress to stay in session to enact AI guardrails rather than letting tech companies set the rules; original cosponsor of the Ban Artificial Superintelligence Act.",
    "statements": [
     {
      "date": "2026-09-16",
@@ -10912,6 +11063,16 @@
      "joint": null,
      "source": "https://x.com/RepValHoyle/status/2100592322320744915",
      "outlet": "@RepValHoyle on X"
+    },
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+     "target": null,
+     "joint": "ban-artificial-superintelligence-act",
+     "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+     "outlet": "Congress.gov"
     }
    ],
    "review": {
@@ -13060,6 +13221,16 @@
      "joint": null,
      "source": "https://x.com/RepRoKhanna/status/2105747309237620911",
      "outlet": "@RepRoKhanna on X"
+    },
+    {
+     "date": "2026-09-12",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We must pause recursive self improving AI.",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/RoKhanna/status/2098811333542121673",
+     "outlet": "@RoKhanna on X"
     }
    ],
    "photo": {
@@ -13289,6 +13460,41 @@
     "page": "https://commons.wikimedia.org/wiki/File:Angus_King,_official_portrait,_113th_Congress.jpg",
     "license": "Public domain",
     "artist": "United States Senate"
+   }
+  },
+  {
+   "id": "melat-kiros",
+   "name": "Melat Kiros",
+   "office": "Holds no office",
+   "office_type": "none",
+   "state": "CO",
+   "party": "D",
+   "elected_congress": {
+    "office": "U.S. Representative from Colorado's 1st district",
+    "takes_office": "2027-01-03",
+    "source": "https://www.coloradopolitics.com/2026/11/03/melat-kiros-shimon-blau-election-results-cd1-colorado/"
+   },
+   "stance": "Calls for pausing the development of artificial superintelligence and for aggressive AI regulation.",
+   "statements": [
+    {
+     "date": "2026-09-04",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We need to pause the development of ASI and pass aggressive AI regulations now.",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/MelatKirosCO/status/2095845307787715066",
+     "outlet": "@MelatKirosCO on X"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Melat_Kiros_Portrait_%28cropped%29.jpg/250px-Melat_Kiros_Portrait_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Melat_Kiros_Portrait_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Andra Turner"
    }
   },
   {
@@ -14426,6 +14632,41 @@
    }
   },
   {
+   "id": "will-lawrence",
+   "name": "Will Lawrence",
+   "office": "Holds no office",
+   "office_type": "none",
+   "state": "MI",
+   "party": "D",
+   "elected_congress": {
+    "office": "U.S. Representative from Michigan's 7th district",
+    "takes_office": "2027-01-03",
+    "source": "https://www.michiganpublic.org/politics-government/2026-11-04/barrett-concedes-to-lawrence-as-democrats-net-another-battleground-victory-in-se-michigan"
+   },
+   "stance": "Campaigned on immediately pausing new AI and data center development, followed by a national AI compact that taxes AI development.",
+   "statements": [
+    {
+     "date": "2026-09-17",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "FIRST: We will immediately pause new AI and data center development.",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/WeWillMi/status/2100707967020433534",
+     "outlet": "@WeWillMi on X"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://pbs.twimg.com/profile_images/2102122052215787520/MAwyKo1Z_400x400.jpg",
+    "page": "https://x.com/WeWillMi",
+    "license": "Campaign photo",
+    "artist": null
+   }
+  },
+  {
    "id": "bill-lee",
    "name": "Bill Lee",
    "office": "Governor of Tennessee",
@@ -14880,7 +15121,7 @@
    "committees": [
     "House Judiciary"
    ],
-   "stance": "Wants frontier developers required to maintain a kill switch that DHS can order used when a model loses human control.",
+   "stance": "Wants frontier developers required to maintain a kill switch that DHS can order used when a model loses human control, and argues for that over a pause on AI development.",
    "statements": [
     {
      "date": "2023-01-23",
@@ -15331,6 +15572,16 @@
      "joint": null,
      "source": "https://x.com/RepTedLieu/status/2105393691124777400",
      "outlet": "@RepTedLieu on X"
+    },
+    {
+     "date": "2026-08-10",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "A pause on AI development stops innovation. An AI Kill Switch does not.",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/tedlieu/status/2086950584494825525",
+     "outlet": "@tedlieu on X"
     }
    ],
    "photo": {
@@ -15894,6 +16145,36 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "stephen-lynch",
+   "name": "Stephen Lynch",
+   "office": "U.S. Representative, Massachusetts 8th District",
+   "office_type": "us_rep",
+   "state": "MA",
+   "party": "D",
+   "stance": "Original cosponsor of the Ban Artificial Superintelligence Act.",
+   "statements": [
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+     "target": null,
+     "joint": "ban-artificial-superintelligence-act",
+     "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+     "outlet": "Congress.gov"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/L000562.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/L000562",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
    }
   },
   {
@@ -16921,8 +17202,8 @@
     {
      "date": "2025-12-10",
      "arena": "federal",
-     "kind": "quote",
-     "text": "I'm concerned. I'm not clear on why that is the right path for us,",
+     "kind": "urging",
+     "text": "Said at the Aspen Security Forum that he was concerned about the administration letting Nvidia sell its H200 chips in China, warning that selling its most advanced chips would boost China's AI capabilities.",
      "target": null,
      "joint": null,
      "source": "https://www.aol.com/articles/senate-republican-concerned-trump-approving-215602287.html",
@@ -17285,6 +17566,36 @@
     "page": "https://commons.wikimedia.org/wiki/File:Gregory_Meeks,_official_portrait,_115th_congress_(3x4_cropped).jpg",
     "license": "Public domain",
     "artist": "Kristie Boyd, Official House Photographer/U.S. House Office of Photoraphy"
+   }
+  },
+  {
+   "id": "analilia-mejia",
+   "name": "Analilia Mejia",
+   "office": "U.S. Representative, New Jersey 11th District",
+   "office_type": "us_rep",
+   "state": "NJ",
+   "party": "D",
+   "stance": "Original cosponsor of the Ban Artificial Superintelligence Act.",
+   "statements": [
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+     "target": null,
+     "joint": "ban-artificial-superintelligence-act",
+     "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+     "outlet": "Congress.gov"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://www.congress.gov/img/member/69eb9743277642362f6112ce_200.jpg",
+    "page": "https://www.congress.gov/member/analilia-mejia/M001246",
+    "license": "Official portrait, courtesy of the Member",
+    "artist": null
    }
   },
   {
@@ -17939,6 +18250,16 @@
      "target": null,
      "joint": null,
      "source": "https://x.com/RepNateMoran/status/2105102569718665315",
+     "outlet": "@RepNateMoran on X"
+    },
+    {
+     "date": "2026-09-15",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "If we want to go down the highway of innovation quickly, we need a brake installed. Our AI Kill Switch Act gives us the ability to throttle back, pause, or stop frontier AI systems in an emergency.",
+     "target": null,
+     "joint": "ai-kill-switch-act",
+     "source": "https://x.com/RepNateMoran/status/2099908232474964087",
      "outlet": "@RepNateMoran on X"
     }
    ],
@@ -19140,7 +19461,7 @@
    "office_type": "us_rep",
    "state": "NY",
    "party": "D",
-   "stance": "Pushes transparency, independent testing and human oversight before AI is deployed in safety-critical systems; a member of the Congressional AI Caucus.",
+   "stance": "Pushes transparency, independent testing and human oversight before AI is deployed in safety-critical systems; a member of the Congressional AI Caucus and a cosponsor of the Ban Artificial Superintelligence Act.",
    "statements": [
     {
      "date": "2025-12-17",
@@ -19201,6 +19522,16 @@
      "joint": null,
      "source": "https://x.com/RepAOC/status/2110064293895196706",
      "outlet": "@RepAOC on X"
+    },
+    {
+     "date": "2026-09-28",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cosponsored the Ban Artificial Superintelligence Act (H.R. 10538).",
+     "target": null,
+     "joint": "ban-artificial-superintelligence-act",
+     "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+     "outlet": "Congress.gov"
     }
    ],
    "review": {
@@ -20481,6 +20812,36 @@
    "photo": {
     "src": "https://unitedstates.github.io/images/congress/225x275/R000617.jpg",
     "page": "https://bioguide.congress.gov/search/bio/R000617",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
+   }
+  },
+  {
+   "id": "emily-randall",
+   "name": "Emily Randall",
+   "office": "U.S. Representative, Washington 6th District",
+   "office_type": "us_rep",
+   "state": "WA",
+   "party": "D",
+   "stance": "Cosponsor of the Ban Artificial Superintelligence Act.",
+   "statements": [
+    {
+     "date": "2026-10-01",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cosponsored the Ban Artificial Superintelligence Act (H.R. 10538).",
+     "target": null,
+     "joint": "ban-artificial-superintelligence-act",
+     "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+     "outlet": "Congress.gov"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/R000621.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/R000621",
     "license": "Public domain (US government work)",
     "artist": "US Congress"
    }
@@ -24478,7 +24839,7 @@
    "office_type": "us_rep",
    "state": "NY",
    "party": "D",
-   "stance": "Urges Congress to rein in AI before an AI-caused disaster.",
+   "stance": "Urges Congress to rein in AI before an AI-caused disaster; cosponsor of the Ban Artificial Superintelligence Act.",
    "statements": [
     {
      "date": "2026-09-16",
@@ -24489,6 +24850,16 @@
      "joint": null,
      "source": "https://x.com/RepPaulTonko/status/2100300303728025759",
      "outlet": "@RepPaulTonko on X"
+    },
+    {
+     "date": "2026-10-13",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Cosponsored the Ban Artificial Superintelligence Act (H.R. 10538).",
+     "target": null,
+     "joint": "ban-artificial-superintelligence-act",
+     "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+     "outlet": "Congress.gov"
     }
    ],
    "review": {
@@ -25407,6 +25778,36 @@
    "review": {
     "status": "unreviewed",
     "note": "research pass, September 2026; not yet reviewed"
+   }
+  },
+  {
+   "id": "nydia-velazquez",
+   "name": "Nydia Velázquez",
+   "office": "U.S. Representative, New York 7th District",
+   "office_type": "us_rep",
+   "state": "NY",
+   "party": "D",
+   "stance": "Original cosponsor of the Ban Artificial Superintelligence Act.",
+   "statements": [
+    {
+     "date": "2026-09-24",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Original cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+     "target": null,
+     "joint": "ban-artificial-superintelligence-act",
+     "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+     "outlet": "Congress.gov"
+    }
+   ],
+   "review": {
+    "status": "unreviewed"
+   },
+   "photo": {
+    "src": "https://unitedstates.github.io/images/congress/225x275/V000081.jpg",
+    "page": "https://bioguide.congress.gov/search/bio/V000081",
+    "license": "Public domain (US government work)",
+    "artist": "US Congress"
    }
   },
   {
@@ -26694,7 +27095,7 @@
     "source": "https://sfstandard.com/2026/11/04/scott-wiener-built-lead-connie-chan-s-unlikely-reverse/"
    },
    "committees": [],
-   "stance": "Author of SB 1047 and SB 53; wants binding catastrophic-risk safety rules on frontier developers and, after the 2026 OpenAI agent incident, a stronger SB 53.",
+   "stance": "Author of SB 1047 and SB 53; wants binding catastrophic-risk safety rules on frontier developers and, after the 2026 OpenAI agent incident, a stronger SB 53; has called for slowing down AI development.",
    "statements": [
     {
      "date": "2025-09-29",
@@ -26725,6 +27126,16 @@
      "joint": null,
      "source": "https://missionlocal.org/2026/09/california-ai-safety-law-sb-53-openai-hack-wiener-newsom/",
      "outlet": "Mission Local"
+    },
+    {
+     "date": "2026-09-13",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We must not let this just barrel forward. We know there’s risk — big risk — in addition to the benefits AI can deliver. We need to slow down, enact guardrails, and create a regulatory body. And we need global coordination.",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/Scott_Wiener/status/2099165850712559754",
+     "outlet": "@Scott_Wiener on X"
     }
    ],
    "review": {
@@ -33849,7 +34260,18 @@
    "people": [
     "bernie-sanders",
     "greg-casar",
-    "ro-khanna"
+    "ro-khanna",
+    "adelita-grijalva",
+    "val-hoyle",
+    "chuy-garcia",
+    "chris-deluzio",
+    "alexandria-ocasio-cortez",
+    "paul-tonko",
+    "yassamin-ansari",
+    "analilia-mejia",
+    "stephen-lynch",
+    "nydia-velazquez",
+    "emily-randall"
    ],
    "source": "https://rollcall.com/2026/09/23/ai-superintelligence-ban-proposed-by-casar-sanders/"
   },

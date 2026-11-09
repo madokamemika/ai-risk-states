@@ -153,7 +153,7 @@
       "kind": "action",
       "text": "Announced support as one of the first House co-sponsors of Rep. Casar's bill with Sen. Sanders to ban artificial superintelligence.",
       "target": null,
-      "joint": null,
+      "joint": "ban-artificial-superintelligence-act",
       "source": "https://x.com/RepYassAnsari/status/2103288596195156080",
       "outlet": "@RepYassAnsari on X"
     },

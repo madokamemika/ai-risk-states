@@ -56,6 +56,16 @@
       "joint": null,
       "source": "https://x.com/RepDeluzio/status/2110857418976428367",
       "outlet": "@RepDeluzio on X"
+    },
+    {
+      "date": "2026-09-24",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Original cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "target": null,
+      "joint": "ban-artificial-superintelligence-act",
+      "source": "https://www.congress.gov/bill/119th-congress/house-bill/10538/cosponsors",
+      "outlet": "Congress.gov"
     }
   ],
   "review": {

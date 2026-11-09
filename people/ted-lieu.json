@@ -8,7 +8,7 @@
   "committees": [
     "House Judiciary"
   ],
-  "stance": "Wants frontier developers required to maintain a kill switch that DHS can order used when a model loses human control.",
+  "stance": "Wants frontier developers required to maintain a kill switch that DHS can order used when a model loses human control, and argues for that over a pause on AI development.",
   "statements": [
     {
       "date": "2023-01-23",
@@ -459,6 +459,16 @@
       "joint": null,
       "source": "https://x.com/RepTedLieu/status/2105393691124777400",
       "outlet": "@RepTedLieu on X"
+    },
+    {
+      "date": "2026-08-10",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "A pause on AI development stops innovation. An AI Kill Switch does not.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/tedlieu/status/2086950584494825525",
+      "outlet": "@tedlieu on X"
     }
   ],
   "photo": {
