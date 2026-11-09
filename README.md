@@ -23,7 +23,7 @@ Entries marked `"review": {"status": "unreviewed"}` came from a research pass in
 September 2026 and have not yet been reviewed. Treat them accordingly, and see
 below to help.
 
-## Six fields to get right
+## Fields to get right
 
 - **`kind`** on a statement: `quote` is the speaker's exact words, found verbatim
   at the source; `urging` and `action` are paraphrase.
