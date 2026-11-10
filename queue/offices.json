@@ -1,4 +1,25 @@
 {
-  "checked": "2026-10-13",
-  "flags": []
+  "checked": "2026-11-10",
+  "flags": [
+    {
+      "id": "lindsey-graham",
+      "filed_as": "U.S. Senator from South Carolina until 11 July 2026",
+      "wikidata_says": "no open US Senate seat found"
+    },
+    {
+      "id": "roy-cooper",
+      "filed_as": "Governor of North Carolina until January 2025",
+      "wikidata_says": "North Carolina governor is now Josh Stein"
+    },
+    {
+      "id": "sarah-huckabee-sanders",
+      "filed_as": "Governor of Arkansas",
+      "wikidata_says": "Arkansas governor is now Q27986907"
+    },
+    {
+      "id": "tom-cotton",
+      "filed_as": "U.S. Senator from Arkansas",
+      "wikidata_says": "no open US Senate seat found"
+    }
+  ]
 }
