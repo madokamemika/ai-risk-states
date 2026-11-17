@@ -8,6 +8,16 @@
   "stance": "Frames frontier AI as a catastrophic and national-security risk requiring arms-control-style international guardrails; led the House letter demanding the administration negotiate AI global-security rules, and has called for a pause on advanced AI development and a ban on artificial superintelligence as a day-one Democratic priority.",
   "statements": [
     {
+      "date": "2026-11-16",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We need a pause on advanced AI development - urgently.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/RepYassAnsari/status/2122548192390819886",
+      "outlet": "@RepYassAnsari on X"
+    },
+    {
       "date": "2026-11-04",
       "arena": "federal",
       "kind": "quote",
@@ -40,6 +50,6 @@
   ],
   "review": {
     "status": "unreviewed",
-    "note": "added October 2026 from ansari.house.gov primary source; Sept quote verified verbatim. Nov 2026 quote from her verified X post (@RepYassAnsari, status 2118054336077127797), matched verbatim against the post."
+    "note": "added October 2026 from ansari.house.gov primary source; Sept quote verified verbatim. Nov 2026 quote from her verified X post (@RepYassAnsari, status 2118054336077127797), matched verbatim against the post. A 2026-11-16 quote (status 2122548192390819886, quote-tweeting a Polling USA post on support for slowing AI) matched verbatim (check_quotes passes)."
   }
 }
