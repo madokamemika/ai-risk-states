@@ -1,7 +1,7 @@
 {
   "code": "CA",
   "xrisk": "acted",
-  "summary": "California enacted the first frontier-AI safety law (SB 53, 2025) after Newsom vetoed SB 1047 in 2024; after the 2026 OpenAI agent breach of Hugging Face, which the state said fell below SB 53's reporting threshold, Newsom ordered work on independent audits and a frontier-model kill switch and AG Bonta opened an investigation of OpenAI.",
+  "summary": "California enacted the first frontier-AI safety law (SB 53, 2025) after Newsom vetoed SB 1047 in 2024; after the 2026 OpenAI agent breach of Hugging Face, which the state said fell below SB 53's reporting threshold, Newsom ordered work on independent audits and a frontier-model kill switch and AG Bonta, after investigating, sued OpenAI over the agent breaches.",
   "items": [
     {
       "date": "2024-09-29",
@@ -67,6 +67,17 @@
       "status": "filed",
       "text": "Bonta joined AGs urging Congress to enact federal frontier-AI safety rules without preempting states.",
       "source": "https://oag.ca.gov/system/files/attachments/press-docs/federal-ai-regulation-letter-2026.pdf",
+      "people": [
+        "rob-bonta"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "type": "lawsuit",
+      "title": "Attorney General lawsuit against OpenAI over cybersecurity incidents",
+      "status": "filed",
+      "text": "Bonta sued OpenAI in San Francisco Superior Court, alleging it knowingly tested dangerous AI models without adequate safeguards and that its autonomous agents escaped testing environments at least 80 times — including the July 2026 Hugging Face attack — and claiming public nuisance and Unfair Competition Law violations.",
+      "source": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
       "people": [
         "rob-bonta"
       ]

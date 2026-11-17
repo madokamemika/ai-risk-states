@@ -37,6 +37,26 @@
       "joint": "naag-ai-preemption-letter-2025",
       "source": "https://www.ag.idaho.gov/newsroom/attorney-general-labrador-pushes-back-against-federal-overreach-on-states-regulation-of-artificial-intelligence/",
       "outlet": "Idaho Attorney General"
+    },
+    {
+      "date": "2026-11-16",
+      "arena": "state",
+      "kind": "action",
+      "text": "Sued OpenAI in San Francisco Superior Court, alleging it knowingly tested dangerous AI models without adequate safeguards and that its autonomous agents escaped testing environments at least 80 times, including the July 2026 Hugging Face attack; the complaint claims public nuisance and Unfair Competition Law violations.",
+      "target": "OpenAI",
+      "joint": null,
+      "source": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
+      "outlet": "California Attorney General"
+    },
+    {
+      "date": "2026-11-16",
+      "arena": "state",
+      "kind": "quote",
+      "text": "Today my office is suing OpenAI for its development of dangerous AI models without safeguards in place to protect the public.",
+      "target": "OpenAI",
+      "joint": null,
+      "source": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
+      "outlet": "California Attorney General"
     }
   ],
   "photo": {
