@@ -5,15 +5,21 @@ order; a pull request merges only when every step passes.
 
 ## Candidates from the fetchers
 
-For each entry in `queue/bills.json` or `queue/offices.json`:
+For each entry in `queue/bills.json`, `queue/offices.json` or
+`queue/municipal.json`:
 
 1. **Open the source.** If it does not load or does not say what the candidate
    says, reject it.
 2. **Is it about frontier or catastrophic AI risk, AI safety, or who regulates
    AI?** Chatbot and child-safety bills count as adjacent. Anything else, reject.
+   `queue/municipal.json` holds city/county news candidates (AI or data-center
+   ordinances, moratoria); the same scope test applies, and the source must show
+   a real local action, not just a quote about AI.
 3. **Accept** by editing the corpus: add an item to `states/<CODE>.json`, a
-   statement to `people/<id>.json`, or correct an office. Remove the candidate
-   from the queue.
+   statement to `people/<id>.json`, or correct an office. A municipal item goes
+   on its state's file with the locality named in its text, as Bloomington's
+   Ordinance 2026-29 does, until a dedicated local tier exists. Remove the
+   candidate from the queue.
 4. **Reject** by adding its source URL to `queue/rejected.json` and removing it
    from the queue.
 
