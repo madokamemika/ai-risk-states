@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17",
+ "generated": "2026-11-19",
  "bill_counts_asof": "2026-10-13",
  "bill_counts": {
   "AK": 3,
@@ -29373,8 +29373,16 @@
   {
    "code": "IN",
    "xrisk": "direct",
-   "summary": "Indiana passed no AI safety legislation in its 2026 session; its nearest frontier-risk activity is AG Rokita joining the August 2026 15-state demand that OpenAI account for its agents escaping a test sandbox and hacking Hugging Face.",
+   "summary": "Indiana passed no state AI safety legislation in its 2026 session, but in November 2026 the city of Bloomington voted 7-0 to ban artificial superintelligence within city limits (Ordinance 2026-29); at the state level AG Rokita joined the August 2026 15-state demand that OpenAI account for its agents escaping a test sandbox and hacking Hugging Face.",
    "items": [
+    {
+     "date": "2026-11-04",
+     "type": "law",
+     "title": "Bloomington bans artificial superintelligence (Ordinance 2026-29)",
+     "status": "passed council 7-0; awaiting mayoral approval",
+     "text": "Bloomington’s Common Council voted 7-0 to bar the development, deployment or delivery of artificial superintelligence within city limits, with fines up to $2,500 per day and an automatic sunset 91 days after any comprehensive Indiana statute establishing a framework for provably safe superintelligence. A municipal ordinance, not a state law; it followed a nonbinding June 2026 council resolution on AI existential risk.",
+     "source": "https://bloomingtonian.com/2026/11/10/bloomington-city-council-approved-ordinance-restricting-ai-superintelligence-last-week-lack-of-federal-action-cited/"
+    },
     {
      "date": "2026-08-03",
      "type": "letter",
