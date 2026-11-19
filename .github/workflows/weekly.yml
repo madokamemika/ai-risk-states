@@ -14,6 +14,9 @@ jobs:
         with: { python-version: '3.12' }
       - run: python3 -m fetchers.bills
       - run: python3 -m fetchers.offices
+      - run: python3 -m fetchers.municipal
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
       - uses: peter-evans/create-pull-request@v7
         with:
           branch: candidates/weekly
