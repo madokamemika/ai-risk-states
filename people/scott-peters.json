@@ -59,6 +59,16 @@
       "joint": null,
       "source": "https://x.com/RepScottPeters/status/2104598140355576077",
       "outlet": "@RepScottPeters on X"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+      "target": null,
+      "joint": "house-ai-safety-innovation-caucus-2026",
+      "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+      "outlet": "Office of Rep. Nathaniel Moran"
     }
   ],
   "review": {

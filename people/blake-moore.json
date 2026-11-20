@@ -1,0 +1,24 @@
+{
+  "id": "blake-moore",
+  "name": "Blake Moore",
+  "office": "U.S. Representative, Utah 1st District",
+  "office_type": "us_rep",
+  "state": "UT",
+  "party": "R",
+  "statements": [
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+      "target": null,
+      "joint": "house-ai-safety-innovation-caucus-2026",
+      "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+      "outlet": "Office of Rep. Nathaniel Moran"
+    }
+  ],
+  "review": {
+    "status": "unreviewed",
+    "note": "added November 2026 as a founding member of the House AI Safety and Innovation Caucus"
+  }
+}
