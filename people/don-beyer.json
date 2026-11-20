@@ -270,6 +270,26 @@
       "joint": null,
       "source": "https://x.com/RepDonBeyer/status/2108648627308556519",
       "outlet": "@RepDonBeyer on X"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-chairs the bipartisan House AI Safety and Innovation Caucus with Reps. Whitesides and Moran, launched to champion AI safety legislation and brief Members when significant AI safety incidents occur.",
+      "target": null,
+      "joint": "house-ai-safety-innovation-caucus-2026",
+      "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+      "outlet": "Office of Rep. Nathaniel Moran"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We can’t afford to wait for a major catastrophe before putting meaningful safeguards in place.",
+      "target": null,
+      "joint": null,
+      "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+      "outlet": "Office of Rep. Nathaniel Moran"
     }
   ],
   "review": {

@@ -317,6 +317,26 @@
       "joint": "ai-kill-switch-act",
       "source": "https://x.com/RepNateMoran/status/2099908232474964087",
       "outlet": "@RepNateMoran on X"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-chairs the bipartisan House AI Safety and Innovation Caucus with Reps. Whitesides and Beyer, launched to champion AI safety legislation and brief Members when significant AI safety incidents occur.",
+      "target": null,
+      "joint": "house-ai-safety-innovation-caucus-2026",
+      "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+      "outlet": "Office of Rep. Nathaniel Moran"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We don’t have to choose between innovation and safety. We can, and we should, do both.",
+      "target": null,
+      "joint": null,
+      "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+      "outlet": "Office of Rep. Nathaniel Moran"
     }
   ],
   "photo": {

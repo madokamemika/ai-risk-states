@@ -239,6 +239,46 @@
       "joint": null,
       "source": "https://x.com/Rep_Whitesides/status/2105300929020825987",
       "outlet": "@Rep_Whitesides on X"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "Co-founded and co-chairs the bipartisan House AI Safety and Innovation Caucus with Reps. Moran and Beyer, launched to champion AI safety legislation and brief Members when significant AI safety incidents occur.",
+      "target": null,
+      "joint": "house-ai-safety-innovation-caucus-2026",
+      "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+      "outlet": "Office of Rep. Nathaniel Moran"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Now is the time to build bipartisan consensus and advance commonsense guardrails we know will reduce the most serious risks.",
+      "target": null,
+      "joint": null,
+      "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+      "outlet": "Office of Rep. Nathaniel Moran"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "safe, secure, and controllable AI is the only path to unlocking its full promise for humanity.",
+      "target": null,
+      "joint": null,
+      "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+      "outlet": "Office of Rep. Nathaniel Moran"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We're bringing Democrats and Republicans together to champion meaningful AI safety legislation, confront emerging threats, strengthen national security, all while advancing American innovation.",
+      "target": null,
+      "joint": null,
+      "source": "https://x.com/Rep_Whitesides/status/2123464044778561665",
+      "outlet": "@Rep_Whitesides on X"
     }
   ],
   "review": {
