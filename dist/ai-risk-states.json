@@ -1610,6 +1610,26 @@
      "joint": null,
      "source": "https://x.com/RepDonBeyer/status/2108648627308556519",
      "outlet": "@RepDonBeyer on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-chairs the bipartisan House AI Safety and Innovation Caucus with Reps. Whitesides and Moran, launched to champion AI safety legislation and brief Members when significant AI safety incidents occur.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We can’t afford to wait for a major catastrophe before putting meaningful safeguards in place.",
+     "target": null,
+     "joint": null,
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -4293,6 +4313,16 @@
      "joint": null,
      "source": "https://x.com/RepCasar/status/2123471996574982175",
      "outlet": "@RepCasar on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "photo": {
@@ -4669,6 +4699,16 @@
      "joint": null,
      "source": "https://x.com/RepYvetteClarke/status/2103619406202888537",
      "outlet": "@RepYvetteClarke on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -4729,6 +4769,30 @@
     "page": "https://bioguide.congress.gov/search/bio/C001061",
     "license": "Public domain (US government work)",
     "artist": "US Congress"
+   }
+  },
+  {
+   "id": "ben-cline",
+   "name": "Ben Cline",
+   "office": "U.S. Representative, Virginia 6th District",
+   "office_type": "us_rep",
+   "state": "VA",
+   "party": "R",
+   "statements": [
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added November 2026 as a founding member of the House AI Safety and Innovation Caucus"
    }
   },
   {
@@ -6426,6 +6490,16 @@
      "joint": null,
      "source": "https://x.com/RepAprilDelaney/status/2111077622771847650",
      "outlet": "@RepAprilDelaney on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -7699,6 +7773,30 @@
    }
   },
   {
+   "id": "mike-flood",
+   "name": "Mike Flood",
+   "office": "U.S. Representative, Nebraska 1st District",
+   "office_type": "us_rep",
+   "state": "NE",
+   "party": "R",
+   "statements": [
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added November 2026 as a founding member of the House AI Safety and Innovation Caucus"
+   }
+  },
+  {
    "id": "aaron-ford",
    "name": "Aaron Ford",
    "office": "Attorney General of Nevada",
@@ -8037,6 +8135,16 @@
      "joint": null,
      "source": "https://x.com/RepBillFoster/status/2113341376318361877",
      "outlet": "@RepBillFoster on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -8251,6 +8359,16 @@
      "joint": null,
      "source": "https://x.com/ValerieFoushee/status/2116193484084334683",
      "outlet": "@ValerieFoushee on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -9888,6 +10006,16 @@
      "joint": null,
      "source": "https://x.com/RepPatHarrigan/status/2115071597795299591",
      "outlet": "@RepPatHarrigan on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -10651,6 +10779,16 @@
      "joint": null,
      "source": "https://x.com/jahimes/status/2101039374200680463",
      "outlet": "@jahimes on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -11893,6 +12031,16 @@
      "joint": null,
      "source": "https://x.com/RepSaraJacobs/status/2113365438432477330",
      "outlet": "@RepSaraJacobs on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -13110,6 +13258,30 @@
    }
   },
   {
+   "id": "mike-kennedy",
+   "name": "Mike Kennedy",
+   "office": "U.S. Representative, Utah 3rd District",
+   "office_type": "us_rep",
+   "state": "UT",
+   "party": "R",
+   "statements": [
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added November 2026 as a founding member of the House AI Safety and Innovation Caucus"
+   }
+  },
+  {
    "id": "ro-khanna",
    "name": "Ro Khanna",
    "office": "U.S. Representative, California 17th District",
@@ -13311,6 +13483,16 @@
      "joint": null,
      "source": "https://x.com/RoKhanna/status/2098811333542121673",
      "outlet": "@RoKhanna on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "photo": {
@@ -15178,6 +15360,16 @@
      "joint": null,
      "source": "https://newdemocratcoalition.house.gov/media-center/press-releases/new-dems-release-innovation-agenda-to-unleash-american-potential-and-lead-the-21st-century",
      "outlet": "New Democrat Coalition"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -15662,6 +15854,16 @@
      "joint": null,
      "source": "https://x.com/tedlieu/status/2086950584494825525",
      "outlet": "@tedlieu on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "photo": {
@@ -15831,6 +16033,16 @@
      "joint": null,
      "source": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-meets-ai-companies-discuss-recent-loss-control-events",
      "outlet": "Office of Rep. Lofgren"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -16886,6 +17098,16 @@
      "joint": null,
      "source": "https://x.com/DorisMatsui/status/2106162166797828454",
      "outlet": "@DorisMatsui on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -17919,6 +18141,30 @@
    }
   },
   {
+   "id": "blake-moore",
+   "name": "Blake Moore",
+   "office": "U.S. Representative, Utah 1st District",
+   "office_type": "us_rep",
+   "state": "UT",
+   "party": "R",
+   "statements": [
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added November 2026 as a founding member of the House AI Safety and Innovation Caucus"
+   }
+  },
+  {
    "id": "michael-moore-ma",
    "name": "Michael Moore",
    "office": "Massachusetts State Senator",
@@ -18351,6 +18597,26 @@
      "joint": "ai-kill-switch-act",
      "source": "https://x.com/RepNateMoran/status/2099908232474964087",
      "outlet": "@RepNateMoran on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-chairs the bipartisan House AI Safety and Innovation Caucus with Reps. Whitesides and Beyer, launched to champion AI safety legislation and brief Members when significant AI safety incidents occur.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We don’t have to choose between innovation and safety. We can, and we should, do both.",
+     "target": null,
+     "joint": null,
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "photo": {
@@ -19531,6 +19797,16 @@
      "joint": null,
      "source": "https://x.com/JayObernolte/status/2109053291288043886",
      "outlet": "@JayObernolte on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "photo": {
@@ -20378,6 +20654,16 @@
      "joint": null,
      "source": "https://x.com/RepScottPeters/status/2104598140355576077",
      "outlet": "@RepScottPeters on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -23681,6 +23967,16 @@
      "joint": null,
      "source": "https://x.com/BradSherman/status/2108710728769196057",
      "outlet": "@BradSherman on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -24439,6 +24735,16 @@
      "joint": null,
      "source": "https://x.com/RepSuhas/status/2099578925852615149",
      "outlet": "@RepSuhas on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "review": {
@@ -24960,6 +25266,30 @@
     "page": "https://bioguide.congress.gov/search/bio/T000469",
     "license": "Public domain (US government work)",
     "artist": "US Congress"
+   }
+  },
+  {
+   "id": "ritchie-torres",
+   "name": "Ritchie Torres",
+   "office": "U.S. Representative, New York 15th District",
+   "office_type": "us_rep",
+   "state": "NY",
+   "party": "D",
+   "statements": [
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "note": "added November 2026 as a founding member of the House AI Safety and Innovation Caucus"
    }
   },
   {
@@ -25569,6 +25899,16 @@
      "joint": null,
      "source": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3861",
      "outlet": "Office of Rep. Lori Trahan"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Founding member of the bipartisan House AI Safety and Innovation Caucus, co-chaired by Reps. Whitesides, Moran and Beyer.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
     }
    ],
    "photo": {
@@ -27118,6 +27458,46 @@
      "target": null,
      "joint": null,
      "source": "https://x.com/Rep_Whitesides/status/2105300929020825987",
+     "outlet": "@Rep_Whitesides on X"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "action",
+     "text": "Co-founded and co-chairs the bipartisan House AI Safety and Innovation Caucus with Reps. Moran and Beyer, launched to champion AI safety legislation and brief Members when significant AI safety incidents occur.",
+     "target": null,
+     "joint": "house-ai-safety-innovation-caucus-2026",
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "Now is the time to build bipartisan consensus and advance commonsense guardrails we know will reduce the most serious risks.",
+     "target": null,
+     "joint": null,
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "safe, secure, and controllable AI is the only path to unlocking its full promise for humanity.",
+     "target": null,
+     "joint": null,
+     "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974",
+     "outlet": "Office of Rep. Nathaniel Moran"
+    },
+    {
+     "date": "2026-11-19",
+     "arena": "federal",
+     "kind": "quote",
+     "text": "We're bringing Democrats and Republicans together to champion meaningful AI safety legislation, confront emerging threats, strengthen national security, all while advancing American innovation.",
+     "target": null,
+     "joint": null,
+     "source": "https://x.com/Rep_Whitesides/status/2123464044778561665",
      "outlet": "@Rep_Whitesides on X"
     }
    ],
@@ -34419,6 +34799,42 @@
     "josh-hawley"
    ],
    "source": "https://legis1.com/news/rogue-ai-threat-senate-panel-will-examine"
+  },
+  {
+   "id": "house-ai-safety-innovation-caucus-2026",
+   "title": "House AI Safety and Innovation Caucus (launched Nov 19, 2026)",
+   "date": "2026-11-19",
+   "type": "coalition",
+   "arena": "federal",
+   "people": [
+    "george-whitesides",
+    "nathaniel-moran",
+    "don-beyer",
+    "ted-lieu",
+    "jay-obernolte",
+    "doris-matsui",
+    "sara-jacobs",
+    "pat-harrigan",
+    "greg-casar",
+    "scott-peters",
+    "april-mcclain-delaney",
+    "sam-liccardo",
+    "lori-trahan",
+    "ritchie-torres",
+    "bill-foster",
+    "blake-moore",
+    "mike-kennedy",
+    "mike-flood",
+    "zoe-lofgren",
+    "ben-cline",
+    "brad-sherman",
+    "yvette-clarke",
+    "valerie-foushee",
+    "ro-khanna",
+    "suhas-subramanyam",
+    "jim-himes"
+   ],
+   "source": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2974"
   }
  ]
 }
