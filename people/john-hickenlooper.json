@@ -8,7 +8,7 @@
   "committees": [
     "Senate Commerce, Science, and Transportation"
   ],
-  "stance": "Wants stronger federal AI guardrails — independent third-party evaluation and verification of frontier models, accountability when AI causes harm, and incident reporting — alongside support for AI innovation and U.S. competitiveness.",
+  "stance": "Wants stronger federal AI guardrails — independent third-party evaluation and verification of frontier models, accountability when AI causes harm, incident reporting, and consideration of a ban on recursive self-improvement — alongside support for AI innovation and U.S. competitiveness.",
   "statements": [
     {
       "date": "2023-11-15",
@@ -169,6 +169,46 @@
       "joint": null,
       "source": "https://x.com/SenatorHick/status/2106861993575723215",
       "outlet": "@SenatorHick on X"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "action",
+      "text": "In a letter to Majority Leader candidates Sen. Schumer and Sen. Van Hollen, asked the next leader for a day-one plan for AI regulation: a third-party evaluation ecosystem, mitigation of cyber and biological risks, accountability rules for AI companies, consideration of a ban on recursive self-improvement, and a Senate Select Committee on AI.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-presses-senate-leadership-candidates-to-outline-ai-safety-affordability-and-accountability-agenda/",
+      "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "Meanwhile, AI experts are warning that as model capabilities grow, the risks that a catastrophic incident will occur in the short term become even greater.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-presses-senate-leadership-candidates-to-outline-ai-safety-affordability-and-accountability-agenda/",
+      "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "We also need to examine how best to promote competition and open-source innovation and consider banning Recursive Self-Improvement to prevent AI systems from autonomously advancing beyond our ability to control them.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-presses-senate-leadership-candidates-to-outline-ai-safety-affordability-and-accountability-agenda/",
+      "outlet": "Office of Sen. Hickenlooper"
+    },
+    {
+      "date": "2026-11-19",
+      "arena": "federal",
+      "kind": "quote",
+      "text": "The next Senate Majority Leader will play an outsized role in championing the tools we need to protect against consequences that are both profound and irreversible.",
+      "target": null,
+      "joint": null,
+      "source": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-presses-senate-leadership-candidates-to-outline-ai-safety-affordability-and-accountability-agenda/",
+      "outlet": "Office of Sen. Hickenlooper"
     }
   ],
   "review": {
